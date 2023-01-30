@@ -1,0 +1,487 @@
+idx,ID,Name,Country,Volume,Alcohol,Price
+0,Nr 6508,Black Tower,EU,750 ml,"8,5 %",76:-
+0,Nr 4637,Spring Village,Frankrike,187 ml,12 %,27:-*
+0,Nr 2571,Mateus,Portugal,375 ml,11 %,39:-
+0,Nr 3144,Ed Knows,Moldavien,750 ml,"13,5 %",81:-
+0,Nr 2590,M de Minuty,Frankrike,750 ml,13 %,151:-
+0,Nr 2859,Domaine de Collavery,Frankrike,750 ml,13 %,101:-
+0,Nr 22138,Les Fumées Blanches,Frankrike,750 ml,"11,5 %",101:-
+0,Nr 2571,Mateus,Portugal,750 ml,11 %,77:-
+0,Nr 2197,Ecologica La Pluma,Spanien,750 ml,"12,5 %",91:-
+0,Nr 70578,GW :s Rosa,Frankrike,750 ml,"12,5 %",101:-
+0,Nr 2215,Barefoot,USA,750 ml,8 %,80:-
+0,Nr 6077,Mulderbosch,Sydafrika,750 ml,"12,5 %",97:-
+0,Nr 2209,Puy Chéri,Frankrike,750 ml,"12,5 %",80:-
+0,Nr 71770,Perfect day,Frankrike,750 ml,"12,5 %",97:-
+0,Nr 2479,Terrapura,Chile,750 ml,"12,5 %",91:-
+0,Nr 2970,Errazuriz,Chile,375 ml,13 %,50:-
+0,Nr 2203,Cuvée Madame,Frankrike,750 ml,13 %,141:-
+0,Nr 2660,Leva,Bulgarien,750 ml,13 %,77:-
+0,Nr 2900,Via del Campo,Spanien,750 ml,"12,5 %",81:-
+0,Nr 2282,Côté Mas,Frankrike,750 ml,"12,5 %",97:-
+0,Nr 2590,M de Minuty,Frankrike,375 ml,13 %,80:-
+0,Nr 74125,Pierre Chavin,Frankrike,750 ml,13 %,131:-
+0,Nr 6921,Santa Ana Organic,Argentina,750 ml,"12,5 %",91:-
+0,Nr 72433,Tommasi,Italien,750 ml,"12,5 %",97:-
+0,Nr 77940,Enzo Bartoli,Italien,750 ml,12 %,131:-
+0,Nr 2580,SAAM,Sydafrika,750 ml,"13,5 %",111:-
+0,Nr 79353,Minuty,Frankrike,750 ml,"12,5 %",171:-
+0,Nr 2607,Berne Inspiration,Frankrike,750 ml,"12,5 %",147:-
+0,Nr 72949,Côtes-du-Rhône,Frankrike,750 ml,"12,5 %",81:-
+0,Nr 71747,Mulderbosch,Sydafrika,1500 ml,"12,5 %",202:-
+0,Nr 2082,Pink Hill,Portugal,750 ml,"9,5 %",81:-
+0,Nr 6921,Santa Ana Organic,Argentina,375 ml,13 %,56:-
+0,Nr 6395,Pink Pet,Spanien,750 ml,"12,5 %",80:-*
+0,Nr 2724,Les Lauzeraies,Frankrike,750 ml,"14,5 %",141:-
+0,Nr 2258,La Galope,Frankrike,750 ml,"9,5 %",80:-
+0,Nr 4637,Spring Village,Frankrike,1500 ml,12 %,142:-*
+0,Nr 79451,Spring Village,Frankrike,750 ml,12 %,81:-*
+0,Nr 6357,Adobe,Chile,750 ml,"12,5 %",81:-
+0,Nr 6031,Mehrlein,Tyskland,750 ml,11 %,101:-
+0,Nr 78359,Petite Cuvée Madame,Frankrike,750 ml,"12,5 %",111:-
+0,Nr 2242,Colle Reale,Italien,750 ml,"12,5 %",101:-
+0,Nr 77653,Grande Cuvée,Frankrike,1000 ml,"12,5 %",101:-
+0,Nr 74015,Meinklang Prosa,Österrike,750 ml,"10,5 %",121:-
+0,Nr 77476,Bouchard Aîné & Fils,Frankrike,750 ml,"12,5 %",91:-
+0,Nr 86582,Pazzione Rosé,Spanien,750 ml,12 %,91:-
+0,Nr 6026,Marlborough Estate,Nya Zeeland,750 ml,"9,5 %",101:-
+0,Nr 92484,District 7,USA,750 ml,13 %,129:-
+0,Nr 2239,Les Remparts des Ceps Dorés,Frankrike,375 ml,"13,5 %",60:-
+0,Nr 92173,Bosman,Sydafrika,750 ml,"11,5 %",131:-
+0,Nr 93539,Trapiche,Argentina,750 ml,12 %,122:-
+0,Nr 92027,Alpamanta Breva,Argentina,750 ml,12 %,229:-
+0,Nr 50268,Golden Year,Frankrike,750 ml,"12,5 %",101:-
+0,Nr 70435,Ohh,Frankrike,187 ml,"12,5 %",28:-
+0,Nr 94545,Longridge,Sydafrika,750 ml,"13,5 %",171:-
+0,Nr 95006,Brancaia Rosé,Italien,750 ml,"12,5 %",151:-
+0,Nr 93601,"Cerasuolo d'Abruzzo Superiore ""Le Cince""",Italien,750 ml,"12,5 %",250:-
+0,Nr 93429,Longview,Australien,750 ml,"13,5 %",149:-
+0,Nr 90164,Gérard Bertrand,Frankrike,750 ml,"14,5 %",489:-
+0,Nr 94019,Schloss Gobelsburg,Österrike,1500 ml,12 %,218:-
+0,Nr 93403,Benanti,Italien,750 ml,14 %,169:-
+0,Nr 93704,Château Sainte Marguerite,Frankrike,750 ml,"12,5 %",170:-
+0,Nr 2181,Jacob's Creek Crisp,Australien,750 ml,12 %,81:-
+0,Nr 93330,Antoniolo,Italien,750 ml,13 %,179:-
+0,Nr 90476,Alpamanta Breva,Argentina,750 ml,13 %,229:-
+0,Nr 93389,Ciavolich Fosso Cancelli,Italien,750 ml,"12,5 %",297:-
+0,Nr 93765,Ziereisen Schmätterling,Tyskland,750 ml,11 %,129:-
+0,Nr 2621,Monte Araya,Spanien,750 ml,"13,5 %",81:-
+0,Nr 93015,Viore Rosado,Spanien,750 ml,14 %,99:-
+0,Nr 90626,Le Puy,Frankrike,750 ml,13 %,469:-
+0,Nr 90029,Chateau Le Puy,Frankrike,750 ml,14 %,469:-
+0,Nr 94674,Château Vignelaure,Frankrike,750 ml,13 %,159:-
+0,Nr 91134,Prieuré De Montézargues,Frankrike,750 ml,13 %,159:-
+0,Nr 37914,Fistful of Love,EU,750 ml,12 %,209:-
+0,Nr 96081,Bründlmayer,Österrike,750 ml,"11,5 %",129:-
+0,Nr 50569,Arc-en-Ciel,Frankrike,1000 ml,13 %,87:-
+0,Nr 90306,By.Ott,Frankrike,750 ml,13 %,191:-
+0,Nr 92731,Vino Volta,Australien,750 ml,13 %,249:-
+0,Nr 37682,Astrid Renässans,Sverige,750 ml,12 %,220:-
+0,Nr 37699,Afrodite,Sverige,750 ml,"11,5 %",240:-
+0,Nr 37840,Adonis,Sverige,750 ml,12 %,225:-
+0,Nr 90540,Rosé de Diel,Tyskland,750 ml,12 %,169:-
+0,Nr 93728,Tiroliro,Portugal,750 ml,11 %,112:-
+0,Nr 36089,Gutevin,Sverige,750 ml,12 %,220:-
+0,Nr 38010,Österlenvins Råsa,Sverige,500 ml,12 %,136:-
+0,Nr 94582,Casas del Bosque,Chile,750 ml,13 %,121:-
+0,Nr 37777,Naturalis,Sverige,750 ml,14 %,199:-
+0,Nr 90293,Contino,Spanien,750 ml,"13,5 %",259:-
+0,Nr 94583,Stoneleigh Wild Valley,Nya Zeeland,750 ml,"13,5 %",129:-
+0,Nr 91248,Lacrimarosa,Italien,750 ml,13 %,149:-
+0,Nr 95719,GB Spätburgunder Rosé,Tyskland,750 ml,11 %,139:-
+0,Nr 91216,Raúl Pérez,Spanien,750 ml,14 %,159:-
+0,Nr 38011,Sandhammarens Rosé,Sverige,750 ml,12 %,193:-
+0,Nr 38100,Stora Horns Vingård,Sverige,750 ml,"11,5 %",252:-
+0,Nr 92242,Muga Rosado,Spanien,750 ml,"13,5 %",119:-
+0,Nr 37542,Åhus Rosé,Sverige,500 ml,12 %,148:-
+0,Nr 91181,Vin Gris de Cigare,USA,750 ml,"13,5 %",145:-
+0,Nr 32776,Klagshamns Rosé,Sverige,500 ml,"11,5 %",150:-
+0,Nr 37906,Högberga Rosé,EU,750 ml,13 %,152:-
+0,Nr 33694,Alice,Sverige,500 ml,"12,5 %",150:-
+0,Nr 93897,Rosé de Diel,Tyskland,750 ml,"12,5 %",169:-
+0,Nr 94028,Kunin Wines,USA,750 ml,"13,5 %",249:-
+0,Nr 93826,Antoniolo Rosato,Italien,750 ml,"13,5 %",169:-
+0,Nr 37388,Frillestads,Sverige,500 ml,12 %,148:-
+0,Nr 93909,Château Sainte-Croix,Frankrike,750 ml,13 %,149:-
+0,Nr 93700,Umathum,Österrike,750 ml,"13,5 %",159:-
+0,Nr 6401,Jacob's Creek,Australien,750 ml,"12,6 %",81:-
+0,Nr 38127,Vistakulle,Sverige,750 ml,"11,5 %",194:-
+0,Nr 37851,Wannborga,Sverige,750 ml,"10,5 %",259:-
+0,Nr 2657,Crios,Argentina,750 ml,"13,5 %",91:-
+0,Nr 56623,Saints & Sinners,Österrike,750 ml,"12,5 %",140:-
+0,Nr 57718,ART'S,Frankrike,187 ml,"12,5 %",29:-*
+0,Nr 5600,Jurtschitsch Rosé,Österrike,750 ml,12 %,121:-
+0,Nr 2416,Le Due Arbie,Italien,750 ml,"12,5 %",117:-
+0,Nr 56007,Studio by Miraval,Frankrike,750 ml,"12,5 %",141:-
+0,Nr 50336,Baglietti,Italien,750 ml,12 %,91:-
+0,Nr 55270,Nashville Stories,Italien,750 ml,12 %,91:-
+0,Nr 2363,Bardolino Chiaretto La Sogara Rosé,Italien,750 ml,"12,5 %",101:-
+0,Nr 56456,Karl Fredrik,Frankrike,750 ml,"11,5 %",111:-
+0,Nr 50799,R,Tyskland,750 ml,"12,5 %",61:-
+0,Nr 2416,Le Due Arbie,Italien,375 ml,"12,5 %",66:-
+0,Nr 56143,Triennes,Frankrike,750 ml,"12,5 %",141:-
+0,Nr 71313,Ciú Ciú,Italien,750 ml,"12,5 %",101:-
+0,Nr 54747,Château,Frankrike,750 ml,"13,5 %",150:-
+0,Nr 70914,Primavera,Italien,750 ml,"13,5 %",149:-
+0,Nr 56385,Gérard Bertrand,Frankrike,750 ml,"14,5 %",1 901:-
+0,Nr 56791,Born Rosé Barcelona,Spanien,750 ml,12 %,149:-
+0,Nr 56866,Agneta Patrulls,Italien,750 ml,"12,5 %",91:-
+0,Nr 56947,Notre Dames des Anges,Frankrike,750 ml,"12,5 %",181:-
+0,Nr 57288,Brutler,Rumänien,750 ml,12 %,241:-
+0,Nr 57755,Monteraponi,Italien,750 ml,"12,5 %",201:-
+0,Nr 77757,Origine,Italien,750 ml,"12,5 %",121:-
+0,Nr 55495,Loxarel,Spanien,750 ml,14 %,161:-
+0,Nr 55504,Bunan,Frankrike,750 ml,"13,5 %",235:-
+0,Nr 56078,Cuvée Felice,Frankrike,750 ml,13 %,220:-
+0,Nr 76103,Château de Brau Cabardès,Frankrike,750 ml,13 %,250:-
+0,Nr 74272,Farmers Market,Italien,750 ml,"13,5 %",81:-
+0,Nr 55502,Bunan,Frankrike,750 ml,14 %,280:-
+0,Nr 57161,St Antony,Tyskland,750 ml,"11,5 %",141:-
+0,Nr 57888,Tenuta Il Palagio,Italien,750 ml,"12,5 %",170:-
+0,Nr 51244,Tomares Ballus,Frankrike,750 ml,13 %,181:-
+0,Nr 75116,Lohas Viñedos,Spanien,750 ml,"11,5 %",91:-
+0,Nr 70019,Château les Valentines,Frankrike,750 ml,"13,5 %",251:-
+0,Nr 78027,Toscana Rosé,Italien,750 ml,"11,5 %",191:-
+0,Nr 78361,Cuvée Marina,Frankrike,750 ml,13 %,160:-
+0,Nr 50415,It's a Zin!,Italien,750 ml,13 %,121:-
+0,Nr 75028,Le Tende,Italien,750 ml,"13,5 %",176:-
+0,Nr 72901,Protocolo,Spanien,750 ml,"12,5 %",91:-
+0,Nr 78406,Rosalie,Tyskland,750 ml,11 %,111:-
+0,Nr 56307,Gramona,Spanien,750 ml,11 %,161:-
+0,Nr 57197,La Roche Buissiére,Frankrike,750 ml,"13,5 %",245:-
+0,Nr 51758,Hecht & Bannier,Frankrike,750 ml,"12,5 %",179:-
+0,Nr 52304,Oriol Rossell,Spanien,750 ml,12 %,121:-
+0,Nr 52961,Domaine de La Bégude,Frankrike,750 ml,13 %,397:-
+0,Nr 57481,Born Rosé Barcelona,Spanien,3000 ml,12 %,704:-
+0,Nr 57519,Born Rosé Barcelona,Spanien,1500 ml,12 %,332:-
+0,Nr 55482,Bunan,Frankrike,750 ml,"13,5 %",235:-
+0,Nr 55949,Pago Casa Gran,Spanien,750 ml,12 %,101:-
+0,Nr 56074,Orenga de Gaffory,Frankrike,750 ml,"12,5 %",190:-
+0,Nr 79361,Ribas,Spanien,750 ml,"13,5 %",191:-
+0,Nr 73792,Dreissigacker,Tyskland,750 ml,12 %,181:-
+0,Nr 79436,Riedlin,Tyskland,750 ml,"12,5 %",301:-
+0,Nr 71251,Domaine des Féraud,Frankrike,750 ml,12 %,101:-
+0,Nr 70994,Weingut Isegrim,Tyskland,750 ml,11 %,120:-
+0,Nr 57472,Château des Anglades,Frankrike,750 ml,13 %,141:-
+0,Nr 57756,Vigneto Sant' Eusanio,Italien,750 ml,"13,5 %",301:-
+0,Nr 58382,Nadal,Spanien,750 ml,13 %,137:-
+0,Nr 52099,Château de Pibarnon,Frankrike,750 ml,"13,5 %",351:-
+0,Nr 73752,Château Gassier,Frankrike,750 ml,13 %,171:-
+0,Nr 73395,Allegro,Italien,750 ml,"12,5 %",91:-
+0,Nr 73950,Mureda,Spanien,750 ml,12 %,71:-
+0,Nr 74405,Château Le Tap,Frankrike,750 ml,13 %,161:-
+0,Nr 76829,Pittnauer,Österrike,750 ml,"12,5 %",199:-
+0,Nr 2728,Mas Mellot,Frankrike,750 ml,12 %,91:-
+0,Nr 2237,Coteaux d'Aix en Provence,Frankrike,750 ml,"12,5 %",141:-
+0,Nr 74013,Plaisir De Vigne,Frankrike,750 ml,"12,5 %",87:-
+0,Nr 51139,Condé,Italien,750 ml,12 %,151:-
+0,Nr 71466,Can Sumoi,Spanien,750 ml,"11,5 %",181:-
+0,Nr 57349,Finca La Solana,Spanien,750 ml,12 %,101:-
+0,Nr 71753,Bodvár N°8,Frankrike,750 ml,"12,5 %",157:-
+0,Nr 74941,Vordy Minervois,Frankrike,750 ml,"12,5 %",179:-
+0,Nr 55503,Bunan,Frankrike,750 ml,"13,5 %",235:-
+0,Nr 76924,Galets Rosé,Frankrike,750 ml,"13,5 %",137:-
+0,Nr 73911,Rosagreen,Italien,750 ml,"12,5 %",179:-
+0,Nr 56492,Marius Peyol,Frankrike,750 ml,13 %,121:-
+0,Nr 4675,Gato Negro,Argentina,750 ml,13 %,89:-
+0,Nr 78493,Piemonte Rosato,Italien,750 ml,12 %,171:-
+0,Nr 57606,Love You Bunches,USA,750 ml,"11,5 %",230:-
+0,Nr 52465,Lyv,Frankrike,750 ml,12 %,111:-
+0,Nr 71576,Mont rose,Frankrike,750 ml,"12,5 %",96:-
+0,Nr 50362,Grand Sud,Frankrike,1000 ml,"12,5 %",60:-
+0,Nr 50411,Leif Mannerström,Frankrike,750 ml,"12,5 %",121:-
+0,Nr 50612,Guigal,Frankrike,750 ml,13 %,131:-
+0,Nr 56383,CHILL OUT,Frankrike,1000 ml,12 %,91:-
+0,Nr 78731,Cadia,Italien,750 ml,12 %,86:-
+0,Nr 2571,Mateus,Portugal,250 ml,11 %,30:-
+0,Nr 71274,Gérard Bertrand,Frankrike,750 ml,13 %,141:-
+0,Nr 72448,Langhe Rosato,Italien,750 ml,13 %,137:-
+0,Nr 76285,Marrenon,Frankrike,750 ml,"13,5 %",145:-
+0,Nr 77408,Txakoli Rezabal,Spanien,750 ml,11 %,161:-
+0,Nr 52190,Beefsteak Club,Argentina,750 ml,12 %,147:-
+0,Nr 55743,Paul Mas,Frankrike,750 ml,"12,5 %",131:-
+0,Nr 56837,Arndorfer,Österrike,1000 ml,12 %,186:-
+0,Nr 50868,Jamek,Österrike,750 ml,"12,5 %",181:-
+0,Nr 70363,Chivite,Spanien,750 ml,"13,5 %",151:-
+0,Nr 55854,Maggio,Italien,750 ml,"12,5 %",97:-
+0,Nr 56717,Tr3 Apor,Spanien,750 ml,"8,5 %",70:-
+0,Nr 56798,Ultimate Provence,Frankrike,750 ml,"12,5 %",181:-
+0,Nr 2202,Costa Gran Reserva,Chile,750 ml,"12,5 %",59:-
+0,Nr 79568,Blossom Hill,USA,750 ml,"10,5 %",70:-
+0,Nr 72462,Le Village du Sud,Frankrike,750 ml,13 %,77:-
+0,Nr 72175,Bodvár,Frankrike,750 ml,"12,5 %",161:-
+0,Nr 72462,Le Village du Sud,Frankrike,750 ml,13 %,77:-
+0,Nr 56384,Soalheiro,Portugal,750 ml,"11,5 %",151:-
+0,Nr 56796,Macanita,Portugal,750 ml,"12,5 %",181:-
+0,Nr 2248,Albia,Italien,750 ml,13 %,131:-
+0,Nr 71496,La Campagne,Frankrike,750 ml,12 %,81:-
+0,Nr 73034,Le Havre de Paix,Frankrike,750 ml,12 %,89:-
+0,Nr 57569,Casal Garcia,Portugal,750 ml,"9,5 %",49:-
+0,Nr 72115,Minuty,Frankrike,750 ml,13 %,161:-
+0,Nr 78937,Simpsons,Storbritannien,750 ml,"12,5 %",230:-
+0,Nr 51101,La Petite,Frankrike,750 ml,"12,5 %",61:-
+0,Nr 4668,Sancerre Rosé,Frankrike,750 ml,13 %,151:-
+0,Nr 74148,Gustave Lorentz,Frankrike,750 ml,13 %,148:-
+0,Nr 78352,French Beaches,Frankrike,750 ml,"12,5 %",171:-
+0,Nr 71509,Baracchi,Italien,750 ml,"12,5 %",298:-
+0,Nr 71457,Memòries Biniagual,Spanien,750 ml,"12,5 %",229:-
+0,Nr 78758,Feggites,Grekland,750 ml,"12,5 %",128:-
+0,Nr 74865,Avantis,Grekland,750 ml,13 %,199:-
+0,Nr 70720,Peplo Rosé,Grekland,750 ml,13 %,240:-
+0,Nr 71220,Cuvée Madame,Frankrike,3000 ml,13 %,844:-
+0,Nr 52836,Thulon,Frankrike,750 ml,"12,5 %",150:-
+0,Nr 53406,Bodegas Aizpurua,Spanien,750 ml,11 %,201:-
+0,Nr 54831,Drostdy-Hof,Sydafrika,750 ml,11 %,69:-
+0,Nr 74407,Kanonkop,Sydafrika,750 ml,14 %,101:-
+0,Nr 75463,Reuilly Rosé,Frankrike,750 ml,13 %,191:-
+0,Nr 77119,Dr von Bassermann-Jordan,Tyskland,750 ml,12 %,177:-
+0,Nr 71238,Ktimatselepos,Grekland,750 ml,"12,5 %",129:-
+0,Nr 71369,Monrose,Italien,750 ml,13 %,209:-
+0,Nr 58911,DAOU,USA,750 ml,"13,5 %",289:-
+0,Nr 59326,Poesia Etna Rosé,Italien,750 ml,13 %,190:-
+0,Nr 59721,X-Berg,Tyskland,750 ml,"11,5 %",175:-
+0,Nr 56293,Pink Punk,Serbien,750 ml,14 %,157:-
+0,Nr 83243,Château de Parenchère,Frankrike,750 ml,14 %,121:-
+0,Nr 57249,Vale da Vida,Portugal,750 ml,12 %,101:-
+0,Nr 57346,Risky Business,Australien,750 ml,13 %,190:-
+0,Nr 57402,Shiluh Verdo,Turkiet,750 ml,13 %,166:-
+0,Nr 57417,Cuvée des Annibals,Frankrike,750 ml,13 %,141:-
+0,Nr 57554,Englar,Italien,750 ml,"12,5 %",280:-
+0,Nr 57747,Proprietà Sperino,Italien,750 ml,"12,5 %",201:-
+0,Nr 57754,Marius,Frankrike,750 ml,13 %,111:-
+0,Nr 57800,Mingorra,Portugal,750 ml,"12,5 %",117:-
+0,Nr 51560,MiP Classic Rosé,Frankrike,750 ml,"12,5 %",181:-
+0,Nr 51695,Château Cibon,Frankrike,1500 ml,14 %,1 002:-
+0,Nr 51703,Whispering Angel,Frankrike,750 ml,13 %,221:-
+0,Nr 52265,Rosato,Italien,750 ml,12 %,141:-
+0,Nr 52586,Château de Parenchère,Frankrike,750 ml,"12,5 %",121:-
+0,Nr 52794,Château de Pibarnon,Frankrike,750 ml,"13,5 %",401:-
+0,Nr 74253,Cuvée des Vignettes,Frankrike,1500 ml,"13,5 %",702:-
+0,Nr 72077,Weingut Münzberg,Tyskland,750 ml,12 %,151:-
+0,Nr 78770,Mazzei,Italien,750 ml,13 %,151:-
+0,Nr 73298,Reichsrat von Buhl,Tyskland,750 ml,12 %,151:-
+0,Nr 90306,By.Ott,Frankrike,1500 ml,13 %,402:-
+0,Nr 55761,DFR,Rumänien,750 ml,14 %,173:-
+0,Nr 56143,Triennes,Frankrike,375 ml,"12,5 %",83:-
+0,Nr 79531,Les Petites Jamelles,Frankrike,750 ml,12 %,91:-
+0,Nr 78181,Banfi,Italien,750 ml,12 %,151:-
+0,Nr 70899,Domaine des Tourelles,Libanon,750 ml,"12,5 %",170:-
+0,Nr 72774,Poison Rose,Frankrike,750 ml,"12,5 %",131:-
+0,Nr 71576,Montrose,Frankrike,1500 ml,12 %,232:-
+0,Nr 71598,La Carlina,Italien,750 ml,"12,5 %",190:-
+0,Nr 2755,Marqués de Cáceres,Spanien,375 ml,"13,5 %",56:-
+0,Nr 70788,La Vieille Ferme,Frankrike,750 ml,13 %,107:-
+0,Nr 74010,Laurent Miquel,Frankrike,750 ml,"12,5 %",121:-
+0,Nr 75262,Aguilares,Spanien,750 ml,14 %,160:-
+0,Nr 2590,M de Minuty,Frankrike,1500 ml,13 %,342:-
+0,Nr 71457,Memòries Biniagual,Spanien,750 ml,"12,5 %",229:-
+0,Nr 78758,Feggites,Grekland,750 ml,"12,5 %",128:-
+0,Nr 74865,Avantis,Grekland,750 ml,13 %,199:-
+0,Nr 70720,Peplo Rosé,Grekland,750 ml,13 %,240:-
+0,Nr 71220,Cuvée Madame,Frankrike,3000 ml,13 %,844:-
+0,Nr 71456,The Per Gessle Selection,Frankrike,750 ml,13 %,107:-
+0,Nr 70419,Gérard Bertrand,Frankrike,1500 ml,"12,5 %",228:-
+0,Nr 72820,Domaine Horgelus,Frankrike,750 ml,12 %,118:-
+0,Nr 75844,Haedus,Frankrike,750 ml,"12,5 %",139:-
+0,Nr 75106,Torres,Spanien,750 ml,"12,5 %",121:-
+0,Nr 72475,Pure,Frankrike,750 ml,"12,5 %",201:-
+0,Nr 76141,AIX,Frankrike,3000 ml,13 %,995:-
+0,Nr 72810,Gris Grey,Frankrike,750 ml,"11,5 %",91:-
+0,Nr 70356,Van Ardi,Armenien,750 ml,"12,5 %",141:-
+0,Nr 71220,Cuvée Madame,Frankrike,1500 ml,13 %,292:-
+0,Nr 2563,Cigarra Gran Passo,Portugal,750 ml,"12,5 %",62:-
+0,Nr 77052,Emotion,Frankrike,750 ml,"12,5 %",151:-
+0,Nr 57498,Fattoria Moretto Sbiadí,Italien,750 ml,12 %,161:-
+0,Nr 57720,Ramón Bilbao,Spanien,750 ml,"12,5 %",131:-
+0,Nr 77007,Bleu de Mer,Frankrike,750 ml,"12,5 %",190:-
+0,Nr 59450,Chateau Peychaud,Frankrike,750 ml,"12,5 %",140:-
+0,Nr 59660,Domaine De La Chaise,Frankrike,750 ml,"12,5 %",110:-
+0,Nr 76942,Grand Mayne,Frankrike,750 ml,13 %,116:-
+0,Nr 56491,Château Gigery,Frankrike,750 ml,13 %,151:-
+0,Nr 56599,Rings,Tyskland,750 ml,"11,5 %",151:-
+0,Nr 56704,Floreale,Italien,750 ml,"12,5 %",129:-
+0,Nr 57018,Château Galoupet,Frankrike,750 ml,14 %,551:-
+0,Nr 57052,Berne Inspiration,Frankrike,1500 ml,"12,5 %",341:-
+0,Nr 50512,Freixenet,Italien,750 ml,"11,5 %",101:-
+0,Nr 50860,No T'ho Diré,Spanien,750 ml,14 %,250:-
+0,Nr 51427,Izadi,Spanien,750 ml,"14,5 %",141:-
+0,Nr 51454,Rosé Première de Figuiere,Frankrike,750 ml,13 %,237:-
+0,Nr 51673,Avantis Grace,Grekland,750 ml,13 %,199:-
+0,Nr 51826,Planeta,Italien,750 ml,"12,5 %",121:-
+0,Nr 51814,Fleurs de Prairie,Frankrike,750 ml,"12,5 %",131:-
+0,Nr 52052,Mirabeau En Provence,Frankrike,750 ml,"12,5 %",171:-
+0,Nr 52119,Domaine De La Rouvière,Frankrike,750 ml,13 %,121:-
+0,Nr 82488,Alphonse,Frankrike,750 ml,"12,5 %",91:-
+0,Nr 75351,Quelías,Spanien,750 ml,"13,5 %",201:-
+0,Nr 76611,Bell Cros,Spanien,750 ml,13 %,161:-
+0,Nr 90306,By.Ott,Frankrike,3000 ml,13 %,964:-
+0,Nr 55545,No T'ho Diré,Spanien,750 ml,14 %,250:-
+0,Nr 55755,Pheasant's Tears,Georgien,750 ml,12 %,251:-
+0,Nr 55963,Sea Rosé,Portugal,1000 ml,11 %,71:-
+0,Nr 56024,Leth,Österrike,750 ml,12 %,121:-
+0,Nr 53382,Rosatello,Italien,750 ml,12 %,101:-
+0,Nr 53471,Sancerre Rosé,Frankrike,750 ml,13 %,281:-
+0,Nr 78666,Aqua di Venus,Italien,1500 ml,13 %,402:-
+0,Nr 54454,Domaine Rabiega,Frankrike,750 ml,"12,5 %",1 052:-
+0,Nr 54715,Puy Cheri,Frankrike,1500 ml,"12,5 %",172:-
+0,Nr 55133,Zýme,Italien,750 ml,"12,5 %",457:-
+0,Nr 78158,Langhe,Italien,750 ml,13 %,158:-
+0,Nr 56982,Routas,Frankrike,750 ml,13 %,139:-
+0,Nr 57041,Tour du Bon,Frankrike,750 ml,"12,5 %",227:-
+0,Nr 57091,Franschhoek Cellar,Sydafrika,750 ml,"12,5 %",117:-
+0,Nr 72448,Langhe Rosato,Italien,1500 ml,13 %,282:-
+0,Nr 56692,Monte Santoccio,Italien,750 ml,12 %,181:-
+0,Nr 56982,Routas,Frankrike,750 ml,13 %,139:-
+0,Nr 57041,Tour du Bon,Frankrike,750 ml,"12,5 %",227:-
+0,Nr 57091,Franschhoek Cellar,Sydafrika,750 ml,"12,5 %",117:-
+0,Nr 57173,Sandhäxan,Portugal,750 ml,"12,5 %",141:-
+0,Nr 59470,Domaine de Font-Sane,Frankrike,750 ml,15 %,230:-
+0,Nr 59586,Duc De Foix,Spanien,750 ml,"13,5 %",186:-
+0,Nr 51300,Pavina Rosè,Spanien,750 ml,13 %,170:-
+0,Nr 51424,Zenato,Italien,750 ml,"12,5 %",131:-
+0,Nr 51667,Grande Cuvée Madame,Frankrike,750 ml,13 %,171:-
+0,Nr 51679,Vivanco Rosado,Spanien,750 ml,"13,5 %",161:-
+0,Nr 52107,Kein Name,Österrike,750 ml,12 %,101:-
+0,Nr 52488,Figuière,Frankrike,750 ml,13 %,147:-
+0,Nr 52607,Lidköping,Frankrike,750 ml,"12,5 %",113:-
+0,Nr 53020,Wongraven,Italien,750 ml,12 %,141:-
+0,Nr 73593,Chateau Minuty,Frankrike,750 ml,"12,5 %",401:-
+0,Nr 77649,Abdyika,Bulgarien,750 ml,"12,5 %",121:-
+0,Nr 76650,Franzosi,Italien,750 ml,"12,5 %",237:-
+0,Nr 57418,Chateau des Annibals,Frankrike,750 ml,13 %,156:-
+0,Nr 58381,Le Cecche,Italien,750 ml,"13,5 %",150:-
+0,Nr 58445,Nestarec,Tjeckien,750 ml,12 %,330:-
+0,Nr 54893,Logan,Australien,750 ml,12 %,161:-
+0,Nr 55086,Moschópolis 8,Grekland,750 ml,13 %,201:-
+0,Nr 55221,Goo-Goo Wine,Italien,750 ml,11 %,151:-
+0,Nr 79766,La Villette,Frankrike,750 ml,12 %,151:-
+0,Nr 74457,Cuvée des Vignettes,Frankrike,750 ml,"13,5 %",381:-
+0,Nr 78694,El Grifo,Spanien,750 ml,12 %,362:-
+0,Nr 78829,Château Paradis,Frankrike,750 ml,13 %,151:-
+0,Nr 78041,Meyer-Näkel,Tyskland,750 ml,12 %,201:-
+0,Nr 79766,La Villette,Frankrike,750 ml,12 %,151:-
+0,Nr 74457,Cuvée des Vignettes,Frankrike,750 ml,"13,5 %",381:-
+0,Nr 78694,El Grifo,Spanien,750 ml,12 %,362:-
+0,Nr 78829,Château Paradis,Frankrike,750 ml,13 %,151:-
+0,Nr 52488,Figuière,Frankrike,750 ml,13 %,147:-
+0,Nr 52607,Lidköping,Frankrike,750 ml,"12,5 %",113:-
+0,Nr 53020,Wongraven,Italien,750 ml,12 %,141:-
+0,Nr 54893,Logan,Australien,750 ml,12 %,161:-
+0,Nr 55086,Moschópolis 8,Grekland,750 ml,13 %,201:-
+0,Nr 55221,Goo-Goo Wine,Italien,750 ml,11 %,151:-
+0,Nr 79430,Rosa dei Masi,Italien,750 ml,"12,5 %",121:-
+0,Nr 79625,Popova Kula,Nordmakedonien,750 ml,"12,5 %",112:-
+0,Nr 78630,Quinta Clarisa,Spanien,750 ml,13 %,233:-
+0,Nr 72564,Rabl,Österrike,750 ml,"11,5 %",147:-
+0,Nr 71235,Crazy Tropez,Frankrike,750 ml,"12,5 %",117:-
+0,Nr 70419,Gérard Bertrand,Frankrike,750 ml,"12,5 %",111:-
+0,Nr 77940,Enzo Bartoli,Italien,1500 ml,12 %,252:-
+0,Nr 74298,Pietro Cassina,Italien,750 ml,"13,5 %",151:-
+0,Nr 70760,BelColle,Italien,750 ml,13 %,201:-
+0,Nr 75180,Van Loggerenberg,Sydafrika,750 ml,12 %,166:-
+0,Nr 73887,Jakkalsvlei,Sydafrika,750 ml,"8,5 %",147:-
+0,Nr 70973,El Marascar,Italien,750 ml,"12,5 %",217:-
+0,Nr 70164,Langhe Rosato Diecigradi,Italien,750 ml,"12,5 %",171:-
+0,Nr 73152,Hambledon,Storbritannien,750 ml,12 %,501:-
+0,Nr 52790,Akkanna,Italien,750 ml,"11,5 %",285:-
+0,Nr 76412,Nostos,Grekland,750 ml,"13,5 %",190:-
+0,Nr 56435,Quatre Tours Aix-en-Provence,Frankrike,750 ml,13 %,131:-
+0,Nr 56441,Trinity 6100,Armenien,750 ml,13 %,141:-
+0,Nr 56547,Domaine de La Bégude,Frankrike,750 ml,"12,5 %",251:-
+0,Nr 74438,Roza,Grekland,750 ml,"12,5 %",226:-
+0,Nr 72576,Sancerre,Frankrike,750 ml,12 %,201:-
+0,Nr 55558,Jakkalsvlei,Sydafrika,750 ml,"13,5 %",166:-
+0,Nr 55555,Orenga de Gaffory,Frankrike,750 ml,"12,5 %",194:-
+0,Nr 56066,Lumera,Italien,750 ml,12 %,151:-
+0,Nr 56079,Dolce & Gabbana,Italien,750 ml,"12,5 %",351:-
+0,Nr 56435,Quatre Tours Aix-en-Provence,Frankrike,750 ml,13 %,131:-
+0,Nr 56441,Trinity 6100,Armenien,750 ml,13 %,141:-
+0,Nr 56547,Domaine de La Bégude,Frankrike,750 ml,"12,5 %",251:-
+0,Nr 74438,Roza,Grekland,750 ml,"12,5 %",226:-
+0,Nr 56580,Revolution,Frankrike,750 ml,"12,5 %",131:-
+0,Nr 56594,Berne,Frankrike,750 ml,"12,5 %",131:-
+0,Nr 56603,Saint Nicolas,Frankrike,750 ml,13 %,241:-
+0,Nr 56737,Cotes de Provence,Frankrike,750 ml,13 %,211:-
+0,Nr 56857,Silverboom,Sydafrika,750 ml,14 %,101:-
+0,Nr 56882,Luigi di Grasso,Italien,750 ml,13 %,129:-
+0,Nr 57552,Domini Veneti,Italien,750 ml,12 %,126:-
+0,Nr 58030,Casa de Oleiros,Portugal,750 ml,12 %,190:-
+0,Nr 58387,Altea,Spanien,750 ml,13 %,274:-
+0,Nr 52790,Akkanna,Italien,750 ml,"11,5 %",285:-
+0,Nr 54209,Rosato Vigneti delle Dolomiti,Italien,750 ml,"11,5 %",176:-
+0,Nr 54596,Coppi,Italien,750 ml,12 %,160:-
+0,Nr 51814,Fleurs de Prairie,Frankrike,1500 ml,13 %,262:-
+0,Nr 51814,Fleurs de Prairie,Frankrike,187 ml,"12,5 %",30:-
+0,Nr 51885,Tommasi,Italien,750 ml,"12,5 %",151:-
+0,Nr 52167,Rock'n Rolle Baby,Frankrike,750 ml,12 %,150:-
+0,Nr 52251,Domaines Ott,Frankrike,750 ml,"13,5 %",301:-
+0,Nr 52446,Calles Rosa,Tyskland,750 ml,"11,5 %",121:-
+0,Nr 52566,Strehn,Österrike,750 ml,13 %,201:-
+0,Nr 76639,Blue de Mer,Frankrike,3000 ml,"12,5 %",1 150:-
+0,Nr 73891,11 Minutes,Italien,750 ml,"12,5 %",131:-
+0,Nr 79353,Minuty,Frankrike,1500 ml,"12,5 %",402:-
+0,Nr 76412,Nostos,Grekland,750 ml,"13,5 %",190:-
+0,Nr 73763,Portugieser,Tyskland,750 ml,10 %,111:-
+0,Nr 73964,Minuty,Frankrike,3000 ml,"12,5 %",984:-
+0,Nr 73280,Allesverloren,Sydafrika,750 ml,"13,5 %",91:-
+0,Nr 72494,Sierra Cantabria,Spanien,750 ml,13 %,121:-
+0,Nr 77270,Folgorosa,Portugal,750 ml,"12,5 %",121:-
+0,Nr 50553,John Malkovich,Frankrike,750 ml,13 %,149:-
+0,Nr 50761,Bread & Butter,USA,750 ml,"12,5 %",171:-
+0,Nr 51562,Domaine La Suffrene,Frankrike,750 ml,"13,5 %",240:-
+0,Nr 51558,Rosé BonBon,Frankrike,750 ml,"12,5 %",201:-
+0,Nr 79470,Conde Valdemar,Spanien,750 ml,"13,5 %",101:-
+0,Nr 79560,Rosa dei Frati,Italien,750 ml,"12,5 %",181:-
+0,Nr 78135,Akakies,Grekland,750 ml,13 %,111:-
+0,Nr 76141,AIX,Frankrike,750 ml,13 %,181:-
+0,Nr 50212,Faustino VII,Spanien,187 ml,"12,5 %",29:-
+0,Nr 51133,Litorale Rosato,Italien,750 ml,"12,5 %",171:-
+0,Nr 51114,Zezette,Frankrike,750 ml,12 %,121:-
+0,Nr 51398,Zenato,Italien,750 ml,"12,5 %",101:-
+0,Nr 51519,Domaine de Nizas,Frankrike,750 ml,"12,5 %",131:-
+0,Nr 51690,Clos Cibonne,Frankrike,750 ml,"13,5 %",281:-
+0,Nr 75522,Domaine Piquemal,Frankrike,750 ml,13 %,147:-
+0,Nr 4669,Chateau des hauts de Fontaneau,Frankrike,750 ml,"11,5 %",71:-
+0,Nr 74271,Alghero Rosato,Italien,750 ml,12 %,111:-
+0,Nr 70762,Rosapasso,Italien,750 ml,12 %,101:-
+0,Nr 74649,Bellenos,Frankrike,750 ml,13 %,139:-
+0,Nr 74216,Dr von Bassermann-Jordan,Tyskland,750 ml,"12,5 %",177:-
+0,Nr 73111,Capo di Vigna,Italien,750 ml,11 %,160:-
+0,Nr 73120,Pousio Selection,Portugal,750 ml,"12,5 %",117:-
+0,Nr 73891,11 Minutes,Italien,1500 ml,"12,5 %",342:-
+0,Nr 77531,Cévennes Rosé,Frankrike,750 ml,12 %,130:-
+0,Nr 56989,Château de Saint-Martin,Frankrike,750 ml,"12,5 %",220:-
+0,Nr 57090,Romain Rosé,Frankrike,750 ml,13 %,121:-
+0,Nr 71814,Château Bonnet,Frankrike,1500 ml,"12,5 %",222:-
+0,Nr 57198,Matiara,Italien,750 ml,14 %,151:-
+0,Nr 57466,Suko,Frankrike,750 ml,"12,5 %",253:-
+0,Nr 57567,Stefan Vetter,Tyskland,750 ml,"8,5 %",261:-
+0,Nr 57591,SommerZeit,Tyskland,750 ml,12 %,144:-
+0,Nr 57690,Pinot Grigio,Italien,750 ml,12 %,100:-
+0,Nr 55720,Tavel Rosé,Frankrike,750 ml,14 %,187:-
+0,Nr 78666,Aqua di Venus,Italien,750 ml,13 %,181:-
+0,Nr 77469,Lavignone Barbera,Italien,750 ml,13 %,130:-
+0,Nr 72202,Viña Real,Spanien,750 ml,"12,5 %",121:-
+0,Nr 58372,Cloé,Italien,750 ml,12 %,331:-
+0,Nr 52262,Domaine Houchart,Frankrike,750 ml,13 %,121:-
+0,Nr 55554,Orenga de Gaffory,Frankrike,750 ml,"12,5 %",180:-
+0,Nr 55894,Demuerte,Spanien,750 ml,12 %,200:-
+0,Nr 56102,La Gordonne Multi-Millésime,Frankrike,750 ml,"12,5 %",201:-
+0,Nr 56322,Slobodne vinarstvo,Slovakien,750 ml,12 %,201:-
+0,Nr 56600,Le Taillou,Frankrike,750 ml,13 %,130:-
+0,Nr 56597,Rabiega,Frankrike,750 ml,"12,5 %",131:-
+0,Nr 53499,Nucleo 3,Italien,1000 ml,12 %,261:-
+0,Nr 52225,Bodvár,Frankrike,750 ml,"12,5 %",141:-
+0,Nr 52644,Strehn,Österrike,750 ml,13 %,230:-
+0,Nr 52736,Malaje,Spanien,750 ml,"13,5 %",192:-
+0,Nr 73627,Santa Carolina,Chile,750 ml,"12,5 %",71:-
+0,Nr 70166,Tavel,Frankrike,750 ml,"13,5 %",157:-
+0,Nr 70035,Tavel,Frankrike,750 ml,"14,5 %",161:-
+0,Nr 73202,Escapades,Sydafrika,750 ml,13 %,126:-
+0,Nr 79295,Marqués de Riscal,Spanien,750 ml,"13,5 %",111:-
+0,Nr 72353,Shiny,Italien,750 ml,13 %,192:-
+0,Nr 74099,Le Ballon,Frankrike,750 ml,"12,5 %",128:-
+0,Nr 76016,Five Roses,Italien,750 ml,12 %,200:-
+0,Nr 79355,Rose et Or,Frankrike,750 ml,"12,5 %",251:-
+0,Nr 73223,Envite,Spanien,750 ml,"12,5 %",149:-
+0,Nr 72175,Bodvár,Frankrike,1500 ml,"12,5 %",352:-

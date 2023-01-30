@@ -1,0 +1,28 @@
+create table vin(
+  id VARCHAR(50),
+  name VARCHAR(50),
+  country VARCHAR(50),
+  volume VARCHAR(50),
+  alcohol VARCHAR(50),
+  price VARCHAR(50)
+);
+
+create temporary table t(
+  idx VARCHAR(50),
+  id VARCHAR(50),
+  name VARCHAR(50),
+  country VARCHAR(50),
+  volume VARCHAR(50),
+  alcohol VARCHAR(50),
+  price VARCHAR(50)
+);
+
+
+\copy t (idx, id, name, country, volume, alcohol, price) from 'C:\Users\victor.ryman\Downloads\rott-vin_italien.csv' with (format csv);
+
+insert into vin (id, name, country, volume, alcohol, price)
+select id, name, country, volume, alcohol, price
+from t;
+
+drop table t;
+

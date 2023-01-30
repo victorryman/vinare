@@ -1,0 +1,300 @@
+idx,ID,Name,Country,Volume,Alcohol,Price
+0,Nr 4698,Bosman Family,Sydafrika,750 ml,"13,5 %",101:-*
+0,Nr 2073,Org de Rac,Sydafrika,750 ml,"14,5 %",101:-
+0,Nr 2369,Cafê Culture,Sydafrika,750 ml,14 %,101:-
+0,Nr 2046,Perdeberg Cellar Reserve Collection,Sydafrika,750 ml,"14,5 %",91:-*
+0,Nr 2137,Perdeberg,Sydafrika,750 ml,14 %,81:-
+0,Nr 7451,Roodeberg,Sydafrika,750 ml,14 %,101:-
+0,Nr 2445,CHILL OUT,Sydafrika,1000 ml,"13,5 %",91:-*
+0,Nr 4638,Stellenbosch Reserve,Sydafrika,750 ml,14 %,141:-
+0,Nr 93169,Rooted,Sydafrika,750 ml,14 %,101:-
+0,Nr 2220,SAAM,Sydafrika,750 ml,15 %,91:-*
+0,Nr 2824,Rooted Winemaker's Selection,Sydafrika,750 ml,14 %,181:-
+0,Nr 2269,Kleine Zalze,Sydafrika,750 ml,15 %,111:-
+0,Nr 2909,Avondale Genus,Sydafrika,750 ml,14 %,201:-
+0,Nr 2847,Kleine Zalze,Sydafrika,750 ml,"14,5 %",151:-
+0,Nr 3108,Fleur du Cap,Sydafrika,375 ml,"14,5 %",50:-
+0,Nr 2243,Jonty's Ducks,Sydafrika,750 ml,14 %,121:-
+0,Nr 2086,The Chocolate Block,Sydafrika,750 ml,"14,5 %",251:-
+0,Nr 2314,Hartenberg,Sydafrika,750 ml,"14,5 %",177:-
+0,Nr 29002,Allesverloren,Sydafrika,750 ml,"14,5 %",101:-
+0,Nr 90600,1954 Old Bush Vines Cinsaut,Sydafrika,750 ml,12 %,171:-
+0,Nr 20038,Zafrica Cape Reserve,Sydafrika,1000 ml,"12,5 %",76:-*
+0,Nr 12002,Allesverloren,Sydafrika,750 ml,"13,5 %",101:-
+0,Nr 93052,De Toren Fusion V,Sydafrika,750 ml,"14,5 %",361:-
+0,Nr 94748,Aslina,Sydafrika,750 ml,"14,5 %",240:-
+0,Nr 2849,Simonsig,Sydafrika,750 ml,"13,5 %",91:-
+0,Nr 74285,Silverboom,Sydafrika,750 ml,15 %,100:-
+0,Nr 12356,Rust en Vrede Estate,Sydafrika,750 ml,"14,5 %",291:-
+0,Nr 93029,Badenhorst Family Wines,Sydafrika,750 ml,"13,5 %",275:-
+0,Nr 90355,Mullineux,Sydafrika,750 ml,"13,5 %",699:-
+0,Nr 2502,Ken Forrester,Sydafrika,750 ml,"13,5 %",101:-
+0,Nr 91160,Le Riche,Sydafrika,750 ml,"14,5 %",201:-
+0,Nr 95259,Boschendal,Sydafrika,750 ml,14 %,201:-
+0,Nr 2231,Land’s End,Sydafrika,750 ml,14 %,111:-
+0,Nr 93457,Simonsig,Sydafrika,750 ml,14 %,269:-
+0,Nr 90489,Porseleinberg,Sydafrika,750 ml,"13,5 %",639:-
+0,Nr 94384,Damascene Cederberg,Sydafrika,750 ml,"13,5 %",399:-
+0,Nr 93185,Mullineux,Sydafrika,750 ml,"13,5 %",699:-
+0,Nr 94750,David & Nadia,Sydafrika,750 ml,12 %,169:-
+0,Nr 94452,Mullineux Granite Syrah,Sydafrika,750 ml,14 %,699:-
+0,Nr 94077,Saurwein,Sydafrika,750 ml,"14,5 %",431:-
+0,Nr 93187,Mullineux,Sydafrika,750 ml,14 %,699:-
+0,Nr 93608,Kershaw,Sydafrika,750 ml,"13,5 %",399:-
+0,Nr 93188,Mullineux,Sydafrika,750 ml,"13,5 %",699:-
+0,Nr 90153,Mullineux,Sydafrika,750 ml,"13,5 %",231:-
+0,Nr 94479,Mullineux Schist,Sydafrika,750 ml,"13,5 %",699:-
+0,Nr 92224,Op die Berg,Sydafrika,750 ml,"13,5 %",219:-
+0,Nr 94630,Boekenhoutskloof,Sydafrika,750 ml,"14,5 %",379:-
+0,Nr 95654,Wine & Co Dry Land Red,Sydafrika,750 ml,"13,5 %",199:-
+0,Nr 93069,Mullineux,Sydafrika,750 ml,"14,5 %",699:-
+0,Nr 92437,Crystallum,Sydafrika,750 ml,14 %,359:-
+0,Nr 95595,Kershaw Clonal Selection Elgin Syrah,Sydafrika,750 ml,14 %,399:-
+0,Nr 93720,Simonsig,Sydafrika,750 ml,"14,5 %",321:-
+0,Nr 59359,Nederburg The Winemasters,Sydafrika,750 ml,14 %,122:-*
+0,Nr 73639,Reyneke,Sydafrika,750 ml,"13,5 %",201:-
+0,Nr 74926,Reyneke,Sydafrika,750 ml,14 %,561:-
+0,Nr 57038,Saurwein,Sydafrika,750 ml,"13,5 %",491:-
+0,Nr 57831,Reyneke,Sydafrika,750 ml,13 %,200:-
+0,Nr 12658,Zonnebloem,Sydafrika,750 ml,"14,5 %",81:-
+0,Nr 57833,Reyneke,Sydafrika,750 ml,13 %,450:-
+0,Nr 20027,Jacques Germanier,Sydafrika,750 ml,"13,5 %",91:-
+0,Nr 75546,Org de Rac,Sydafrika,750 ml,14 %,161:-
+0,Nr 2081,Org de Rac,Sydafrika,750 ml,"14,5 %",141:-
+0,Nr 73625,Reyneke Organic,Sydafrika,750 ml,13 %,111:-
+0,Nr 2068,Driefontein,Sydafrika,750 ml,"13,5 %",201:-
+0,Nr 2875,Perdeberg Cellar,Sydafrika,750 ml,"14,5 %",141:-
+0,Nr 93960,Vine & Co,Sydafrika,750 ml,12 %,221:-
+0,Nr 2407,Kleine Zalze,Sydafrika,750 ml,"14,5 %",91:-
+0,Nr 6575,Lievland,Sydafrika,750 ml,14 %,141:-
+0,Nr 2367,Savanha Reserve Selection,Sydafrika,750 ml,"14,5 %",61:-
+0,Nr 94773,Gabriëlskloof,Sydafrika,750 ml,14 %,201:-
+0,Nr 2727,Hartenberg,Sydafrika,750 ml,"14,5 %",202:-
+0,Nr 51657,Ernie Els,Sydafrika,750 ml,"14,5 %",291:-
+0,Nr 57929,Porseleinberg,Sydafrika,750 ml,"13,5 %",639:-
+0,Nr 76457,Provenance,Sydafrika,750 ml,"14,5 %",171:-
+0,Nr 75826,De Krans,Sydafrika,750 ml,14 %,231:-
+0,Nr 75589,Provenance,Sydafrika,750 ml,"14,5 %",181:-
+0,Nr 75870,Vondeling,Sydafrika,750 ml,14 %,258:-
+0,Nr 3108,Fleur du Cap,Sydafrika,750 ml,"14,5 %",71:-
+0,Nr 74700,Hills of Cape,Sydafrika,1000 ml,14 %,81:-
+0,Nr 78335,Babylonstoren,Sydafrika,750 ml,"14,5 %",270:-
+0,Nr 54692,Tesselaarsdal,Sydafrika,750 ml,13 %,411:-
+0,Nr 70025,Eikendal,Sydafrika,750 ml,14 %,240:-
+0,Nr 74990,Ernie Els,Sydafrika,750 ml,14 %,251:-
+0,Nr 2753,Lievland,Sydafrika,750 ml,14 %,101:-
+0,Nr 91274,Badenhorst,Sydafrika,750 ml,"11,5 %",281:-
+0,Nr 84347,Raats Dolomite,Sydafrika,750 ml,"13,5 %",191:-
+0,Nr 79949,Simonsig,Sydafrika,750 ml,"14,5 %",217:-
+0,Nr 78023,Diemersfontein,Sydafrika,750 ml,14 %,181:-
+0,Nr 70192,Holden Manz,Sydafrika,750 ml,"14,5 %",240:-
+0,Nr 59117,Southern Right,Sydafrika,750 ml,"13,5 %",271:-
+0,Nr 72270,Leopard's Leap Culinaria Collection,Sydafrika,750 ml,"13,5 %",141:-
+0,Nr 71146,Gustus,Sydafrika,750 ml,"14,5 %",171:-
+0,Nr 74746,Raats Family,Sydafrika,750 ml,"14,5 %",461:-
+0,Nr 70186,Jasper,Sydafrika,750 ml,14 %,221:-
+0,Nr 2086,The Chocolate Block,Sydafrika,6000 ml,"14,5 %",2 698:-
+0,Nr 73753,Ataraxia,Sydafrika,750 ml,13 %,241:-
+0,Nr 71088,Meerendal,Sydafrika,750 ml,"14,5 %",196:-
+0,Nr 78405,Bouchard Finlayson,Sydafrika,750 ml,14 %,401:-
+0,Nr 95473,De Toren Fusion V,Sydafrika,750 ml,"14,5 %",391:-
+0,Nr 51455,Kleine Zalze,Sydafrika,750 ml,13 %,601:-
+0,Nr 52702,Matthew Van Heerden,Sydafrika,750 ml,"12,5 %",297:-
+0,Nr 53918,JH Meyer,Sydafrika,750 ml,"12,5 %",250:-
+0,Nr 54042,Post House,Sydafrika,750 ml,"14,5 %",261:-
+0,Nr 54045,Post House,Sydafrika,750 ml,"14,5 %",231:-
+0,Nr 54360,Storm Vrede,Sydafrika,750 ml,"13,5 %",421:-
+0,Nr 55955,Kallista,Sydafrika,750 ml,14 %,401:-
+0,Nr 56462,Gabriëlskloof,Sydafrika,750 ml,"14,5 %",141:-
+0,Nr 56864,Wolf & Woman,Sydafrika,750 ml,"12,5 %",251:-
+0,Nr 57117,Franschhoek Cellar,Sydafrika,750 ml,14 %,117:-
+0,Nr 57175,Glenelly,Sydafrika,750 ml,"14,5 %",160:-
+0,Nr 57477,Deux Frères,Sydafrika,750 ml,15 %,330:-
+0,Nr 74038,Guardian Peak,Sydafrika,750 ml,14 %,137:-
+0,Nr 71617,Rust en Vrede,Sydafrika,750 ml,"14,5 %",1 101:-
+0,Nr 79414,Rust en Vrede,Sydafrika,750 ml,"14,5 %",841:-
+0,Nr 50781,Savage,Sydafrika,750 ml,13 %,327:-
+0,Nr 73061,Allesverloren 1704,Sydafrika,750 ml,14 %,97:-
+0,Nr 2444,Groot Constantia,Sydafrika,750 ml,14 %,171:-
+0,Nr 2086,The Chocolate Block,Sydafrika,3000 ml,"14,5 %",1 304:-
+0,Nr 72986,Nederburg,Sydafrika,750 ml,"14,5 %",211:-
+0,Nr 75432,Zonnebloem,Sydafrika,750 ml,"13,5 %",102:-
+0,Nr 77409,Jakkalsvlei,Sydafrika,750 ml,14 %,230:-
+0,Nr 72621,Simonsig,Sydafrika,750 ml,"13,5 %",251:-
+0,Nr 73996,Båstad,Sydafrika,750 ml,"13,6 %",151:-
+0,Nr 81047,Allesverloren,Sydafrika,750 ml,"13,5 %",141:-
+0,Nr 75332,Kloof Street,Sydafrika,750 ml,"14,5 %",141:-
+0,Nr 79729,Lauréat,Sydafrika,750 ml,14 %,161:-
+0,Nr 79989,Simonsig,Sydafrika,750 ml,"14,5 %",161:-
+0,Nr 72677,Unity,Sydafrika,750 ml,"14,5 %",121:-
+0,Nr 79737,Seriously Cool,Sydafrika,750 ml,"12,5 %",186:-
+0,Nr 70000,Bartinney,Sydafrika,750 ml,"14,5 %",276:-
+0,Nr 71401,Chamonix,Sydafrika,750 ml,14 %,251:-
+0,Nr 55460,Chocoholic,Sydafrika,750 ml,"13,5 %",161:-
+0,Nr 56447,Gabriëlskloof,Sydafrika,750 ml,"14,5 %",141:-
+0,Nr 53524,Jacobsdal,Sydafrika,1500 ml,"14,5 %",392:-
+0,Nr 55204,Luddite,Sydafrika,750 ml,"14,5 %",531:-
+0,Nr 56778,Wolf & Woman,Sydafrika,750 ml,"12,5 %",251:-
+0,Nr 95699,Family Red,Sydafrika,750 ml,"13,5 %",281:-
+0,Nr 95703,Kanonkop Estate,Sydafrika,750 ml,"14,5 %",311:-
+0,Nr 52147,Creation,Sydafrika,750 ml,14 %,221:-
+0,Nr 52828,Vriesenhof,Sydafrika,750 ml,14 %,341:-
+0,Nr 53277,Jacobsdal,Sydafrika,750 ml,"14,5 %",251:-
+0,Nr 70043,Atlantikas,Sydafrika,750 ml,"11,5 %",181:-
+0,Nr 75478,Catherine Marshall,Sydafrika,750 ml,"13,5 %",247:-
+0,Nr 73092,Babylonstoren,Sydafrika,750 ml,14 %,240:-
+0,Nr 78283,Meerlust,Sydafrika,750 ml,14 %,177:-
+0,Nr 76283,Shannon,Sydafrika,750 ml,14 %,451:-
+0,Nr 70502,Ataraxia,Sydafrika,750 ml,"13,5 %",341:-
+0,Nr 79413,Fort Simon,Sydafrika,750 ml,"14,5 %",239:-
+0,Nr 71119,Swartland,Sydafrika,750 ml,14 %,111:-
+0,Nr 75056,Blankbottle,Sydafrika,750 ml,12 %,341:-
+0,Nr 72199,Silverboom,Sydafrika,750 ml,15 %,136:-
+0,Nr 83947,Bayede,Sydafrika,750 ml,14 %,111:-
+0,Nr 50031,Beeslaar,Sydafrika,750 ml,"14,5 %",571:-
+0,Nr 50032,Spioenkop,Sydafrika,750 ml,"13,5 %",381:-
+0,Nr 50033,Spioenkop,Sydafrika,750 ml,13 %,291:-
+0,Nr 50568,Eikendal,Sydafrika,750 ml,12 %,230:-
+0,Nr 50765,Rall,Sydafrika,750 ml,14 %,321:-
+0,Nr 58542,Catherine Marshall,Sydafrika,750 ml,13 %,310:-
+0,Nr 58563,Taaibosch Crescendo,Sydafrika,750 ml,"13,5 %",301:-
+0,Nr 58599,Kruishof,Sydafrika,750 ml,14 %,176:-
+0,Nr 58649,AR Blend,Sydafrika,750 ml,"14,5 %",1 002:-
+0,Nr 58771,Newton Johnson,Sydafrika,750 ml,"13,5 %",341:-
+0,Nr 58776,Shannon,Sydafrika,750 ml,"14,5 %",1 102:-
+0,Nr 58973,Paul Sauer,Sydafrika,1500 ml,14 %,1 002:-
+0,Nr 73031,Mulderbosch,Sydafrika,750 ml,"13,5 %",151:-
+0,Nr 2086,The Chocolate Block,Sydafrika,1500 ml,"14,5 %",502:-
+0,Nr 72891,Ernie Els,Sydafrika,750 ml,14 %,201:-
+0,Nr 71209,Neil Ellis,Sydafrika,750 ml,"14,5 %",160:-
+0,Nr 2093,Merwida,Sydafrika,750 ml,"14,5 %",81:-
+0,Nr 2038,Rib Shack,Sydafrika,750 ml,"13,5 %",101:-
+0,Nr 75245,Jakkalsvlei,Sydafrika,750 ml,14 %,190:-
+0,Nr 79032,Elpidios,Sydafrika,750 ml,13 %,341:-
+0,Nr 76653,Simonsig,Sydafrika,750 ml,"14,5 %",221:-
+0,Nr 76670,Cederberg,Sydafrika,750 ml,14 %,165:-
+0,Nr 78286,Catherine Marshall,Sydafrika,750 ml,"13,5 %",313:-
+0,Nr 76978,Clos Malverne,Sydafrika,750 ml,"14,5 %",243:-
+0,Nr 56536,Family Red,Sydafrika,1500 ml,13 %,662:-
+0,Nr 56951,Wanderers Heart,Sydafrika,750 ml,"13,5 %",281:-
+0,Nr 57097,Franschhoek Cellar,Sydafrika,750 ml,14 %,117:-
+0,Nr 58609,Kruishof Ymer,Sydafrika,750 ml,14 %,162:-
+0,Nr 73364,Shannon,Sydafrika,750 ml,14 %,251:-
+0,Nr 78286,Catherine Marshall,Sydafrika,750 ml,"13,5 %",313:-
+0,Nr 76978,Clos Malverne,Sydafrika,750 ml,"14,5 %",243:-
+0,Nr 58609,Kruishof Ymer,Sydafrika,750 ml,14 %,162:-
+0,Nr 58652,RocknRolla,Sydafrika,750 ml,14 %,541:-
+0,Nr 29002,Allesverloren,Sydafrika,375 ml,14 %,71:-
+0,Nr 74042,The Heritage Block,Sydafrika,750 ml,14 %,340:-
+0,Nr 71295,Le Riche,Sydafrika,750 ml,"14,5 %",497:-
+0,Nr 2408,Lievland,Sydafrika,750 ml,"13,5 %",101:-
+0,Nr 51221,Craven,Sydafrika,750 ml,12 %,227:-
+0,Nr 51449,Chamonix,Sydafrika,750 ml,"14,5 %",251:-
+0,Nr 51899,Môreson,Sydafrika,750 ml,15 %,257:-
+0,Nr 56536,Family Red,Sydafrika,1500 ml,13 %,662:-
+0,Nr 56951,Wanderers Heart,Sydafrika,750 ml,"13,5 %",281:-
+0,Nr 74830,Muratie,Sydafrika,750 ml,"14,5 %",236:-
+0,Nr 74635,Muratie,Sydafrika,750 ml,"13,5 %",236:-
+0,Nr 52573,BlankBottle,Sydafrika,750 ml,15 %,371:-
+0,Nr 53090,Roodeberg,Sydafrika,1500 ml,14 %,202:-
+0,Nr 53424,Private Bin Two Centuries,Sydafrika,750 ml,"14,5 %",461:-
+0,Nr 53665,Mooiplaas,Sydafrika,750 ml,"14,5 %",187:-
+0,Nr 53864,Leeu & Passant,Sydafrika,750 ml,14 %,301:-
+0,Nr 54054,Post House Black Mail,Sydafrika,750 ml,"14,5 %",231:-
+0,Nr 54099,Post House Bulls Eye,Sydafrika,750 ml,"14,5 %",231:-
+0,Nr 54236,Nederburg,Sydafrika,750 ml,14 %,461:-
+0,Nr 54317,Lismore,Sydafrika,750 ml,14 %,391:-
+0,Nr 54363,Storm Ignis,Sydafrika,750 ml,"13,5 %",421:-
+0,Nr 79374,Boekenhoutskloof,Sydafrika,750 ml,14 %,401:-
+0,Nr 78968,Rudi Schultz,Sydafrika,750 ml,"14,5 %",181:-
+0,Nr 75136,Constitution Road Shiraz,Sydafrika,750 ml,14 %,181:-
+0,Nr 71183,Alto,Sydafrika,750 ml,"14,5 %",751:-
+0,Nr 73620,Fleur du Cap,Sydafrika,750 ml,"14,5 %",351:-
+0,Nr 79238,Escapades,Sydafrika,750 ml,"14,5 %",126:-
+0,Nr 79277,Kanonkop,Sydafrika,750 ml,"14,5 %",341:-
+0,Nr 79374,Boekenhoutskloof,Sydafrika,750 ml,14 %,401:-
+0,Nr 71183,Alto,Sydafrika,750 ml,"14,5 %",751:-
+0,Nr 6315,Diemersfontein,Sydafrika,750 ml,"14,5 %",101:-
+0,Nr 72978,Kanonkop,Sydafrika,750 ml,14 %,141:-
+0,Nr 74905,Holden Manz,Sydafrika,750 ml,14 %,190:-
+0,Nr 2026,Meerlust,Sydafrika,750 ml,14 %,291:-
+0,Nr 72786,Chamonix,Sydafrika,750 ml,"14,5 %",301:-
+0,Nr 73559,Jakkalsvlei,Sydafrika,750 ml,"14,5 %",230:-
+0,Nr 70272,Gustus,Sydafrika,750 ml,"14,5 %",161:-
+0,Nr 58598,Kruishof Ymer,Sydafrika,750 ml,"14,5 %",164:-
+0,Nr 6563,Nederburg,Sydafrika,750 ml,"14,5 %",141:-
+0,Nr 71961,Slanghoek,Sydafrika,750 ml,13 %,141:-
+0,Nr 57185,Glenelly,Sydafrika,750 ml,"13,5 %",160:-
+0,Nr 51439,Bosman,Sydafrika,750 ml,"14,5 %",191:-
+0,Nr 53825,BlankBottle,Sydafrika,750 ml,"15,5 %",382:-
+0,Nr 54048,Post House,Sydafrika,750 ml,14 %,191:-
+0,Nr 57465,Glenelly,Sydafrika,750 ml,14 %,399:-
+0,Nr 57496,Franschhoek cellar,Sydafrika,750 ml,14 %,117:-
+0,Nr 57662,Simonsig,Sydafrika,750 ml,"14,5 %",321:-
+0,Nr 81110,Guardian Peak,Sydafrika,750 ml,14 %,201:-
+0,Nr 58397,Reyneke,Sydafrika,750 ml,14 %,120:-
+0,Nr 75024,Secateurs Red Blend,Sydafrika,750 ml,13 %,151:-
+0,Nr 77697,Shannon,Sydafrika,750 ml,"14,5 %",341:-
+0,Nr 72129,Rust en Vrede Estate,Sydafrika,750 ml,14 %,271:-
+0,Nr 55806,Babylonstoren,Sydafrika,750 ml,"14,5 %",351:-
+0,Nr 73014,Klein Constantia,Sydafrika,750 ml,14 %,261:-
+0,Nr 76174,Diemersfontein Carpe Diem,Sydafrika,750 ml,14 %,201:-
+0,Nr 79972,Miles Mossop,Sydafrika,750 ml,"13,5 %",161:-
+0,Nr 82330,Raats MR,Sydafrika,750 ml,"14,5 %",881:-
+0,Nr 81905,Spioenkop,Sydafrika,750 ml,13 %,271:-
+0,Nr 50068,Bartinney,Sydafrika,750 ml,"14,5 %",270:-
+0,Nr 50229,Rickety Bridge,Sydafrika,750 ml,14 %,196:-
+0,Nr 50696,Beaumont,Sydafrika,750 ml,14 %,281:-
+0,Nr 50680,Holden Manz,Sydafrika,750 ml,"14,5 %",290:-
+0,Nr 50772,Galpin Peak,Sydafrika,1500 ml,14 %,1 003:-
+0,Nr 50847,Savage,Sydafrika,750 ml,"13,5 %",327:-
+0,Nr 73666,Ernie Els,Sydafrika,750 ml,"14,5 %",631:-
+0,Nr 71579,Lyngrove,Sydafrika,750 ml,"14,5 %",281:-
+0,Nr 71545,De Toren,Sydafrika,750 ml,"14,5 %",311:-
+0,Nr 70793,La Motte,Sydafrika,750 ml,"13,5 %",191:-
+0,Nr 74511,Kumala,Sydafrika,750 ml,"13,5 %",77:-
+0,Nr 73991,Alto Rouge,Sydafrika,750 ml,14 %,131:-
+0,Nr 12019,Kleine Zalze Vineyard Selection,Sydafrika,750 ml,"14,5 %",171:-
+0,Nr 76658,Nederburg,Sydafrika,750 ml,"14,5 %",211:-
+0,Nr 70771,Chamonix,Sydafrika,750 ml,14 %,141:-
+0,Nr 78380,Allesverloren,Sydafrika,750 ml,14 %,201:-
+0,Nr 72249,Ernie Els,Sydafrika,750 ml,"14,5 %",361:-
+0,Nr 70128,Pavillion,Sydafrika,750 ml,14 %,91:-
+0,Nr 77231,Waterkloof,Sydafrika,750 ml,"14,5 %",238:-
+0,Nr 79765,Luddite,Sydafrika,750 ml,"14,5 %",287:-
+0,Nr 77036,Kanonkop,Sydafrika,750 ml,14 %,141:-
+0,Nr 70791,Méthode Ancienne,Sydafrika,750 ml,14 %,501:-
+0,Nr 72407,Spier Signature,Sydafrika,750 ml,"14,5 %",101:-
+0,Nr 78995,Gabriëlskloof,Sydafrika,750 ml,14 %,351:-
+0,Nr 57364,Tokara,Sydafrika,750 ml,14 %,241:-
+0,Nr 57495,Franschhoek cellar,Sydafrika,750 ml,14 %,117:-
+0,Nr 57590,Kleine Zalze,Sydafrika,750 ml,"14,5 %",331:-
+0,Nr 72407,Spier Signature,Sydafrika,750 ml,"14,5 %",101:-
+0,Nr 78995,Gabriëlskloof,Sydafrika,750 ml,14 %,351:-
+0,Nr 6506,Kevin Arnold,Sydafrika,750 ml,"14,5 %",311:-
+0,Nr 57364,Tokara,Sydafrika,750 ml,14 %,241:-
+0,Nr 57495,Franschhoek cellar,Sydafrika,750 ml,14 %,117:-
+0,Nr 57590,Kleine Zalze,Sydafrika,750 ml,"14,5 %",331:-
+0,Nr 57661,Simonsig,Sydafrika,750 ml,15 %,301:-
+0,Nr 78249,Family Vineyard,Sydafrika,750 ml,"13,5 %",341:-
+0,Nr 71995,Ironstone,Sydafrika,750 ml,"13,5 %",240:-
+0,Nr 76497,Vriesenhof,Sydafrika,750 ml,14 %,341:-
+0,Nr 2005,Allesverloren,Sydafrika,750 ml,"13,5 %",137:-
+0,Nr 58362,Babylonstoren,Sydafrika,750 ml,14 %,261:-
+0,Nr 58415,Storm Ridge,Sydafrika,750 ml,"13,5 %",421:-
+0,Nr 58426,Jakkalsvlei,Sydafrika,750 ml,"14,5 %",186:-
+0,Nr 2086,The Chocolate Block,Sydafrika,375 ml,"14,5 %",140:-
+0,Nr 54015,Jacobsdal,Sydafrika,750 ml,14 %,161:-
+0,Nr 54055,Post House,Sydafrika,750 ml,"14,5 %",261:-
+0,Nr 54104,Anthonij Rupert,Sydafrika,750 ml,14 %,541:-
+0,Nr 54164,Anthonij Rupert,Sydafrika,750 ml,"14,5 %",231:-
+0,Nr 54294,Jakkalsvlei,Sydafrika,750 ml,"15,5 %",336:-
+0,Nr 73700,Lusthof,Sydafrika,750 ml,14 %,135:-
+0,Nr 71983,Dalla Cia Classico,Sydafrika,750 ml,14 %,251:-
+0,Nr 22996,Porcupine Ridge,Sydafrika,750 ml,"14,5 %",91:-
+0,Nr 75458,Kumala,Sydafrika,750 ml,"13,5 %",91:-
+0,Nr 79765,Luddite,Sydafrika,750 ml,"14,5 %",287:-
+0,Nr 77036,Kanonkop,Sydafrika,750 ml,14 %,141:-
+0,Nr 70791,Méthode Ancienne,Sydafrika,750 ml,14 %,501:-
+0,Nr 78164,Ernie Els,Sydafrika,750 ml,"14,5 %",301:-
+0,Nr 22381,Fleur du Cap,Sydafrika,750 ml,14 %,111:-

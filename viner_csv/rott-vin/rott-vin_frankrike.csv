@@ -1,0 +1,1201 @@
+idx,ID,Name,Country,Volume,Alcohol,Price
+0,Nr 2441,Maison Francoise Côtes de Marmandais,Frankrike,750 ml,14 %,81:-*
+0,Nr 20051,Saint-Joseph,Frankrike,750 ml,"13,5 %",201:-
+0,Nr 2240,Arbin Mondeuse Avalanche,Frankrike,750 ml,12 %,181:-
+0,Nr 2469,Les Pious,Frankrike,750 ml,14 %,91:-*
+0,Nr 2151,Xavier Vignon Côtes-du-Rhône,Frankrike,750 ml,"14,5 %",111:-
+0,Nr 74944,Grand Sud,Frankrike,1000 ml,"13,5 %",91:-*
+0,Nr 82531,Bouchard Aîné,Frankrike,750 ml,"12,5 %",97:-
+0,Nr 2257,Abbotts & Delaunay,Frankrike,750 ml,14 %,97:-
+0,Nr 6018,Côtes-du-Rhône,Frankrike,750 ml,14 %,81:-
+0,Nr 5475,Bourgogne Rouge,Frankrike,750 ml,12 %,141:-
+0,Nr 5461,Mont-Redon,Frankrike,750 ml,14 %,127:-
+0,Nr 2011,Côtes-du-Rhône,Frankrike,750 ml,15 %,137:-
+0,Nr 71046,Le Chef,Frankrike,1000 ml,13 %,91:-
+0,Nr 5283,Couvent des Jacobins,Frankrike,750 ml,13 %,191:-
+0,Nr 4643,JP Chenet,Frankrike,250 ml,13 %,31:-
+0,Nr 2167,Terre de Mistral Reserve,Frankrike,750 ml,"14,5 %",101:-
+0,Nr 2211,Domaine du Vieux Lazaret,Frankrike,750 ml,15 %,261:-
+0,Nr 73142,Gérard Bertrand Château L'Hospitalet,Frankrike,750 ml,15 %,191:-
+0,Nr 2233,Château Pech-Latt,Frankrike,750 ml,13 %,161:-
+0,Nr 2016,Réserve de Bonpas,Frankrike,750 ml,"13,5 %",101:-
+0,Nr 3958,Château de Seguin,Frankrike,750 ml,"13,5 %",111:-
+0,Nr 22299,Domaine Lalande Réserve,Frankrike,750 ml,13 %,81:-
+0,Nr 4500,Saint Auriol Chatelaine,Frankrike,375 ml,14 %,70:-
+0,Nr 5475,Bourgogne Rouge,Frankrike,375 ml,13 %,86:-
+0,Nr 2262,La Bastide Blanche,Frankrike,750 ml,"14,5 %",191:-
+0,Nr 2811,Château Mont-Redon,Frankrike,750 ml,"14,5 %",311:-
+0,Nr 72034,Alain Jaume,Frankrike,750 ml,"14,5 %",121:-
+0,Nr 5408,Beaujolais Royal,Frankrike,375 ml,13 %,60:-
+0,Nr 5408,Beaujolais Royal,Frankrike,750 ml,13 %,101:-
+0,Nr 2211,Domaine du Vieux Lazaret,Frankrike,375 ml,"14,5 %",136:-
+0,Nr 2823,Château Bois-Cardon,Frankrike,750 ml,13 %,102:-*
+0,Nr 2667,Terroir de Lagrave,Frankrike,750 ml,13 %,81:-*
+0,Nr 2291,Le Hurlevent,Frankrike,750 ml,"15,5 %",252:-
+0,Nr 2811,Château Mont-Redon,Frankrike,1500 ml,"14,5 %",631:-
+0,Nr 2821,Rully,Frankrike,750 ml,14 %,201:-
+0,Nr 4500,Saint Auriol Chatelaine,Frankrike,750 ml,14 %,126:-
+0,Nr 70268,Maison Robert Olivier,Frankrike,750 ml,13 %,137:-
+0,Nr 2317,Beaujolais Villages,Frankrike,750 ml,"13,5 %",121:-
+0,Nr 71832,Delas Saint-Esprit,Frankrike,750 ml,14 %,121:-
+0,Nr 2592,Grande Nuit,Frankrike,750 ml,13 %,91:-*
+0,Nr 93195,Domaine Bressy Masson Rasteau,Frankrike,750 ml,15 %,190:-
+0,Nr 3531,Château de la Liquière Faugères,Frankrike,750 ml,14 %,161:-
+0,Nr 92089,Grand Chêne,Frankrike,750 ml,15 %,99:-
+0,Nr 53014,Jean Vidérue,Frankrike,750 ml,15 %,231:-
+0,Nr 71912,Grande Nuit,Frankrike,750 ml,13 %,91:-
+0,Nr 70526,Gabriel Meffre,Frankrike,750 ml,"14,5 %",111:-
+0,Nr 2204,Château Bouscassé,Frankrike,750 ml,"13,5 %",171:-
+0,Nr 3958,Château de Seguin,Frankrike,1500 ml,"13,5 %",222:-
+0,Nr 71529,Chinon,Frankrike,750 ml,"12,5 %",141:-
+0,Nr 95278,Châteauneuf-du-Pape Tradition,Frankrike,750 ml,"14,5 %",270:-
+0,Nr 75764,Belleruche Côtes-du-Rhône,Frankrike,750 ml,14 %,141:-
+0,Nr 2472,Château Juvenal,Frankrike,750 ml,15 %,101:-*
+0,Nr 78614,Jean-Claude Boisset,Frankrike,750 ml,12 %,171:-
+0,Nr 2063,Château Fouquet,Frankrike,750 ml,13 %,151:-
+0,Nr 2550,Fitou,Frankrike,750 ml,14 %,87:-*
+0,Nr 2759,Chinon,Frankrike,750 ml,"12,5 %",121:-
+0,Nr 95640,Bonpas Vacqueyras,Frankrike,750 ml,14 %,169:-
+0,Nr 74014,Petit Paul Sapin,Frankrike,187 ml,"13,5 %",30:-*
+0,Nr 3083,Château la Tour de By,Frankrike,375 ml,"13,5 %",90:-
+0,Nr 2800,Delas Les Launes,Frankrike,750 ml,13 %,191:-
+0,Nr 52396,Le Ciel,Frankrike,1000 ml,13 %,81:-*
+0,Nr 3532,Château La Péyère,Frankrike,750 ml,"13,5 %",151:-
+0,Nr 2593,Château Pierre de Montignac,Frankrike,750 ml,"13,5 %",151:-
+0,Nr 2653,Château Saint-Sernin,Frankrike,750 ml,14 %,91:-
+0,Nr 79687,Mas Janeil,Frankrike,750 ml,"14,5 %",117:-
+0,Nr 2561,Cycliste Côtes du Rhône Villages,Frankrike,750 ml,"14,5 %",96:-*
+0,Nr 22800,Paul Jaboulet,Frankrike,750 ml,14 %,126:-
+0,Nr 52533,Jérôme Arnoux,Frankrike,750 ml,"12,5 %",196:-
+0,Nr 2811,Château Mont-Redon,Frankrike,375 ml,15 %,166:-
+0,Nr 79039,Saint Louis,Frankrike,1000 ml,"12,5 %",101:-
+0,Nr 74729,Château Morillon,Frankrike,750 ml,14 %,161:-
+0,Nr 2281,Fat Bastard,Frankrike,750 ml,13 %,101:-
+0,Nr 79121,Châteauneuf-du-Pape Les Cailloux,Frankrike,750 ml,14 %,381:-
+0,Nr 5447,Olivier Leflaive,Frankrike,750 ml,"12,5 %",261:-
+0,Nr 95017,Crozes-Hermitage,Frankrike,750 ml,14 %,231:-
+0,Nr 3601,Château Quinsac,Frankrike,750 ml,14 %,131:-
+0,Nr 5003,Beaujolais-Villages,Frankrike,750 ml,13 %,111:-
+0,Nr 73445,Château La Grave à Pomerol,Frankrike,750 ml,14 %,751:-
+0,Nr 3550,Château Labadie,Frankrike,750 ml,14 %,159:-
+0,Nr 5361,Bourgogne Cuvée Prestige,Frankrike,750 ml,"12,5 %",151:-
+0,Nr 6267,Xavier Vignon,Frankrike,750 ml,15 %,271:-
+0,Nr 72458,Les Dauphins,Frankrike,750 ml,14 %,101:-
+0,Nr 92501,Fixin,Frankrike,750 ml,13 %,251:-
+0,Nr 6470,Mas Louise,Frankrike,750 ml,14 %,117:-
+0,Nr 95588,Château Peyrabon,Frankrike,750 ml,13 %,201:-
+0,Nr 2298,Domaine des Pasquiers,Frankrike,750 ml,15 %,141:-
+0,Nr 2293,Château de Pierreux,Frankrike,750 ml,13 %,141:-
+0,Nr 2800,Delas Les Launes,Frankrike,375 ml,13 %,100:-
+0,Nr 5106,Morgon,Frankrike,750 ml,13 %,131:-
+0,Nr 3925,Château Belgrave,Frankrike,750 ml,"13,5 %",391:-
+0,Nr 5470,Bourgogne,Frankrike,750 ml,"12,5 %",161:-
+0,Nr 3814,Les Hauts de Granget,Frankrike,750 ml,"13,5 %",191:-
+0,Nr 95320,Un Jour,Frankrike,750 ml,"15,5 %",252:-
+0,Nr 73509,Leif Mannerström,Frankrike,750 ml,14 %,101:-
+0,Nr 2542,Château Haut Chevalier,Frankrike,750 ml,"14,5 %",81:-*
+0,Nr 70998,OHH,Frankrike,187 ml,13 %,28:-
+0,Nr 91172,Bosquet des Papes,Frankrike,750 ml,15 %,361:-
+0,Nr 2852,Château Pineraie,Frankrike,750 ml,14 %,121:-
+0,Nr 52391,Pinot Noir,Frankrike,750 ml,"12,5 %",81:-
+0,Nr 20046,Domaine du Château Philippe le Hardi,Frankrike,750 ml,"13,5 %",301:-
+0,Nr 2286,Pernand-Vergelesses Premier Cru,Frankrike,750 ml,13 %,321:-
+0,Nr 52873,Pascal Costeau,Frankrike,750 ml,14 %,81:-
+0,Nr 12808,JP Chenet,Frankrike,375 ml,13 %,50:-
+0,Nr 2007,Château Courac,Frankrike,750 ml,14 %,121:-
+0,Nr 71323,Grande Nuit,Frankrike,750 ml,"13,5 %",91:-
+0,Nr 72600,Pavillon Saint-Pierre,Frankrike,750 ml,14 %,131:-
+0,Nr 2214,Lirac,Frankrike,750 ml,"14,5 %",121:-
+0,Nr 5466,Le Bistrotteur Beaujolais Nouveau,Frankrike,750 ml,"12,5 %",95:-
+0,Nr 53032,Le Grand Roi,Frankrike,750 ml,14 %,91:-*
+0,Nr 94953,Aloxe Corton Premier Cru,Frankrike,750 ml,14 %,531:-
+0,Nr 3157,Château Tanesse,Frankrike,750 ml,"14,5 %",131:-
+0,Nr 2845,Châteauneuf-du-Pape,Frankrike,750 ml,"15,5 %",302:-
+0,Nr 2449,Saint-Amour,Frankrike,750 ml,14 %,181:-
+0,Nr 2594,Savigny-lès-Beaune Les Lavières,Frankrike,750 ml,"13,5 %",331:-
+0,Nr 77493,Louis Jadot,Frankrike,750 ml,13 %,261:-
+0,Nr 90530,Château La Négly,Frankrike,750 ml,15 %,241:-
+0,Nr 95982,Prélude à Grand Puy Ducasse,Frankrike,750 ml,14 %,300:-
+0,Nr 72914,Gérard Bertrand,Frankrike,750 ml,"15,5 %",328:-
+0,Nr 93536,Domaine du Pas de l'Escalette,Frankrike,750 ml,14 %,219:-
+0,Nr 94921,Beaune,Frankrike,750 ml,"13,5 %",325:-
+0,Nr 2836,Domaine du Pesquier,Frankrike,750 ml,15 %,191:-
+0,Nr 95121,Morgon Côte du Py,Frankrike,750 ml,"14,5 %",211:-
+0,Nr 73018,Santa Duc,Frankrike,750 ml,"14,5 %",131:-
+0,Nr 93160,Château de Villeneuve,Frankrike,750 ml,13 %,171:-
+0,Nr 91810,Domaine Haut Baigneux,Frankrike,750 ml,12 %,219:-
+0,Nr 94710,La Ciaude,Frankrike,750 ml,"14,5 %",269:-
+0,Nr 22324,Le Lion Féroce,Frankrike,750 ml,"14,5 %",121:-
+0,Nr 92185,Château Fleur Pourret,Frankrike,750 ml,"13,5 %",401:-
+0,Nr 95134,Les Claux,Frankrike,750 ml,14 %,181:-
+0,Nr 93475,Jean Maurice Raffault,Frankrike,750 ml,14 %,269:-
+0,Nr 90268,Domaine Bott,Frankrike,750 ml,13 %,249:-
+0,Nr 90165,Quintessence de Peybonhomme,Frankrike,750 ml,14 %,229:-
+0,Nr 95325,Paul Jaboulet Domaine de Thalabert,Frankrike,750 ml,14 %,281:-
+0,Nr 94876,Mas de Boislauzon,Frankrike,750 ml,15 %,161:-
+0,Nr 93470,Saint-Joseph,Frankrike,750 ml,"14,5 %",349:-
+0,Nr 94914,Chambolle Musigny,Frankrike,750 ml,"13,5 %",625:-
+0,Nr 92414,Savigny Les Beaune 1er Cru,Frankrike,750 ml,14 %,399:-
+0,Nr 93987,Chinon Clos de la Dioterie,Frankrike,750 ml,"13,5 %",569:-
+0,Nr 2843,Château Charmail,Frankrike,750 ml,"14,5 %",251:-
+0,Nr 93572,Les Laquets,Frankrike,750 ml,"14,5 %",301:-
+0,Nr 92208,Château Montus,Frankrike,750 ml,14 %,271:-
+0,Nr 95991,Château Lilian Ladouys,Frankrike,750 ml,"14,5 %",301:-
+0,Nr 90570,Clos Puy Arnaud,Frankrike,750 ml,14 %,449:-
+0,Nr 94158,Domaine Louis Jadot Côte de Nuits-Villages,Frankrike,750 ml,"13,5 %",321:-
+0,Nr 93442,Château Maucaillou,Frankrike,750 ml,"13,5 %",369:-
+0,Nr 90593,L'Amourvèdre,Frankrike,750 ml,14 %,271:-
+0,Nr 78977,Crozes-Hermitage,Frankrike,750 ml,14 %,231:-
+0,Nr 5491,La Dame de Malescot,Frankrike,750 ml,"13,5 %",371:-
+0,Nr 92851,Vignes de l’Hospice,Frankrike,750 ml,"14,5 %",801:-
+0,Nr 5697,Château Tour Sieujean,Frankrike,750 ml,"13,5 %",301:-
+0,Nr 93824,Domaine Graeme & Julie Bott,Frankrike,750 ml,"13,5 %",329:-
+0,Nr 4663,Hermitage Rouge,Frankrike,750 ml,14 %,641:-
+0,Nr 94668,Domaine Santa Duc,Frankrike,750 ml,14 %,399:-
+0,Nr 70503,Châteauneuf-du-Pape,Frankrike,750 ml,"14,5 %",381:-
+0,Nr 2491,Château du Cauze,Frankrike,750 ml,"14,5 %",221:-
+0,Nr 94212,Orchis,Frankrike,750 ml,12 %,259:-
+0,Nr 92363,Château Tour Seran,Frankrike,750 ml,"14,5 %",251:-
+0,Nr 93604,Domaine Santa Duc,Frankrike,750 ml,"14,5 %",549:-
+0,Nr 91164,Le Pavillon,Frankrike,750 ml,"14,5 %",2 599:-
+0,Nr 2270,Tina,Frankrike,750 ml,13 %,89:-
+0,Nr 95628,La Piade Vinsobres,Frankrike,750 ml,"14,5 %",151:-
+0,Nr 92611,Domaine Santa Duc,Frankrike,750 ml,"14,5 %",171:-
+0,Nr 93070,Quintessence Rouge,Frankrike,750 ml,"15,5 %",219:-
+0,Nr 90520,Santenay 1er Cru,Frankrike,750 ml,"13,5 %",450:-
+0,Nr 93390,Domaine Montirius,Frankrike,750 ml,"14,5 %",289:-
+0,Nr 90609,Château Potensac,Frankrike,750 ml,14 %,399:-
+0,Nr 92438,Gevrey-Chambertin Les Evocelles,Frankrike,750 ml,13 %,751:-
+0,Nr 91115,Bonnes Mares Grand Cru,Frankrike,750 ml,13 %,3 601:-
+0,Nr 92678,Nuits-Saint-Georges Premier Cru Les Damodes,Frankrike,750 ml,"13,5 %",851:-
+0,Nr 92832,Nuits-St-Georges Premier Cru Clos de Thorey Monopo,Frankrike,750 ml,13 %,851:-
+0,Nr 92475,Clos de Vougeot Grand Cru,Frankrike,750 ml,"13,5 %",2 301:-
+0,Nr 92091,Maupiti,Frankrike,750 ml,13 %,199:-
+0,Nr 94686,La Cerisaie,Frankrike,750 ml,"12,5 %",159:-
+0,Nr 3013,Château Tayac,Frankrike,750 ml,14 %,135:-
+0,Nr 94916,Pernand Vergelesses 1er Cru,Frankrike,750 ml,14 %,375:-
+0,Nr 95107,Croix Canon,Frankrike,750 ml,"14,5 %",501:-
+0,Nr 90061,Domaine Font de Courtedune,Frankrike,750 ml,15 %,151:-
+0,Nr 95050,Château Gazin,Frankrike,750 ml,"14,5 %",839:-
+0,Nr 2090,Paul Jaboulet,Frankrike,750 ml,13 %,451:-
+0,Nr 90439,Beaujolais-Village,Frankrike,750 ml,"12,5 %",129:-
+0,Nr 2546,Vosne-Romanée Premier Cru,Frankrike,750 ml,"13,5 %",670:-
+0,Nr 90098,Chinon Les Varennes du Grand Clos,Frankrike,750 ml,13 %,569:-
+0,Nr 95087,Bourgogne Rouge,Frankrike,750 ml,13 %,431:-
+0,Nr 92024,Morgon,Frankrike,750 ml,"12,5 %",279:-
+0,Nr 94997,Domaine des Héritiers Louis Jadot,Frankrike,750 ml,14 %,471:-
+0,Nr 93535,Château Laroze,Frankrike,750 ml,14 %,419:-
+0,Nr 95049,La Dame de Montrose,Frankrike,750 ml,"14,5 %",599:-
+0,Nr 95079,Domaine Coursodon,Frankrike,750 ml,14 %,349:-
+0,Nr 95057,Beaujolais Nouveau,Frankrike,750 ml,12 %,159:-
+0,Nr 94954,Petit-Figeac,Frankrike,750 ml,"14,5 %",701:-
+0,Nr 92412,Château Quintus,Frankrike,750 ml,"15,5 %",1 089:-
+0,Nr 92067,Château Canon,Frankrike,750 ml,"14,5 %",1 949:-
+0,Nr 93469,Chateau Cap de Faugeres,Frankrike,750 ml,15 %,229:-
+0,Nr 94996,Beaune Premier Cru Clos des Ursules,Frankrike,750 ml,14 %,695:-
+0,Nr 93632,Santenay La Comme 1er Cru,Frankrike,750 ml,"13,5 %",449:-
+0,Nr 90037,Pommard 1er Cru,Frankrike,750 ml,14 %,1 699:-
+0,Nr 95350,L'Authentique,Frankrike,750 ml,14 %,201:-
+0,Nr 93855,Château d´Ampuis,Frankrike,750 ml,"14,5 %",1 095:-
+0,Nr 90094,Fugue de Nénin,Frankrike,750 ml,14 %,599:-
+0,Nr 3626,Château Plantier Rose,Frankrike,375 ml,13 %,130:-
+0,Nr 90454,Chateau Montrose,Frankrike,750 ml,14 %,1 999:-
+0,Nr 95092,Château Fonplégade,Frankrike,750 ml,"14,5 %",529:-
+0,Nr 92181,Vieux Château Certan,Frankrike,750 ml,"14,5 %",3 930:-
+0,Nr 91314,Pauillac de Château Latour,Frankrike,750 ml,13 %,899:-
+0,Nr 94038,Beaune Champs Pimont,Frankrike,750 ml,14 %,699:-
+0,Nr 92627,Côte Rôtie La Landonne,Frankrike,750 ml,14 %,3 695:-
+0,Nr 94913,Roc De Cambes,Frankrike,750 ml,"14,5 %",760:-
+0,Nr 94067,Chateauneuf-du-Pape,Frankrike,750 ml,"15,5 %",849:-
+0,Nr 93639,Clos Fourtet,Frankrike,750 ml,"14,5 %",1 199:-
+0,Nr 94860,Château Fonroque,Frankrike,750 ml,"14,5 %",549:-
+0,Nr 90663,Côte Rôtie La Turque,Frankrike,750 ml,14 %,3 695:-
+0,Nr 93336,Château de Camensac,Frankrike,750 ml,"13,5 %",299:-
+0,Nr 92423,Château l'Evangile,Frankrike,750 ml,15 %,2 789:-
+0,Nr 92095,La Folle Noire d'Ambat,Frankrike,750 ml,"13,5 %",135:-
+0,Nr 94592,Maréchal Savigny Les Beaune,Frankrike,750 ml,13 %,359:-
+0,Nr 92842,Pothiers La Chapelle,Frankrike,750 ml,13 %,219:-
+0,Nr 90481,Moulin-à-Vent,Frankrike,750 ml,"13,5 %",211:-
+0,Nr 94939,Grangeneuve,Frankrike,750 ml,"14,5 %",189:-
+0,Nr 92320,Château Latour,Frankrike,750 ml,13 %,6 895:-
+0,Nr 92977,Les Forts de Latour,Frankrike,750 ml,"13,5 %",2 895:-
+0,Nr 90157,Ch Ausone,Frankrike,750 ml,13 %,7 599:-
+0,Nr 94271,Les Caillerets Ancienne Cuvée Carnot Domaine,Frankrike,750 ml,"13,5 %",729:-
+0,Nr 94866,Domaine François Raquillet,Frankrike,750 ml,"14,5 %",319:-
+0,Nr 93798,Gevrey-Chambertin,Frankrike,750 ml,"14,5 %",1 429:-
+0,Nr 93726,Chambertin Grand Cru,Frankrike,750 ml,14 %,4 799:-
+0,Nr 92487,Pavillon Rouge du Château Margaux,Frankrike,750 ml,14 %,2 389:-
+0,Nr 94122,Château Pétrus,Frankrike,750 ml,15 %,34 500:-
+0,Nr 94998,Château des Jacques,Frankrike,375 ml,"14,5 %",146:-
+0,Nr 94999,Connétable Talbot,Frankrike,750 ml,"13,5 %",399:-
+0,Nr 90200,Ermitage Ex Voto Rouge,Frankrike,750 ml,14 %,3 195:-
+0,Nr 93725,Echezeaux Grand cru,Frankrike,750 ml,14 %,4 999:-
+0,Nr 92021,Nuits St. Georges 1er Cru,Frankrike,750 ml,"13,5 %",949:-
+0,Nr 93012,Guigal Saint Joseph,Frankrike,750 ml,"14,5 %",469:-
+0,Nr 90650,Chambertin Grand Cru,Frankrike,750 ml,13 %,4 879:-
+0,Nr 93456,Château Lyonnat,Frankrike,750 ml,"13,5 %",179:-
+0,Nr 93692,Julienas,Frankrike,750 ml,"14,5 %",209:-
+0,Nr 94963,Corton-Pougets Grand Cru,Frankrike,750 ml,14 %,995:-
+0,Nr 94826,Coursodon,Frankrike,750 ml,15 %,349:-
+0,Nr 94511,Les Laquets,Frankrike,750 ml,15 %,299:-
+0,Nr 92154,Mazoyères-Chambertin Grand Cru,Frankrike,750 ml,13 %,4 277:-
+0,Nr 90190,Charmes-Chambertin Grand Cru,Frankrike,750 ml,13 %,4 277:-
+0,Nr 92888,Bruno Clair Gevrey-Chambertin,Frankrike,750 ml,13 %,1 672:-
+0,Nr 92891,Bruno Clair,Frankrike,750 ml,13 %,3 614:-
+0,Nr 90047,Côte Rôtie La Mouline,Frankrike,750 ml,14 %,3 695:-
+0,Nr 93588,Dugois,Frankrike,750 ml,14 %,194:-
+0,Nr 94967,Gevrey-Chambertin Premier Cru Clos Saint-Jacques,Frankrike,750 ml,"13,5 %",1 865:-
+0,Nr 94975,Clos Vougeot Grand Cru,Frankrike,750 ml,14 %,1 695:-
+0,Nr 94977,Bonnes Mares Grand Cru,Frankrike,750 ml,"14,5 %",3 895:-
+0,Nr 91202,Delas Frères,Frankrike,750 ml,15 %,1 699:-
+0,Nr 92700,Les Forts de Latour,Frankrike,750 ml,13 %,2 333:-
+0,Nr 93996,Ermitage Ex Voto Rouge,Frankrike,750 ml,14 %,2 895:-
+0,Nr 94978,Chapelle-Chambertin Grand Cru,Frankrike,750 ml,"13,5 %",2 395:-
+0,Nr 92225,Chateau Ausone,Frankrike,750 ml,"13,5 %",9 549:-
+0,Nr 90451,Château La Mission Haut-Brion,Frankrike,750 ml,13 %,3 989:-
+0,Nr 94072,Bonnes Mares Grand Cru,Frankrike,750 ml,"14,5 %",3 299:-
+0,Nr 94976,Chambertin Clos de Bèze Grand Cru,Frankrike,750 ml,"13,5 %",3 895:-
+0,Nr 95387,Ermitage Ex Voto Rouge,Frankrike,750 ml,"14,5 %",2 999:-
+0,Nr 95042,Bonnes-Mares Grand Cru,Frankrike,750 ml,"13,5 %",4 350:-
+0,Nr 94697,Clos de la Brosse,Frankrike,750 ml,"14,5 %",169:-
+0,Nr 90658,Musigny Grand Cru,Frankrike,750 ml,13 %,7 249:-
+0,Nr 94460,Charmes-Chambertin,Frankrike,750 ml,13 %,4 620:-
+0,Nr 92983,Château Nenin,Frankrike,750 ml,"14,5 %",728:-
+0,Nr 94733,Bourgogne Hautes Côtes de Nuits,Frankrike,750 ml,"13,5 %",329:-
+0,Nr 93241,Château Labégorce,Frankrike,750 ml,13 %,539:-
+0,Nr 94966,Chambolle-Musigny Premier Cru Les Fuées,Frankrike,750 ml,14 %,1 079:-
+0,Nr 92618,Clos de Vougeot,Frankrike,750 ml,"13,5 %",2 559:-
+0,Nr 93159,Mazis-Chambertin Grand Cru,Frankrike,750 ml,"13,5 %",3 299:-
+0,Nr 93715,Musigny Grand Cru,Frankrike,750 ml,14 %,7 449:-
+0,Nr 2196,Château Haut Chevalier,Frankrike,750 ml,"14,5 %",79:-
+0,Nr 92830,Ermitage Ex Voto Rouge,Frankrike,750 ml,"14,5 %",3 350:-
+0,Nr 94832,Mas du Notaire,Frankrike,750 ml,15 %,189:-
+0,Nr 93144,Clos Vougeot,Frankrike,750 ml,"14,5 %",1 899:-
+0,Nr 93667,Côte-Rotie,Frankrike,750 ml,14 %,3 295:-
+0,Nr 93668,Côte-Rôtie,Frankrike,750 ml,14 %,3 295:-
+0,Nr 94073,Clos Saint-Denis Grand Cru,Frankrike,750 ml,14 %,2 985:-
+0,Nr 94083,Beaune Premier Cru,Frankrike,750 ml,14 %,625:-
+0,Nr 94566,Gassier,Frankrike,750 ml,15 %,141:-
+0,Nr 93164,Nuits-Saint-Georges Premier Cru Les Roncieres,Frankrike,750 ml,14 %,879:-
+0,Nr 91262,Chateau Leoville,Frankrike,750 ml,14 %,2 699:-
+0,Nr 92478,Clos de la Roche,Frankrike,750 ml,"13,5 %",2 599:-
+0,Nr 93885,Volnay 1er Cru Clos des Ducs,Frankrike,750 ml,"13,5 %",2 001:-
+0,Nr 93915,Bourgogne Rouge,Frankrike,750 ml,"13,5 %",401:-
+0,Nr 93908,Volnay 1er Cru Fremiet,Frankrike,750 ml,"13,5 %",1 121:-
+0,Nr 93829,Volnay 1er Cru Champans,Frankrike,750 ml,"13,5 %",1 351:-
+0,Nr 90519,Chambolle-Musigny,Frankrike,750 ml,"13,5 %",881:-
+0,Nr 73422,Gérard Bertrand,Frankrike,750 ml,"14,5 %",131:-
+0,Nr 56448,Jean Vidérue,Frankrike,750 ml,13 %,81:-
+0,Nr 2132,Renne,Frankrike,750 ml,"13,5 %",71:-*
+0,Nr 2629,Grès de Boutenac,Frankrike,750 ml,15 %,171:-
+0,Nr 57730,Art's,Frankrike,187 ml,"13,5 %",29:-*
+0,Nr 50507,Abbotts & Delaunay,Frankrike,750 ml,"12,5 %",131:-
+0,Nr 57106,Arcane La Tempérance Cairanne Organic,Frankrike,750 ml,15 %,211:-
+0,Nr 2288,Alva,Frankrike,750 ml,"14,5 %",91:-
+0,Nr 55804,Tissot & Potel La Sixième Côte,Frankrike,750 ml,13 %,121:-
+0,Nr 92248,Les Varennes du Grand Clos,Frankrike,1500 ml,13 %,752:-
+0,Nr 74136,Crozes-Hermitage,Frankrike,750 ml,13 %,211:-
+0,Nr 92532,Chinon Les Varennes du Grand Clos,Frankrike,1500 ml,14 %,739:-
+0,Nr 56326,Cortado,Frankrike,750 ml,12 %,150:-
+0,Nr 2179,Domaine de Verquière,Frankrike,750 ml,14 %,161:-
+0,Nr 75965,M Chapoutier,Frankrike,750 ml,"13,5 %",701:-
+0,Nr 79455,Château Pech-Latt,Frankrike,750 ml,15 %,191:-
+0,Nr 71340,Paul Jaboulet,Frankrike,750 ml,"13,5 %",291:-
+0,Nr 75609,Artemia,Frankrike,750 ml,14 %,381:-
+0,Nr 78954,Weinbach,Frankrike,750 ml,"14,5 %",391:-
+0,Nr 78702,André Rohrer,Frankrike,750 ml,13 %,321:-
+0,Nr 76072,Ferraton Père & Fils,Frankrike,750 ml,14 %,837:-
+0,Nr 74168,M. Chapoutier,Frankrike,750 ml,"14,5 %",201:-
+0,Nr 79612,Domaine de Noire,Frankrike,750 ml,14 %,301:-
+0,Nr 51456,Château Juvenal,Frankrike,750 ml,"14,5 %",201:-
+0,Nr 52960,Domaine de La Bégude,Frankrike,750 ml,13 %,797:-
+0,Nr 53007,Terroir Sauvage,Frankrike,750 ml,"13,5 %",121:-
+0,Nr 53271,Nuits-Saint-Georges Premier Cru,Frankrike,1500 ml,"13,5 %",1 702:-
+0,Nr 53603,Ama Lur,Frankrike,750 ml,"13,5 %",269:-
+0,Nr 53822,Domaine des Huards,Frankrike,750 ml,13 %,301:-
+0,Nr 54150,Alain Jaume,Frankrike,750 ml,"15,5 %",711:-
+0,Nr 54350,Minha Terra,Frankrike,750 ml,13 %,191:-
+0,Nr 55232,Mont de Claire,Frankrike,750 ml,14 %,131:-
+0,Nr 55531,Mas de Boislauzon,Frankrike,750 ml,15 %,701:-
+0,Nr 55787,Mas Coutelou,Frankrike,750 ml,"13,5 %",240:-
+0,Nr 56533,Domaine Chibaou,Frankrike,750 ml,14 %,136:-
+0,Nr 57048,Morgon,Frankrike,750 ml,13 %,290:-
+0,Nr 57609,Révolution,Frankrike,750 ml,"11,5 %",261:-
+0,Nr 57650,La Vigne d'Albert,Frankrike,750 ml,13 %,171:-
+0,Nr 70599,Gevrey-Chambertin,Frankrike,750 ml,13 %,821:-
+0,Nr 50179,Terre Sauvage,Frankrike,750 ml,"13,5 %",149:-
+0,Nr 32153,Claude Val Rouge,Frankrike,750 ml,"13,5 %",81:-
+0,Nr 74174,Côtes du Rhône,Frankrike,750 ml,"13,5 %",181:-
+0,Nr 71705,Chateau de Brescou,Frankrike,750 ml,14 %,161:-
+0,Nr 4643,JP Chenet,Frankrike,750 ml,13 %,79:-
+0,Nr 5496,Bourgogne Chateau Melin,Frankrike,750 ml,13 %,188:-
+0,Nr 74168,M. Chapoutier,Frankrike,750 ml,"14,5 %",201:-
+0,Nr 79612,Domaine de Noire,Frankrike,750 ml,14 %,301:-
+0,Nr 70599,Gevrey-Chambertin,Frankrike,750 ml,13 %,821:-
+0,Nr 50179,Terre Sauvage,Frankrike,750 ml,"13,5 %",149:-
+0,Nr 71721,Bourgogne Côte Chalonnaise,Frankrike,750 ml,"12,5 %",363:-
+0,Nr 90299,Le Bouquet des Garrigues,Frankrike,750 ml,"14,5 %",251:-
+0,Nr 5496,Bourgogne Chateau Melin,Frankrike,750 ml,13 %,188:-
+0,Nr 74895,Perrin Coudolet de Beaucastel,Frankrike,750 ml,"14,5 %",312:-
+0,Nr 79454,Luc Faller,Frankrike,750 ml,12 %,290:-
+0,Nr 76429,Gustave Lorentz,Frankrike,750 ml,"13,5 %",439:-
+0,Nr 78075,Cristia Collection,Frankrike,1500 ml,"13,5 %",202:-
+0,Nr 77486,Domaine de Beaurenard,Frankrike,750 ml,15 %,301:-
+0,Nr 75639,Vordy Minervois,Frankrike,750 ml,"14,5 %",277:-
+0,Nr 78611,Paul Jaboulet,Frankrike,750 ml,"15,5 %",2 352:-
+0,Nr 86351,Chateau Segue Longue,Frankrike,1500 ml,13 %,382:-
+0,Nr 84908,Chinon Les Petites Roches,Frankrike,1500 ml,14 %,392:-
+0,Nr 71970,Gustave Lorentz,Frankrike,750 ml,"13,5 %",192:-
+0,Nr 78558,Chateau d´Estoublon,Frankrike,750 ml,13 %,376:-
+0,Nr 57390,Canto Bruno,Frankrike,750 ml,"14,5 %",221:-
+0,Nr 58208,Chapelle-Chambertin Grand Cru,Frankrike,750 ml,"13,5 %",3 801:-
+0,Nr 58421,Breitstein,Frankrike,750 ml,"12,5 %",312:-
+0,Nr 58849,Fabre,Frankrike,750 ml,"12,5 %",150:-
+0,Nr 56355,La Baronne,Frankrike,750 ml,14 %,246:-
+0,Nr 56485,Chateau Jean Faux,Frankrike,750 ml,"13,5 %",261:-
+0,Nr 56879,Famille Isabel Ferrando,Frankrike,750 ml,"14,5 %",1 100:-
+0,Nr 57054,Sandrine Henriot,Frankrike,750 ml,"12,5 %",290:-
+0,Nr 51600,Château de Nages,Frankrike,750 ml,"14,5 %",271:-
+0,Nr 79452,Cornas,Frankrike,750 ml,"14,5 %",497:-
+0,Nr 71162,Trois Maisons,Frankrike,750 ml,13 %,101:-
+0,Nr 55496,Chateau la Rouvière,Frankrike,750 ml,15 %,400:-
+0,Nr 84908,Chinon Les Petites Roches,Frankrike,1500 ml,14 %,392:-
+0,Nr 58208,Chapelle-Chambertin Grand Cru,Frankrike,750 ml,"13,5 %",3 801:-
+0,Nr 58421,Breitstein,Frankrike,750 ml,"12,5 %",312:-
+0,Nr 58849,Fabre,Frankrike,750 ml,"12,5 %",150:-
+0,Nr 79452,Cornas,Frankrike,750 ml,"14,5 %",497:-
+0,Nr 74048,Domaine Santa Duc,Frankrike,750 ml,"14,5 %",351:-
+0,Nr 74895,Perrin Coudolet de Beaucastel,Frankrike,750 ml,"14,5 %",312:-
+0,Nr 76616,Domaine de Mayrac,Frankrike,750 ml,"14,5 %",484:-
+0,Nr 71975,Gérard Bertrand,Frankrike,750 ml,"15,5 %",1 798:-
+0,Nr 73278,Métairie d’Alon,Frankrike,750 ml,"13,5 %",191:-
+0,Nr 50009,Triennes,Frankrike,750 ml,"13,5 %",151:-
+0,Nr 50244,Domaine Gassier,Frankrike,750 ml,14 %,181:-
+0,Nr 50115,Château d'Estoublon,Frankrike,750 ml,14 %,727:-
+0,Nr 50420,Chapelle 1441 Pinot Noir,Frankrike,750 ml,13 %,331:-
+0,Nr 56853,Domaine Saint Préfert,Frankrike,750 ml,"14,5 %",587:-
+0,Nr 56852,Domaine Saint Préfert,Frankrike,750 ml,15 %,1 902:-
+0,Nr 56850,La Roche Buissière,Frankrike,750 ml,14 %,280:-
+0,Nr 52492,Saint-Joseph,Frankrike,750 ml,"14,5 %",401:-
+0,Nr 52571,Clos de Vougeot,Frankrike,750 ml,14 %,2 123:-
+0,Nr 53028,Domaine de La Bégude,Frankrike,750 ml,"13,5 %",397:-
+0,Nr 53342,Gigondas,Frankrike,750 ml,15 %,349:-
+0,Nr 79293,Domaine Cristia,Frankrike,750 ml,"14,5 %",219:-
+0,Nr 78441,Gérard Bertrand,Frankrike,750 ml,"15,5 %",392:-
+0,Nr 74894,Silica,Frankrike,750 ml,"15,5 %",372:-
+0,Nr 79364,Chateau Jean Faux,Frankrike,750 ml,"14,5 %",251:-
+0,Nr 57389,Santo,Frankrike,750 ml,15 %,381:-
+0,Nr 57475,Domaine des Maravilhas,Frankrike,750 ml,"13,5 %",177:-
+0,Nr 57768,Fabien,Frankrike,750 ml,13 %,201:-
+0,Nr 58020,Savigny-Les-Beaune,Frankrike,750 ml,"13,5 %",347:-
+0,Nr 54091,Xavier,Frankrike,750 ml,"14,5 %",151:-
+0,Nr 55506,Bunan,Frankrike,750 ml,15 %,530:-
+0,Nr 55512,Domaine du Mortier,Frankrike,750 ml,"13,5 %",191:-
+0,Nr 78368,EOS,Frankrike,750 ml,"13,5 %",141:-
+0,Nr 52492,Saint-Joseph,Frankrike,750 ml,"14,5 %",401:-
+0,Nr 52571,Clos de Vougeot,Frankrike,750 ml,14 %,2 123:-
+0,Nr 53028,Domaine de La Bégude,Frankrike,750 ml,"13,5 %",397:-
+0,Nr 53342,Gigondas,Frankrike,750 ml,15 %,349:-
+0,Nr 54091,Xavier,Frankrike,750 ml,"14,5 %",151:-
+0,Nr 73961,Mas Las Cabes,Frankrike,750 ml,"13,5 %",148:-
+0,Nr 72053,Yann Chave Crozes-Hermitage,Frankrike,750 ml,14 %,351:-
+0,Nr 75934,Domaine de Calet,Frankrike,750 ml,"14,5 %",251:-
+0,Nr 73101,Domaine Du Clos De Sixte,Frankrike,750 ml,15 %,181:-
+0,Nr 72589,Domaine de Cristia,Frankrike,750 ml,"14,5 %",399:-
+0,Nr 75985,Gevrey-Chambertin,Frankrike,750 ml,13 %,483:-
+0,Nr 2493,Château Sicot,Frankrike,750 ml,"13,5 %",106:-
+0,Nr 76069,Mas Bécha,Frankrike,750 ml,"15,5 %",328:-
+0,Nr 75461,Domaine de la Graveirette,Frankrike,750 ml,"14,5 %",350:-
+0,Nr 78788,Chinon Les Royaux Agriculture,Frankrike,750 ml,"12,5 %",201:-
+0,Nr 70212,Morgon,Frankrike,750 ml,"12,5 %",301:-
+0,Nr 77520,Côtes-du-Rhône Rouge,Frankrike,750 ml,"14,5 %",171:-
+0,Nr 75530,Palabres,Frankrike,750 ml,13 %,236:-
+0,Nr 76914,J.Mourat,Frankrike,750 ml,13 %,231:-
+0,Nr 78075,Cristia Collection,Frankrike,750 ml,"13,5 %",109:-
+0,Nr 79961,Féraud,Frankrike,750 ml,"14,5 %",245:-
+0,Nr 78433,Chateau Le Tap,Frankrike,750 ml,"12,5 %",164:-
+0,Nr 55466,Bunan,Frankrike,750 ml,"14,5 %",530:-
+0,Nr 55494,Chateau la Rouvière,Frankrike,750 ml,"14,5 %",400:-
+0,Nr 56076,Orenga de Gaffory,Frankrike,750 ml,"13,5 %",200:-
+0,Nr 56150,La Fage,Frankrike,750 ml,"13,5 %",201:-
+0,Nr 56638,Domaine Andre-Berthet-Rayne,Frankrike,750 ml,"14,5 %",131:-
+0,Nr 56738,Paul Durdilly et Fils,Frankrike,750 ml,"13,5 %",150:-
+0,Nr 57051,Morgon Vagabond,Frankrike,750 ml,"12,5 %",290:-
+0,Nr 57053,Sandrine Henriot,Frankrike,750 ml,"12,5 %",290:-
+0,Nr 57537,Domaine Fontavin,Frankrike,750 ml,"14,5 %",291:-
+0,Nr 57538,Chateauneuf-du-Pape,Frankrike,750 ml,15 %,451:-
+0,Nr 57894,Cante Renard,Frankrike,750 ml,13 %,239:-
+0,Nr 57949,Château Pech-Latt,Frankrike,750 ml,14 %,231:-
+0,Nr 2262,La Bastide Blanche,Frankrike,1500 ml,"14,5 %",382:-
+0,Nr 58281,Garance,Frankrike,750 ml,"13,5 %",326:-
+0,Nr 58412,Haut-Coustias,Frankrike,750 ml,15 %,319:-
+0,Nr 53848,Rottiers,Frankrike,750 ml,14 %,189:-
+0,Nr 54121,Montirius,Frankrike,750 ml,14 %,240:-
+0,Nr 54343,Domaine Duseigneur,Frankrike,750 ml,"15,5 %",422:-
+0,Nr 54478,Domaine de Montille,Frankrike,750 ml,"12,5 %",701:-
+0,Nr 54477,Domaine de Montille,Frankrike,750 ml,13 %,371:-
+0,Nr 54603,La Bouveau,Frankrike,750 ml,"14,5 %",160:-
+0,Nr 54803,Cuvée Long Terme,Frankrike,750 ml,"14,5 %",161:-
+0,Nr 52508,Les Peyrouses,Frankrike,750 ml,14 %,217:-
+0,Nr 53229,Chinon Silènes,Frankrike,750 ml,14 %,177:-
+0,Nr 53341,Gigondas,Frankrike,750 ml,15 %,349:-
+0,Nr 76395,Saint-Joseph Les Granilites,Frankrike,750 ml,13 %,331:-
+0,Nr 59435,Lissner,Frankrike,750 ml,"12,5 %",300:-
+0,Nr 59577,Domaine Francois Chapuis,Frankrike,750 ml,"12,5 %",211:-
+0,Nr 70911,Terrasses,Frankrike,1500 ml,14 %,332:-
+0,Nr 50609,Trapadis,Frankrike,750 ml,"13,5 %",158:-
+0,Nr 51007,Domaine de Cristia,Frankrike,750 ml,15 %,638:-
+0,Nr 79711,Bourgogne Rouge,Frankrike,750 ml,"12,5 %",321:-
+0,Nr 79787,Château Maucoil,Frankrike,750 ml,15 %,301:-
+0,Nr 76923,Galets Rouge,Frankrike,750 ml,14 %,137:-
+0,Nr 74200,Château des Annereaux,Frankrike,750 ml,"14,5 %",300:-
+0,Nr 75075,Un Jour sur Terre,Frankrike,750 ml,15 %,281:-
+0,Nr 79104,Maison Robert Olivier,Frankrike,750 ml,13 %,51:-
+0,Nr 50991,Domaine de Cristia,Frankrike,750 ml,15 %,843:-
+0,Nr 79260,Le Versant,Frankrike,750 ml,"12,5 %",131:-
+0,Nr 74759,Cochon Volant,Frankrike,750 ml,14 %,121:-
+0,Nr 72525,Caraguilhes,Frankrike,750 ml,14 %,161:-
+0,Nr 70911,Terrasses Rouge,Frankrike,750 ml,14 %,161:-
+0,Nr 56830,La Roche Buissière,Frankrike,750 ml,14 %,246:-
+0,Nr 57527,Chateauneuf-du-Pape,Frankrike,750 ml,15 %,591:-
+0,Nr 57771,Fabien Duveau,Frankrike,750 ml,13 %,241:-
+0,Nr 57869,Bila-Haut V.I.T.,Frankrike,750 ml,"14,5 %",531:-
+0,Nr 74489,Domaine Saint-Rémy,Frankrike,750 ml,"13,5 %",197:-
+0,Nr 79495,Domaine La Monardiere,Frankrike,750 ml,"14,5 %",262:-
+0,Nr 70557,De fil en Aiguile,Frankrike,750 ml,13 %,136:-
+0,Nr 72587,Ricardelle de Lautrec,Frankrike,750 ml,13 %,293:-
+0,Nr 58209,Gevrey-Chambertin Premier Cru Clos Prieur,Frankrike,750 ml,14 %,1 501:-
+0,Nr 51488,Churelurez,Frankrike,750 ml,12 %,171:-
+0,Nr 55532,Mas de Boislauzon,Frankrike,750 ml,15 %,701:-
+0,Nr 56576,Château de la Liquière,Frankrike,750 ml,"13,5 %",201:-
+0,Nr 56645,Andre-Berthet-Rayne,Frankrike,750 ml,15 %,169:-
+0,Nr 53876,Vacqueyras Rouge,Frankrike,750 ml,14 %,200:-
+0,Nr 54149,Alain Jaume,Frankrike,1500 ml,"15,5 %",395:-
+0,Nr 54341,Côtes du Rhône,Frankrike,750 ml,"14,5 %",169:-
+0,Nr 55122,Château Juvenal,Frankrike,1500 ml,15 %,422:-
+0,Nr 51952,Château Cartier,Frankrike,750 ml,14 %,381:-
+0,Nr 53063,Gevrey-Chambertin,Frankrike,750 ml,13 %,651:-
+0,Nr 53064,Gevrey-Chambertin Ostrea,Frankrike,750 ml,13 %,851:-
+0,Nr 73162,Domaine Duseigneur,Frankrike,750 ml,14 %,171:-
+0,Nr 75165,Pure Syrah,Frankrike,750 ml,13 %,259:-
+0,Nr 72463,Cornas Les Ruchets,Frankrike,750 ml,"14,5 %",731:-
+0,Nr 75075,Un Jour sur Terre,Frankrike,750 ml,15 %,281:-
+0,Nr 79104,Maison Robert Olivier,Frankrike,750 ml,13 %,51:-
+0,Nr 50991,Domaine de Cristia,Frankrike,750 ml,15 %,843:-
+0,Nr 78327,Mas Bécha,Frankrike,750 ml,15 %,201:-
+0,Nr 73921,Pure,Frankrike,750 ml,12 %,243:-
+0,Nr 75562,Côte de Beaune Rouge Les Pierres Blanches,Frankrike,750 ml,14 %,451:-
+0,Nr 76311,Châteauneuf-du-pape,Frankrike,750 ml,15 %,732:-
+0,Nr 2815,Crozes Hermitage,Frankrike,750 ml,"14,5 %",211:-
+0,Nr 72974,Château des Annereaux,Frankrike,750 ml,13 %,160:-
+0,Nr 55079,La Part des Biches,Frankrike,750 ml,14 %,101:-
+0,Nr 83192,Joseph Drouhin,Frankrike,750 ml,"14,5 %",1 100:-
+0,Nr 2524,Tuffeaux,Frankrike,750 ml,14 %,171:-
+0,Nr 92579,Musigny Vieilles Vignes Grand Cru,Frankrike,750 ml,"13,5 %",8 001:-
+0,Nr 94915,Château Latour,Frankrike,750 ml,13 %,2 901:-
+0,Nr 94922,Château Lafon-Rochet,Frankrike,750 ml,"14,5 %",670:-
+0,Nr 72531,L'Appel des Sereines Syrah,Frankrike,750 ml,13 %,157:-
+0,Nr 95065,Château Cos d'Estournel,Frankrike,750 ml,"14,5 %",731:-
+0,Nr 2065,Château Vignelaure,Frankrike,750 ml,14 %,286:-
+0,Nr 2397,Domaine Laougué,Frankrike,750 ml,14 %,111:-
+0,Nr 75842,Sancerre,Frankrike,750 ml,13 %,221:-
+0,Nr 56480,Xavier Vignon,Frankrike,750 ml,15 %,669:-
+0,Nr 94053,Château Gloria,Frankrike,750 ml,"14,5 %",620:-
+0,Nr 72149,Paul Jaboulet,Frankrike,750 ml,13 %,341:-
+0,Nr 71873,Lidköping Röd,Frankrike,750 ml,14 %,117:-
+0,Nr 54456,Clos Dière L'oeuf,Frankrike,750 ml,14 %,351:-
+0,Nr 71438,Trenel,Frankrike,750 ml,"12,5 %",141:-
+0,Nr 74185,Cépages,Frankrike,750 ml,"12,5 %",111:-
+0,Nr 92828,L'Authentique,Frankrike,750 ml,"13,5 %",230:-
+0,Nr 59144,Esprit,Frankrike,750 ml,"13,5 %",1 291:-
+0,Nr 59578,Château l'Ermitage,Frankrike,750 ml,14 %,161:-
+0,Nr 57104,Nuits-Saint-Georges Premier Cru Les Pruliers,Frankrike,750 ml,14 %,901:-
+0,Nr 59144,Esprit,Frankrike,750 ml,"13,5 %",1 291:-
+0,Nr 73050,Mary Taylor,Frankrike,750 ml,"13,5 %",140:-
+0,Nr 59578,Château l'Ermitage,Frankrike,750 ml,14 %,161:-
+0,Nr 77690,Grand Marrenon,Frankrike,750 ml,"14,5 %",181:-
+0,Nr 74283,Château Laroque,Frankrike,750 ml,14 %,401:-
+0,Nr 92583,Bonnes Mares Grand Cru,Frankrike,750 ml,"13,5 %",4 495:-
+0,Nr 71847,Le Petit Secret,Frankrike,750 ml,"14,5 %",147:-
+0,Nr 79798,Villa Ponciago,Frankrike,750 ml,"13,5 %",151:-
+0,Nr 55507,Domaine de la Pinède,Frankrike,750 ml,"13,5 %",306:-
+0,Nr 57237,Fugue de Nénin,Frankrike,750 ml,"14,5 %",549:-
+0,Nr 57547,Forts de Latour,Frankrike,750 ml,14 %,3 701:-
+0,Nr 74072,R.Dumont,Frankrike,750 ml,12 %,327:-
+0,Nr 92445,Musigny Vieilles Vignes Grand Cru,Frankrike,750 ml,14 %,8 501:-
+0,Nr 72062,Thulon,Frankrike,750 ml,13 %,189:-
+0,Nr 72595,Louis Jadot,Frankrike,750 ml,"13,5 %",491:-
+0,Nr 77499,Domaine Piquemal,Frankrike,750 ml,"14,5 %",241:-
+0,Nr 75312,Château Tayet,Frankrike,750 ml,14 %,191:-
+0,Nr 2266,Château la Reyne,Frankrike,750 ml,13 %,130:-
+0,Nr 57277,Moulin-à-Vent,Frankrike,750 ml,13 %,241:-
+0,Nr 57286,r Rabiega,Frankrike,750 ml,"14,5 %",251:-
+0,Nr 72004,Château des Annereaux,Frankrike,1500 ml,"12,5 %",601:-
+0,Nr 73511,Domaine Langlois-Chateau,Frankrike,750 ml,"13,5 %",211:-
+0,Nr 78062,Clos Vougeot,Frankrike,750 ml,14 %,1 492:-
+0,Nr 74814,Château Mont-Redon,Frankrike,750 ml,15 %,171:-
+0,Nr 75177,Châteauneuf-du-Pape,Frankrike,750 ml,15 %,251:-
+0,Nr 70953,Domaine La Barroche,Frankrike,750 ml,15 %,460:-
+0,Nr 78823,La Maison,Frankrike,1000 ml,"14,5 %",77:-
+0,Nr 3925,Château Belgrave,Frankrike,1500 ml,13 %,1 132:-
+0,Nr 3071,Château Capbern,Frankrike,750 ml,"13,5 %",401:-
+0,Nr 2274,Delas Chante-Perdrix,Frankrike,750 ml,15 %,421:-
+0,Nr 71448,Domaine du Vieux Lazaret,Frankrike,1500 ml,15 %,502:-
+0,Nr 2536,Maison Louis Max,Frankrike,750 ml,"12,5 %",111:-
+0,Nr 75406,Preparatus Supervivet,Frankrike,750 ml,"14,5 %",181:-
+0,Nr 80842,Morgon,Frankrike,750 ml,13 %,137:-
+0,Nr 56610,Domaine Comte Peraldi,Frankrike,750 ml,"13,5 %",241:-
+0,Nr 54218,Chassagne-Montrachet,Frankrike,750 ml,"13,5 %",450:-
+0,Nr 57548,Forts de Latour,Frankrike,750 ml,13 %,3 001:-
+0,Nr 3570,Château de Seguin,Frankrike,750 ml,13 %,161:-
+0,Nr 57928,Morgon,Frankrike,750 ml,"13,5 %",221:-
+0,Nr 58531,Morgon Corcelette,Frankrike,750 ml,"13,5 %",341:-
+0,Nr 71066,Domaine Jones,Frankrike,750 ml,"14,5 %",179:-
+0,Nr 95452,Bonnes-Mares Grand Cru,Frankrike,750 ml,"13,5 %",4 199:-
+0,Nr 76736,Côte Rôtie,Frankrike,1500 ml,14 %,2 398:-
+0,Nr 93600,Ch Galius,Frankrike,750 ml,14 %,281:-
+0,Nr 72122,Fontaine du Clos,Frankrike,750 ml,14 %,127:-
+0,Nr 79121,Châteauneuf-du-Pape Les Cailloux,Frankrike,1500 ml,"14,5 %",782:-
+0,Nr 71702,Pinot Noir,Frankrike,750 ml,13 %,231:-
+0,Nr 2273,Château d'Eternes,Frankrike,750 ml,"13,5 %",131:-
+0,Nr 77454,Charmes de Kirwan,Frankrike,750 ml,14 %,371:-
+0,Nr 70022,Clos de la Perrière,Frankrike,750 ml,13 %,511:-
+0,Nr 5460,Bourgogne Hautes Côtes de Nuits,Frankrike,750 ml,"13,5 %",211:-
+0,Nr 58540,Moulin-Â-vent Au Michelon,Frankrike,750 ml,14 %,401:-
+0,Nr 57108,Nuits-Saint-Georges Premier Cru Les Roncieres,Frankrike,750 ml,14 %,901:-
+0,Nr 53810,Château Malescasse,Frankrike,750 ml,14 %,329:-
+0,Nr 93576,Château La Pointe,Frankrike,750 ml,"14,5 %",599:-
+0,Nr 73756,Château Paradis,Frankrike,750 ml,14 %,161:-
+0,Nr 78240,Les Parcellaires de Saulx,Frankrike,750 ml,"13,5 %",501:-
+0,Nr 90693,Grolleau x Siri Carlén,Frankrike,750 ml,11 %,191:-
+0,Nr 70927,Le Grand Noir,Frankrike,750 ml,"13,5 %",101:-
+0,Nr 81787,Cépages,Frankrike,750 ml,"13,5 %",121:-
+0,Nr 79306,Côte-Rôtie,Frankrike,750 ml,"12,5 %",440:-
+0,Nr 2213,Domaine du Grand Montmirail,Frankrike,375 ml,15 %,116:-
+0,Nr 3147,Clarendelle Rouge,Frankrike,1500 ml,13 %,422:-
+0,Nr 76209,Terroir de Bramarel,Frankrike,750 ml,13 %,141:-
+0,Nr 74592,Château La Croizille,Frankrike,750 ml,"12,5 %",1 001:-
+0,Nr 75358,Le Havre de Paix,Frankrike,750 ml,13 %,91:-
+0,Nr 70674,Chateau Pichon,Frankrike,750 ml,"13,5 %",1 791:-
+0,Nr 74892,Incantation,Frankrike,750 ml,15 %,160:-
+0,Nr 74986,Pont de Gassac,Frankrike,750 ml,"13,5 %",151:-
+0,Nr 70939,Perrin,Frankrike,750 ml,"14,5 %",312:-
+0,Nr 77502,Virginie de Valandraud,Frankrike,750 ml,"14,5 %",527:-
+0,Nr 71212,Vidal-Fleury,Frankrike,750 ml,15 %,141:-
+0,Nr 71626,Château du Trignon,Frankrike,750 ml,"14,5 %",151:-
+0,Nr 76434,Château Villars,Frankrike,750 ml,"14,5 %",274:-
+0,Nr 78843,Château Moulin,Frankrike,750 ml,14 %,199:-
+0,Nr 72146,Mes Favorites,Frankrike,750 ml,13 %,559:-
+0,Nr 53591,Bourgogne,Frankrike,750 ml,14 %,231:-
+0,Nr 53702,Dopff au Moulin,Frankrike,750 ml,13 %,151:-
+0,Nr 54129,Château Puy-Razac,Frankrike,750 ml,14 %,245:-
+0,Nr 54206,Jean-Noël Gagnard,Frankrike,750 ml,13 %,671:-
+0,Nr 54284,Xavier Vignon,Frankrike,750 ml,15 %,749:-
+0,Nr 54333,Chateau Clarisse,Frankrike,750 ml,14 %,251:-
+0,Nr 55268,Château Tessendey,Frankrike,750 ml,"14,5 %",231:-
+0,Nr 55345,Château Les Paruades,Frankrike,750 ml,14 %,151:-
+0,Nr 55285,Château Ségonzac,Frankrike,750 ml,"14,5 %",161:-
+0,Nr 79968,Pascal Clément,Frankrike,750 ml,13 %,331:-
+0,Nr 70577,Vosne-Romanée,Frankrike,750 ml,13 %,1 601:-
+0,Nr 74951,Mouton Cadet,Frankrike,1500 ml,"13,5 %",362:-
+0,Nr 71664,Domaine Rolet,Frankrike,750 ml,"12,5 %",221:-
+0,Nr 70795,Château de Rochemorin,Frankrike,750 ml,14 %,231:-
+0,Nr 70233,Château La Louvière,Frankrike,750 ml,13 %,501:-
+0,Nr 75376,Château de Lauga,Frankrike,750 ml,"13,5 %",297:-
+0,Nr 74172,Côte de Beaune-Villages,Frankrike,750 ml,13 %,241:-
+0,Nr 79952,Olivier & Lafont,Frankrike,750 ml,15 %,247:-
+0,Nr 70876,Poivre et Sol Saint Joseph Syrah,Frankrike,750 ml,"13,5 %",271:-
+0,Nr 75394,Les Pierres Dorées,Frankrike,750 ml,13 %,181:-
+0,Nr 78193,M.Chapoutier,Frankrike,750 ml,15 %,381:-
+0,Nr 74711,Delas Côte-Rôtie,Frankrike,750 ml,"13,5 %",791:-
+0,Nr 73971,Bourgogne,Frankrike,1500 ml,13 %,292:-
+0,Nr 78574,Episode Cevenol,Frankrike,750 ml,"13,5 %",130:-
+0,Nr 77310,Arnaud Baillot,Frankrike,750 ml,"13,5 %",277:-
+0,Nr 58848,Chateau Patache D'Aux,Frankrike,750 ml,14 %,224:-
+0,Nr 58929,La Petite Odyssee,Frankrike,750 ml,"13,5 %",230:-
+0,Nr 59075,Chateau d'Armailhac,Frankrike,750 ml,"13,5 %",1 101:-
+0,Nr 59076,Château Mouton Rothschild,Frankrike,750 ml,13 %,9 502:-
+0,Nr 59147,Esprit Pommard,Frankrike,750 ml,13 %,1 601:-
+0,Nr 59210,Château Montus,Frankrike,750 ml,14 %,297:-
+0,Nr 59468,Domaine de Font-Sane,Frankrike,750 ml,14 %,180:-
+0,Nr 75207,Famille Perrin,Frankrike,750 ml,"14,5 %",401:-
+0,Nr 92875,Château Bouscassé,Frankrike,750 ml,14 %,381:-
+0,Nr 56752,Château des Jacques,Frankrike,750 ml,"13,5 %",291:-
+0,Nr 57256,JP Chenet,Frankrike,750 ml,13 %,77:-
+0,Nr 58170,Domaine D'Ardhuy,Frankrike,750 ml,"13,5 %",391:-
+0,Nr 51379,André Perret,Frankrike,750 ml,15 %,221:-
+0,Nr 51470,Domaine La Suffrene,Frankrike,750 ml,"15,5 %",443:-
+0,Nr 51633,Xavier Vignon,Frankrike,750 ml,15 %,401:-
+0,Nr 51636,Xavier Vignon,Frankrike,750 ml,15 %,275:-
+0,Nr 51710,Xavier Vignon,Frankrike,750 ml,"14,5 %",1 085:-
+0,Nr 52165,Rock'n Rolle Rebel,Frankrike,750 ml,13 %,150:-
+0,Nr 52741,Château Certan,Frankrike,750 ml,"13,5 %",1 201:-
+0,Nr 71449,Bourgogne,Frankrike,750 ml,"12,5 %",265:-
+0,Nr 74583,Barlande,Frankrike,1500 ml,15 %,798:-
+0,Nr 78115,Marrenon,Frankrike,750 ml,"13,5 %",131:-
+0,Nr 79163,Edouard Delaunay,Frankrike,750 ml,13 %,901:-
+0,Nr 73549,Côtes-du-Rhône-Villages,Frankrike,750 ml,"14,5 %",171:-
+0,Nr 75392,Château d´Hautpoul,Frankrike,750 ml,"13,5 %",147:-
+0,Nr 74863,Crozes-Hermitage,Frankrike,750 ml,"13,5 %",271:-
+0,Nr 77690,Grand Marrenon,Frankrike,1500 ml,"14,5 %",372:-
+0,Nr 73182,Auxey-Duresses Première Cru,Frankrike,750 ml,"13,5 %",418:-
+0,Nr 55425,Pain Perdu,Frankrike,750 ml,14 %,280:-
+0,Nr 55481,Domaine Foret,Frankrike,750 ml,"12,5 %",350:-
+0,Nr 55475,Domaine Foret,Frankrike,750 ml,"12,5 %",270:-
+0,Nr 55707,Château La Louvière Rouge,Frankrike,1500 ml,13 %,1 262:-
+0,Nr 55704,Château Laronde Desormes,Frankrike,750 ml,14 %,151:-
+0,Nr 55746,Chateau Bouscassé,Frankrike,750 ml,"13,5 %",251:-
+0,Nr 55920,P Brisset Chambolle-Musigny,Frankrike,750 ml,13 %,1 202:-
+0,Nr 55924,Pierre Brisset,Frankrike,750 ml,13 %,1 702:-
+0,Nr 76432,Les Jamelles,Frankrike,750 ml,"13,5 %",101:-
+0,Nr 76783,Chorey-les-Beaune,Frankrike,750 ml,"13,5 %",261:-
+0,Nr 74714,Paul Beaudet,Frankrike,750 ml,13 %,111:-
+0,Nr 71864,Aloxe-Corton,Frankrike,750 ml,"13,5 %",400:-
+0,Nr 73931,Thulon,Frankrike,750 ml,13 %,170:-
+0,Nr 71154,Saint-Joseph Hedonism,Frankrike,750 ml,14 %,291:-
+0,Nr 78238,Fleurie,Frankrike,750 ml,13 %,241:-
+0,Nr 75525,Domaine Piquemal,Frankrike,750 ml,"14,5 %",171:-
+0,Nr 81709,Chateau La France Delhomme,Frankrike,750 ml,"14,5 %",251:-
+0,Nr 83817,Gilbert & Gaillard,Frankrike,750 ml,"14,5 %",266:-
+0,Nr 50028,Barroche Liberty,Frankrike,750 ml,15 %,252:-
+0,Nr 50631,Gevrey-Chambertin,Frankrike,750 ml,"13,5 %",510:-
+0,Nr 78799,Jean-Claude Boisset,Frankrike,750 ml,"13,5 %",2 001:-
+0,Nr 79306,Côte-Rôtie,Frankrike,750 ml,"12,5 %",440:-
+0,Nr 2213,Domaine du Grand Montmirail,Frankrike,375 ml,15 %,116:-
+0,Nr 3147,Clarendelle Rouge,Frankrike,1500 ml,13 %,422:-
+0,Nr 76209,Terroir de Bramarel,Frankrike,750 ml,13 %,141:-
+0,Nr 74592,Château La Croizille,Frankrike,750 ml,"12,5 %",1 001:-
+0,Nr 75358,Le Havre de Paix,Frankrike,750 ml,13 %,91:-
+0,Nr 70674,Chateau Pichon,Frankrike,750 ml,"13,5 %",1 791:-
+0,Nr 74892,Incantation,Frankrike,750 ml,15 %,160:-
+0,Nr 74986,Pont de Gassac,Frankrike,750 ml,"13,5 %",151:-
+0,Nr 70939,Perrin,Frankrike,750 ml,"14,5 %",312:-
+0,Nr 77502,Virginie de Valandraud,Frankrike,750 ml,"14,5 %",527:-
+0,Nr 71212,Vidal-Fleury,Frankrike,750 ml,15 %,141:-
+0,Nr 71626,Château du Trignon,Frankrike,750 ml,"14,5 %",151:-
+0,Nr 76434,Château Villars,Frankrike,750 ml,"14,5 %",274:-
+0,Nr 78843,Château Moulin,Frankrike,750 ml,14 %,199:-
+0,Nr 72146,Mes Favorites,Frankrike,750 ml,13 %,559:-
+0,Nr 5461,Mont-Redon,Frankrike,375 ml,14 %,80:-
+0,Nr 70950,Delas,Frankrike,750 ml,14 %,301:-
+0,Nr 70716,Le Versant,Frankrike,750 ml,"13,5 %",121:-
+0,Nr 76143,Saint-Joseph,Frankrike,750 ml,"14,5 %",301:-
+0,Nr 74448,Mas Janeil,Frankrike,750 ml,14 %,151:-
+0,Nr 2011,E. Guigal,Frankrike,1500 ml,"14,5 %",298:-
+0,Nr 79624,Chateau de Gaudou,Frankrike,750 ml,13 %,205:-
+0,Nr 95450,Chenas Quarts,Frankrike,750 ml,14 %,201:-
+0,Nr 75680,Cap Royal,Frankrike,750 ml,"13,5 %",131:-
+0,Nr 73977,Le Ballon,Frankrike,750 ml,"12,5 %",128:-
+0,Nr 74110,Grand Mayne,Frankrike,750 ml,"13,5 %",116:-
+0,Nr 72960,K-or,Frankrike,750 ml,13 %,186:-
+0,Nr 71155,Château Bellevue La Randée,Frankrike,750 ml,14 %,117:-
+0,Nr 79276,Chanzy,Frankrike,750 ml,13 %,421:-
+0,Nr 70406,Chanzy,Frankrike,750 ml,"13,5 %",391:-
+0,Nr 70062,Rouge de Minière,Frankrike,750 ml,13 %,164:-
+0,Nr 71056,Château Beauchêne,Frankrike,750 ml,"14,5 %",166:-
+0,Nr 75411,Chateau Vignelaure,Frankrike,1500 ml,"14,5 %",642:-
+0,Nr 74891,Chateau Vignelaure,Frankrike,1500 ml,14 %,682:-
+0,Nr 76076,Chateau Vignelaure,Frankrike,1500 ml,"14,5 %",662:-
+0,Nr 72541,Xavier Vignon,Frankrike,750 ml,15 %,409:-
+0,Nr 55537,D'Ardhuy,Frankrike,750 ml,"13,5 %",381:-
+0,Nr 55539,D'Ardhuy,Frankrike,750 ml,"13,5 %",521:-
+0,Nr 55581,Cuvée des Gouverneurs,Frankrike,750 ml,14 %,276:-
+0,Nr 55608,Château Maucamps,Frankrike,750 ml,"13,5 %",251:-
+0,Nr 55897,Minuty Prestige,Frankrike,750 ml,"13,5 %",171:-
+0,Nr 55922,Chambolle-Musigny Les Noirots,Frankrike,750 ml,13 %,1 802:-
+0,Nr 92127,François Villard,Frankrike,750 ml,13 %,231:-
+0,Nr 56310,Château Haut-Moulin,Frankrike,750 ml,14 %,156:-
+0,Nr 53761,Domaine de Baronarques,Frankrike,750 ml,15 %,451:-
+0,Nr 53793,Château Pierrail,Frankrike,750 ml,15 %,239:-
+0,Nr 53819,Château Malescasse,Frankrike,750 ml,"14,5 %",329:-
+0,Nr 53809,Château Malescasse,Frankrike,750 ml,"14,5 %",329:-
+0,Nr 53862,Lirac Rouge,Frankrike,750 ml,"14,5 %",167:-
+0,Nr 54227,Phillipe Colin,Frankrike,750 ml,"13,5 %",301:-
+0,Nr 55293,Château D'ARRICAUD,Frankrike,750 ml,14 %,181:-
+0,Nr 55286,Château la Forêt,Frankrike,750 ml,14 %,221:-
+0,Nr 56981,Babiole,Frankrike,750 ml,"12,5 %",268:-
+0,Nr 57109,Nuits-Saint-Georges Premier Cru Les Vaucrains,Frankrike,750 ml,14 %,1 201:-
+0,Nr 57424,Chateau Bernadotte,Frankrike,750 ml,"13,5 %",240:-
+0,Nr 57738,Chapoutier,Frankrike,750 ml,15 %,271:-
+0,Nr 57820,Pierre Gaillard,Frankrike,750 ml,14 %,251:-
+0,Nr 51261,Xavier Vignon,Frankrike,750 ml,15 %,275:-
+0,Nr 70062,Rouge de Minière,Frankrike,750 ml,13 %,164:-
+0,Nr 71056,Château Beauchêne,Frankrike,750 ml,"14,5 %",166:-
+0,Nr 75411,Chateau Vignelaure,Frankrike,1500 ml,"14,5 %",642:-
+0,Nr 74891,Chateau Vignelaure,Frankrike,1500 ml,14 %,682:-
+0,Nr 76076,Chateau Vignelaure,Frankrike,1500 ml,"14,5 %",662:-
+0,Nr 72541,Xavier Vignon,Frankrike,750 ml,15 %,409:-
+0,Nr 57424,Chateau Bernadotte,Frankrike,750 ml,"13,5 %",240:-
+0,Nr 57738,Chapoutier,Frankrike,750 ml,15 %,271:-
+0,Nr 57820,Pierre Gaillard,Frankrike,750 ml,14 %,251:-
+0,Nr 57989,Xavier Vignon,Frankrike,750 ml,15 %,451:-
+0,Nr 58033,Château Kirwan,Frankrike,750 ml,"13,5 %",751:-
+0,Nr 82266,Château de Parenchère,Frankrike,750 ml,"14,5 %",171:-
+0,Nr 58425,Domaine D'Ardhuy,Frankrike,750 ml,"13,5 %",1 201:-
+0,Nr 58539,Château De Fesles,Frankrike,750 ml,13 %,161:-
+0,Nr 58580,Môl,Frankrike,750 ml,13 %,290:-
+0,Nr 50906,Naudin Père & Fils,Frankrike,750 ml,13 %,99:-
+0,Nr 5421,La Vignée,Frankrike,750 ml,"12,5 %",221:-
+0,Nr 58962,Crapule,Frankrike,750 ml,12 %,230:-
+0,Nr 59157,La Croix Montjoie,Frankrike,750 ml,13 %,191:-
+0,Nr 59442,Moulin des Costes Charriage,Frankrike,750 ml,15 %,540:-
+0,Nr 59469,Domaine de Font-Sane,Frankrike,750 ml,15 %,351:-
+0,Nr 75789,Laurent Miquel,Frankrike,750 ml,14 %,121:-
+0,Nr 56310,Château Haut-Moulin,Frankrike,750 ml,14 %,156:-
+0,Nr 56981,Babiole,Frankrike,750 ml,"12,5 %",268:-
+0,Nr 57109,Nuits-Saint-Georges Premier Cru Les Vaucrains,Frankrike,750 ml,14 %,1 201:-
+0,Nr 50555,John Malkovich,Frankrike,750 ml,13 %,250:-
+0,Nr 50717,Montez,Frankrike,750 ml,14 %,279:-
+0,Nr 50741,Volnay,Frankrike,750 ml,13 %,1 201:-
+0,Nr 51261,Xavier Vignon,Frankrike,750 ml,15 %,275:-
+0,Nr 78722,Bourgogne,Frankrike,750 ml,"13,5 %",164:-
+0,Nr 71945,Château Cibon,Frankrike,750 ml,14 %,777:-
+0,Nr 70036,Tour du Bon,Frankrike,750 ml,14 %,487:-
+0,Nr 76465,Mercurey,Frankrike,750 ml,13 %,251:-
+0,Nr 73243,Louis Jadot,Frankrike,750 ml,"13,5 %",631:-
+0,Nr 75713,Bernard Tornay,Frankrike,750 ml,12 %,400:-
+0,Nr 70775,Marrenon,Frankrike,750 ml,"14,5 %",130:-
+0,Nr 81542,Moulin-à-Vent,Frankrike,1500 ml,"13,5 %",598:-
+0,Nr 50040,Château de Chamirey,Frankrike,750 ml,14 %,477:-
+0,Nr 50202,Les Pier Blancs,Frankrike,750 ml,14 %,221:-
+0,Nr 50439,Puech Cremat,Frankrike,750 ml,13 %,161:-
+0,Nr 50555,John Malkovich,Frankrike,750 ml,13 %,250:-
+0,Nr 50717,Montez,Frankrike,750 ml,14 %,279:-
+0,Nr 50741,Volnay,Frankrike,750 ml,13 %,1 201:-
+0,Nr 57989,Xavier Vignon,Frankrike,750 ml,15 %,451:-
+0,Nr 58033,Château Kirwan,Frankrike,750 ml,"13,5 %",751:-
+0,Nr 82266,Château de Parenchère,Frankrike,750 ml,"14,5 %",171:-
+0,Nr 58425,Domaine D'Ardhuy,Frankrike,750 ml,"13,5 %",1 201:-
+0,Nr 58539,Château De Fesles,Frankrike,750 ml,13 %,161:-
+0,Nr 58580,Môl,Frankrike,750 ml,13 %,290:-
+0,Nr 50906,Naudin Père & Fils,Frankrike,750 ml,13 %,99:-
+0,Nr 5421,La Vignée,Frankrike,750 ml,"12,5 %",221:-
+0,Nr 58962,Crapule,Frankrike,750 ml,12 %,230:-
+0,Nr 59081,Esprit Corton Loliers,Frankrike,750 ml,13 %,4 901:-
+0,Nr 59157,La Croix Montjoie,Frankrike,750 ml,13 %,191:-
+0,Nr 59442,Moulin des Costes Charriage,Frankrike,750 ml,15 %,540:-
+0,Nr 59469,Domaine de Font-Sane,Frankrike,750 ml,15 %,351:-
+0,Nr 75789,Laurent Miquel,Frankrike,750 ml,14 %,121:-
+0,Nr 71832,Delas Saint Esprit,Frankrike,1500 ml,13 %,232:-
+0,Nr 76059,Châteauneuf-du-Pape,Frankrike,750 ml,"14,5 %",441:-
+0,Nr 55922,Chambolle-Musigny Les Noirots,Frankrike,750 ml,13 %,1 802:-
+0,Nr 92127,François Villard,Frankrike,750 ml,13 %,231:-
+0,Nr 52616,Chambolle-Musigny,Frankrike,750 ml,13 %,3 151:-
+0,Nr 52706,Château Certan de May,Frankrike,375 ml,"13,5 %",900:-
+0,Nr 52703,Château Hosanna,Frankrike,1500 ml,"13,5 %",12 503:-
+0,Nr 52841,Joillot,Frankrike,750 ml,"13,5 %",420:-
+0,Nr 53761,Domaine de Baronarques,Frankrike,750 ml,15 %,451:-
+0,Nr 53793,Château Pierrail,Frankrike,750 ml,15 %,239:-
+0,Nr 53819,Château Malescasse,Frankrike,750 ml,"14,5 %",329:-
+0,Nr 53809,Château Malescasse,Frankrike,750 ml,"14,5 %",329:-
+0,Nr 53862,Lirac Rouge,Frankrike,750 ml,"14,5 %",167:-
+0,Nr 54227,Phillipe Colin,Frankrike,750 ml,"13,5 %",301:-
+0,Nr 55293,Château D'ARRICAUD,Frankrike,750 ml,14 %,181:-
+0,Nr 55286,Château la Forêt,Frankrike,750 ml,14 %,221:-
+0,Nr 79201,Côtes du Rhône,Frankrike,750 ml,"13,5 %",149:-
+0,Nr 70506,Mouton Cadet,Frankrike,750 ml,"14,5 %",171:-
+0,Nr 76439,Château Monconseil Gazin,Frankrike,750 ml,"13,5 %",214:-
+0,Nr 74246,Laurus,Frankrike,750 ml,14 %,261:-
+0,Nr 73590,Saumur Champigny,Frankrike,750 ml,13 %,185:-
+0,Nr 76656,Saint-Joseph,Frankrike,750 ml,14 %,256:-
+0,Nr 70409,Edward Blom,Frankrike,750 ml,"12,5 %",101:-
+0,Nr 75805,Château Pey La Tour,Frankrike,750 ml,"14,5 %",164:-
+0,Nr 73411,Gigondas,Frankrike,750 ml,15 %,291:-
+0,Nr 76641,Château Capet-Guillier,Frankrike,750 ml,15 %,407:-
+0,Nr 73875,Saint Joseph,Frankrike,750 ml,"13,5 %",291:-
+0,Nr 75126,Le Pigeoulet des Brunier,Frankrike,750 ml,14 %,151:-
+0,Nr 79767,Moulin á Vent,Frankrike,750 ml,"13,5 %",187:-
+0,Nr 74782,Domaine du Petit Clocher,Frankrike,750 ml,"12,5 %",173:-
+0,Nr 81720,Marsannay La Montagne,Frankrike,750 ml,13 %,364:-
+0,Nr 3147,Clarendelle,Frankrike,750 ml,"12,5 %",211:-
+0,Nr 77700,Château La Freynelle,Frankrike,750 ml,"13,5 %",150:-
+0,Nr 73873,Jean-Claude Boisset,Frankrike,750 ml,"13,5 %",601:-
+0,Nr 79294,Gigondas,Frankrike,750 ml,15 %,231:-
+0,Nr 56984,Château de Saint Martin,Frankrike,750 ml,"13,5 %",230:-
+0,Nr 56997,Ni Ange Ni Démon,Frankrike,750 ml,"13,5 %",161:-
+0,Nr 57187,Philippe Jambon,Frankrike,750 ml,"14,5 %",258:-
+0,Nr 57379,Blagny Premier Cru,Frankrike,750 ml,12 %,1 097:-
+0,Nr 57449,Fleurie,Frankrike,750 ml,13 %,221:-
+0,Nr 57680,Vin & Natur Hors Champs 1,Frankrike,3 fl à 750 ml,"12,5 %",903:-
+0,Nr 57770,Chapoutier Marius,Frankrike,750 ml,14 %,111:-
+0,Nr 57819,Bila-Haut,Frankrike,750 ml,"14,5 %",430:-
+0,Nr 57907,Schiste & Granite,Frankrike,750 ml,"13,5 %",101:-
+0,Nr 57939,Tour de Rieux,Frankrike,750 ml,"13,5 %",181:-
+0,Nr 77454,Charmes de Kirwan,Frankrike,1500 ml,13 %,772:-
+0,Nr 58202,Puig Ambeille,Frankrike,750 ml,"14,5 %",244:-
+0,Nr 58337,Bourgogne Passetoutgrains,Frankrike,750 ml,"12,5 %",301:-
+0,Nr 58512,Domaine Mee Godard,Frankrike,750 ml,14 %,381:-
+0,Nr 58559,Beaujolais Villages,Frankrike,750 ml,14 %,241:-
+0,Nr 58566,Pimpinella,Frankrike,750 ml,13 %,97:-
+0,Nr 77129,M.Chapoutier,Frankrike,750 ml,14 %,131:-
+0,Nr 70603,Côtes du Rhône,Frankrike,750 ml,"14,5 %",141:-
+0,Nr 79129,Domaine de Fontbonau,Frankrike,750 ml,15 %,436:-
+0,Nr 72940,Domaines des Baumard,Frankrike,750 ml,"12,5 %",200:-
+0,Nr 79022,Moulin-à-Vent,Frankrike,750 ml,13 %,191:-
+0,Nr 70069,Délice du Prieuré,Frankrike,750 ml,14 %,325:-
+0,Nr 70934,Le Prestige,Frankrike,750 ml,"14,5 %",133:-
+0,Nr 72141,Château La Roca,Frankrike,750 ml,"14,5 %",126:-
+0,Nr 72502,Château Belair-Monange,Frankrike,750 ml,"14,5 %",1 502:-
+0,Nr 76392,Menetou-Salon,Frankrike,750 ml,"14,5 %",211:-
+0,Nr 88219,Bourgogne Rouge,Frankrike,750 ml,13 %,241:-
+0,Nr 58659,Vendome Ergeron,Frankrike,750 ml,13 %,348:-
+0,Nr 58757,Jonchère,Frankrike,750 ml,"12,5 %",206:-
+0,Nr 58910,Clos Santini,Frankrike,750 ml,14 %,377:-
+0,Nr 58932,Château Paradis Casseuil,Frankrike,750 ml,14 %,181:-
+0,Nr 59074,Château d'Armailhac,Frankrike,750 ml,"13,5 %",1 101:-
+0,Nr 59166,Petite Rouge,Frankrike,750 ml,"12,5 %",111:-
+0,Nr 59331,Château La Fleur,Frankrike,750 ml,14 %,530:-
+0,Nr 59335,Château Lauga,Frankrike,750 ml,14 %,454:-
+0,Nr 59364,BM,Frankrike,750 ml,14 %,189:-
+0,Nr 59382,Chateau de Lauga,Frankrike,750 ml,"13,5 %",443:-
+0,Nr 59383,Chateau de Lauga,Frankrike,1500 ml,"12,5 %",828:-
+0,Nr 59436,Chateau la Rouvière,Frankrike,750 ml,"14,5 %",950:-
+0,Nr 59438,Chateau la Rouvière Rouge,Frankrike,750 ml,15 %,400:-
+0,Nr 59445,Chateau Peychaud Bordeaux Supérieur Rouge,Frankrike,750 ml,"13,5 %",151:-
+0,Nr 59449,Chateau Peychaud,Frankrike,750 ml,"13,5 %",190:-
+0,Nr 59483,Domaine de Font-Sane,Frankrike,750 ml,15 %,250:-
+0,Nr 59494,Château Montus,Frankrike,750 ml,14 %,397:-
+0,Nr 59614,Château Grimont,Frankrike,750 ml,"14,5 %",149:-
+0,Nr 74290,Savigny-lès-Beaune,Frankrike,750 ml,13 %,301:-
+0,Nr 72468,Jean-Paul Brun,Frankrike,750 ml,"12,5 %",201:-
+0,Nr 72690,Château Picque Caillou,Frankrike,750 ml,"13,5 %",598:-
+0,Nr 51219,Château Le Coteau,Frankrike,750 ml,13 %,359:-
+0,Nr 51288,Château La Serre,Frankrike,750 ml,"14,5 %",902:-
+0,Nr 51279,Château La Fleur-Pétrus,Frankrike,750 ml,"14,5 %",3 002:-
+0,Nr 51361,Domaine de la Rectorie,Frankrike,750 ml,15 %,251:-
+0,Nr 51406,Château Toulouze,Frankrike,750 ml,"13,5 %",157:-
+0,Nr 51389,Pierre et Bastien,Frankrike,750 ml,"13,5 %",381:-
+0,Nr 51525,Château Bélair-Monange,Frankrike,1500 ml,14 %,3 003:-
+0,Nr 51811,Domaine D'Ardhuy,Frankrike,750 ml,"13,5 %",561:-
+0,Nr 52105,Fruitière Vinicole d' Arbois,Frankrike,750 ml,13 %,201:-
+0,Nr 59364,BM,Frankrike,750 ml,14 %,189:-
+0,Nr 59382,Chateau de Lauga,Frankrike,750 ml,"13,5 %",443:-
+0,Nr 59383,Chateau de Lauga,Frankrike,1500 ml,"12,5 %",828:-
+0,Nr 59436,Chateau la Rouvière,Frankrike,750 ml,"14,5 %",950:-
+0,Nr 59438,Chateau la Rouvière Rouge,Frankrike,750 ml,15 %,400:-
+0,Nr 59445,Chateau Peychaud Bordeaux Supérieur Rouge,Frankrike,750 ml,"13,5 %",151:-
+0,Nr 59449,Chateau Peychaud,Frankrike,750 ml,"13,5 %",190:-
+0,Nr 59483,Domaine de Font-Sane,Frankrike,750 ml,15 %,250:-
+0,Nr 59494,Château Montus,Frankrike,750 ml,14 %,397:-
+0,Nr 59614,Château Grimont,Frankrike,750 ml,"14,5 %",149:-
+0,Nr 74290,Savigny-lès-Beaune,Frankrike,750 ml,13 %,301:-
+0,Nr 72468,Jean-Paul Brun,Frankrike,750 ml,"12,5 %",201:-
+0,Nr 72690,Château Picque Caillou,Frankrike,750 ml,"13,5 %",598:-
+0,Nr 82681,Château de Parenchère,Frankrike,750 ml,"14,5 %",131:-
+0,Nr 75797,Domaine Piquemal,Frankrike,750 ml,14 %,147:-
+0,Nr 70271,E Guigal,Frankrike,750 ml,"14,5 %",401:-
+0,Nr 72602,Chateau Rocher Corbin,Frankrike,750 ml,14 %,211:-
+0,Nr 75796,Bourgogne Pinot Noir,Frankrike,750 ml,13 %,199:-
+0,Nr 79014,Griotte-Chambertin,Frankrike,750 ml,13 %,2 697:-
+0,Nr 91121,Mas Janeil,Frankrike,750 ml,"15,5 %",452:-
+0,Nr 75758,Delas Côte-Rôtie,Frankrike,750 ml,"14,5 %",1 801:-
+0,Nr 76797,Le Clos des Roussettes,Frankrike,750 ml,"12,5 %",120:-
+0,Nr 71855,Château de Minière,Frankrike,750 ml,13 %,212:-
+0,Nr 71946,Ascensio,Frankrike,750 ml,15 %,701:-
+0,Nr 74364,Arnaud Baillot,Frankrike,750 ml,"14,5 %",334:-
+0,Nr 50446,BulBille,Frankrike,750 ml,"14,5 %",201:-
+0,Nr 50882,Château Picque Caillou,Frankrike,750 ml,13 %,401:-
+0,Nr 51219,Château Le Coteau,Frankrike,750 ml,13 %,359:-
+0,Nr 51288,Château La Serre,Frankrike,750 ml,"14,5 %",902:-
+0,Nr 51279,Château La Fleur-Pétrus,Frankrike,750 ml,"14,5 %",3 002:-
+0,Nr 58566,Pimpinella,Frankrike,750 ml,13 %,97:-
+0,Nr 53546,Beaune Premier Cru,Frankrike,750 ml,"13,5 %",461:-
+0,Nr 53547,Beaune Premier Cru,Frankrike,1500 ml,"13,5 %",948:-
+0,Nr 53770,La Capitelle de Baronarques,Frankrike,750 ml,"14,5 %",281:-
+0,Nr 53805,La Villette,Frankrike,750 ml,"14,5 %",151:-
+0,Nr 53899,Jaffelin,Frankrike,750 ml,"13,5 %",641:-
+0,Nr 54060,Julie Balagny,Frankrike,750 ml,"14,5 %",340:-
+0,Nr 54538,Château Haut Gay,Frankrike,750 ml,14 %,161:-
+0,Nr 72542,L'Oriental,Frankrike,750 ml,"15,5 %",302:-
+0,Nr 78362,Pierre Gaillard,Frankrike,750 ml,"13,5 %",801:-
+0,Nr 72698,Cotes du Jura,Frankrike,750 ml,"12,5 %",161:-
+0,Nr 79592,Edouard Delaunay,Frankrike,750 ml,14 %,701:-
+0,Nr 78642,Edouard Delaunay,Frankrike,750 ml,"13,5 %",371:-
+0,Nr 76812,Edouard Delaunay,Frankrike,750 ml,13 %,181:-
+0,Nr 75617,Brouilly,Frankrike,750 ml,13 %,177:-
+0,Nr 79232,Domaine Trilles,Frankrike,750 ml,"13,5 %",190:-
+0,Nr 73489,Côtes du Rhône,Frankrike,750 ml,"14,5 %",151:-
+0,Nr 70660,Jean d´Alibert,Frankrike,750 ml,13 %,127:-
+0,Nr 70972,Cornas,Frankrike,750 ml,13 %,469:-
+0,Nr 55572,Orenga de Gaffory,Frankrike,750 ml,"15,5 %",297:-
+0,Nr 55748,Chateau Bouscassé,Frankrike,750 ml,"12,5 %",201:-
+0,Nr 55830,Sällskapets Röda,Frankrike,750 ml,14 %,201:-
+0,Nr 56030,Château Bonnet Réserve,Frankrike,750 ml,14 %,171:-
+0,Nr 77129,M.Chapoutier,Frankrike,750 ml,14 %,131:-
+0,Nr 70603,Côtes du Rhône,Frankrike,750 ml,"14,5 %",141:-
+0,Nr 79129,Domaine de Fontbonau,Frankrike,750 ml,15 %,436:-
+0,Nr 72940,Domaines des Baumard,Frankrike,750 ml,"12,5 %",200:-
+0,Nr 79022,Moulin-à-Vent,Frankrike,750 ml,13 %,191:-
+0,Nr 70069,Délice du Prieuré,Frankrike,750 ml,14 %,325:-
+0,Nr 70934,Le Prestige,Frankrike,750 ml,"14,5 %",133:-
+0,Nr 72141,Château La Roca,Frankrike,750 ml,"14,5 %",126:-
+0,Nr 72502,Château Belair-Monange,Frankrike,750 ml,"14,5 %",1 502:-
+0,Nr 76392,Menetou-Salon,Frankrike,750 ml,"14,5 %",211:-
+0,Nr 88219,Bourgogne Rouge,Frankrike,750 ml,13 %,241:-
+0,Nr 70861,Château de Pez,Frankrike,750 ml,13 %,471:-
+0,Nr 76379,Château du Trignon,Frankrike,750 ml,"14,5 %",121:-
+0,Nr 76655,Château Calon-Ségur,Frankrike,750 ml,"13,5 %",1 797:-
+0,Nr 73071,Chateau Lamothe Rouge,Frankrike,750 ml,"13,5 %",151:-
+0,Nr 70312,Bourgogne Pinot Noir,Frankrike,750 ml,"12,5 %",235:-
+0,Nr 72984,Dourthe No 1,Frankrike,750 ml,14 %,141:-
+0,Nr 72558,Pierre Usséglio,Frankrike,750 ml,"14,5 %",180:-
+0,Nr 74998,Juliénas,Frankrike,750 ml,13 %,171:-
+0,Nr 83326,Carl Jan,Frankrike,1500 ml,12 %,287:-
+0,Nr 74503,Saint Cosme,Frankrike,750 ml,"14,5 %",146:-
+0,Nr 73679,Léon Beyer,Frankrike,750 ml,13 %,181:-
+0,Nr 70742,Guillot-Broux,Frankrike,750 ml,"12,5 %",179:-
+0,Nr 76051,Château Marsannay,Frankrike,750 ml,"12,5 %",381:-
+0,Nr 70839,Brouilly,Frankrike,750 ml,"12,5 %",281:-
+0,Nr 70982,Olivier & Lafont,Frankrike,750 ml,"13,5 %",257:-
+0,Nr 79153,Laurus,Frankrike,750 ml,15 %,231:-
+0,Nr 77056,Chatêau Grand Barrail,Frankrike,750 ml,14 %,371:-
+0,Nr 73206,Bourgogne Clos,Frankrike,750 ml,13 %,251:-
+0,Nr 78826,Cévennes,Frankrike,750 ml,"13,5 %",130:-
+0,Nr 76400,Mas Cristine,Frankrike,750 ml,"14,5 %",200:-
+0,Nr 79284,Le Clos,Frankrike,750 ml,14 %,204:-
+0,Nr 72519,La Villette Grenache Syrah Mourvedre,Frankrike,750 ml,"13,5 %",151:-
+0,Nr 72764,Côtes-du-Rhône,Frankrike,750 ml,"14,5 %",140:-
+0,Nr 79016,Domaines des Baumard,Frankrike,750 ml,12 %,169:-
+0,Nr 95915,Bourgogne Rouge,Frankrike,750 ml,"12,5 %",281:-
+0,Nr 78626,Château Haut Breton Larigaudière,Frankrike,750 ml,"12,5 %",960:-
+0,Nr 74679,Côte Rotie,Frankrike,750 ml,14 %,441:-
+0,Nr 79193,Château Bernadotte,Frankrike,750 ml,"13,5 %",351:-
+0,Nr 70422,Cuvée Laurent Crozes-Hermitage,Frankrike,750 ml,"13,5 %",197:-
+0,Nr 76348,Clos La Gaffelière,Frankrike,750 ml,14 %,361:-
+0,Nr 50093,Roc,Frankrike,750 ml,"12,5 %",206:-
+0,Nr 51734,Cornas Jouvet,Frankrike,750 ml,"13,5 %",449:-
+0,Nr 51776,Domaine Pontheux,Frankrike,750 ml,13 %,156:-
+0,Nr 58774,Beaujolais-Villages,Frankrike,750 ml,"14,5 %",181:-
+0,Nr 58833,Baron Dauvergne,Frankrike,750 ml,"12,5 %",426:-
+0,Nr 58927,Karim Vionnet,Frankrike,750 ml,12 %,240:-
+0,Nr 59021,Château la Branne,Frankrike,750 ml,13 %,302:-
+0,Nr 59037,Château la Branne,Frankrike,750 ml,14 %,302:-
+0,Nr 59209,Château Montus,Frankrike,750 ml,14 %,597:-
+0,Nr 59212,Château Bouscassé,Frankrike,375 ml,"13,5 %",120:-
+0,Nr 59228,Château Bouscassé,Frankrike,750 ml,14 %,381:-
+0,Nr 59314,Gamay,Frankrike,750 ml,12 %,266:-
+0,Nr 59439,Moulin des Costes Rouge,Frankrike,750 ml,"13,5 %",701:-
+0,Nr 59480,Chateau Bonnange,Frankrike,750 ml,"14,5 %",241:-
+0,Nr 56615,Bouchard Père & Fils,Frankrike,750 ml,"13,5 %",601:-
+0,Nr 56602,Saint Nicolas,Frankrike,750 ml,13 %,251:-
+0,Nr 56644,Cellier des Dauphins,Frankrike,750 ml,"14,5 %",131:-
+0,Nr 83179,Delas,Frankrike,750 ml,14 %,111:-
+0,Nr 56855,E Guigal Château de Nalys Grand Vin,Frankrike,750 ml,"15,5 %",758:-
+0,Nr 57013,Bla Bla,Frankrike,750 ml,14 %,151:-
+0,Nr 57043,Le Taillou,Frankrike,750 ml,"13,5 %",170:-
+0,Nr 57278,Juliénas,Frankrike,750 ml,13 %,221:-
+0,Nr 51384,La Bergerie des Abeilles,Frankrike,750 ml,15 %,201:-
+0,Nr 51457,Château Lafon-Rochet,Frankrike,750 ml,14 %,717:-
+0,Nr 51527,Château Bélair,Frankrike,750 ml,13 %,1 502:-
+0,Nr 51634,Xavier Vignon,Frankrike,750 ml,15 %,275:-
+0,Nr 57043,Le Taillou,Frankrike,750 ml,"13,5 %",170:-
+0,Nr 57278,Juliénas,Frankrike,750 ml,13 %,221:-
+0,Nr 94999,Connétable Talbot,Frankrike,375 ml,"13,5 %",200:-
+0,Nr 57925,Morgon,Frankrike,750 ml,"13,5 %",221:-
+0,Nr 75759,Beaujolais-Villages,Frankrike,750 ml,"12,5 %",201:-
+0,Nr 82385,La Gascogne par Alain Brumont,Frankrike,750 ml,"12,5 %",111:-
+0,Nr 58158,Côte-Rôtie,Frankrike,750 ml,"13,5 %",1 331:-
+0,Nr 58212,La Chapelle Saint Mathieu,Frankrike,750 ml,13 %,236:-
+0,Nr 58391,Jean-Claude Boisset,Frankrike,750 ml,"14,5 %",649:-
+0,Nr 50093,Roc,Frankrike,750 ml,"12,5 %",206:-
+0,Nr 51734,Cornas Jouvet,Frankrike,750 ml,"13,5 %",449:-
+0,Nr 51776,Domaine Pontheux,Frankrike,750 ml,13 %,156:-
+0,Nr 58774,Beaujolais-Villages,Frankrike,750 ml,"14,5 %",181:-
+0,Nr 58833,Baron Dauvergne,Frankrike,750 ml,"12,5 %",426:-
+0,Nr 58927,Karim Vionnet,Frankrike,750 ml,12 %,240:-
+0,Nr 59021,Château la Branne,Frankrike,750 ml,13 %,302:-
+0,Nr 59037,Château la Branne,Frankrike,750 ml,14 %,302:-
+0,Nr 53841,Bourgogne,Frankrike,750 ml,13 %,241:-
+0,Nr 53873,Beaujolais Nouveau,Frankrike,750 ml,13 %,151:-
+0,Nr 53869,Château Charmail,Frankrike,1500 ml,"13,5 %",602:-
+0,Nr 54090,Domaine Saint Cels,Frankrike,750 ml,"13,5 %",131:-
+0,Nr 54068,Château de Nalys,Frankrike,750 ml,"15,5 %",748:-
+0,Nr 54144,Château Bertrand,Frankrike,750 ml,"13,5 %",300:-
+0,Nr 54184,Château Beauchêne,Frankrike,750 ml,"15,5 %",481:-
+0,Nr 54307,Arbois Vignes aux Anes Trousseau,Frankrike,750 ml,"13,5 %",191:-
+0,Nr 54457,Clos Dière Barrique,Frankrike,750 ml,14 %,351:-
+0,Nr 54657,Nuits-Saint-Georges Vieilles Vignes,Frankrike,750 ml,"13,5 %",651:-
+0,Nr 54774,Le Taillou,Frankrike,750 ml,14 %,160:-
+0,Nr 55297,Château Soussans,Frankrike,750 ml,"14,5 %",361:-
+0,Nr 55287,Château Mélin,Frankrike,750 ml,14 %,241:-
+0,Nr 95745,Morgon Corcelette,Frankrike,750 ml,"13,5 %",191:-
+0,Nr 75147,Montagne,Frankrike,750 ml,15 %,381:-
+0,Nr 90555,Saint-Amour,Frankrike,750 ml,"14,5 %",231:-
+0,Nr 76715,Fleurie,Frankrike,750 ml,13 %,301:-
+0,Nr 70698,Les Jamelles,Frankrike,750 ml,14 %,151:-
+0,Nr 70141,Château Tour Baladoz,Frankrike,750 ml,14 %,401:-
+0,Nr 72284,Bourgogne-Hautes-Côtes de Nuits,Frankrike,750 ml,13 %,201:-
+0,Nr 72631,Côte de Nuits-Villages,Frankrike,750 ml,"13,5 %",221:-
+0,Nr 78627,Morgon,Frankrike,750 ml,"13,5 %",181:-
+0,Nr 2065,Château Vignelaure,Frankrike,1500 ml,"14,5 %",622:-
+0,Nr 55508,Domaine de la Pinède,Frankrike,750 ml,"12,5 %",136:-
+0,Nr 55559,Domaines Bunan,Frankrike,750 ml,14 %,550:-
+0,Nr 55561,Cuvée des Gouverneurs,Frankrike,750 ml,"13,5 %",276:-
+0,Nr 55567,Rolly Gassmann,Frankrike,750 ml,"12,5 %",330:-
+0,Nr 55744,Chateau Bouscassé,Frankrike,750 ml,"14,5 %",377:-
+0,Nr 55745,Chateau Bouscassé,Frankrike,750 ml,14 %,341:-
+0,Nr 56034,Châteauneuf-du-Pape Cuvée Centenaire Les Cailloux,Frankrike,750 ml,"14,5 %",1 001:-
+0,Nr 75066,Beaune Gréves,Frankrike,750 ml,"13,5 %",491:-
+0,Nr 75205,Les Espassoles,Frankrike,750 ml,13 %,125:-
+0,Nr 77155,Le Petit Tracteur,Frankrike,750 ml,"13,5 %",101:-
+0,Nr 73654,Château Vieux Mougnac,Frankrike,750 ml,13 %,300:-
+0,Nr 72269,L'Art Zélé Syrah,Frankrike,750 ml,"12,5 %",261:-
+0,Nr 78898,Domaine Maby,Frankrike,750 ml,15 %,230:-
+0,Nr 76915,Beaune Premier Cru,Frankrike,1500 ml,"13,5 %",862:-
+0,Nr 76771,Caladoc,Frankrike,750 ml,"14,5 %",151:-
+0,Nr 74896,Marrenon,Frankrike,750 ml,15 %,481:-
+0,Nr 76919,Clotilde Davenne,Frankrike,750 ml,"12,5 %",201:-
+0,Nr 75903,Le Petit Mouton,Frankrike,750 ml,13 %,3 901:-
+0,Nr 76394,Solis,Frankrike,750 ml,"14,5 %",151:-
+0,Nr 78497,Chante Cigale,Frankrike,750 ml,13 %,147:-
+0,Nr 70205,r Rabiega,Frankrike,750 ml,"13,5 %",251:-
+0,Nr 74641,Château Saint-Pierre,Frankrike,750 ml,"12,5 %",1 177:-
+0,Nr 77567,Domaine du Bon Remède,Frankrike,750 ml,"14,5 %",181:-
+0,Nr 77780,La Grange Delay,Frankrike,750 ml,"14,5 %",171:-
+0,Nr 82966,Mas Janeil,Frankrike,750 ml,"14,5 %",191:-
+0,Nr 80611,Château de Chamirey,Frankrike,750 ml,"13,5 %",351:-
+0,Nr 50123,Le Roc de Chateau Puybarbe,Frankrike,750 ml,15 %,151:-
+0,Nr 50201,Saint Joseph,Frankrike,750 ml,"14,5 %",323:-
+0,Nr 50561,John Malkovich LQLC,Frankrike,750 ml,14 %,250:-
+0,Nr 50861,Amadieu Gigondas,Frankrike,750 ml,15 %,299:-
+0,Nr 50907,Chateau Sixtine,Frankrike,750 ml,15 %,377:-
+0,Nr 72372,La Petite Perrière,Frankrike,750 ml,13 %,109:-
+0,Nr 71549,Laurent Miquel,Frankrike,750 ml,14 %,121:-
+0,Nr 70292,Paul Jaboulet,Frankrike,750 ml,14 %,201:-
+0,Nr 70044,Paul Jaboulet,Frankrike,750 ml,"14,5 %",241:-
+0,Nr 70922,Saint-Joseph,Frankrike,750 ml,"13,5 %",340:-
+0,Nr 73707,Laurent Miquel,Frankrike,750 ml,"13,5 %",151:-
+0,Nr 72409,Château d'Anglès,Frankrike,750 ml,14 %,151:-
+0,Nr 70489,Gevrey-Chambertin Premier Cru Les Champeaux,Frankrike,750 ml,13 %,622:-
+0,Nr 73902,JP Chenet,Frankrike,750 ml,"13,5 %",79:-
+0,Nr 71329,Le Page,Frankrike,750 ml,13 %,100:-
+0,Nr 76378,Château du Trignon,Frankrike,750 ml,"14,5 %",211:-
+0,Nr 71810,Côtes du Rhône Cuvée Sommelongue,Frankrike,750 ml,14 %,147:-
+0,Nr 77273,Château Belair-Monange,Frankrike,750 ml,14 %,1 502:-
+0,Nr 75600,Xavier Vignon,Frankrike,750 ml,15 %,229:-
+0,Nr 78438,Les Hauts de Castelmaure,Frankrike,750 ml,"14,5 %",131:-
+0,Nr 78807,Côtes du Rhône,Frankrike,750 ml,"14,5 %",180:-
+0,Nr 79676,Saumur,Frankrike,750 ml,14 %,146:-
+0,Nr 77039,Cuvée du Vatican,Frankrike,750 ml,"14,5 %",127:-
+0,Nr 75111,Louis Jadot,Frankrike,750 ml,"13,5 %",1 997:-
+0,Nr 72634,Mr Burger,Frankrike,750 ml,"14,5 %",141:-
+0,Nr 77504,Jean Charles Fagot,Frankrike,750 ml,13 %,590:-
+0,Nr 77855,Prunier,Frankrike,750 ml,13 %,340:-
+0,Nr 78647,Les Jamelles,Frankrike,750 ml,13 %,106:-
+0,Nr 87731,Les Grèzes,Frankrike,750 ml,13 %,141:-
+0,Nr 50184,Pichon,Frankrike,750 ml,"14,5 %",598:-
+0,Nr 50319,Château La Confession,Frankrike,750 ml,"13,5 %",491:-
+0,Nr 50385,Suffrene,Frankrike,750 ml,14 %,140:-
+0,Nr 50424,Côtes du Rhône,Frankrike,750 ml,14 %,190:-
+0,Nr 50923,Amadieu Domaine Grand Romane Gigondas,Frankrike,750 ml,15 %,276:-
+0,Nr 51049,Château La Fleur-Pétrus,Frankrike,750 ml,"14,5 %",3 002:-
+0,Nr 51050,Château Hosanna,Frankrike,750 ml,14 %,1 902:-
+0,Nr 51126,Château Trotanoy,Frankrike,750 ml,"14,5 %",2 902:-
+0,Nr 51134,Domaine Olivier Hillaire,Frankrike,750 ml,15 %,349:-
+0,Nr 51283,Château Bélair-Monange,Frankrike,750 ml,"14,5 %",1 502:-
+0,Nr 51362,Domaine de la Rectorie,Frankrike,750 ml,14 %,487:-
+0,Nr 51363,Banyuls,Frankrike,500 ml,17 %,291:-
+0,Nr 51376,Château Maurac,Frankrike,750 ml,"13,5 %",220:-
+0,Nr 51530,Les Pélerins,Frankrike,750 ml,"14,5 %",352:-
+0,Nr 51760,Château Bertrand Braneyre,Frankrike,750 ml,"12,5 %",270:-
+0,Nr 51836,Château La Serre,Frankrike,750 ml,"14,5 %",902:-
+0,Nr 70144,Crozes-Hermitage,Frankrike,750 ml,14 %,201:-
+0,Nr 74726,Castelbeaux,Frankrike,750 ml,13 %,119:-
+0,Nr 75363,Chateau de Marsannay,Frankrike,750 ml,"13,5 %",307:-
+0,Nr 76007,Monthélie Domaine,Frankrike,750 ml,13 %,371:-
+0,Nr 78151,Villa Ponciago,Frankrike,750 ml,"13,5 %",181:-
+0,Nr 76334,Le Grill,Frankrike,750 ml,14 %,156:-
+0,Nr 75176,G d'Estournel,Frankrike,750 ml,"13,5 %",421:-
+0,Nr 78349,Domaine D'Ardhuy,Frankrike,750 ml,"14,5 %",301:-
+0,Nr 56840,Château Piron,Frankrike,750 ml,13 %,201:-
+0,Nr 56854,Pic Saint-Loup,Frankrike,750 ml,14 %,191:-
+0,Nr 57263,r Rabiega 1920,Frankrike,750 ml,14 %,251:-
+0,Nr 57806,Pierre Gaillard,Frankrike,750 ml,"14,5 %",301:-
+0,Nr 57895,Roc Cab',Frankrike,750 ml,"12,5 %",312:-
+0,Nr 79507,Domaine Garon,Frankrike,750 ml,"12,5 %",211:-
+0,Nr 72273,Saint-Joseph,Frankrike,750 ml,"13,5 %",341:-
+0,Nr 70595,Saint-Joseph,Frankrike,750 ml,"14,5 %",401:-
+0,Nr 72355,Côtes-de-Rhône-Villages Cairanne,Frankrike,750 ml,15 %,191:-
+0,Nr 72897,Cuvée Olivier,Frankrike,750 ml,"15,5 %",398:-
+0,Nr 79900,Les Musardises,Frankrike,750 ml,14 %,151:-
+0,Nr 79585,Marrenon,Frankrike,750 ml,15 %,181:-
+0,Nr 78095,Terre de Manganèse,Frankrike,750 ml,13 %,251:-
+0,Nr 79559,Edouard Delaunay,Frankrike,750 ml,14 %,2 791:-
+0,Nr 73762,Les Parcellaires de Saulx,Frankrike,750 ml,13 %,481:-
+0,Nr 76316,Moulin à Vent,Frankrike,1500 ml,14 %,752:-
+0,Nr 70068,Les Jamelles,Frankrike,750 ml,"13,5 %",101:-
+0,Nr 75311,Domaine Jones,Frankrike,750 ml,"14,5 %",199:-
+0,Nr 77224,Jean-Claude Boisset,Frankrike,750 ml,13 %,501:-
+0,Nr 79969,Jean-Claude Boisset,Frankrike,750 ml,13 %,451:-
+0,Nr 78326,Peyrassol,Frankrike,750 ml,14 %,201:-
+0,Nr 76841,Irancy,Frankrike,750 ml,13 %,364:-
+0,Nr 58384,Réserve des Seignreurs,Frankrike,750 ml,15 %,225:-
+0,Nr 58557,Morgon Grand Cras,Frankrike,750 ml,13 %,291:-
+0,Nr 53203,Domaine Vendome,Frankrike,750 ml,13 %,230:-
+0,Nr 58738,Reserve de Marande,Frankrike,750 ml,13 %,91:-
+0,Nr 73391,Château Barrail du Blanc,Frankrike,750 ml,"14,5 %",401:-
+0,Nr 59077,Château d'Armailhac,Frankrike,750 ml,"13,5 %",1 101:-
+0,Nr 59086,Château d'Armailhac,Frankrike,750 ml,"13,5 %",1 301:-
+0,Nr 55479,Domaine Foret,Frankrike,750 ml,"12,5 %",340:-
+0,Nr 55488,Chateau la Rouvière,Frankrike,750 ml,14 %,400:-
+0,Nr 55549,Chateau Leognan,Frankrike,750 ml,13 %,451:-
+0,Nr 55548,Chateau Leognan,Frankrike,750 ml,13 %,431:-
+0,Nr 55607,Château Tour Saint-Bonnet,Frankrike,750 ml,"13,5 %",241:-
+0,Nr 55795,Anarchy,Frankrike,750 ml,15 %,201:-
+0,Nr 55918,Pierre Brisset Volnay Caillerets,Frankrike,750 ml,13 %,1 302:-
+0,Nr 55927,Pierre Brisset,Frankrike,750 ml,13 %,2 002:-
+0,Nr 55930,Pierre Brisset,Frankrike,750 ml,13 %,3 202:-
+0,Nr 55953,Maurice Gavignet,Frankrike,750 ml,"13,5 %",1 001:-
+0,Nr 56015,Le Grand Balthazar,Frankrike,750 ml,"14,5 %",177:-
+0,Nr 56106,Cuvée Felice,Frankrike,750 ml,14 %,261:-
+0,Nr 56388,Les Artiste,Frankrike,750 ml,14 %,121:-
+0,Nr 74361,Morgon,Frankrike,750 ml,"12,5 %",281:-
+0,Nr 56640,Bouchard Père & Fils,Frankrike,750 ml,"12,5 %",171:-
+0,Nr 3083,Château la Tour de By,Frankrike,750 ml,"13,5 %",250:-
+0,Nr 53683,Château des Jacques,Frankrike,750 ml,"14,5 %",291:-
+0,Nr 53842,Jaffelin,Frankrike,750 ml,14 %,191:-
+0,Nr 53919,Aloxe-Corton Les Brunettes et Planchots,Frankrike,750 ml,"13,5 %",541:-
+0,Nr 54476,Domaine de Montille,Frankrike,750 ml,13 %,1 371:-
+0,Nr 54517,Château Croix de Bertinat,Frankrike,750 ml,"13,5 %",291:-
+0,Nr 54532,Chateau Grange Cochard,Frankrike,750 ml,"13,5 %",187:-
+0,Nr 54970,Chateau de Buffavent,Frankrike,750 ml,"13,5 %",171:-
+0,Nr 55040,Le Pommier d'Armand Barmand,Frankrike,750 ml,"13,5 %",151:-
+0,Nr 55237,Promesses de France,Frankrike,750 ml,"12,5 %",111:-
+0,Nr 55283,Château Dasvin,Frankrike,750 ml,"13,5 %",231:-
+0,Nr 52320,Nuits-Saint-Georges Premier Cru Aux Chaignots,Frankrike,750 ml,"13,5 %",851:-
+0,Nr 52321,Savigny-Lès-Beaune Premier Cru Aux Serpentières,Frankrike,750 ml,13 %,501:-
+0,Nr 52711,Domaine des Sénéchaux,Frankrike,750 ml,15 %,601:-
+0,Nr 52833,Joillot Pommard,Frankrike,750 ml,"13,5 %",390:-
+0,Nr 72300,Nuits-Saint-Georges Premier Cru Les Damodes,Frankrike,1500 ml,14 %,1 852:-
+0,Nr 59440,Domaines Bunan,Frankrike,750 ml,14 %,947:-
+0,Nr 75111,Louis Jadot,Frankrike,750 ml,"13,5 %",1 997:-
+0,Nr 72634,Mr Burger,Frankrike,750 ml,"14,5 %",141:-
+0,Nr 77504,Jean Charles Fagot,Frankrike,750 ml,13 %,590:-
+0,Nr 77855,Prunier,Frankrike,750 ml,13 %,340:-
+0,Nr 78647,Les Jamelles,Frankrike,750 ml,13 %,106:-
+0,Nr 87731,Les Grèzes,Frankrike,750 ml,13 %,141:-
+0,Nr 50184,Pichon,Frankrike,750 ml,"14,5 %",598:-
+0,Nr 50319,Château La Confession,Frankrike,750 ml,"13,5 %",491:-
+0,Nr 50385,Suffrene,Frankrike,750 ml,14 %,140:-
+0,Nr 50424,Côtes du Rhône,Frankrike,750 ml,14 %,190:-
+0,Nr 50923,Amadieu Domaine Grand Romane Gigondas,Frankrike,750 ml,15 %,276:-
+0,Nr 51049,Château La Fleur-Pétrus,Frankrike,750 ml,"14,5 %",3 002:-
+0,Nr 51050,Château Hosanna,Frankrike,750 ml,14 %,1 902:-
+0,Nr 51126,Château Trotanoy,Frankrike,750 ml,"14,5 %",2 902:-
+0,Nr 78809,Bourgogne Pinot Noir,Frankrike,750 ml,"12,5 %",169:-
+0,Nr 75434,Le Fou du Roi,Frankrike,750 ml,13 %,299:-
+0,Nr 76335,Château de Gaudou,Frankrike,750 ml,"13,5 %",174:-
+0,Nr 78118,Terra Ancestra,Frankrike,750 ml,15 %,193:-
+0,Nr 2402,Château Plince,Frankrike,750 ml,"13,5 %",452:-
+0,Nr 71531,Château Monconseil Gazin,Frankrike,750 ml,13 %,161:-
+0,Nr 78597,Château Bardoulet,Frankrike,750 ml,14 %,248:-
+0,Nr 76129,Les Briquères,Frankrike,750 ml,"14,5 %",218:-
+0,Nr 72632,Entrecôte,Frankrike,750 ml,14 %,106:-
+0,Nr 76946,Château Barréjat,Frankrike,750 ml,"14,5 %",191:-
+0,Nr 73265,Saumur Puy Notre Dame,Frankrike,750 ml,"13,5 %",155:-
+0,Nr 72161,Beaune du Château,Frankrike,750 ml,13 %,401:-
+0,Nr 70617,Mouton Cadet,Frankrike,750 ml,"13,5 %",201:-
+0,Nr 70891,Chinon,Frankrike,750 ml,"13,5 %",291:-
+0,Nr 75445,Domaine de la Baume,Frankrike,750 ml,"14,5 %",131:-
+0,Nr 76254,Jean-Claude Boisset,Frankrike,750 ml,13 %,251:-
+0,Nr 72632,Entrecôte,Frankrike,750 ml,14 %,106:-

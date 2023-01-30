@@ -1,0 +1,851 @@
+idx,ID,Name,Country,Volume,Alcohol,Price
+0,Nr 2776,Gran Reserva,Spanien,750 ml,14 %,121:-
+0,Nr 26258,Pava,Spanien,750 ml,"13,5 %",94:-*
+0,Nr 2578,Valautín,Spanien,750 ml,15 %,170:-
+0,Nr 2783,Banderilleros Ecológico,Spanien,750 ml,13 %,88:-*
+0,Nr 6996,Torres Coronas,Spanien,750 ml,"13,5 %",81:-
+0,Nr 2525,Baron de Ley,Spanien,750 ml,"14,5 %",121:-
+0,Nr 12679,Lat 42,Spanien,750 ml,14 %,201:-
+0,Nr 22652,Navajas,Spanien,750 ml,14 %,97:-
+0,Nr 2532,Parajes del Valle,Spanien,750 ml,13 %,101:-
+0,Nr 12670,El Coto,Spanien,750 ml,"13,5 %",91:-
+0,Nr 22335,Candidato Ecologico,Spanien,750 ml,13 %,70:-*
+0,Nr 2573,Marqués de Riscal,Spanien,750 ml,14 %,181:-
+0,Nr 3027,Ribera 1 One,Spanien,750 ml,"14,5 %",121:-
+0,Nr 2104,Viña Solorca,Spanien,750 ml,15 %,121:-
+0,Nr 2249,Hacienda el Espino,Spanien,750 ml,14 %,81:-
+0,Nr 12670,El Coto,Spanien,375 ml,13 %,50:-
+0,Nr 2659,Coto de Imaz,Spanien,750 ml,14 %,121:-
+0,Nr 2768,Baron de Ley,Spanien,750 ml,14 %,211:-
+0,Nr 2686,Sangre de Toro,Spanien,750 ml,"14,5 %",101:-
+0,Nr 2786,Campo Viejo,Spanien,750 ml,"13,5 %",90:-
+0,Nr 2043,Lat 42 Reserva,Spanien,1500 ml,"14,5 %",372:-
+0,Nr 2043,Lat 42,Spanien,750 ml,"14,5 %",111:-
+0,Nr 4691,Gran Bodega,Spanien,1000 ml,14 %,91:-*
+0,Nr 70217,Les Sorts,Spanien,750 ml,14 %,121:-
+0,Nr 12126,Beronia,Spanien,750 ml,"13,5 %",101:-
+0,Nr 20045,Isla Oro Garnacha,Spanien,750 ml,14 %,91:-*
+0,Nr 2163,Tamaral,Spanien,750 ml,14 %,161:-
+0,Nr 6996,Torres Coronas,Spanien,250 ml,"13,5 %",36:-
+0,Nr 50247,Dominio Alto,Spanien,750 ml,"13,5 %",81:-
+0,Nr 6083,Campo Viejo,Spanien,750 ml,"13,5 %",117:-
+0,Nr 72143,Dominio Alto,Spanien,750 ml,"13,5 %",121:-
+0,Nr 2794,Bikandi,Spanien,750 ml,"13,5 %",100:-
+0,Nr 2734,Marqués de Cáceres,Spanien,750 ml,14 %,101:-
+0,Nr 90384,Muga Reserva,Spanien,750 ml,14 %,301:-
+0,Nr 2127,Dominio de Alma,Spanien,750 ml,"14,5 %",141:-
+0,Nr 22662,Faustino VII,Spanien,750 ml,"13,5 %",93:-
+0,Nr 2057,Sangre de Toro,Spanien,750 ml,"13,5 %",81:-
+0,Nr 22662,Faustino VII,Spanien,375 ml,"13,5 %",52:-
+0,Nr 78435,Montelciego,Spanien,750 ml,13 %,91:-
+0,Nr 2954,Federico Paternina,Spanien,750 ml,"13,5 %",81:-
+0,Nr 2684,Coca i Fitó,Spanien,750 ml,"14,5 %",130:-
+0,Nr 52468,Dominio Alto,Spanien,750 ml,"13,5 %",101:-
+0,Nr 2686,Sangre de Toro,Spanien,375 ml,"14,5 %",57:-
+0,Nr 2716,Montelciego,Spanien,750 ml,"13,5 %",111:-
+0,Nr 1079,Arzuaga,Spanien,750 ml,"14,5 %",231:-
+0,Nr 95004,Legaris Crianza,Spanien,750 ml,15 %,191:-
+0,Nr 2311,Elias Mora Crianza,Spanien,750 ml,15 %,161:-
+0,Nr 2678,Faustino I,Spanien,750 ml,"13,5 %",197:-
+0,Nr 2812,Pesquera Millenium,Spanien,750 ml,"14,5 %",651:-
+0,Nr 2031,Castillo Monjardin,Spanien,750 ml,14 %,121:-
+0,Nr 56790,Campos de Luz,Spanien,1000 ml,13 %,81:-*
+0,Nr 2559,Vivir Sin Dormir,Spanien,750 ml,"14,5 %",107:-
+0,Nr 6598,Francisco Gomez,Spanien,750 ml,"13,5 %",81:-*
+0,Nr 2770,GR-174,Spanien,750 ml,15 %,181:-
+0,Nr 92470,Malleolus,Spanien,750 ml,"14,5 %",321:-
+0,Nr 95211,Roda,Spanien,750 ml,14 %,301:-
+0,Nr 2737,Finca el Puig,Spanien,750 ml,"14,5 %",251:-
+0,Nr 70120,ÀN/2,Spanien,750 ml,13 %,271:-
+0,Nr 2718,Campos de Luz,Spanien,750 ml,"13,5 %",81:-
+0,Nr 92031,Allende,Spanien,750 ml,14 %,221:-
+0,Nr 12697,Torres Gran Coronas,Spanien,750 ml,"14,5 %",131:-
+0,Nr 92688,Viña Tondonia,Spanien,750 ml,13 %,371:-
+0,Nr 2685,Señorío de los Llanos,Spanien,750 ml,13 %,71:-
+0,Nr 94776,Martelo Reserva,Spanien,750 ml,"14,5 %",251:-
+0,Nr 4686,Gran Anciano,Spanien,750 ml,13 %,81:-
+0,Nr 12601,Conde Valdemar,Spanien,750 ml,14 %,171:-
+0,Nr 92707,Artadi,Spanien,750 ml,"14,5 %",241:-
+0,Nr 2792,Altos d'Oliva,Spanien,750 ml,14 %,71:-
+0,Nr 22674,Viña Albali,Spanien,750 ml,13 %,81:-
+0,Nr 4505,Dehesa La Granja,Spanien,750 ml,"14,5 %",121:-
+0,Nr 90370,Viña Bosconia,Spanien,750 ml,"13,5 %",271:-
+0,Nr 7462,La Rioja Alta,Spanien,750 ml,"13,5 %",581:-
+0,Nr 94079,Roda I,Spanien,750 ml,"14,5 %",469:-
+0,Nr 94758,Macán,Spanien,750 ml,14 %,427:-
+0,Nr 94831,Valbuena 5º,Spanien,750 ml,"14,5 %",1 397:-
+0,Nr 92317,Psi,Spanien,750 ml,14 %,301:-
+0,Nr 94612,Tilenus,Spanien,750 ml,14 %,221:-
+0,Nr 93104,La Estrecha,Spanien,750 ml,"12,5 %",271:-
+0,Nr 94567,Finca Valdelroble,Spanien,750 ml,"14,5 %",251:-
+0,Nr 94565,Goliardo Caiño,Spanien,750 ml,12 %,319:-
+0,Nr 94542,Taté,Spanien,750 ml,"12,5 %",359:-
+0,Nr 94224,Veronica Ortega,Spanien,750 ml,12 %,220:-
+0,Nr 2710,Marqués de Arienzo,Spanien,375 ml,14 %,79:-
+0,Nr 2454,Loxarel Sense A Pèl,Spanien,750 ml,"14,5 %",121:-
+0,Nr 94761,Vinyes Velles,Spanien,750 ml,"14,5 %",431:-
+0,Nr 94296,La Estrecha Bobal,Spanien,750 ml,13 %,261:-
+0,Nr 90392,Thalarn Syrah,Spanien,750 ml,13 %,379:-
+0,Nr 94774,Viña Pedrosa Gran Reserva,Spanien,750 ml,"14,5 %",491:-
+0,Nr 94201,Las Gravas,Spanien,750 ml,"14,5 %",339:-
+0,Nr 93974,Veronica Ortega,Spanien,750 ml,"13,5 %",381:-
+0,Nr 94553,Pancrudo,Spanien,750 ml,15 %,351:-
+0,Nr 94564,Laurel,Spanien,750 ml,15 %,419:-
+0,Nr 94263,Veronica Ortega,Spanien,750 ml,"12,5 %",315:-
+0,Nr 92338,Villa de Corullón,Spanien,750 ml,14 %,401:-
+0,Nr 93624,Veronica Ortega,Spanien,750 ml,13 %,381:-
+0,Nr 94297,Cerro la isa,Spanien,750 ml,"14,5 %",499:-
+0,Nr 92708,La Estrada,Spanien,750 ml,14 %,625:-
+0,Nr 90374,Veronica Ortega,Spanien,750 ml,"13,5 %",326:-
+0,Nr 94294,Dalmau,Spanien,750 ml,"14,5 %",749:-
+0,Nr 93253,Finca Dofí,Spanien,750 ml,"14,5 %",649:-
+0,Nr 73201,Gran Bodega,Spanien,1000 ml,14 %,89:-
+0,Nr 53166,Campos de Luz,Spanien,1000 ml,13 %,69:-
+0,Nr 94043,Dominio del Aguila,Spanien,1500 ml,14 %,651:-
+0,Nr 95002,Viña Pedrosa,Spanien,750 ml,"14,5 %",323:-
+0,Nr 92637,La Estrada,Spanien,750 ml,14 %,659:-
+0,Nr 92632,Dominio del Aguila,Spanien,750 ml,"14,5 %",2 499:-
+0,Nr 94047,Dominio del Aguila,Spanien,1500 ml,14 %,1 297:-
+0,Nr 94059,Dominio del Aguila,Spanien,1500 ml,"14,5 %",5 601:-
+0,Nr 94071,Dominio del Aguila,Spanien,1500 ml,14 %,3 401:-
+0,Nr 93227,Artadi,Spanien,750 ml,"14,5 %",1 799:-
+0,Nr 92736,Mas Martinet,Spanien,750 ml,"13,5 %",699:-
+0,Nr 92967,Artadi,Spanien,750 ml,"14,5 %",2 599:-
+0,Nr 92630,El Velado,Spanien,750 ml,14 %,695:-
+0,Nr 90627,Arzuaga,Spanien,750 ml,"14,5 %",351:-
+0,Nr 94071,Dominio del Aguila,Spanien,750 ml,14 %,1 600:-
+0,Nr 94059,Dominio del Aguila,Spanien,750 ml,"14,5 %",2 550:-
+0,Nr 93493,Valdaya Mirum,Spanien,750 ml,"14,5 %",499:-
+0,Nr 92774,Mas Martinet,Spanien,750 ml,"13,5 %",699:-
+0,Nr 94012,El Canchorral,Spanien,750 ml,"13,5 %",299:-
+0,Nr 50591,ÉXZITO,Spanien,750 ml,"14,5 %",341:-
+0,Nr 94100,Corimbo,Spanien,750 ml,"14,5 %",259:-
+0,Nr 94867,Corimbo I,Spanien,750 ml,"14,5 %",461:-
+0,Nr 94569,Dominio de Calogía,Spanien,750 ml,15 %,589:-
+0,Nr 94833,La Rioja Alta,Spanien,750 ml,14 %,1 601:-
+0,Nr 93563,Valtuille,Spanien,750 ml,"13,5 %",379:-
+0,Nr 94834,Alion,Spanien,750 ml,15 %,725:-
+0,Nr 94868,Vivaltus,Spanien,750 ml,"14,5 %",991:-
+0,Nr 92751,Ponce,Spanien,750 ml,13 %,459:-
+0,Nr 95128,Aalto,Spanien,750 ml,"14,5 %",461:-
+0,Nr 95221,Lalama,Spanien,750 ml,14 %,207:-
+0,Nr 94551,Clos Erasmus,Spanien,750 ml,"15,5 %",1 795:-
+0,Nr 2149,Viña Pedrosa,Spanien,750 ml,"14,5 %",200:-
+0,Nr 94830,Dominio de Es,Spanien,750 ml,13 %,780:-
+0,Nr 91266,Clos Mogador,Spanien,750 ml,15 %,759:-
+0,Nr 93274,Thalarn,Spanien,750 ml,13 %,379:-
+0,Nr 93568,Malleolus de Sanchomartín,Spanien,750 ml,"14,5 %",1 069:-
+0,Nr 91256,Baron de Ley,Spanien,750 ml,14 %,259:-
+0,Nr 93738,Viña Ardanza,Spanien,375 ml,"14,5 %",169:-
+0,Nr 93154,Castro Candaz,Spanien,750 ml,13 %,379:-
+0,Nr 94316,Albamar,Spanien,750 ml,11 %,289:-
+0,Nr 2221,Viña Bujanda,Spanien,750 ml,"13,5 %",251:-
+0,Nr 92038,Navaherreros,Spanien,750 ml,"14,5 %",201:-
+0,Nr 94264,Veronica Ortega,Spanien,750 ml,"11,5 %",275:-
+0,Nr 95083,Zestos,Spanien,750 ml,"14,5 %",127:-
+0,Nr 93258,Guímaro,Spanien,750 ml,13 %,329:-
+0,Nr 94552,Supersónico Frontonio,Spanien,750 ml,"13,5 %",239:-
+0,Nr 93970,Las Iruelas,Spanien,750 ml,"13,5 %",949:-
+0,Nr 94824,Vega Sicilia,Spanien,1500 ml,"14,5 %",2 995:-
+0,Nr 93956,Valtuille,Spanien,750 ml,13 %,199:-
+0,Nr 93743,El Sacramento,Spanien,750 ml,14 %,349:-
+0,Nr 94798,Bodegas Alion,Spanien,1500 ml,15 %,1 895:-
+0,Nr 93795,Pico Ferreira,Spanien,750 ml,13 %,349:-
+0,Nr 93616,Roda I,Spanien,1500 ml,"14,5 %",1 019:-
+0,Nr 90528,Finca Peña Lobera,Spanien,750 ml,"14,5 %",689:-
+0,Nr 94265,Veronica Ortega,Spanien,750 ml,13 %,179:-
+0,Nr 92585,Albamar,Spanien,750 ml,"11,5 %",319:-
+0,Nr 92768,Perez Pascuas,Spanien,750 ml,14 %,1 752:-
+0,Nr 92066,"Falcoeira ""A Capilla""",Spanien,750 ml,13 %,525:-
+0,Nr 92748,Arroyo del Tórtolas,Spanien,750 ml,"14,5 %",299:-
+0,Nr 94785,Vega Sicilia,Spanien,750 ml,"14,5 %",3 495:-
+0,Nr 94823,Vega Sicilia,Spanien,1500 ml,"14,5 %",7 985:-
+0,Nr 93233,Guímaro,Spanien,750 ml,13 %,529:-
+0,Nr 94292,Villa de Corullón,Spanien,750 ml,"13,5 %",399:-
+0,Nr 92341,Quiñon de Valmira,Spanien,750 ml,14 %,2 999:-
+0,Nr 93929,Pago de Carraovejas,Spanien,750 ml,15 %,377:-
+0,Nr 94198,Quiñon de Valmira,Spanien,750 ml,"13,5 %",2 999:-
+0,Nr 94666,Las Uvas de la Ira,Spanien,750 ml,15 %,259:-
+0,Nr 93828,El Rapolao,Spanien,750 ml,"12,5 %",349:-
+0,Nr 95541,Contino,Spanien,750 ml,13 %,719:-
+0,Nr 92290,Dalmau,Spanien,750 ml,"14,5 %",749:-
+0,Nr 93606,Cerro las Cuevas,Spanien,750 ml,"14,5 %",399:-
+0,Nr 93611,Saktih Petit Verdot,Spanien,750 ml,14 %,1 399:-
+0,Nr 94336,Cune Imperial,Spanien,1500 ml,14 %,875:-
+0,Nr 94789,Macán,Spanien,750 ml,"14,5 %",625:-
+0,Nr 93794,Sufreiral,Spanien,750 ml,"12,5 %",349:-
+0,Nr 93372,Gaminde,Spanien,750 ml,"14,5 %",449:-
+0,Nr 92244,As Caborcas,Spanien,750 ml,13 %,495:-
+0,Nr 93145,Raúl Pérez,Spanien,750 ml,13 %,1 129:-
+0,Nr 94549,Vera Vides,Spanien,750 ml,13 %,149:-
+0,Nr 93674,Corimbo,Spanien,1500 ml,"14,5 %",569:-
+0,Nr 94995,La Rioja Alta,Spanien,750 ml,13 %,1 395:-
+0,Nr 93019,Raúl Pérez,Spanien,750 ml,"13,5 %",1 129:-
+0,Nr 94197,Las Lamas,Spanien,750 ml,14 %,949:-
+0,Nr 92424,Albamar,Spanien,750 ml,"11,5 %",299:-
+0,Nr 90446,Guix Vermell,Spanien,750 ml,13 %,2 499:-
+0,Nr 92229,Finca el Curvado,Spanien,750 ml,13 %,239:-
+0,Nr 90379,Dominio de Pingus,Spanien,750 ml,"14,5 %",8 795:-
+0,Nr 94781,Viña Pedrosa,Spanien,1500 ml,"14,5 %",978:-
+0,Nr 94788,Dominio de Es,Spanien,750 ml,14 %,5 561:-
+0,Nr 93586,Roda,Spanien,1500 ml,14 %,679:-
+0,Nr 92604,Las Lamas,Spanien,750 ml,"14,5 %",949:-
+0,Nr 92903,Bodegas Roda,Spanien,750 ml,"14,5 %",1 999:-
+0,Nr 93355,Viñas Viejas,Spanien,750 ml,"14,5 %",279:-
+0,Nr 93501,Remelluri,Spanien,750 ml,14 %,349:-
+0,Nr 94664,El Reventon,Spanien,750 ml,14 %,849:-
+0,Nr 90064,Dominio del Aguila,Spanien,750 ml,14 %,2 399:-
+0,Nr 90158,Reina De Los Deseos,Spanien,750 ml,"14,5 %",929:-
+0,Nr 93157,Guímaro,Spanien,750 ml,13 %,529:-
+0,Nr 94343,Estrecho,Spanien,750 ml,"14,5 %",239:-
+0,Nr 91243,Protos 27,Spanien,1500 ml,"14,5 %",489:-
+0,Nr 92738,El Velado,Spanien,750 ml,14 %,695:-
+0,Nr 93648,Roda I,Spanien,750 ml,"14,5 %",999:-
+0,Nr 92252,L’Ermita,Spanien,750 ml,"14,5 %",7 999:-
+0,Nr 95009,Quiñon de Valmira,Spanien,750 ml,"13,5 %",2 999:-
+0,Nr 94787,Dominio de Es,Spanien,750 ml,14 %,4 244:-
+0,Nr 94373,Raúl Pérez,Spanien,750 ml,"13,5 %",549:-
+0,Nr 95159,Canta la Perdiz,Spanien,750 ml,"13,5 %",2 399:-
+0,Nr 99245,L'Ermita,Spanien,750 ml,"14,5 %",8 999:-
+0,Nr 95274,Cune Imperial,Spanien,750 ml,14 %,371:-
+0,Nr 94759,Priorat Selecció Especial Vinyes Velles,Spanien,750 ml,"14,5 %",699:-
+0,Nr 94839,La Rioja Alta,Spanien,1500 ml,14 %,3 195:-
+0,Nr 94757,Priorat Vinyes Velles,Spanien,1500 ml,"14,5 %",929:-
+0,Nr 94759,Priorat Selecció Especial Vinyes Velles,Spanien,1500 ml,"14,5 %",1 490:-
+0,Nr 94786,Dominio de Es,Spanien,750 ml,14 %,3 265:-
+0,Nr 94809,Vega Sicilia,Spanien,3000 ml,14 %,29 950:-
+0,Nr 92919,Bodegas Roda,Spanien,1500 ml,"14,5 %",3 999:-
+0,Nr 58043,Berså,Spanien,750 ml,"14,5 %",161:-
+0,Nr 57224,Karl Fredrik,Spanien,750 ml,14 %,122:-
+0,Nr 58451,Palacio de Caterina,Spanien,1000 ml,13 %,91:-
+0,Nr 51425,Rioja Santiago,Spanien,750 ml,"13,5 %",101:-
+0,Nr 52976,Anciano,Spanien,750 ml,14 %,121:-
+0,Nr 56272,Bombus,Spanien,1000 ml,13 %,86:-*
+0,Nr 54300,Irwin & Ribera del Duero,Spanien,750 ml,14 %,141:-
+0,Nr 2708,Azabache,Spanien,750 ml,14 %,101:-
+0,Nr 83443,La Montesa,Spanien,750 ml,"14,5 %",191:-
+0,Nr 50706,Murviedro,Spanien,750 ml,"14,5 %",101:-
+0,Nr 79307,Juan Gil,Spanien,750 ml,15 %,161:-
+0,Nr 72133,Los Frailes,Spanien,750 ml,"14,5 %",236:-
+0,Nr 71949,Tierras del Isasa,Spanien,750 ml,14 %,105:-
+0,Nr 71860,Mas Vilella,Spanien,750 ml,"14,5 %",227:-
+0,Nr 2155,Bagordi,Spanien,750 ml,14 %,101:-
+0,Nr 52958,MZ,Spanien,750 ml,14 %,121:-
+0,Nr 53671,La Bascula IIIxIII,Spanien,750 ml,14 %,310:-
+0,Nr 54244,Embrujo del Campo,Spanien,750 ml,"12,5 %",131:-
+0,Nr 54475,Bodegas Lanzaga,Spanien,750 ml,14 %,141:-
+0,Nr 54620,La Bascula,Spanien,750 ml,"14,5 %",178:-
+0,Nr 54741,Milsetentayseis,Spanien,750 ml,"14,5 %",700:-
+0,Nr 55083,Loxarel,Spanien,750 ml,"14,5 %",201:-
+0,Nr 55058,Augustus,Spanien,750 ml,"14,5 %",192:-
+0,Nr 79122,Pago Casa Gran,Spanien,750 ml,"13,5 %",151:-
+0,Nr 75100,1270,Spanien,750 ml,15 %,390:-
+0,Nr 71942,Petit Albet,Spanien,750 ml,13 %,111:-
+0,Nr 70390,Mureda,Spanien,750 ml,14 %,71:-
+0,Nr 72133,Los Frailes,Spanien,750 ml,"14,5 %",236:-
+0,Nr 71949,Tierras del Isasa,Spanien,750 ml,14 %,105:-
+0,Nr 71860,Mas Vilella,Spanien,750 ml,"14,5 %",227:-
+0,Nr 2155,Bagordi,Spanien,750 ml,14 %,101:-
+0,Nr 76431,Campo Eliseo,Spanien,750 ml,"14,5 %",201:-
+0,Nr 74819,Honoro Vera,Spanien,750 ml,"14,5 %",127:-
+0,Nr 56075,Le Naturel,Spanien,750 ml,14 %,120:-
+0,Nr 2633,Maruxa Mencía,Spanien,750 ml,"12,5 %",131:-
+0,Nr 55064,Augustus,Spanien,750 ml,15 %,230:-
+0,Nr 55312,Coster de l'Alzina,Spanien,750 ml,"14,5 %",360:-
+0,Nr 56781,Indigena,Spanien,750 ml,"13,5 %",201:-
+0,Nr 51722,Mureda,Spanien,750 ml,13 %,91:-
+0,Nr 52936,La Moto,Spanien,750 ml,12 %,129:-
+0,Nr 73584,Méndez Moya,Spanien,750 ml,"14,5 %",135:-
+0,Nr 76957,Méndez Moya,Spanien,750 ml,14 %,175:-
+0,Nr 74991,Los Frailes,Spanien,750 ml,"13,5 %",121:-
+0,Nr 73102,Protocolo,Spanien,750 ml,"13,5 %",91:-
+0,Nr 74251,Finca Villacreces,Spanien,750 ml,14 %,291:-
+0,Nr 75673,Flor del Amanecer,Spanien,750 ml,"14,5 %",236:-
+0,Nr 2182,Herencia Altés,Spanien,750 ml,"14,5 %",121:-
+0,Nr 72508,Diorama,Spanien,750 ml,13 %,132:-
+0,Nr 74818,Jean León 3055,Spanien,750 ml,"14,5 %",131:-
+0,Nr 6709,Castillo de Alicante,Spanien,750 ml,13 %,101:-
+0,Nr 79177,100 x 100,Spanien,750 ml,15 %,243:-
+0,Nr 86339,PAU,Spanien,750 ml,"14,5 %",207:-
+0,Nr 50211,Snou,Spanien,750 ml,"13,5 %",137:-
+0,Nr 50338,Cuore Profundo,Spanien,750 ml,15 %,169:-
+0,Nr 12615,Viña Herminia,Spanien,750 ml,14 %,101:-
+0,Nr 86339,PAU,Spanien,750 ml,"14,5 %",207:-
+0,Nr 58785,Motor Callet,Spanien,750 ml,"10,5 %",221:-
+0,Nr 58977,El Galgo Callet,Spanien,750 ml,"12,5 %",251:-
+0,Nr 85653,Jean León,Spanien,750 ml,"14,5 %",231:-
+0,Nr 2714,Espelt,Spanien,750 ml,"14,5 %",121:-
+0,Nr 79799,Lohas Viñedos,Spanien,750 ml,"12,5 %",101:-
+0,Nr 50211,Snou,Spanien,750 ml,"13,5 %",137:-
+0,Nr 50338,Cuore Profundo,Spanien,750 ml,15 %,169:-
+0,Nr 50848,Lanzaga,Spanien,750 ml,"14,5 %",301:-
+0,Nr 79164,Sio Negre,Spanien,750 ml,14 %,297:-
+0,Nr 78261,Viñas del Vero,Spanien,750 ml,14 %,91:-
+0,Nr 56161,La Montesa,Spanien,375 ml,14 %,100:-
+0,Nr 53003,Ama Lur,Spanien,750 ml,13 %,111:-
+0,Nr 54811,Remelluri,Spanien,750 ml,14 %,297:-
+0,Nr 77920,OM,Spanien,750 ml,14 %,261:-
+0,Nr 79389,Corucho,Spanien,750 ml,15 %,245:-
+0,Nr 71858,Ses Marjades,Spanien,750 ml,"15,5 %",291:-
+0,Nr 76066,Pago Casa Gran,Spanien,750 ml,"13,5 %",171:-
+0,Nr 79771,Miloca Garnacha,Spanien,750 ml,"14,5 %",181:-
+0,Nr 75137,Cantaburros,Spanien,750 ml,"13,5 %",149:-
+0,Nr 56458,Jean Leon,Spanien,750 ml,"14,5 %",391:-
+0,Nr 56552,Bodega Lanzaga 2,Spanien,750 ml,"13,5 %",231:-
+0,Nr 54425,Castell D'Age,Spanien,750 ml,14 %,181:-
+0,Nr 54804,Remelluri Granja,Spanien,750 ml,"13,5 %",577:-
+0,Nr 52540,Juan Guarda,Spanien,750 ml,12 %,61:-
+0,Nr 79742,Trispol,Spanien,750 ml,13 %,271:-
+0,Nr 72825,Laudum Nature,Spanien,750 ml,"13,5 %",137:-
+0,Nr 74160,Vilosell,Spanien,750 ml,"14,5 %",151:-
+0,Nr 74161,Geol,Spanien,750 ml,14 %,211:-
+0,Nr 72825,Laudum Nature,Spanien,750 ml,"13,5 %",137:-
+0,Nr 78270,Generación 73,Spanien,750 ml,14 %,171:-
+0,Nr 70542,Red Bat,Spanien,750 ml,"14,5 %",181:-
+0,Nr 78038,Garcia de verdevique,Spanien,750 ml,15 %,169:-
+0,Nr 50625,Garcia de Verdevique,Spanien,750 ml,"14,5 %",106:-
+0,Nr 79391,Miloca Cariñena,Spanien,750 ml,"14,5 %",181:-
+0,Nr 76006,Fangar Elements,Spanien,750 ml,14 %,373:-
+0,Nr 73135,Clos Pons Roc Nu,Spanien,750 ml,"14,5 %",299:-
+0,Nr 58596,Can Axartell,Spanien,750 ml,13 %,240:-
+0,Nr 56625,Can Bas,Spanien,750 ml,"14,5 %",231:-
+0,Nr 57246,Finca La Solana,Spanien,750 ml,14 %,101:-
+0,Nr 52978,Finca Sandoval,Spanien,750 ml,"13,5 %",362:-
+0,Nr 52985,Salia,Spanien,750 ml,"13,5 %",250:-
+0,Nr 52980,Fundamentalista,Spanien,750 ml,13 %,237:-
+0,Nr 52981,La Rosa,Spanien,750 ml,14 %,449:-
+0,Nr 75298,1270,Spanien,750 ml,"14,5 %",250:-
+0,Nr 75895,Méndez Moya,Spanien,750 ml,"14,5 %",125:-
+0,Nr 79518,Langa Frenesi,Spanien,750 ml,15 %,122:-
+0,Nr 71632,Son P,Spanien,750 ml,13 %,243:-
+0,Nr 50658,Tros De Mas Vilella,Spanien,750 ml,14 %,171:-
+0,Nr 79053,Pruno,Spanien,1500 ml,14 %,342:-
+0,Nr 79630,La Milana,Spanien,750 ml,"14,5 %",271:-
+0,Nr 79684,Augustus,Spanien,750 ml,15 %,357:-
+0,Nr 76880,Hécula,Spanien,750 ml,"14,5 %",101:-
+0,Nr 71898,Alesago,Spanien,750 ml,"12,5 %",196:-
+0,Nr 76389,Inanna,Spanien,750 ml,"13,5 %",101:-
+0,Nr 72473,Familia Comenge,Spanien,750 ml,15 %,255:-
+0,Nr 55091,El Zorro y La Bodega Reserva,Spanien,750 ml,14 %,121:-
+0,Nr 58159,El Zorro y La Bodega,Spanien,1500 ml,13 %,402:-
+0,Nr 58544,Njutbara Norrköping,Spanien,750 ml,"14,5 %",150:-
+0,Nr 92473,Selecció Especial Vinyes Velles,Spanien,750 ml,15 %,731:-
+0,Nr 52337,El Paisano de Tares,Spanien,750 ml,13 %,127:-
+0,Nr 2612,Marqués de Murrieta,Spanien,750 ml,14 %,211:-
+0,Nr 2744,Carodorum,Spanien,750 ml,15 %,111:-
+0,Nr 56045,Burger Wine,Spanien,750 ml,13 %,91:-
+0,Nr 53817,Frontera,Spanien,1000 ml,"12,5 %",70:-
+0,Nr 53212,Winemaker's Stories,Spanien,750 ml,"14,5 %",120:-
+0,Nr 58919,Saltamarti,Spanien,750 ml,"11,5 %",160:-
+0,Nr 71399,Guimaro,Spanien,750 ml,"12,5 %",186:-
+0,Nr 71085,El Copero,Spanien,750 ml,12 %,91:-
+0,Nr 58618,Marques de Murrieta,Spanien,750 ml,14 %,530:-
+0,Nr 81875,Vel'Uveyra,Spanien,750 ml,13 %,181:-
+0,Nr 77008,Rita Hetvin,Spanien,375 ml,"17,5 %",181:-
+0,Nr 52323,Faustino I,Spanien,750 ml,"13,5 %",865:-
+0,Nr 75588,Cune,Spanien,750 ml,14 %,190:-
+0,Nr 55423,Lluna Vella,Spanien,750 ml,"14,5 %",276:-
+0,Nr 70061,Navajas,Spanien,750 ml,14 %,261:-
+0,Nr 70528,Allende,Spanien,750 ml,"13,5 %",267:-
+0,Nr 79651,Finca Valpiedra,Spanien,750 ml,"13,5 %",281:-
+0,Nr 2863,Angel,Spanien,750 ml,15 %,159:-
+0,Nr 73871,Cune,Spanien,750 ml,"13,5 %",130:-
+0,Nr 79977,El Grifo,Spanien,750 ml,"13,5 %",362:-
+0,Nr 55037,Into Tinto,Spanien,750 ml,14 %,121:-
+0,Nr 84316,Gran Gregoriano,Spanien,750 ml,15 %,179:-
+0,Nr 2710,Marqués de Arienzo,Spanien,750 ml,14 %,147:-
+0,Nr 78389,Beronia,Spanien,750 ml,14 %,171:-
+0,Nr 73601,Torres Gran Coronas,Spanien,1500 ml,14 %,262:-
+0,Nr 70434,Sierra Cantabria,Spanien,1500 ml,"13,5 %",239:-
+0,Nr 79522,Alvear,Spanien,750 ml,14 %,201:-
+0,Nr 74684,Scala Dei Cartoixa,Spanien,750 ml,14 %,401:-
+0,Nr 2528,Finca Luna Beberide,Spanien,750 ml,"13,5 %",151:-
+0,Nr 56911,El Sueco,Spanien,750 ml,15 %,231:-
+0,Nr 55004,Garnatxa Negra i Carinyena,Spanien,750 ml,15 %,300:-
+0,Nr 52227,Drac Magic,Spanien,750 ml,14 %,131:-
+0,Nr 2573,Marques de Riscal,Spanien,375 ml,14 %,90:-
+0,Nr 76281,Solar de Becquer,Spanien,750 ml,"13,5 %",279:-
+0,Nr 78527,Juan Gil,Spanien,750 ml,"14,5 %",141:-
+0,Nr 50214,Faustino VII,Spanien,187 ml,"13,5 %",29:-
+0,Nr 73327,Baron de Ley,Spanien,750 ml,14 %,301:-
+0,Nr 6110,Marqués de Arienzo,Spanien,750 ml,14 %,191:-
+0,Nr 70682,El Coto de Imaz,Spanien,1500 ml,14 %,262:-
+0,Nr 72310,Honoro Vera,Spanien,750 ml,"14,5 %",127:-
+0,Nr 78388,Beronia,Spanien,750 ml,"14,5 %",261:-
+0,Nr 51121,De Alto,Spanien,750 ml,"13,5 %",151:-
+0,Nr 58541,Sagolika Söderköping,Spanien,750 ml,14 %,150:-
+0,Nr 54030,Marqués de Cáceres,Spanien,750 ml,"14,5 %",241:-
+0,Nr 54298,Amancio,Spanien,750 ml,"14,5 %",992:-
+0,Nr 73711,Muga,Spanien,750 ml,14 %,197:-
+0,Nr 73019,Salmos,Spanien,750 ml,14 %,301:-
+0,Nr 71210,Roquers de Samsó,Spanien,750 ml,"14,5 %",748:-
+0,Nr 72498,Gran Padrina,Spanien,750 ml,"13,5 %",297:-
+0,Nr 73671,Sericis,Spanien,750 ml,13 %,151:-
+0,Nr 70565,Navajas,Spanien,750 ml,14 %,167:-
+0,Nr 75338,Habla la Tierra,Spanien,750 ml,"13,5 %",236:-
+0,Nr 72841,Legado del Moncayo,Spanien,750 ml,"14,5 %",121:-
+0,Nr 70591,Finca Biniagual,Spanien,750 ml,15 %,273:-
+0,Nr 74721,Purgatori,Spanien,750 ml,"14,5 %",301:-
+0,Nr 70777,Los Aguilares,Spanien,750 ml,14 %,371:-
+0,Nr 78801,DV,Spanien,750 ml,"14,5 %",170:-
+0,Nr 70461,Masroig,Spanien,750 ml,14 %,351:-
+0,Nr 79001,Marqués de Oro,Spanien,750 ml,13 %,206:-
+0,Nr 81281,Perica Viña Olagosa,Spanien,750 ml,"13,5 %",120:-
+0,Nr 52877,Triton,Spanien,750 ml,15 %,231:-
+0,Nr 53853,Faustino I,Spanien,1500 ml,"13,5 %",420:-
+0,Nr 54311,La Nieta,Spanien,750 ml,"14,5 %",1 192:-
+0,Nr 54480,Telmo Rodriguez,Spanien,750 ml,14 %,451:-
+0,Nr 54545,Matallana,Spanien,750 ml,"14,5 %",497:-
+0,Nr 54627,Solo Mazuelo,Spanien,750 ml,"13,5 %",405:-
+0,Nr 54629,Anibal de Otero,Spanien,750 ml,"13,5 %",239:-
+0,Nr 54734,Viyuela,Spanien,750 ml,"13,5 %",181:-
+0,Nr 54766,Alma do Vello Tesouro Albarello,Spanien,750 ml,"12,5 %",301:-
+0,Nr 54966,Vendimia Seleccionada,Spanien,750 ml,"14,5 %",190:-
+0,Nr 72498,Gran Padrina,Spanien,750 ml,"13,5 %",297:-
+0,Nr 73671,Sericis,Spanien,750 ml,13 %,151:-
+0,Nr 70565,Navajas,Spanien,750 ml,14 %,167:-
+0,Nr 75338,Habla la Tierra,Spanien,750 ml,"13,5 %",236:-
+0,Nr 72841,Legado del Moncayo,Spanien,750 ml,"14,5 %",121:-
+0,Nr 70591,Finca Biniagual,Spanien,750 ml,15 %,273:-
+0,Nr 74721,Purgatori,Spanien,750 ml,"14,5 %",301:-
+0,Nr 70777,Los Aguilares,Spanien,750 ml,14 %,371:-
+0,Nr 78801,DV,Spanien,750 ml,"14,5 %",170:-
+0,Nr 59121,Panorámico,Spanien,750 ml,"13,5 %",217:-
+0,Nr 59235,El Sueco,Spanien,1500 ml,15 %,502:-
+0,Nr 86144,Nuviana,Spanien,750 ml,13 %,91:-
+0,Nr 56267,Bordón,Spanien,375 ml,"13,5 %",76:-
+0,Nr 56496,Ontanon,Spanien,750 ml,14 %,182:-
+0,Nr 56823,Viña Zorzal,Spanien,750 ml,14 %,270:-
+0,Nr 83144,Pago de Los Capellanes,Spanien,750 ml,"13,5 %",296:-
+0,Nr 57042,Pujanza,Spanien,750 ml,14 %,201:-
+0,Nr 57076,Camins de Mallorca,Spanien,750 ml,13 %,227:-
+0,Nr 57764,Marques del Turia,Spanien,750 ml,"12,5 %",71:-
+0,Nr 57997,Garnacha Perdida Pirineo,Spanien,750 ml,15 %,190:-
+0,Nr 58048,Parcela Vereda,Spanien,750 ml,15 %,259:-
+0,Nr 58070,Pacheco Selección Para Paco,Spanien,750 ml,14 %,208:-
+0,Nr 58093,Esencias by Éxzito,Spanien,750 ml,"14,5 %",181:-
+0,Nr 58398,Antonio Alcaraz,Spanien,750 ml,14 %,332:-
+0,Nr 58496,Solpost,Spanien,750 ml,"14,5 %",221:-
+0,Nr 51206,deAlto Amo,Spanien,750 ml,"13,5 %",241:-
+0,Nr 51341,Sa Rota,Spanien,750 ml,"13,5 %",232:-
+0,Nr 51343,Clos Montblanc,Spanien,750 ml,"14,5 %",140:-
+0,Nr 70461,Masroig,Spanien,750 ml,14 %,351:-
+0,Nr 70962,Bell Cros El Camí,Spanien,750 ml,14 %,161:-
+0,Nr 79111,Valdubón,Spanien,750 ml,14 %,121:-
+0,Nr 75696,Hacienda López de Haro,Spanien,750 ml,"13,5 %",121:-
+0,Nr 72783,Arzuaga,Spanien,750 ml,"14,5 %",201:-
+0,Nr 55825,El Petit Sanui,Spanien,750 ml,"13,5 %",96:-
+0,Nr 71899,García de Olano,Spanien,750 ml,"13,5 %",141:-
+0,Nr 76305,Garcia de Olano,Spanien,750 ml,"14,5 %",151:-
+0,Nr 74279,Orben,Spanien,1500 ml,"14,5 %",528:-
+0,Nr 79357,Yavallo,Spanien,750 ml,13 %,381:-
+0,Nr 76809,P.F,Spanien,750 ml,"13,5 %",201:-
+0,Nr 72633,Bell Cros,Spanien,750 ml,"14,5 %",301:-
+0,Nr 86652,Predicat,Spanien,750 ml,14 %,181:-
+0,Nr 50178,Rodiles,Spanien,750 ml,15 %,561:-
+0,Nr 50259,Bobal,Spanien,750 ml,"13,5 %",157:-
+0,Nr 50532,Miguel Merino Gran Reserva,Spanien,750 ml,14 %,377:-
+0,Nr 50535,Miguel Merino,Spanien,750 ml,14 %,301:-
+0,Nr 50646,Corriente,Spanien,750 ml,14 %,161:-
+0,Nr 50797,Bassus,Spanien,750 ml,14 %,281:-
+0,Nr 50894,TOCS,Spanien,750 ml,14 %,490:-
+0,Nr 70988,Tierra,Spanien,750 ml,14 %,263:-
+0,Nr 70411,Miquel Oliver,Spanien,750 ml,"13,5 %",239:-
+0,Nr 71890,Campo Eliseo,Spanien,750 ml,16 %,482:-
+0,Nr 81832,Scala Dei Prior,Spanien,750 ml,14 %,301:-
+0,Nr 74868,Envite Zero,Spanien,750 ml,"14,5 %",281:-
+0,Nr 72341,Pere Seda,Spanien,750 ml,15 %,354:-
+0,Nr 71246,Pere Seda,Spanien,750 ml,"14,5 %",234:-
+0,Nr 79001,Marqués de Oro,Spanien,750 ml,13 %,206:-
+0,Nr 81281,Perica Viña Olagosa,Spanien,750 ml,"13,5 %",120:-
+0,Nr 71870,Tilenus,Spanien,750 ml,14 %,241:-
+0,Nr 78248,LAN,Spanien,750 ml,"13,5 %",231:-
+0,Nr 87628,Campo Viejo,Spanien,750 ml,"13,5 %",176:-
+0,Nr 75249,Portia,Spanien,750 ml,15 %,279:-
+0,Nr 74109,Edetaria Selecció,Spanien,750 ml,15 %,257:-
+0,Nr 75422,Vinas del Vero,Spanien,750 ml,14 %,131:-
+0,Nr 72394,Colección Vivanco,Spanien,750 ml,15 %,531:-
+0,Nr 74193,Fincas Valdemar,Spanien,750 ml,"14,5 %",201:-
+0,Nr 70585,Taberner,Spanien,750 ml,15 %,277:-
+0,Nr 78629,Tianna Bocchoris,Spanien,750 ml,"13,5 %",280:-
+0,Nr 78633,Gorú,Spanien,750 ml,14 %,176:-
+0,Nr 71431,Son Mayol,Spanien,750 ml,14 %,591:-
+0,Nr 70471,Son Mayol,Spanien,750 ml,"14,5 %",441:-
+0,Nr 81473,Perica Viña Olagosa,Spanien,750 ml,"13,5 %",175:-
+0,Nr 76017,Haragán,Spanien,750 ml,"14,5 %",279:-
+0,Nr 73981,Hoya de Cadenas,Spanien,750 ml,"12,5 %",117:-
+0,Nr 77205,La Zorra,Spanien,750 ml,14 %,181:-
+0,Nr 72126,Finca la Mata,Spanien,750 ml,14 %,221:-
+0,Nr 77960,Garmón,Spanien,750 ml,"14,5 %",501:-
+0,Nr 2537,Sícoris,Spanien,750 ml,14 %,81:-
+0,Nr 72216,Campo Alto,Spanien,750 ml,"14,5 %",145:-
+0,Nr 78292,Ramón Bilbao,Spanien,750 ml,14 %,137:-
+0,Nr 81279,Perica Viña Olagosa,Spanien,750 ml,"13,5 %",150:-
+0,Nr 71181,Telescopico,Spanien,750 ml,"13,5 %",231:-
+0,Nr 2113,Joven Heredad De Berganzo,Spanien,750 ml,14 %,101:-
+0,Nr 73776,Viña Rufina,Spanien,750 ml,14 %,180:-
+0,Nr 79833,Casa Mariol,Spanien,750 ml,"13,5 %",124:-
+0,Nr 79437,Finca Tobella,Spanien,750 ml,"14,5 %",187:-
+0,Nr 79493,Montecastro,Spanien,750 ml,15 %,301:-
+0,Nr 70023,Bardos,Spanien,750 ml,"14,5 %",200:-
+0,Nr 73122,Ennak,Spanien,1500 ml,14 %,372:-
+0,Nr 81595,VA!,Spanien,750 ml,"14,5 %",161:-
+0,Nr 50304,Llicorlla,Spanien,750 ml,"14,5 %",369:-
+0,Nr 50363,La Gavacha,Spanien,750 ml,"14,5 %",157:-
+0,Nr 81473,Perica Viña Olagosa,Spanien,750 ml,"13,5 %",175:-
+0,Nr 76017,Haragán,Spanien,750 ml,"14,5 %",279:-
+0,Nr 73981,Hoya de Cadenas,Spanien,750 ml,"12,5 %",117:-
+0,Nr 77205,La Zorra,Spanien,750 ml,14 %,181:-
+0,Nr 72126,Finca la Mata,Spanien,750 ml,14 %,221:-
+0,Nr 77960,Garmón,Spanien,750 ml,"14,5 %",501:-
+0,Nr 2537,Sícoris,Spanien,750 ml,14 %,81:-
+0,Nr 72216,Campo Alto,Spanien,750 ml,"14,5 %",145:-
+0,Nr 70408,Finca de los Locos,Spanien,750 ml,14 %,261:-
+0,Nr 79458,Los Aguilares,Spanien,750 ml,"13,5 %",351:-
+0,Nr 71030,La Miranda,Spanien,750 ml,14 %,111:-
+0,Nr 57916,Terroir Sense,Spanien,750 ml,14 %,301:-
+0,Nr 57930,Terroir Sense Fronteres,Spanien,750 ml,"13,5 %",351:-
+0,Nr 83772,Castillo de Benizar,Spanien,750 ml,13 %,81:-
+0,Nr 58410,Pujanza,Spanien,750 ml,"13,5 %",260:-
+0,Nr 58854,Jimenez-Landi,Spanien,750 ml,"14,5 %",257:-
+0,Nr 56248,Negre de Negres,Spanien,750 ml,"13,5 %",301:-
+0,Nr 73776,Viña Rufina,Spanien,750 ml,14 %,180:-
+0,Nr 79833,Casa Mariol,Spanien,750 ml,"13,5 %",124:-
+0,Nr 79437,Finca Tobella,Spanien,750 ml,"14,5 %",187:-
+0,Nr 79493,Montecastro,Spanien,750 ml,15 %,301:-
+0,Nr 70023,Bardos,Spanien,750 ml,"14,5 %",200:-
+0,Nr 73122,Ennak,Spanien,1500 ml,14 %,372:-
+0,Nr 81595,VA!,Spanien,750 ml,"14,5 %",161:-
+0,Nr 50304,Llicorlla,Spanien,750 ml,"14,5 %",369:-
+0,Nr 50363,La Gavacha,Spanien,750 ml,"14,5 %",157:-
+0,Nr 50974,TOCS,Spanien,750 ml,15 %,330:-
+0,Nr 57916,Terroir Sense,Spanien,750 ml,14 %,301:-
+0,Nr 57930,Terroir Sense Fronteres,Spanien,750 ml,"13,5 %",351:-
+0,Nr 83772,Castillo de Benizar,Spanien,750 ml,13 %,81:-
+0,Nr 58410,Pujanza,Spanien,750 ml,"13,5 %",260:-
+0,Nr 58854,Jimenez-Landi,Spanien,750 ml,"14,5 %",257:-
+0,Nr 75929,Godelia,Spanien,750 ml,"14,5 %",201:-
+0,Nr 76430,Huno,Spanien,750 ml,14 %,191:-
+0,Nr 70947,Ramírez de la Piscina,Spanien,1500 ml,14 %,348:-
+0,Nr 72287,Biberius Roble,Spanien,750 ml,"14,5 %",119:-
+0,Nr 79637,Gran Arzuaga,Spanien,750 ml,"14,5 %",1 865:-
+0,Nr 88549,Montecillo,Spanien,750 ml,"13,5 %",171:-
+0,Nr 72361,Sela,Spanien,750 ml,14 %,211:-
+0,Nr 71672,Sierra Cantabria,Spanien,750 ml,14 %,221:-
+0,Nr 71256,Portia,Spanien,750 ml,"14,5 %",151:-
+0,Nr 71338,Marqués de Riscal,Spanien,750 ml,"14,5 %",301:-
+0,Nr 70314,Pétalos,Spanien,750 ml,14 %,211:-
+0,Nr 75715,Llebre,Spanien,750 ml,14 %,131:-
+0,Nr 72438,Finca Valpiedra,Spanien,1500 ml,14 %,562:-
+0,Nr 79719,Sileo,Spanien,750 ml,14 %,176:-
+0,Nr 70080,Majuelos de Callejo,Spanien,750 ml,"14,5 %",387:-
+0,Nr 79659,Hombros,Spanien,750 ml,14 %,199:-
+0,Nr 76375,Coto de Imaz,Spanien,750 ml,"13,5 %",251:-
+0,Nr 79886,LAN,Spanien,750 ml,"13,5 %",151:-
+0,Nr 70564,Habla del Silencio,Spanien,750 ml,"13,5 %",250:-
+0,Nr 76881,Castaño,Spanien,750 ml,"14,5 %",151:-
+0,Nr 72373,Colección Vivanco,Spanien,750 ml,14 %,531:-
+0,Nr 72476,Colección Vivanco,Spanien,750 ml,"14,5 %",531:-
+0,Nr 78559,Sta María de la Piscina,Spanien,750 ml,14 %,301:-
+0,Nr 75686,Clos Mustardó,Spanien,750 ml,"14,5 %",294:-
+0,Nr 70693,Cónclave,Spanien,750 ml,"13,5 %",350:-
+0,Nr 79459,Vivanco,Spanien,5000 ml,"13,5 %",1 358:-
+0,Nr 78395,Vivanco,Spanien,5000 ml,14 %,1 704:-
+0,Nr 78587,Vivanco,Spanien,1500 ml,"13,5 %",382:-
+0,Nr 73277,Viña Ane,Spanien,750 ml,14 %,306:-
+0,Nr 71021,Finca Rio Negro,Spanien,750 ml,"14,5 %",186:-
+0,Nr 72287,Biberius Roble,Spanien,750 ml,"14,5 %",119:-
+0,Nr 79637,Gran Arzuaga,Spanien,750 ml,"14,5 %",1 865:-
+0,Nr 88549,Montecillo,Spanien,750 ml,"13,5 %",171:-
+0,Nr 72361,Sela,Spanien,750 ml,14 %,211:-
+0,Nr 71672,Sierra Cantabria,Spanien,750 ml,14 %,221:-
+0,Nr 71256,Portia,Spanien,750 ml,"14,5 %",151:-
+0,Nr 71338,Marqués de Riscal,Spanien,750 ml,"14,5 %",301:-
+0,Nr 70314,Pétalos,Spanien,750 ml,14 %,211:-
+0,Nr 56976,Brutal,Spanien,750 ml,13 %,150:-
+0,Nr 57066,Fosca,Spanien,750 ml,14 %,301:-
+0,Nr 2788,Viña Albali,Spanien,750 ml,13 %,90:-
+0,Nr 57296,Vinos Del Viento,Spanien,750 ml,"13,5 %",128:-
+0,Nr 57561,Big Time Sensuality,Spanien,750 ml,"11,5 %",226:-
+0,Nr 58015,Perlat,Spanien,750 ml,"14,5 %",186:-
+0,Nr 58262,La Capella,Spanien,750 ml,15 %,550:-
+0,Nr 78790,Gomez Cruzado,Spanien,750 ml,14 %,161:-
+0,Nr 50015,Contino,Spanien,750 ml,14 %,336:-
+0,Nr 50181,La Lobera,Spanien,750 ml,15 %,367:-
+0,Nr 50697,Duc de Foix,Spanien,750 ml,13 %,186:-
+0,Nr 56555,TOCS,Spanien,750 ml,15 %,360:-
+0,Nr 56741,Viña Pedrosa,Spanien,750 ml,"14,5 %",497:-
+0,Nr 56770,Viña Pedrosa,Spanien,750 ml,"14,5 %",382:-
+0,Nr 56976,Brutal,Spanien,750 ml,13 %,150:-
+0,Nr 57066,Fosca,Spanien,750 ml,14 %,301:-
+0,Nr 2788,Viña Albali,Spanien,750 ml,13 %,90:-
+0,Nr 52218,Valdecuriel,Spanien,750 ml,"14,5 %",121:-
+0,Nr 52386,Cap de Canons,Spanien,750 ml,"14,5 %",151:-
+0,Nr 2726,Rioja Bordón,Spanien,750 ml,"13,5 %",137:-
+0,Nr 59361,Bodegas Briego,Spanien,750 ml,"14,5 %",186:-
+0,Nr 6619,Estola,Spanien,750 ml,"13,5 %",87:-
+0,Nr 51516,Parajes,Spanien,750 ml,"13,5 %",211:-
+0,Nr 52520,EL CEL,Spanien,750 ml,"15,5 %",994:-
+0,Nr 52984,El Belisario,Spanien,750 ml,"14,5 %",610:-
+0,Nr 53054,La Nave,Spanien,750 ml,"12,5 %",193:-
+0,Nr 81855,Perica Oro,Spanien,750 ml,14 %,431:-
+0,Nr 74154,Las Pisadas,Spanien,750 ml,14 %,191:-
+0,Nr 74011,Victorino,Spanien,750 ml,"14,5 %",471:-
+0,Nr 70112,Ava Vi,Spanien,750 ml,"13,5 %",275:-
+0,Nr 74478,Son Puig,Spanien,750 ml,"13,5 %",252:-
+0,Nr 73105,Santa,Spanien,750 ml,"14,5 %",201:-
+0,Nr 70055,Laventura,Spanien,750 ml,14 %,191:-
+0,Nr 70834,Faula,Spanien,750 ml,"14,5 %",191:-
+0,Nr 75677,Ciclón,Spanien,750 ml,"12,5 %",181:-
+0,Nr 76236,Lopez Cristobal,Spanien,750 ml,"14,5 %",299:-
+0,Nr 57296,Vinos Del Viento,Spanien,750 ml,"13,5 %",128:-
+0,Nr 74478,Son Puig,Spanien,750 ml,"13,5 %",252:-
+0,Nr 73105,Santa,Spanien,750 ml,"14,5 %",201:-
+0,Nr 70055,Laventura,Spanien,750 ml,14 %,191:-
+0,Nr 70834,Faula,Spanien,750 ml,"14,5 %",191:-
+0,Nr 75677,Ciclón,Spanien,750 ml,"12,5 %",181:-
+0,Nr 76236,Lopez Cristobal,Spanien,750 ml,"14,5 %",299:-
+0,Nr 50697,Duc de Foix,Spanien,750 ml,13 %,186:-
+0,Nr 51516,Parajes,Spanien,750 ml,"13,5 %",211:-
+0,Nr 56555,TOCS,Spanien,750 ml,15 %,360:-
+0,Nr 56741,Viña Pedrosa,Spanien,750 ml,"14,5 %",497:-
+0,Nr 56770,Viña Pedrosa,Spanien,750 ml,"14,5 %",382:-
+0,Nr 75579,Godelia,Spanien,750 ml,"14,5 %",401:-
+0,Nr 75191,Libamus,Spanien,500 ml,15 %,250:-
+0,Nr 76323,Baigorri,Spanien,750 ml,"14,5 %",191:-
+0,Nr 76554,Martin Freixa,Spanien,750 ml,14 %,199:-
+0,Nr 75821,Venta Las Vacas,Spanien,1500 ml,"14,5 %",578:-
+0,Nr 55306,Pago de Vallegarcia,Spanien,750 ml,15 %,515:-
+0,Nr 55322,Valduero,Spanien,750 ml,14 %,1 172:-
+0,Nr 55404,Mas d'En Caçador Velles Vinyes,Spanien,750 ml,15 %,460:-
+0,Nr 55550,Vidalba,Spanien,750 ml,"14,5 %",216:-
+0,Nr 70962,Bell Cros,Spanien,1500 ml,14 %,382:-
+0,Nr 55690,Alma de Autor Mencia,Spanien,750 ml,"14,5 %",221:-
+0,Nr 55929,Matilda Nieves,Spanien,750 ml,13 %,171:-
+0,Nr 70933,Encinas,Spanien,750 ml,13 %,231:-
+0,Nr 78324,El Niño de Campillo,Spanien,750 ml,"14,5 %",119:-
+0,Nr 74342,Campillo,Spanien,750 ml,"14,5 %",239:-
+0,Nr 52520,EL CEL,Spanien,750 ml,"15,5 %",994:-
+0,Nr 52984,El Belisario,Spanien,750 ml,"14,5 %",610:-
+0,Nr 53054,La Nave,Spanien,750 ml,"12,5 %",193:-
+0,Nr 53673,Sofros,Spanien,750 ml,"14,5 %",196:-
+0,Nr 74196,Raimonda,Spanien,750 ml,14 %,190:-
+0,Nr 71470,Legitim,Spanien,750 ml,"14,5 %",171:-
+0,Nr 71801,Damana 5,Spanien,750 ml,14 %,193:-
+0,Nr 76355,Tilenus,Spanien,750 ml,14 %,187:-
+0,Nr 72403,Pere Seda,Spanien,750 ml,"14,5 %",272:-
+0,Nr 79578,Conde de,Spanien,750 ml,"14,5 %",232:-
+0,Nr 89190,Viña Arana,Spanien,750 ml,"13,5 %",201:-
+0,Nr 79427,LAN,Spanien,750 ml,"13,5 %",181:-
+0,Nr 72953,Blau,Spanien,750 ml,14 %,147:-
+0,Nr 76730,Cinema,Spanien,750 ml,"14,5 %",294:-
+0,Nr 72842,Avinyó,Spanien,750 ml,"13,5 %",149:-
+0,Nr 76474,Clos d'Agon,Spanien,750 ml,"14,5 %",196:-
+0,Nr 72736,Ramírez de la Piscina,Spanien,750 ml,"14,5 %",131:-
+0,Nr 72988,Ramírez de la Piscina,Spanien,750 ml,15 %,187:-
+0,Nr 72829,Ramirez de la Piscina,Spanien,750 ml,15 %,251:-
+0,Nr 72685,Vivanco,Spanien,750 ml,"13,5 %",153:-
+0,Nr 78278,La Casilla,Spanien,750 ml,13 %,191:-
+0,Nr 75105,Colección Vivanco,Spanien,750 ml,"14,5 %",497:-
+0,Nr 73023,Valdosan,Spanien,750 ml,"14,5 %",283:-
+0,Nr 75858,Tinto Iturria,Spanien,750 ml,"14,5 %",190:-
+0,Nr 72445,Baron De Ley,Spanien,750 ml,"14,5 %",171:-
+0,Nr 70562,Marge,Spanien,750 ml,15 %,274:-
+0,Nr 2745,Estola,Spanien,750 ml,"13,5 %",101:-
+0,Nr 75033,MC,Spanien,750 ml,"14,5 %",351:-
+0,Nr 71625,Catar,Spanien,750 ml,14 %,121:-
+0,Nr 79080,Viña Pomal,Spanien,750 ml,14 %,321:-
+0,Nr 74182,6Cepas6,Spanien,750 ml,"13,5 %",150:-
+0,Nr 88526,Munia,Spanien,750 ml,"14,5 %",186:-
+0,Nr 71670,Sierra Cantabria,Spanien,750 ml,"13,5 %",121:-
+0,Nr 71471,Carodorum,Spanien,750 ml,15 %,281:-
+0,Nr 79080,Viña Pomal,Spanien,750 ml,14 %,321:-
+0,Nr 74182,6Cepas6,Spanien,750 ml,"13,5 %",150:-
+0,Nr 75486,Audentia,Spanien,750 ml,13 %,101:-
+0,Nr 82525,Portia Crianza,Spanien,750 ml,15 %,199:-
+0,Nr 70732,Valle de Nabal,Spanien,750 ml,"14,5 %",191:-
+0,Nr 77670,Casa Cisca,Spanien,750 ml,15 %,401:-
+0,Nr 75490,Casa Roja,Spanien,750 ml,"13,5 %",81:-
+0,Nr 72191,Tio Uco,Spanien,750 ml,"14,5 %",181:-
+0,Nr 79510,Renvivas,Spanien,750 ml,13 %,501:-
+0,Nr 73440,12 Linajes,Spanien,750 ml,14 %,191:-
+0,Nr 75755,Cartus,Spanien,750 ml,16 %,702:-
+0,Nr 70692,Son Puig,Spanien,750 ml,14 %,252:-
+0,Nr 79705,Mirat,Spanien,750 ml,15 %,392:-
+0,Nr 74304,Pesquera,Spanien,750 ml,"14,5 %",351:-
+0,Nr 75379,Monte Real,Spanien,750 ml,14 %,201:-
+0,Nr 78321,Artífice,Spanien,750 ml,"13,5 %",285:-
+0,Nr 76976,Tábula,Spanien,750 ml,"14,5 %",373:-
+0,Nr 2763,7 Fuentes,Spanien,750 ml,13 %,171:-
+0,Nr 76601,Sanz La Capital,Spanien,750 ml,14 %,126:-
+0,Nr 78055,Ramón Bilbao,Spanien,750 ml,14 %,171:-
+0,Nr 78293,Ramón Bilbao,Spanien,750 ml,14 %,141:-
+0,Nr 88228,Faustino,Spanien,750 ml,"13,5 %",119:-
+0,Nr 71829,Faustino,Spanien,750 ml,14 %,325:-
+0,Nr 74801,Veleta,Spanien,750 ml,"14,5 %",117:-
+0,Nr 75857,Veleta Wines,Spanien,750 ml,15 %,189:-
+0,Nr 74250,Gaba do Xil,Spanien,750 ml,13 %,151:-
+0,Nr 75214,Licis,Spanien,750 ml,"13,5 %",251:-
+0,Nr 72019,Albaflor,Spanien,750 ml,"12,5 %",265:-
+0,Nr 78875,Bardos,Spanien,750 ml,"14,5 %",145:-
+0,Nr 71127,Priorat,Spanien,750 ml,14 %,401:-
+0,Nr 56654,Marques de Pluma,Spanien,750 ml,"14,5 %",141:-
+0,Nr 56734,Viña Pedrosa,Spanien,750 ml,"14,5 %",387:-
+0,Nr 56904,Virtus,Spanien,750 ml,15 %,381:-
+0,Nr 92841,Vinyes Velles,Spanien,750 ml,"14,5 %",471:-
+0,Nr 51342,Clos Montblanc,Spanien,750 ml,"14,5 %",140:-
+0,Nr 53115,Vatan,Spanien,750 ml,15 %,451:-
+0,Nr 54630,Anibal de Otero,Spanien,750 ml,"13,5 %",433:-
+0,Nr 54688,Demuerte,Spanien,750 ml,"14,5 %",230:-
+0,Nr 54693,Demuerte,Spanien,750 ml,16 %,1 403:-
+0,Nr 55341,Torres,Spanien,750 ml,"13,5 %",201:-
+0,Nr 57469,Vina Pomal,Spanien,750 ml,"14,5 %",241:-
+0,Nr 83832,Baron de Chirel,Spanien,750 ml,15 %,741:-
+0,Nr 57758,Can Sumoi,Spanien,750 ml,13 %,191:-
+0,Nr 58017,Perlat,Spanien,750 ml,"14,5 %",186:-
+0,Nr 58313,Madre Única,Spanien,750 ml,"14,5 %",486:-
+0,Nr 71829,Faustino,Spanien,750 ml,14 %,325:-
+0,Nr 74801,Veleta,Spanien,750 ml,"14,5 %",117:-
+0,Nr 75857,Veleta Wines,Spanien,750 ml,15 %,189:-
+0,Nr 74250,Gaba do Xil,Spanien,750 ml,13 %,151:-
+0,Nr 75214,Licis,Spanien,750 ml,"13,5 %",251:-
+0,Nr 72019,Albaflor,Spanien,750 ml,"12,5 %",265:-
+0,Nr 78502,Hacienda Zorita,Spanien,750 ml,"13,5 %",81:-
+0,Nr 79180,Clos Pons,Spanien,750 ml,"14,5 %",186:-
+0,Nr 74563,Inici,Spanien,750 ml,15 %,221:-
+0,Nr 70768,La Planta,Spanien,750 ml,"14,5 %",155:-
+0,Nr 55402,Matsu El Recio,Spanien,750 ml,"14,5 %",180:-
+0,Nr 78875,Bardos,Spanien,750 ml,"14,5 %",145:-
+0,Nr 71127,Priorat,Spanien,750 ml,14 %,401:-
+0,Nr 74411,Son Mayol,Spanien,750 ml,"14,5 %",501:-
+0,Nr 73974,Quinta de Quercus,Spanien,750 ml,14 %,191:-
+0,Nr 76885,Marques de Riscal,Spanien,750 ml,14 %,271:-
+0,Nr 71903,Finca Malaveïna,Spanien,750 ml,15 %,261:-
+0,Nr 84161,Cune,Spanien,750 ml,"13,5 %",251:-
+0,Nr 50122,Gloria,Spanien,750 ml,15 %,186:-
+0,Nr 50061,Faustino,Spanien,750 ml,"13,5 %",131:-
+0,Nr 50090,Mingua,Spanien,750 ml,14 %,136:-
+0,Nr 50240,El Miracle,Spanien,750 ml,13 %,101:-
+0,Nr 50900,Alta Pavina Citius,Spanien,750 ml,"14,5 %",238:-
+0,Nr 51067,Enrique Mendoza,Spanien,750 ml,"13,5 %",200:-
+0,Nr 72801,Don Miguel Comenge,Spanien,750 ml,"14,5 %",362:-
+0,Nr 72604,Condado de Haza,Spanien,750 ml,"14,5 %",141:-
+0,Nr 70124,Almirez,Spanien,750 ml,"14,5 %",221:-
+0,Nr 71373,Venta del Puerto,Spanien,750 ml,14 %,141:-
+0,Nr 75465,Mia,Spanien,750 ml,13 %,101:-
+0,Nr 72874,Corimbo I,Spanien,750 ml,"14,5 %",491:-
+0,Nr 73924,Conde Valdemar,Spanien,750 ml,14 %,131:-
+0,Nr 79053,Pruno,Spanien,750 ml,14 %,171:-
+0,Nr 71511,Finca Resalso,Spanien,750 ml,"13,5 %",171:-
+0,Nr 79503,El Puntido,Spanien,750 ml,"14,5 %",421:-
+0,Nr 71795,Pago el Espino,Spanien,750 ml,14 %,227:-
+0,Nr 75426,Anjoli,Spanien,750 ml,15 %,310:-
+0,Nr 73248,Viña Ane,Spanien,750 ml,14 %,206:-
+0,Nr 73027,Chapillon,Spanien,750 ml,"14,5 %",149:-
+0,Nr 70554,Ses Ferritges,Spanien,750 ml,14 %,292:-
+0,Nr 79649,Tinar de Mirat,Spanien,750 ml,"14,5 %",240:-
+0,Nr 77421,Monte Real di Familia,Spanien,750 ml,"13,5 %",160:-
+0,Nr 70364,Ramírez de la Piscina,Spanien,1500 ml,14 %,428:-
+0,Nr 72165,Maius,Spanien,750 ml,"14,5 %",247:-
+0,Nr 79020,Valdeviñas Mirat,Spanien,750 ml,"14,5 %",592:-
+0,Nr 75344,Baron de Ley,Spanien,750 ml,14 %,121:-
+0,Nr 78622,Marqués de Vargas,Spanien,750 ml,14 %,253:-
+0,Nr 71072,Ontañón,Spanien,750 ml,"13,5 %",131:-
+0,Nr 70103,Ennak,Spanien,750 ml,14 %,181:-
+0,Nr 74573,Brezo,Spanien,750 ml,"13,5 %",141:-
+0,Nr 78166,Camins del Priorat,Spanien,750 ml,"14,5 %",221:-
+0,Nr 2643,Montecillo,Spanien,750 ml,"13,5 %",101:-
+0,Nr 85516,Les Terrasses,Spanien,750 ml,"14,5 %",351:-
+0,Nr 76018,Ava Vi,Spanien,750 ml,"14,5 %",334:-
+0,Nr 74071,Son Prim,Spanien,750 ml,"14,5 %",309:-
+0,Nr 71026,Son Prim,Spanien,750 ml,"14,5 %",304:-
+0,Nr 71640,Raro,Spanien,750 ml,13 %,181:-
+0,Nr 82762,Museum,Spanien,750 ml,"14,5 %",211:-
+0,Nr 76826,Castaño GSM,Spanien,750 ml,14 %,101:-
+0,Nr 76851,Casa de la Cera,Spanien,750 ml,15 %,391:-
+0,Nr 76632,Lanave,Spanien,750 ml,"13,5 %",161:-
+0,Nr 79077,Artuke,Spanien,750 ml,14 %,180:-
+0,Nr 71694,DV+,Spanien,750 ml,15 %,279:-
+0,Nr 57294,Vinos del viento,Spanien,750 ml,"14,5 %",128:-
+0,Nr 57310,Vinos del viento,Spanien,750 ml,14 %,106:-
+0,Nr 57462,Coranya,Spanien,750 ml,15 %,360:-
+0,Nr 57461,Clos Monlleó,Spanien,750 ml,"15,5 %",532:-
+0,Nr 57708,Fraga do Corvo,Spanien,750 ml,"13,5 %",161:-
+0,Nr 57777,Real Agrado,Spanien,750 ml,"14,5 %",111:-
+0,Nr 57926,Fosca del Priorat,Spanien,750 ml,"14,5 %",186:-
+0,Nr 58098,Parcela Mandiles,Spanien,750 ml,"15,5 %",344:-
+0,Nr 58358,El Abuelo Pedro,Spanien,750 ml,"14,5 %",486:-
+0,Nr 58499,Camino de Navaherrero,Spanien,750 ml,"13,5 %",141:-
+0,Nr 58525,Trus Crianza,Spanien,750 ml,"14,5 %",201:-
+0,Nr 58529,Trus Roble,Spanien,750 ml,14 %,141:-
+0,Nr 50396,Arzuaga,Spanien,5000 ml,"14,5 %",2 808:-
+0,Nr 50396,Arzuaga,Spanien,5000 ml,"14,5 %",2 808:-
+0,Nr 50459,La Vinya d'en Tomas,Spanien,750 ml,13 %,206:-
+0,Nr 58788,4Kilos 12 Volts,Spanien,750 ml,12 %,251:-
+0,Nr 58789,4Kilos,Spanien,750 ml,12 %,401:-
+0,Nr 55406,Finca La Planeta,Spanien,750 ml,"14,5 %",350:-
+0,Nr 56001,Somni,Spanien,750 ml,"14,5 %",391:-
+0,Nr 56026,Trossos Vells,Spanien,750 ml,14 %,287:-
+0,Nr 53732,Honoro Vera,Spanien,750 ml,"14,5 %",127:-
+0,Nr 54028,Marqués de Cáceres,Spanien,750 ml,"14,5 %",501:-
+0,Nr 54309,Paso las Mañas,Spanien,750 ml,14 %,321:-
+0,Nr 54312,Finca El Bosque,Spanien,750 ml,"14,5 %",992:-
+0,Nr 54479,Pegaso,Spanien,750 ml,"14,5 %",387:-
+0,Nr 54694,Demuerte,Spanien,750 ml,"14,5 %",260:-
+0,Nr 54701,Demuerte,Spanien,750 ml,"14,5 %",300:-
+0,Nr 54967,Peique,Spanien,750 ml,14 %,171:-
+0,Nr 54954,Expresion,Spanien,750 ml,"14,5 %",476:-
+0,Nr 55307,Pago de Vallegarcia,Spanien,750 ml,15 %,250:-
+0,Nr 52272,Viña Real,Spanien,750 ml,"13,5 %",271:-
+0,Nr 52519,DESTI,Spanien,750 ml,"15,5 %",497:-
+0,Nr 53052,Clos Bartolomé,Spanien,750 ml,15 %,340:-
+0,Nr 53034,Celler Bartolomé,Spanien,750 ml,15 %,480:-
+0,Nr 59198,Numanthia,Spanien,750 ml,15 %,221:-
+0,Nr 75048,Dominio de Campo Viejo,Spanien,750 ml,"13,5 %",223:-
+0,Nr 2126,Vedré,Spanien,750 ml,14 %,121:-
+0,Nr 75166,Gregoriano,Spanien,750 ml,"14,5 %",149:-
+0,Nr 76604,Malpuesto,Spanien,750 ml,"14,5 %",381:-
+0,Nr 75824,Los Aguilares,Spanien,750 ml,"14,5 %",156:-
+0,Nr 71125,Baigorri,Spanien,750 ml,"14,5 %",301:-
+0,Nr 75495,Azaya,Spanien,750 ml,14 %,131:-
+0,Nr 73949,Pittacum,Spanien,750 ml,"14,5 %",181:-
+0,Nr 56026,Trossos Vells,Spanien,750 ml,14 %,287:-
+0,Nr 75122,Cortecillas de Autor,Spanien,750 ml,14 %,138:-
+0,Nr 73895,Acusp Pinot noir,Spanien,750 ml,"12,5 %",451:-
+0,Nr 77297,Vino de Finca,Spanien,750 ml,"14,5 %",211:-
+0,Nr 74409,Son Mayol,Spanien,750 ml,"14,5 %",851:-
+0,Nr 79191,Bayanegra,Spanien,750 ml,"14,5 %",147:-
+0,Nr 50199,Canterabuey Viñedo Singular,Spanien,750 ml,"16,5 %",302:-
+0,Nr 50332,Contino,Spanien,750 ml,14 %,336:-
+0,Nr 50693,Duc de Foix,Spanien,750 ml,13 %,177:-
+0,Nr 50892,TOCS,Spanien,750 ml,15 %,330:-
+0,Nr 50896,TOCS,Spanien,750 ml,15 %,360:-
+0,Nr 88525,Munia,Spanien,750 ml,"14,5 %",243:-
+0,Nr 88545,Els Igols,Spanien,750 ml,"15,5 %",340:-
+0,Nr 70351,Abellars,Spanien,750 ml,15 %,277:-
+0,Nr 79536,Barbazul,Spanien,750 ml,14 %,171:-
+0,Nr 76729,Cinema,Spanien,750 ml,14 %,192:-
+0,Nr 74035,M Maius,Spanien,750 ml,"14,5 %",170:-
+0,Nr 72583,Colección Vivanco,Spanien,375 ml,"13,5 %",276:-
+0,Nr 72221,Edetària Dolc,Spanien,375 ml,15 %,156:-
+0,Nr 76995,Doix,Spanien,750 ml,"14,5 %",1 200:-
+0,Nr 78862,Mazuelo,Spanien,750 ml,"12,5 %",136:-
+0,Nr 72281,Vivanco,Spanien,750 ml,"14,5 %",201:-
+0,Nr 72994,Colección Vivanco Graciano,Spanien,750 ml,14 %,601:-
+0,Nr 70336,Emilio Moro,Spanien,750 ml,"14,5 %",247:-
+0,Nr 79223,Bozeto,Spanien,750 ml,"14,5 %",158:-
+0,Nr 72313,Nodus,Spanien,750 ml,"13,5 %",180:-
+0,Nr 78697,Vivanco,Spanien,1500 ml,"14,5 %",447:-
+0,Nr 75495,Azaya,Spanien,750 ml,14 %,131:-
+0,Nr 73949,Pittacum,Spanien,750 ml,"14,5 %",181:-
+0,Nr 71838,Comenge,Spanien,750 ml,"14,5 %",187:-
+0,Nr 72583,Colección Vivanco,Spanien,375 ml,"13,5 %",276:-
+0,Nr 72221,Edetària Dolc,Spanien,375 ml,15 %,156:-
+0,Nr 76995,Doix,Spanien,750 ml,"14,5 %",1 200:-
+0,Nr 78862,Mazuelo,Spanien,750 ml,"12,5 %",136:-
+0,Nr 72281,Vivanco,Spanien,750 ml,"14,5 %",201:-
+0,Nr 72994,Colección Vivanco Graciano,Spanien,750 ml,14 %,601:-
+0,Nr 70336,Emilio Moro,Spanien,750 ml,"14,5 %",247:-
+0,Nr 79223,Bozeto,Spanien,750 ml,"14,5 %",158:-
+0,Nr 72313,Nodus,Spanien,750 ml,"13,5 %",180:-
+0,Nr 78697,Vivanco,Spanien,1500 ml,"14,5 %",447:-

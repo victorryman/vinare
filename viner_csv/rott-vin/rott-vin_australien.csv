@@ -1,0 +1,265 @@
+idx,ID,Name,Country,Volume,Alcohol,Price
+0,Nr 6422,Heirloom Vineyards,Australien,750 ml,15 %,201:-
+0,Nr 2362,The Fox and the grapes,Australien,750 ml,14 %,91:-*
+0,Nr 2066,Jacob's Creek,Australien,375 ml,"13,5 %",50:-
+0,Nr 2508,West Cape Howe,Australien,750 ml,"14,5 %",101:-
+0,Nr 6816,The Great Bonza,Australien,750 ml,14 %,81:-
+0,Nr 2129,Lionheart of the Barossa,Australien,750 ml,"14,5 %",127:-
+0,Nr 73968,19 Crimes,Australien,750 ml,"13,5 %",101:-
+0,Nr 2129,Lionheart of the Barossa,Australien,375 ml,"14,5 %",70:-
+0,Nr 20042,Lindeman's Bin 45,Australien,750 ml,"13,5 %",81:-*
+0,Nr 6894,Hope,Australien,750 ml,"14,5 %",97:-
+0,Nr 6253,Penfolds Koonunga Hill,Australien,750 ml,"14,5 %",101:-
+0,Nr 2066,Jacob's Creek,Australien,187 ml,"13,5 %",32:-
+0,Nr 6253,Penfolds Koonunga Hill,Australien,375 ml,"14,5 %",60:-
+0,Nr 6302,Gurra Gurra Creek,Australien,750 ml,14 %,81:-
+0,Nr 6942,Rawson's Retreat,Australien,750 ml,14 %,81:-
+0,Nr 2066,Jacob's Creek,Australien,750 ml,14 %,85:-
+0,Nr 6573,Caravan,Australien,750 ml,14 %,91:-
+0,Nr 2971,Sister's Run Old Testament Coonawarra,Australien,750 ml,14 %,101:-
+0,Nr 6831,Lindeman's,Australien,750 ml,"13,5 %",91:-
+0,Nr 6430,Lindemans,Australien,750 ml,"13,5 %",77:-*
+0,Nr 6942,Rawson's Retreat,Australien,375 ml,14 %,50:-
+0,Nr 20033,Gemtree,Australien,750 ml,"14,5 %",121:-
+0,Nr 2591,Children of the revolution,Australien,750 ml,"11,5 %",101:-
+0,Nr 2623,Carpone Durif,Australien,750 ml,14 %,91:-*
+0,Nr 20041,Lindeman's Bin 50,Australien,750 ml,14 %,81:-*
+0,Nr 2413,Jacob's Creek Lighter Alcohol,Australien,750 ml,"9,5 %",84:-
+0,Nr 2664,Q,Australien,750 ml,14 %,91:-
+0,Nr 6823,Rosemount,Australien,750 ml,"13,5 %",76:-
+0,Nr 2522,Logan Weemala,Australien,750 ml,"13,5 %",127:-
+0,Nr 6250,Camden Park,Australien,750 ml,14 %,81:-
+0,Nr 6407,Røsenthal,Australien,750 ml,"13,8 %",150:-
+0,Nr 95897,Heartland,Australien,750 ml,"14,5 %",199:-
+0,Nr 20040,Cacadu Ridge,Australien,750 ml,"13,5 %",81:-*
+0,Nr 6881,Lindeman's Bin 40,Australien,750 ml,"13,5 %",81:-*
+0,Nr 2955,Punt Road,Australien,750 ml,"12,5 %",171:-
+0,Nr 16320,Penfolds Kalimna Bin 28,Australien,750 ml,"14,5 %",251:-
+0,Nr 95118,Coriole Nero,Australien,750 ml,"14,7 %",151:-
+0,Nr 2567,Lion’s Roar of the Barossa,Australien,375 ml,14 %,78:-
+0,Nr 6278,Ringbolt,Australien,750 ml,14 %,151:-
+0,Nr 6226,Lindemans Bin 45,Australien,750 ml,"13,5 %",79:-
+0,Nr 2048,Pepperjack,Australien,750 ml,"14,5 %",131:-
+0,Nr 90356,Cirillo Estate,Australien,750 ml,14 %,189:-
+0,Nr 92732,The Dead Arm Shiraz,Australien,750 ml,"14,5 %",359:-
+0,Nr 6376,Lindemans Bin 40,Australien,750 ml,"13,5 %",79:-
+0,Nr 6374,Lindemans Bin 50,Australien,750 ml,14 %,79:-
+0,Nr 6131,The Black Shiraz,Australien,750 ml,"14,5 %",97:-
+0,Nr 90485,Penfolds,Australien,750 ml,"14,5 %",699:-
+0,Nr 2194,Red Baron,Australien,750 ml,"14,5 %",122:-
+0,Nr 93357,Clonakilla,Australien,750 ml,13 %,401:-
+0,Nr 94415,Heathcote Syrah,Australien,750 ml,13 %,389:-
+0,Nr 95260,Mother's Milk Shiraz,Australien,750 ml,"14,5 %",171:-
+0,Nr 94639,Eperosa,Australien,750 ml,"13,2 %",351:-
+0,Nr 94740,Art Series Shiraz,Australien,750 ml,"13,5 %",278:-
+0,Nr 92921,Wynns,Australien,750 ml,"13,9 %",239:-
+0,Nr 94091,Leeuwin Estate,Australien,750 ml,"13,5 %",420:-
+0,Nr 93621,Penfolds,Australien,750 ml,"14,5 %",501:-
+0,Nr 94643,Bloody Hill Villages,Australien,750 ml,14 %,249:-
+0,Nr 94687,Yalumba The Signature,Australien,750 ml,"14,5 %",439:-
+0,Nr 94388,Tahbilk,Australien,750 ml,14 %,149:-
+0,Nr 91249,Cullen Wines,Australien,750 ml,"13,5 %",749:-
+0,Nr 91273,Penfolds Bin 407,Australien,750 ml,"14,5 %",550:-
+0,Nr 90202,Seppeltsfield Village Barossa,Australien,750 ml,"14,5 %",171:-
+0,Nr 92857,Lambert,Australien,750 ml,"13,5 %",379:-
+0,Nr 91201,Small Wonder,Australien,750 ml,"13,2 %",199:-
+0,Nr 94934,Penfolds,Australien,750 ml,"14,5 %",1 095:-
+0,Nr 94196,Ministry of Clouds,Australien,750 ml,"13,3 %",299:-
+0,Nr 94218,Ministry of Clouds,Australien,750 ml,"13,3 %",299:-
+0,Nr 93220,Penfolds,Australien,750 ml,"14,5 %",3 799:-
+0,Nr 92780,Penfolds RWT Bin 798 Shiraz,Australien,750 ml,"14,5 %",1 049:-
+0,Nr 92028,Penfolds Bin 150,Australien,750 ml,"14,5 %",499:-
+0,Nr 94688,Punt Road,Australien,750 ml,"13,5 %",189:-
+0,Nr 93059,Penfolds,Australien,750 ml,"14,5 %",4 899:-
+0,Nr 92804,Penfolds Bin 707,Australien,750 ml,"14,5 %",3 399:-
+0,Nr 92049,Brokenwood Graveyard Vineyard,Australien,750 ml,"13,5 %",1 499:-
+0,Nr 90466,Henschke,Australien,750 ml,"14,5 %",459:-
+0,Nr 93832,Bloody Hill Villages,Australien,750 ml,"13,5 %",249:-
+0,Nr 93448,Marchand & Burch,Australien,750 ml,"13,5 %",339:-
+0,Nr 95032,Timo Mayer,Australien,750 ml,13 %,549:-
+0,Nr 92985,Orlando Centenary Hill,Australien,1500 ml,15 %,799:-
+0,Nr 95026,Penfolds Bin 707,Australien,750 ml,"14,5 %",3 199:-
+0,Nr 91180,Timo Mayer,Australien,750 ml,"12,5 %",549:-
+0,Nr 90346,Amy's,Australien,1500 ml,"13,5 %",429:-
+0,Nr 92873,Wynns,Australien,750 ml,"13,5 %",849:-
+0,Nr 99427,Jim Barry,Australien,750 ml,14 %,2 229:-
+0,Nr 93480,Lenswood Vineyard,Australien,750 ml,"13,5 %",479:-
+0,Nr 93162,Bass Phillip,Australien,750 ml,"13,9 %",899:-
+0,Nr 90552,Henschke,Australien,750 ml,"14,5 %",6 799:-
+0,Nr 92043,The Armagh,Australien,750 ml,14 %,2 395:-
+0,Nr 92125,Pikes Dogwalk,Australien,750 ml,"13,5 %",399:-
+0,Nr 92665,Henschke Mount Edelstone,Australien,750 ml,"14,5 %",1 499:-
+0,Nr 93542,Sands of Time,Australien,750 ml,"14,5 %",369:-
+0,Nr 94032,Amy's,Australien,750 ml,"13,5 %",199:-
+0,Nr 91298,Timo Mayer,Australien,750 ml,13 %,549:-
+0,Nr 93962,Tom Cullity,Australien,750 ml,"14,5 %",999:-
+0,Nr 92798,Orlando Centenary Hill,Australien,1500 ml,"14,5 %",699:-
+0,Nr 94305,Penfolds,Australien,750 ml,"14,5 %",5 999:-
+0,Nr 93707,Lodge Hill,Australien,750 ml,14 %,159:-
+0,Nr 94234,Dandelion Vineyards,Australien,750 ml,"14,5 %",189:-
+0,Nr 93476,SC Pannell,Australien,750 ml,"14,2 %",369:-
+0,Nr 93381,Clonakilla,Australien,750 ml,14 %,951:-
+0,Nr 2652,Gilbert Rouge,Australien,750 ml,"13,5 %",151:-
+0,Nr 6830,Rebel,Australien,750 ml,14 %,61:-*
+0,Nr 52826,Hardys,Australien,750 ml,14 %,87:-*
+0,Nr 58069,Black Mountain,Australien,1000 ml,"13,5 %",91:-
+0,Nr 6400,Touch of Down Under,Australien,750 ml,14 %,81:-
+0,Nr 51940,The Love Grass,Australien,750 ml,"14,5 %",151:-
+0,Nr 70511,Yalumba,Australien,750 ml,14 %,151:-
+0,Nr 6718,Rawson's Retreat,Australien,750 ml,14 %,91:-
+0,Nr 90524,Gemtree,Australien,750 ml,"14,5 %",301:-
+0,Nr 2586,"Paxton Organic ""AAA""",Australien,750 ml,14 %,131:-
+0,Nr 71644,Now by Paxton,Australien,750 ml,14 %,157:-
+0,Nr 6802,Jacob's Creek Earth Vine Grape,Australien,750 ml,"13,8 %",75:-
+0,Nr 58227,Wolf Blass,Australien,750 ml,"14,5 %",191:-
+0,Nr 2511,Heartland One,Australien,750 ml,15 %,401:-
+0,Nr 78593,Don't Tell Gary,Australien,750 ml,15 %,131:-
+0,Nr 70021,19 Crimes,Australien,750 ml,"13,5 %",131:-
+0,Nr 4501,Plan B!,Australien,750 ml,"14,5 %",111:-
+0,Nr 70157,19 Crimes,Australien,750 ml,"14,5 %",131:-
+0,Nr 74564,Dandelion Vineyards,Australien,750 ml,14 %,181:-
+0,Nr 73835,Cirillo Estate,Australien,750 ml,14 %,231:-
+0,Nr 16381,Peter Lehmann Portrait Barossa,Australien,750 ml,"14,5 %",161:-
+0,Nr 73313,19 Crimes,Australien,750 ml,"13,5 %",99:-
+0,Nr 94106,Giaconda Estate Vineyard,Australien,750 ml,"13,8 %",621:-
+0,Nr 75539,King's Parrot,Australien,1000 ml,"13,5 %",61:-
+0,Nr 50526,Thorny Devil,Australien,750 ml,"14,5 %",230:-
+0,Nr 75321,Peter Lehmann,Australien,750 ml,"14,5 %",241:-
+0,Nr 54485,Yarra Yering,Australien,750 ml,"13,5 %",581:-
+0,Nr 54482,Yarra Yering,Australien,750 ml,14 %,581:-
+0,Nr 54940,Gorgeous,Australien,750 ml,"13,5 %",151:-
+0,Nr 55034,Thistledown,Australien,750 ml,"14,5 %",317:-
+0,Nr 2736,Dark Side of The Moon,Australien,375 ml,"14,5 %",100:-
+0,Nr 6338,Wolf Blass Eaglehawk,Australien,750 ml,"13,5 %",71:-
+0,Nr 78721,Peter Lehmann,Australien,750 ml,"14,5 %",231:-
+0,Nr 76822,Airlie Bank,Australien,750 ml,"12,5 %",187:-
+0,Nr 79318,Wallace,Australien,750 ml,"14,5 %",191:-
+0,Nr 79784,Parker Favourite Son,Australien,750 ml,"14,5 %",141:-
+0,Nr 59406,Take It To The Grave,Australien,750 ml,"13,5 %",231:-
+0,Nr 73239,Jacob's Creek,Australien,750 ml,"14,4 %",501:-
+0,Nr 57323,Ministry of Clouds,Australien,750 ml,"14,5 %",281:-
+0,Nr 57657,Grant Burge,Australien,750 ml,14 %,271:-
+0,Nr 57935,The Hundred,Australien,750 ml,"14,5 %",251:-
+0,Nr 51946,The Laughing Magpie,Australien,750 ml,"14,5 %",191:-
+0,Nr 52809,Tapanappa,Australien,750 ml,13 %,261:-
+0,Nr 52823,Woodlands,Australien,750 ml,"13,5 %",431:-
+0,Nr 75924,Schild Estate Barossa Valley,Australien,750 ml,"14,5 %",201:-
+0,Nr 78375,Jacob's Creek,Australien,750 ml,"14,8 %",167:-
+0,Nr 55893,Longview,Australien,750 ml,"14,5 %",151:-
+0,Nr 55899,S.C. Pannell Basso,Australien,750 ml,14 %,211:-
+0,Nr 79250,Saperavi,Australien,750 ml,"13,5 %",181:-
+0,Nr 55983,Airlie Bank,Australien,750 ml,"12,5 %",191:-
+0,Nr 75924,Schild Estate Barossa Valley,Australien,750 ml,"14,5 %",201:-
+0,Nr 78375,Jacob's Creek,Australien,750 ml,"14,8 %",167:-
+0,Nr 71893,Hardy´s Brave New World,Australien,750 ml,"14,5 %",141:-
+0,Nr 72059,Langmeil,Australien,750 ml,"14,5 %",1 040:-
+0,Nr 6285,Geoff Merrill,Australien,750 ml,"14,5 %",217:-
+0,Nr 74102,Langmeil,Australien,750 ml,15 %,530:-
+0,Nr 86335,Wyndham Estate,Australien,750 ml,"14,3 %",116:-
+0,Nr 71226,Paracombe,Australien,750 ml,"14,6 %",221:-
+0,Nr 79836,Ridley,Australien,750 ml,13 %,341:-
+0,Nr 73745,Peter Lehmann,Australien,750 ml,"14,5 %",211:-
+0,Nr 82660,Cape Mentelle,Australien,750 ml,15 %,291:-
+0,Nr 74472,Pete's Pure,Australien,750 ml,13 %,151:-
+0,Nr 57322,Ministry of Clouds,Australien,750 ml,"14,3 %",281:-
+0,Nr 58361,Kaesler,Australien,750 ml,"14,5 %",1 301:-
+0,Nr 56590,Spinifex Esprit,Australien,750 ml,"14,5 %",291:-
+0,Nr 50743,Woodlands,Australien,750 ml,"13,5 %",301:-
+0,Nr 50804,Grant Burge Fisell,Australien,750 ml,"14,5 %",261:-
+0,Nr 51943,The Galvo Garage,Australien,750 ml,"14,5 %",191:-
+0,Nr 76490,Cirillo Estate,Australien,750 ml,14 %,231:-
+0,Nr 55914,Woodlands,Australien,750 ml,"13,5 %",1 002:-
+0,Nr 56163,Pooley,Australien,750 ml,"13,8 %",501:-
+0,Nr 52612,S.C. Pannell,Australien,750 ml,14 %,231:-
+0,Nr 52839,Pete's Pure,Australien,750 ml,"13,5 %",151:-
+0,Nr 52945,Dandelion Vineyard,Australien,750 ml,"14,5 %",161:-
+0,Nr 53448,Tolmer,Australien,750 ml,14 %,181:-
+0,Nr 54063,Vasse Felix,Australien,750 ml,"14,5 %",301:-
+0,Nr 54850,Dune,Australien,750 ml,13 %,201:-
+0,Nr 72056,Langmeil,Australien,750 ml,"14,5 %",250:-
+0,Nr 57324,Ministry of Clouds,Australien,750 ml,"14,3 %",361:-
+0,Nr 57318,Ocean Eight,Australien,750 ml,"14,5 %",451:-
+0,Nr 50528,The Quickening,Australien,750 ml,"14,5 %",261:-
+0,Nr 56626,Spinifex,Australien,750 ml,14 %,251:-
+0,Nr 53132,An Approach To Relaxation Sucette,Australien,750 ml,"14,5 %",501:-
+0,Nr 2736,Dark Side of The Moon,Australien,750 ml,15 %,181:-
+0,Nr 74017,Brand's Laira,Australien,750 ml,14 %,131:-
+0,Nr 78308,Heartland,Australien,750 ml,"14,5 %",161:-
+0,Nr 57324,Ministry of Clouds,Australien,750 ml,"14,3 %",361:-
+0,Nr 57318,Ocean Eight,Australien,750 ml,"14,5 %",451:-
+0,Nr 54113,Vasse Felix,Australien,750 ml,14 %,251:-
+0,Nr 55128,Risky Business,Australien,750 ml,"14,5 %",250:-
+0,Nr 79492,Pauletts Polish Hill River,Australien,750 ml,"14,5 %",161:-
+0,Nr 70045,Em´s Table,Australien,750 ml,14 %,177:-
+0,Nr 71544,Wolf Blass,Australien,750 ml,"13,5 %",91:-
+0,Nr 79610,Heartland,Australien,750 ml,"14,5 %",251:-
+0,Nr 72414,Fox Creek,Australien,750 ml,"14,5 %",181:-
+0,Nr 76038,Mitolo,Australien,750 ml,"14,5 %",231:-
+0,Nr 75993,Paracombe,Australien,750 ml,"14,6 %",221:-
+0,Nr 87387,Jacob's Creek,Australien,750 ml,"14,3 %",143:-
+0,Nr 72057,Langmeil,Australien,750 ml,"14,5 %",270:-
+0,Nr 87477,Jacob's Creek,Australien,750 ml,"13,9 %",90:-
+0,Nr 6419,Jacob's Creek,Australien,750 ml,"14,3 %",85:-
+0,Nr 71851,Yellow Tail,Australien,750 ml,"13,5 %",91:-
+0,Nr 6318,Motörhead,Australien,750 ml,14 %,131:-
+0,Nr 2567,Lion’s Roar of the Barossa,Australien,750 ml,"14,5 %",131:-
+0,Nr 79723,Brands Laira,Australien,750 ml,"13,5 %",571:-
+0,Nr 79810,Airlie Bank,Australien,750 ml,"12,5 %",187:-
+0,Nr 73622,St Hugo,Australien,750 ml,"14,1 %",317:-
+0,Nr 79155,Spinifex,Australien,750 ml,"14,5 %",331:-
+0,Nr 72251,The Pirate Blend,Australien,750 ml,14 %,361:-
+0,Nr 59408,Elephant In The Room,Australien,750 ml,14 %,201:-
+0,Nr 6829,Bin 555,Australien,750 ml,"14,3 %",116:-
+0,Nr 86369,Tahbilk,Australien,750 ml,"13,5 %",171:-
+0,Nr 51945,The Sticks & Stones,Australien,750 ml,14 %,181:-
+0,Nr 51949,The High Trellis,Australien,750 ml,"14,5 %",151:-
+0,Nr 94107,Giaconda Estate Vineyard,Australien,750 ml,"13,8 %",621:-
+0,Nr 52605,Spinifex,Australien,750 ml,"13,5 %",251:-
+0,Nr 52800,Small Island,Australien,750 ml,"13,5 %",321:-
+0,Nr 52798,Small Island,Australien,750 ml,"13,5 %",321:-
+0,Nr 53194,Steyning,Australien,750 ml,"13,5 %",257:-
+0,Nr 53738,Schild Estate,Australien,750 ml,"14,5 %",369:-
+0,Nr 55076,Risky Business,Australien,750 ml,"14,5 %",220:-
+0,Nr 55142,Peter Lehmann,Australien,750 ml,"14,5 %",381:-
+0,Nr 72667,Beats The Devil,Australien,750 ml,"14,5 %",101:-
+0,Nr 76466,Cirillo Estate,Australien,750 ml,14 %,551:-
+0,Nr 76965,Pauletts,Australien,750 ml,"14,4 %",161:-
+0,Nr 71173,Sulky,Australien,750 ml,"12,5 %",371:-
+0,Nr 55937,Longview,Australien,750 ml,"13,5 %",171:-
+0,Nr 55857,Eperosa,Australien,750 ml,"13,5 %",371:-
+0,Nr 55917,Woodlands,Australien,750 ml,"13,5 %",1 002:-
+0,Nr 78766,Clonakilla,Australien,750 ml,"14,5 %",281:-
+0,Nr 76859,Ministry of Clouds,Australien,750 ml,"14,4 %",281:-
+0,Nr 50527,This Charming Man,Australien,750 ml,"14,5 %",511:-
+0,Nr 50605,Fraser Gallop,Australien,750 ml,"13,5 %",217:-
+0,Nr 50618,St Hallet,Australien,750 ml,"14,5 %",141:-
+0,Nr 88287,Heartland,Australien,750 ml,"14,5 %",161:-
+0,Nr 72754,Angus The Bull,Australien,750 ml,14 %,161:-
+0,Nr 78066,Ruggabellus,Australien,750 ml,"13,2 %",481:-
+0,Nr 70508,The Surrey,Australien,750 ml,13 %,371:-
+0,Nr 50537,The Opportunist,Australien,750 ml,"14,5 %",171:-
+0,Nr 50587,Gorgeous,Australien,750 ml,"14,5 %",151:-
+0,Nr 70797,Hardys Stamp,Australien,187 ml,"13,5 %",36:-
+0,Nr 82426,Yalumba,Australien,750 ml,"14,5 %",141:-
+0,Nr 86252,The Stump Jump,Australien,750 ml,"14,5 %",111:-
+0,Nr 16476,McPherson,Australien,750 ml,"14,5 %",101:-
+0,Nr 53470,Wynns Michael,Australien,750 ml,14 %,751:-
+0,Nr 53679,Schild Estate,Australien,750 ml,"14,5 %",359:-
+0,Nr 53773,Bass Phillip,Australien,750 ml,"13,5 %",701:-
+0,Nr 94386,Faraway Tree of McLaren Vale Grenache,Australien,750 ml,"14,5 %",301:-
+0,Nr 54303,The Barry Bros,Australien,750 ml,13 %,181:-
+0,Nr 54567,Wolf Blass,Australien,750 ml,"14,5 %",601:-
+0,Nr 51490,8 Rows,Australien,750 ml,"13,5 %",151:-
+0,Nr 52005,The Bonsai Vine,Australien,750 ml,"14,5 %",181:-
+0,Nr 75398,Schild Estate,Australien,750 ml,"14,5 %",201:-
+0,Nr 70455,Efferus,Australien,750 ml,"13,8 %",481:-
+0,Nr 4642,Yellow Tail,Australien,750 ml,"13,5 %",91:-
+0,Nr 55916,Woodlands,Australien,750 ml,"13,5 %",1 002:-
+0,Nr 56144,Pooley,Australien,750 ml,"13,4 %",501:-
+0,Nr 78066,Ruggabellus,Australien,750 ml,"13,2 %",481:-
+0,Nr 70508,The Surrey,Australien,750 ml,13 %,371:-
+0,Nr 50537,The Opportunist,Australien,750 ml,"14,5 %",171:-
+0,Nr 50587,Gorgeous,Australien,750 ml,"14,5 %",151:-
+0,Nr 75470,Mitolo,Australien,750 ml,"14,5 %",301:-
+0,Nr 6251,Fox Creek,Australien,750 ml,"14,5 %",154:-
+0,Nr 70683,Bonsai,Australien,750 ml,"15,5 %",244:-

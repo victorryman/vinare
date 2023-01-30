@@ -1,0 +1,2254 @@
+idx,ID,Name,Country,Volume,Alcohol,Price
+0,Nr 2094,Nerello Mascalese,Italien,750 ml,"12,5 %",130:-*
+1,Nr 20048,Crudo,Italien,750 ml,"12,5 %",131:-*
+2,Nr 2236,Taurasi,Italien,750 ml,14 %,201:-
+3,Nr 3034,Casa Vinironia Palloncino,Italien,750 ml,"13,5 %",71:-*
+4,Nr 76598,Viva Valentina,Italien,750 ml,13 %,97:-
+5,Nr 73570,Casa Marrone,Italien,750 ml,"14,5 %",111:-
+6,Nr 32431,Boira',Italien,750 ml,13 %,101:-
+7,Nr 73546,Massimo,Italien,1000 ml,"13,5 %",91:-
+8,Nr 72169,Passicone,Italien,1000 ml,"13,5 %",91:-
+9,Nr 32452,Raccolto,Italien,375 ml,14 %,51:-
+10,Nr 72782,Piemonte,Italien,750 ml,"13,5 %",127:-
+11,Nr 72479,Lisa 1503,Italien,1000 ml,"13,5 %",101:-
+12,Nr 5354,Tommasi Graticcio Appassionato,Italien,750 ml,"12,5 %",107:-
+13,Nr 74756,Amicone,Italien,750 ml,14 %,107:-
+14,Nr 73966,Zensa,Italien,750 ml,14 %,97:-
+15,Nr 6792,Campolieti,Italien,750 ml,"13,5 %",121:-
+16,Nr 22310,Lambrusco Reggiano,Italien,750 ml,7 %,76:-
+17,Nr 72411,Ecoltura,Italien,750 ml,"14,5 %",101:-
+18,Nr 79600,Enzo Bartoli,Italien,750 ml,14 %,151:-
+19,Nr 22300,Fontanafredda Ebbio,Italien,750 ml,"13,5 %",131:-
+20,Nr 5354,Tommasi Graticcio Appassionato,Italien,375 ml,"12,5 %",63:-
+21,Nr 2312,Cecchi,Italien,750 ml,13 %,81:-
+22,Nr 74208,Amarone della Valpolicella,Italien,750 ml,15 %,181:-
+23,Nr 32364,Mauro,Italien,375 ml,"13,5 %",45:-
+24,Nr 2428,The Big Zin,Italien,750 ml,14 %,91:-
+25,Nr 2390,Cantina Zaccagnini,Italien,750 ml,"12,5 %",121:-
+26,Nr 73094,Stranger Zins,Italien,1000 ml,"13,5 %",91:-
+27,Nr 73498,Casteloro,Italien,750 ml,13 %,101:-
+28,Nr 52856,Rossetto,Italien,750 ml,14 %,121:-
+29,Nr 70971,Passicone,Italien,1000 ml,"13,5 %",101:-
+30,Nr 32228,Selvarossa,Italien,750 ml,"13,5 %",91:-
+31,Nr 12343,Amarone A,Italien,750 ml,15 %,211:-
+32,Nr 74659,The Wanted Zin,Italien,750 ml,"14,5 %",97:-
+33,Nr 72399,Enzo Bartoli,Italien,750 ml,"13,5 %",211:-
+34,Nr 74972,It's a Zin!,Italien,750 ml,14 %,121:-
+35,Nr 72526,Governo Rosso Toscano,Italien,750 ml,14 %,101:-
+36,Nr 5328,Monti Garbi,Italien,750 ml,14 %,141:-
+37,Nr 22981,Monterosso,Italien,750 ml,"13,5 %",67:-
+38,Nr 78230,Coste di moro,Italien,750 ml,14 %,121:-
+39,Nr 74255,Pietro Di Campo,Italien,750 ml,13 %,101:-
+40,Nr 2304,Domìni Veneti,Italien,375 ml,"12,5 %",170:-
+41,Nr 80419,Heartwood,Italien,750 ml,"13,5 %",91:-
+42,Nr 32417,Villa Puccini,Italien,750 ml,"12,5 %",91:-
+43,Nr 2322,il Conte,Italien,375 ml,14 %,45:-
+44,Nr 76686,Casa Marrone,Italien,750 ml,"14,5 %",141:-
+45,Nr 22350,Tommasi,Italien,750 ml,15 %,301:-
+46,Nr 32364,Mauro,Italien,750 ml,"13,5 %",81:-
+47,Nr 79779,Prego,Italien,1000 ml,13 %,89:-
+48,Nr 5352,Casalforte,Italien,750 ml,14 %,106:-
+49,Nr 72945,Viva Valentina,Italien,750 ml,14 %,107:-
+50,Nr 76845,Fortellino,Italien,750 ml,14 %,97:-
+51,Nr 2705,Brolio,Italien,750 ml,"13,5 %",141:-
+52,Nr 2326,Epicuro,Italien,750 ml,"14,5 %",91:-
+53,Nr 75722,Barbera d'Alba,Italien,750 ml,14 %,121:-
+54,Nr 22320,Bolla Le Poiane,Italien,750 ml,14 %,131:-
+55,Nr 6792,Campolieti,Italien,375 ml,"13,5 %",76:-
+56,Nr 2077,Copertino,Italien,750 ml,13 %,101:-
+57,Nr 12366,Capitel de'Roari,Italien,375 ml,15 %,113:-
+58,Nr 2337,Montepulciano d'Abruzzo,Italien,750 ml,13 %,81:-
+59,Nr 71805,Valpolicella Ripasso,Italien,750 ml,"13,5 %",111:-
+60,Nr 70705,Valpolicella Ripasso,Italien,750 ml,"13,5 %",141:-
+61,Nr 73186,Castelmondo,Italien,750 ml,"13,5 %",101:-
+62,Nr 72977,Grillo,Italien,750 ml,14 %,91:-
+63,Nr 2386,Masi Modello,Italien,750 ml,12 %,91:-
+64,Nr 32417,Villa Puccini,Italien,1500 ml,"12,5 %",172:-
+65,Nr 70215,Bolla Le Poiane,Italien,750 ml,15 %,281:-
+66,Nr 2378,Prima Festa,Italien,750 ml,"13,5 %",101:-*
+67,Nr 75416,Barone Montalto,Italien,750 ml,"13,5 %",101:-
+68,Nr 22350,Tommasi,Italien,375 ml,15 %,170:-
+69,Nr 12366,Capitel de'Roari,Italien,750 ml,15 %,207:-
+70,Nr 12357,Brunello di Montalcino,Italien,750 ml,"14,5 %",301:-
+71,Nr 2595,Palazzo,Italien,750 ml,14 %,81:-*
+72,Nr 2191,Moncaro,Italien,750 ml,14 %,101:-*
+73,Nr 2942,Rubesco,Italien,750 ml,14 %,117:-
+74,Nr 76790,Maggio,Italien,750 ml,"13,5 %",97:-
+75,Nr 32417,Villa Puccini,Italien,375 ml,"12,6 %",56:-
+76,Nr 78822,Zingled out,Italien,1000 ml,14 %,101:-
+77,Nr 2705,Brolio,Italien,375 ml,13 %,80:-
+78,Nr 75423,Pietra d' Elsa,Italien,1000 ml,13 %,97:-
+79,Nr 5123,Masi Campofiorin,Italien,750 ml,13 %,141:-
+80,Nr 3204,Doppio Passo,Italien,750 ml,13 %,101:-
+81,Nr 7126,Bianchi Montepulciano d'Abruzzo,Italien,750 ml,13 %,81:-
+82,Nr 74789,Farmers Market,Italien,750 ml,14 %,81:-
+83,Nr 72389,Castelgufo,Italien,750 ml,13 %,111:-
+84,Nr 2310,Ruffino,Italien,750 ml,13 %,101:-
+85,Nr 75285,Villarini,Italien,750 ml,13 %,111:-
+86,Nr 22467,Piccini,Italien,750 ml,13 %,94:-
+87,Nr 77768,Casteloro,Italien,750 ml,13 %,81:-
+88,Nr 74345,Antiche Terre Venete,Italien,750 ml,"13,5 %",121:-
+89,Nr 2773,Briccotondo,Italien,750 ml,"13,5 %",101:-
+90,Nr 50335,Blängvin,Italien,750 ml,13 %,91:-
+91,Nr 6998,Masi Bonacosta,Italien,750 ml,12 %,121:-
+92,Nr 6260,Brachetto d´Acqui,Italien,375 ml,"5,5 %",100:-
+93,Nr 75630,Castelmare,Italien,750 ml,"13,5 %",101:-
+94,Nr 12324,Zenato,Italien,750 ml,14 %,211:-
+95,Nr 70769,Bevanti,Italien,750 ml,"13,5 %",101:-
+96,Nr 6998,Masi Bonacosta,Italien,375 ml,12 %,70:-
+97,Nr 76560,Barolo,Italien,750 ml,"14,5 %",211:-
+98,Nr 78484,Lunadoro,Italien,750 ml,14 %,211:-
+99,Nr 2680,Manifesto,Italien,750 ml,"13,5 %",81:-
+100,Nr 52915,150+1 Barbera,Italien,750 ml,"13,5 %",101:-
+101,Nr 5352,Casalforte,Italien,1500 ml,"13,5 %",222:-
+102,Nr 2300,Villa Antinori,Italien,750 ml,"13,5 %",161:-
+103,Nr 90219,La Spinetta,Italien,750 ml,14 %,231:-
+104,Nr 73766,Marastoni,Italien,750 ml,"12,5 %",81:-
+105,Nr 92565,Valiano,Italien,750 ml,14 %,151:-
+106,Nr 92623,Carusu,Italien,750 ml,"14,5 %",161:-
+107,Nr 2310,Ruffino,Italien,375 ml,"12,5 %",60:-
+108,Nr 74201,Borgogno,Italien,750 ml,"14,5 %",201:-
+109,Nr 74189,Zecci,Italien,750 ml,"13,5 %",141:-
+110,Nr 5411,Mezzacorona Pinot Nero,Italien,750 ml,13 %,101:-
+111,Nr 2817,Rendola,Italien,750 ml,"13,5 %",111:-*
+112,Nr 70227,Barolo Fontanafredda,Italien,750 ml,14 %,211:-
+113,Nr 75707,Castelmare,Italien,750 ml,15 %,181:-
+114,Nr 12363,Ca' Montini,Italien,750 ml,15 %,291:-
+115,Nr 81603,Vinistella,Italien,750 ml,14 %,91:-
+116,Nr 95424,Montessu,Italien,750 ml,"14,5 %",169:-
+117,Nr 2723,Rocca Guicciarda,Italien,750 ml,"13,5 %",161:-
+118,Nr 5123,Masi Campofiorin,Italien,375 ml,13 %,80:-
+119,Nr 2014,Cala Civetta,Italien,750 ml,"13,5 %",121:-
+120,Nr 74543,Riunite Lambrusco Farfalle,Italien,750 ml,"7,5 %",89:-
+121,Nr 12385,Zenato,Italien,750 ml,"13,5 %",141:-
+122,Nr 71335,Casa Vinironia,Italien,1000 ml,13 %,91:-
+123,Nr 71662,Chianti,Italien,750 ml,"13,5 %",81:-
+124,Nr 2345,Masi Costasera,Italien,750 ml,15 %,341:-
+125,Nr 71441,Mandrarossa Timperosse,Italien,1500 ml,"13,5 %",260:-
+126,Nr 71596,Raimonda,Italien,750 ml,"14,5 %",117:-
+127,Nr 2398,Barolo Albe,Italien,750 ml,"14,5 %",281:-
+128,Nr 79635,Ernst Utvalda Från Toscana,Italien,750 ml,"13,5 %",111:-
+129,Nr 79600,Enzo Bartoli,Italien,1500 ml,14 %,302:-
+130,Nr 78625,Passorone,Italien,750 ml,15 %,101:-
+131,Nr 22328,Villa Puccini,Italien,750 ml,13 %,159:-
+132,Nr 2340,La Corte del Pozzo,Italien,750 ml,"12,5 %",101:-
+133,Nr 71002,Casa Capriolo,Italien,750 ml,14 %,101:-
+134,Nr 32452,Raccolto,Italien,750 ml,14 %,101:-
+135,Nr 52568,Casteloro,Italien,750 ml,"13,5 %",131:-
+136,Nr 2541,Podere Brizio Rosso di Montalcino,Italien,750 ml,"13,5 %",151:-
+137,Nr 4261,Castelo,Italien,750 ml,"13,5 %",77:-*
+138,Nr 2180,Troppo,Italien,375 ml,"13,5 %",50:-
+139,Nr 2576,Col d'Orcia,Italien,750 ml,14 %,151:-
+140,Nr 53049,La Scoperta,Italien,1000 ml,13 %,91:-
+141,Nr 76513,Enzo Bartoli,Italien,750 ml,"12,5 %",101:-
+142,Nr 5353,Pasqua Valpolicella,Italien,750 ml,"13,5 %",127:-
+143,Nr 3040,Tenuta Vignega,Italien,750 ml,"13,5 %",141:-
+144,Nr 2754,Barbera d'Asti,Italien,750 ml,"13,5 %",81:-
+145,Nr 71663,Le Ville di Antanè,Italien,750 ml,14 %,127:-
+146,Nr 72828,Tre Marchetti,Italien,750 ml,15 %,171:-
+147,Nr 79097,Brigaldara,Italien,750 ml,"14,5 %",151:-
+148,Nr 52482,Massetti,Italien,1000 ml,13 %,91:-
+149,Nr 75488,Grandicone,Italien,1000 ml,15 %,101:-
+150,Nr 73456,Replica,Italien,750 ml,14 %,81:-
+151,Nr 2368,Langhe Nebbiolo,Italien,375 ml,14 %,110:-
+152,Nr 2322,il Conte,Italien,750 ml,14 %,81:-
+153,Nr 2339,Ca' Vedole,Italien,750 ml,"11,5 %",161:-
+154,Nr 32472,Le Volte,Italien,750 ml,"13,5 %",181:-
+155,Nr 73091,Ronepasso,Italien,1000 ml,"13,5 %",91:-*
+156,Nr 73059,Zengarello,Italien,750 ml,14 %,197:-
+157,Nr 2318,Il Nostro,Italien,750 ml,"13,5 %",71:-*
+158,Nr 2400,DeAetna,Italien,750 ml,"13,5 %",177:-
+159,Nr 77488,Langhe Nebbiolo,Italien,750 ml,"13,5 %",141:-
+160,Nr 95414,Nerojbleo,Italien,750 ml,"13,5 %",187:-
+161,Nr 73684,Il Segreto,Italien,750 ml,"13,5 %",121:-
+162,Nr 70384,Borgogno,Italien,750 ml,"13,5 %",121:-
+163,Nr 73661,Borgogno,Italien,750 ml,14 %,301:-
+164,Nr 3930,Gran Passione,Italien,750 ml,"14,5 %",111:-
+165,Nr 74871,Vivaldi,Italien,750 ml,13 %,101:-
+166,Nr 72805,Grande Alberone,Italien,750 ml,14 %,91:-
+167,Nr 2144,Poliziano Vino Nobile di Montepulciano,Italien,750 ml,"13,5 %",171:-
+168,Nr 53290,Luna di Mezzanotte,Italien,750 ml,14 %,131:-
+169,Nr 76535,Piemonte Barbera,Italien,750 ml,"14,5 %",101:-
+170,Nr 2740,Amarone della Valpolicella Classico,Italien,375 ml,15 %,110:-
+171,Nr 73663,Enzo Bartoli,Italien,750 ml,"13,5 %",171:-
+172,Nr 75501,Brancaia,Italien,750 ml,"13,5 %",147:-
+173,Nr 12343,Amarone A,Italien,375 ml,15 %,116:-
+174,Nr 75208,Pazzione Organic Red,Italien,750 ml,13 %,101:-
+175,Nr 2013,Ricossa,Italien,750 ml,13 %,121:-
+176,Nr 2700,Chianti,Italien,750 ml,13 %,101:-
+177,Nr 2740,Amarone della Valpolicella,Italien,750 ml,15 %,197:-
+178,Nr 3300,Passitivo,Italien,750 ml,14 %,101:-
+179,Nr 72178,Villa Belvedere,Italien,750 ml,15 %,221:-
+180,Nr 75184,Villa Righetti,Italien,750 ml,15 %,231:-
+181,Nr 2458,Teodosio,Italien,750 ml,14 %,121:-
+182,Nr 12363,Ca' Montini,Italien,375 ml,15 %,160:-
+183,Nr 23071,Barbera d'Alba,Italien,750 ml,"14,5 %",221:-
+184,Nr 74128,Bollo,Italien,750 ml,"13,5 %",101:-
+185,Nr 50276,Armatura,Italien,750 ml,14 %,241:-
+186,Nr 2443,Borgogno Barolo,Italien,750 ml,14 %,651:-
+187,Nr 6010,Allegrini,Italien,750 ml,"13,5 %",131:-
+188,Nr 22013,Barbaresco,Italien,750 ml,"13,5 %",251:-
+189,Nr 23072,Casalforte,Italien,750 ml,"13,5 %",81:-
+190,Nr 76308,1909 Righetti,Italien,750 ml,14 %,131:-
+191,Nr 76777,Ti Amo,Italien,750 ml,"13,5 %",131:-
+192,Nr 75193,Poggio Le Volpi,Italien,750 ml,14 %,121:-
+193,Nr 92324,Dogliani,Italien,750 ml,13 %,181:-
+194,Nr 78143,Ricossa,Italien,750 ml,14 %,191:-
+195,Nr 12379,Casalforte,Italien,750 ml,15 %,191:-
+196,Nr 70635,Amarone della Valpolicella,Italien,750 ml,15 %,221:-
+197,Nr 94956,Rosso dei Dardi,Italien,750 ml,13 %,191:-
+198,Nr 78282,Brocca,Italien,750 ml,"13,5 %",131:-
+199,Nr 2041,Villa Mottura,Italien,750 ml,13 %,87:-
+200,Nr 2077,Copertino,Italien,375 ml,13 %,50:-
+201,Nr 79137,Casteloro,Italien,750 ml,13 %,61:-
+202,Nr 2393,Musella,Italien,750 ml,13 %,141:-
+203,Nr 2309,Istine,Italien,750 ml,14 %,161:-
+204,Nr 94957,Macchiona,Italien,750 ml,"14,5 %",371:-
+205,Nr 74960,Livio Pavese,Italien,750 ml,"13,5 %",121:-
+206,Nr 12357,Brunello di Montalcino,Italien,375 ml,"14,5 %",160:-
+207,Nr 32145,Zenato Amarone,Italien,750 ml,"16,5 %",402:-
+208,Nr 91269,Podere Le Caggiole,Italien,750 ml,"14,5 %",281:-
+209,Nr 76308,Villa Righetti,Italien,375 ml,14 %,79:-
+210,Nr 22817,Cafaggio,Italien,750 ml,"13,5 %",157:-
+211,Nr 2717,Gratena Chianti,Italien,750 ml,14 %,131:-
+212,Nr 7306,Langhe,Italien,750 ml,"14,5 %",191:-
+213,Nr 2330,Barolo Serralunga,Italien,750 ml,"14,5 %",351:-
+214,Nr 75015,Antiche Terre Venete,Italien,750 ml,"12,5 %",109:-
+215,Nr 2547,Il Seggio,Italien,750 ml,"14,5 %",201:-
+216,Nr 2468,Barolo Cascina Rocca,Italien,750 ml,"14,5 %",250:-
+217,Nr 93981,Barolo,Italien,750 ml,"14,5 %",351:-
+218,Nr 2004,Cannonau di Sardegna,Italien,750 ml,14 %,131:-
+219,Nr 79000,Amarone della Valpolicella,Italien,750 ml,15 %,247:-
+220,Nr 42302,Brunello di Montalcino,Italien,750 ml,14 %,261:-
+221,Nr 92367,Barolo,Italien,750 ml,"14,5 %",351:-
+222,Nr 94917,Barolo,Italien,750 ml,15 %,351:-
+223,Nr 74045,Brunelli,Italien,750 ml,15 %,300:-
+224,Nr 53008,Barolo,Italien,750 ml,"14,5 %",251:-
+225,Nr 90050,Tocca Stelle,Italien,750 ml,14 %,181:-
+226,Nr 12357,Brunello di Montalcino,Italien,1500 ml,"14,5 %",642:-
+227,Nr 32152,Tignanello,Italien,750 ml,"14,5 %",951:-
+228,Nr 92934,Quarticello,Italien,750 ml,12 %,171:-
+229,Nr 90661,Cavallotto,Italien,750 ml,"14,5 %",340:-
+230,Nr 79125,Ecoltura,Italien,750 ml,"12,5 %",121:-
+231,Nr 92645,Gaja,Italien,750 ml,14 %,401:-
+232,Nr 72152,Capitano Rosso,Italien,1000 ml,13 %,81:-
+233,Nr 54322,Castelmare,Italien,750 ml,14 %,101:-
+234,Nr 5329,Delitia,Italien,375 ml,"12,5 %",100:-
+235,Nr 79074,Brunello di Montalcino,Italien,750 ml,14 %,700:-
+236,Nr 3097,Brunello di Montalcino,Italien,750 ml,14 %,261:-
+237,Nr 50285,Marastoni,Italien,750 ml,"13,5 %",101:-
+238,Nr 5328,Monti Garbi,Italien,375 ml,14 %,78:-
+239,Nr 5123,Masi Campofiorin,Italien,1500 ml,13 %,272:-
+240,Nr 92405,Diego Conterno,Italien,750 ml,"14,5 %",311:-
+241,Nr 94887,Giacomo Grimaldi,Italien,750 ml,"14,5 %",451:-
+242,Nr 78498,Amarone della Valpolicella,Italien,750 ml,"16,5 %",759:-
+243,Nr 94062,Costa Bassa,Italien,750 ml,"13,5 %",201:-
+244,Nr 2655,Pietrarizzo,Italien,750 ml,"13,5 %",201:-
+245,Nr 73091,Ronepasso,Italien,1000 ml,"13,5 %",89:-
+246,Nr 93958,I Fabbri Chianti Classico,Italien,750 ml,13 %,190:-
+247,Nr 92631,Poliziano,Italien,750 ml,"14,5 %",241:-
+248,Nr 90308,Le Difese,Italien,750 ml,14 %,231:-
+249,Nr 92133,Monteraponi Chianti Classico,Italien,750 ml,"13,5 %",401:-
+250,Nr 92826,Benanti,Italien,750 ml,"13,5 %",301:-
+251,Nr 2626,Montico,Italien,750 ml,13 %,87:-
+252,Nr 91111,Barolo Monforte d'Alba,Italien,750 ml,"14,5 %",321:-
+253,Nr 93963,Barolo,Italien,750 ml,"14,5 %",381:-
+254,Nr 91817,Grignolino d'Asti,Italien,750 ml,"13,5 %",202:-
+255,Nr 94947,Roberto Rondelli,Italien,750 ml,"12,5 %",231:-
+256,Nr 2334,Ciù Ciù di Bartolomei,Italien,750 ml,"13,5 %",91:-
+257,Nr 94337,Casa Emma,Italien,750 ml,14 %,351:-
+258,Nr 92727,Cigliuti,Italien,750 ml,"14,5 %",451:-
+259,Nr 74890,P.Lex,Italien,750 ml,14 %,141:-
+260,Nr 12379,Casalforte,Italien,1500 ml,15 %,382:-
+261,Nr 90557,Cavallotto,Italien,750 ml,"13,5 %",209:-
+262,Nr 93067,Gaja,Italien,750 ml,14 %,1 801:-
+263,Nr 73604,Barolo,Italien,375 ml,"13,5 %",180:-
+264,Nr 94274,Rocca di Castagnoli,Italien,750 ml,14 %,171:-
+265,Nr 94660,Foradori,Italien,750 ml,"12,5 %",227:-
+266,Nr 5337,Barbaresco,Italien,750 ml,14 %,181:-
+267,Nr 73528,Ville di Antané,Italien,750 ml,"13,5 %",117:-
+268,Nr 2133,Tommasi Palanca,Italien,750 ml,13 %,141:-
+269,Nr 90250,Monteraponi,Italien,750 ml,13 %,201:-
+270,Nr 90402,Guidalberto,Italien,750 ml,14 %,431:-
+271,Nr 94533,Piedefranco,Italien,750 ml,13 %,389:-
+272,Nr 94581,Barolo Bussia,Italien,750 ml,"14,5 %",599:-
+273,Nr 93197,Brunello di Montalcino Vigna di Pianrosso,Italien,750 ml,15 %,1 051:-
+274,Nr 92931,Magma Rosso,Italien,750 ml,14 %,2 039:-
+275,Nr 90572,Barolo,Italien,750 ml,"14,5 %",499:-
+276,Nr 94220,Munjebel Rosso FM,Italien,750 ml,"13,5 %",540:-
+277,Nr 32224,Zenato,Italien,750 ml,"13,5 %",151:-
+278,Nr 90667,Brunello di Montalcino,Italien,750 ml,"14,5 %",651:-
+279,Nr 90413,Nittardi,Italien,750 ml,14 %,359:-
+280,Nr 2074,Chianti,Italien,750 ml,12 %,101:-
+281,Nr 94239,Munjebel,Italien,750 ml,"13,5 %",540:-
+282,Nr 94619,Barolo,Italien,750 ml,14 %,998:-
+283,Nr 94655,Cosentino,Italien,750 ml,13 %,351:-
+284,Nr 95503,Rovero,Italien,750 ml,"14,5 %",199:-
+285,Nr 79234,Brunello di Montalcino,Italien,750 ml,"14,5 %",531:-
+286,Nr 94623,Barbera d´Alba,Italien,750 ml,14 %,310:-
+287,Nr 94910,Benevelli,Italien,750 ml,"14,5 %",451:-
+288,Nr 94903,Brunello di Montalcino,Italien,750 ml,"14,5 %",551:-
+289,Nr 92677,Cavallotto,Italien,750 ml,14 %,849:-
+290,Nr 92743,Cavallotto,Italien,750 ml,"14,5 %",1 939:-
+291,Nr 92773,Cavallotto,Italien,750 ml,"14,5 %",1 479:-
+292,Nr 78236,Gran Maestro,Italien,750 ml,"14,5 %",71:-
+293,Nr 51026,Il Barone,Italien,1000 ml,15 %,171:-
+294,Nr 2009,Palazzo,Italien,750 ml,14 %,79:-
+295,Nr 94379,San Fereolo,Italien,750 ml,14 %,271:-
+296,Nr 94157,Munjebel,Italien,750 ml,"12,5 %",879:-
+297,Nr 90010,Munjebel Rosso,Italien,750 ml,14 %,379:-
+298,Nr 94918,Barolo,Italien,750 ml,"14,5 %",451:-
+299,Nr 95184,Brunello di Montalcino,Italien,750 ml,"14,5 %",501:-
+300,Nr 90262,Barolo,Italien,750 ml,"14,5 %",579:-
+301,Nr 2723,Rocca Guicciarda,Italien,375 ml,"13,5 %",86:-
+302,Nr 94926,Langhe Nebbiolo,Italien,750 ml,"14,5 %",201:-
+303,Nr 93398,Ceretto Barbaresco,Italien,750 ml,"13,5 %",449:-
+304,Nr 92705,Cavallotto,Italien,1500 ml,14 %,1 779:-
+305,Nr 93867,Luigi Spertino,Italien,750 ml,13 %,239:-
+306,Nr 94466,Barolo Bussia Cascina Dardi Riserva,Italien,750 ml,14 %,601:-
+307,Nr 93319,Monteraponi,Italien,750 ml,"13,5 %",599:-
+308,Nr 94270,Stefano Amerighi,Italien,750 ml,"13,5 %",290:-
+309,Nr 93634,Barolo del Comune di La Morra,Italien,750 ml,14 %,998:-
+310,Nr 95643,Vino Nobile di Montepulciano,Italien,750 ml,14 %,201:-
+311,Nr 92655,Cavallotto,Italien,750 ml,"13,5 %",259:-
+312,Nr 92935,Munjebel,Italien,750 ml,14 %,539:-
+313,Nr 32205,il Nostro,Italien,750 ml,"13,5 %",69:-
+314,Nr 52209,Fontanafredda,Italien,750 ml,"13,5 %",191:-
+315,Nr 93369,Monteraponi,Italien,1500 ml,13 %,395:-
+316,Nr 80413,Brunello di Montalcino,Italien,750 ml,14 %,241:-
+317,Nr 79263,Brunello di Montalcino Pianrosso,Italien,750 ml,15 %,571:-
+318,Nr 94443,Radici Taurasi,Italien,750 ml,"13,5 %",351:-
+319,Nr 92166,Alberelli di Giodo,Italien,750 ml,14 %,589:-
+320,Nr 2305,Barolo,Italien,750 ml,"13,5 %",281:-
+321,Nr 90126,Stilema Taurasi,Italien,750 ml,13 %,699:-
+322,Nr 3302,Raccolto,Italien,750 ml,13 %,81:-
+323,Nr 94116,Cerbaia,Italien,750 ml,14 %,351:-
+324,Nr 94912,Barolo del commune di Verduno,Italien,750 ml,"14,5 %",441:-
+325,Nr 53140,Soprasasso,Italien,750 ml,"13,5 %",121:-
+326,Nr 94946,Barbera d’Alba Superiore,Italien,750 ml,"13,5 %",201:-
+327,Nr 94635,Franco Molino,Italien,750 ml,"14,5 %",500:-
+328,Nr 94760,Ronchi di Cialla,Italien,750 ml,12 %,401:-
+329,Nr 92128,Biondi-Santi,Italien,750 ml,13 %,771:-
+330,Nr 92389,Fontanafredda,Italien,750 ml,"14,5 %",601:-
+331,Nr 94108,Barolo,Italien,750 ml,14 %,2 099:-
+332,Nr 92839,Ornellaia,Italien,750 ml,"14,5 %",1 999:-
+333,Nr 94705,Barolo,Italien,750 ml,"14,5 %",799:-
+334,Nr 94231,Langhe Nebbiolo,Italien,750 ml,0 %,264:-
+335,Nr 75421,Brunello di Montalcino,Italien,750 ml,14 %,261:-
+336,Nr 93647,Erba Salata,Italien,750 ml,13 %,251:-
+337,Nr 92148,Barolo,Italien,750 ml,"14,5 %",501:-
+338,Nr 93896,Bonavita,Italien,750 ml,"12,5 %",369:-
+339,Nr 94219,Munjebel Rosso,Italien,750 ml,"13,5 %",540:-
+340,Nr 93746,Barolo,Italien,750 ml,"14,5 %",799:-
+341,Nr 92827,Le Serre Nuove dell'Ornellaia,Italien,750 ml,"14,5 %",469:-
+342,Nr 92379,Barbaresco Serraboella,Italien,750 ml,"14,5 %",501:-
+343,Nr 90448,Amos,Italien,750 ml,14 %,231:-
+344,Nr 93065,Fontanafredda,Italien,1500 ml,14 %,1 799:-
+345,Nr 32130,Castello Fonterutoli,Italien,750 ml,"13,5 %",311:-
+346,Nr 12330,Brunello di Montalcino,Italien,750 ml,"14,5 %",351:-
+347,Nr 93976,Beragna,Italien,750 ml,13 %,199:-
+348,Nr 92657,Munjebel,Italien,750 ml,11 %,540:-
+349,Nr 91242,Giodo,Italien,750 ml,14 %,1 200:-
+350,Nr 93158,Pipparello,Italien,750 ml,15 %,699:-
+351,Nr 94156,Munjebel,Italien,750 ml,15 %,879:-
+352,Nr 94177,ROVITTELLO,Italien,750 ml,"13,5 %",699:-
+353,Nr 94690,Gattinara Riserva,Italien,750 ml,"13,5 %",399:-
+354,Nr 94880,Rosso di Montalcino,Italien,750 ml,"14,5 %",249:-
+355,Nr 77350,Enzo Bartoli,Italien,750 ml,14 %,301:-
+356,Nr 92126,Sottimano,Italien,750 ml,14 %,599:-
+357,Nr 92819,Verduno Pelaverga Speziale,Italien,750 ml,"13,5 %",229:-
+358,Nr 92635,Fontanafredda,Italien,1500 ml,"14,5 %",1 399:-
+359,Nr 94181,Serra della Contessa,Italien,750 ml,"13,5 %",699:-
+360,Nr 94951,Borgogno Barolo,Italien,750 ml,"14,5 %",1 351:-
+361,Nr 90509,Fontanafredda,Italien,750 ml,"13,5 %",1 982:-
+362,Nr 92673,Joaquin,Italien,750 ml,"13,5 %",599:-
+363,Nr 92456,'a Rina,Italien,750 ml,14 %,219:-
+364,Nr 2440,Paolo Scavino,Italien,750 ml,14 %,589:-
+365,Nr 95185,Biondi-Santi Rosso di Montalcino,Italien,750 ml,"13,5 %",769:-
+366,Nr 95304,Barolo Prapò,Italien,750 ml,"14,5 %",699:-
+367,Nr 94189,Cerrete,Italien,750 ml,15 %,1 299:-
+368,Nr 94904,Brunello di Montalcino,Italien,750 ml,14 %,699:-
+369,Nr 94237,Munjebel,Italien,750 ml,"13,5 %",540:-
+370,Nr 94897,Tenuta delle Terre Nere,Italien,750 ml,"14,5 %",499:-
+371,Nr 94906,Barolo,Italien,750 ml,"14,5 %",499:-
+372,Nr 90551,Barolo Cerequio,Italien,750 ml,14 %,2 779:-
+373,Nr 94704,Barolo,Italien,1500 ml,"14,5 %",1 779:-
+374,Nr 93657,Barolo Cerretta,Italien,750 ml,"14,5 %",899:-
+375,Nr 94886,Borgogno,Italien,750 ml,"14,5 %",1 069:-
+376,Nr 94102,Borgogno Barolo,Italien,750 ml,14 %,891:-
+377,Nr 90033,Dolcetto d'Alba,Italien,750 ml,"13,5 %",199:-
+378,Nr 94703,Langhe Nebbiolo,Italien,750 ml,14 %,349:-
+379,Nr 93558,Barolo Margheria,Italien,750 ml,"14,5 %",779:-
+380,Nr 2372,Gattinara,Italien,750 ml,"13,5 %",221:-
+381,Nr 92992,Gaja Pieve Santa Restituta,Italien,750 ml,"14,5 %",599:-
+382,Nr 92319,Montefalco Rosso,Italien,750 ml,"14,5 %",151:-
+383,Nr 95171,Barolo Ravera,Italien,750 ml,"14,5 %",699:-
+384,Nr 92214,Barolo Gramolere,Italien,750 ml,"14,5 %",589:-
+385,Nr 93693,Barolo,Italien,750 ml,14 %,899:-
+386,Nr 92915,Munjebel,Italien,750 ml,"14,5 %",879:-
+387,Nr 94901,Borgogno,Italien,750 ml,15 %,1 399:-
+388,Nr 94695,Sottimano,Italien,750 ml,14 %,599:-
+389,Nr 94691,Sottimano,Italien,750 ml,14 %,2 499:-
+390,Nr 92005,Barolo,Italien,750 ml,14 %,2 779:-
+391,Nr 94625,Vietti,Italien,750 ml,"14,5 %",1 899:-
+392,Nr 94691,Sottimano,Italien,750 ml,14 %,2 499:-
+393,Nr 93653,Pagliaro,Italien,750 ml,15 %,899:-
+394,Nr 94192,Borgogno,Italien,750 ml,"14,5 %",1 749:-
+395,Nr 94881,Borgogno,Italien,750 ml,"14,5 %",5 499:-
+396,Nr 94924,Barolo Vigna Rionda,Italien,750 ml,"14,5 %",1 299:-
+397,Nr 94952,Borgogno Barolo,Italien,750 ml,14 %,1 001:-
+398,Nr 94182,Barolo Monprivato Riserva,Italien,750 ml,"13,5 %",5 699:-
+399,Nr 92863,Munjebel,Italien,750 ml,15 %,539:-
+400,Nr 93055,Barolo Roche dell'Annunziata,Italien,750 ml,14 %,2 779:-
+401,Nr 94902,Borgogno,Italien,750 ml,"14,5 %",1 099:-
+402,Nr 94909,Brunello di Montalcino Riserva,Italien,750 ml,"14,5 %",4 599:-
+403,Nr 90193,Sassicaia,Italien,750 ml,14 %,2 597:-
+404,Nr 93346,Barolo Bricco Fiasco,Italien,750 ml,"14,5 %",779:-
+405,Nr 92564,Barolo Ravera,Italien,750 ml,"14,5 %",1 899:-
+406,Nr 94248,Albino Rocca,Italien,750 ml,"14,5 %",479:-
+407,Nr 90594,Barbaresco San Stunet,Italien,750 ml,15 %,519:-
+408,Nr 94424,San Polo,Italien,750 ml,"14,5 %",2 395:-
+409,Nr 96488,Borgogno,Italien,750 ml,"14,5 %",3 499:-
+410,Nr 94885,Borgogno,Italien,750 ml,"14,5 %",1 449:-
+411,Nr 92391,Massolino Barolo,Italien,750 ml,"14,5 %",351:-
+412,Nr 92378,Barolo Brunate,Italien,750 ml,14 %,2 779:-
+413,Nr 93937,Barolo Ravera,Italien,750 ml,"14,5 %",449:-
+414,Nr 94449,Valpolicella Ripasso Superiore,Italien,750 ml,"14,5 %",199:-
+415,Nr 95060,Gaja,Italien,750 ml,"14,5 %",3 999:-
+416,Nr 95227,Radici Taurasi Riserva,Italien,750 ml,14 %,399:-
+417,Nr 94694,Sottimano,Italien,750 ml,14 %,599:-
+418,Nr 92794,Produttori del Barbaresco,Italien,750 ml,"14,5 %",549:-
+419,Nr 95673,Brunello di Montalcino,Italien,750 ml,"14,5 %",409:-
+420,Nr 92587,Barolo Ravera di Monforte,Italien,750 ml,"14,5 %",449:-
+421,Nr 95380,Barolo Riserva Rocche dell'Annunziata,Italien,750 ml,"14,5 %",1 799:-
+422,Nr 90548,Massolino Barolo,Italien,750 ml,"14,5 %",719:-
+423,Nr 95089,Barolo Brunate,Italien,750 ml,"14,5 %",529:-
+424,Nr 94365,Nebbiolo d'Alba,Italien,750 ml,14 %,399:-
+425,Nr 93411,Chianti Classico,Italien,750 ml,13 %,229:-
+426,Nr 94503,Langhe Nebbiolo,Italien,750 ml,"14,5 %",209:-
+427,Nr 94304,Borgogno,Italien,1500 ml,"14,5 %",2 369:-
+428,Nr 94624,Barolo,Italien,750 ml,14 %,2 779:-
+429,Nr 92963,Masseto,Italien,750 ml,"15,5 %",6 399:-
+430,Nr 95213,Gaja,Italien,750 ml,"14,5 %",3 999:-
+431,Nr 99018,Gaja,Italien,750 ml,14 %,3 999:-
+432,Nr 94879,Borgogno,Italien,750 ml,"14,5 %",2 269:-
+433,Nr 94900,Borgogno,Italien,750 ml,15 %,959:-
+434,Nr 94692,Sottimano,Italien,750 ml,14 %,599:-
+435,Nr 93599,Barolo San Rocco,Italien,750 ml,"14,5 %",779:-
+436,Nr 95783,Gaja,Italien,750 ml,14 %,1 799:-
+437,Nr 92787,Collenottolo,Italien,750 ml,14 %,337:-
+438,Nr 92974,Barolo Castelleto Vigna Pressenda,Italien,750 ml,"14,5 %",659:-
+439,Nr 95916,Castello dei Rampolla Alceo,Italien,750 ml,"14,5 %",1 144:-
+440,Nr 94041,Barolo,Italien,750 ml,14 %,2 779:-
+441,Nr 94046,Barolo,Italien,750 ml,14 %,2 779:-
+442,Nr 92491,Barbaresco,Italien,750 ml,"14,5 %",1 949:-
+443,Nr 93767,Barolo Monvigliero,Italien,750 ml,15 %,699:-
+444,Nr 93942,Barolo San Lorenzo,Italien,750 ml,15 %,589:-
+445,Nr 93618,Barolo Liste,Italien,750 ml,"13,5 %",899:-
+446,Nr 92877,Munjebel,Italien,750 ml,14 %,699:-
+447,Nr 93211,Barolo Gavarini Chiniera,Italien,750 ml,"14,5 %",981:-
+448,Nr 94919,Barolo,Italien,750 ml,14 %,999:-
+449,Nr 94622,Barolo,Italien,750 ml,14 %,2 779:-
+450,Nr 94657,Boca,Italien,750 ml,13 %,799:-
+451,Nr 94127,Borgogno,Italien,750 ml,"14,5 %",999:-
+452,Nr 94099,Borgogno,Italien,1500 ml,"14,5 %",1 649:-
+453,Nr 94127,Borgogno,Italien,1500 ml,"14,5 %",1 879:-
+454,Nr 93205,Barolo Rüncot Riserva,Italien,750 ml,"14,5 %",2 051:-
+455,Nr 93014,I Castagni,Italien,750 ml,"14,5 %",431:-
+456,Nr 94099,Borgogno,Italien,750 ml,"14,5 %",929:-
+457,Nr 94304,Borgogno,Italien,750 ml,"14,5 %",1 369:-
+458,Nr 94923,Barolo Vigna Rionda,Italien,750 ml,14 %,1 699:-
+459,Nr 93609,Barolo Ginestra Casa Maté,Italien,750 ml,"14,5 %",981:-
+460,Nr 57905,MYTH,Italien,750 ml,14 %,120:-
+461,Nr 57861,Z1N,Italien,1000 ml,14 %,81:-*
+462,Nr 73273,Storia di Famiglia,Italien,750 ml,"13,5 %",131:-
+463,Nr 50168,Ecoltura,Italien,750 ml,"13,5 %",91:-
+464,Nr 56690,Gött Rött,Italien,750 ml,14 %,101:-
+465,Nr 57714,Tina,Italien,750 ml,"13,5 %",111:-
+466,Nr 6013,Borgi,Italien,750 ml,"13,5 %",81:-*
+467,Nr 32229,Fonterutoli,Italien,750 ml,"13,5 %",141:-
+468,Nr 55461,EQUIVOQ,Italien,750 ml,14 %,141:-
+469,Nr 77961,Marastoni,Italien,750 ml,13 %,61:-
+470,Nr 56669,Truffle Hunter,Italien,750 ml,14 %,191:-
+471,Nr 53288,Luna di Mezzanotte,Italien,750 ml,14 %,191:-
+472,Nr 58643,Il Capolavoro,Italien,750 ml,"14,5 %",71:-
+473,Nr 76367,Ricossa,Italien,750 ml,14 %,202:-
+474,Nr 50402,Del Presidente,Italien,750 ml,14 %,61:-
+475,Nr 56634,The Scream,Italien,750 ml,14 %,121:-
+476,Nr 2384,Lupi Reali,Italien,750 ml,"12,5 %",121:-
+477,Nr 2116,Palmento Costanzo,Italien,750 ml,13 %,181:-
+478,Nr 55238,Marastoni,Italien,750 ml,"13,5 %",151:-
+479,Nr 2313,Prugneto,Italien,750 ml,"13,5 %",121:-
+480,Nr 57887,Sagace,Italien,1000 ml,14 %,201:-
+481,Nr 2376,Quercia al Poggio,Italien,750 ml,"13,5 %",151:-
+482,Nr 55772,Piccini,Italien,750 ml,"13,5 %",111:-
+483,Nr 2352,Soprasasso,Italien,750 ml,15 %,202:-
+484,Nr 75294,Villa Puccini,Italien,750 ml,14 %,91:-
+485,Nr 70992,Ruminat Primitivo,Italien,750 ml,14 %,121:-
+486,Nr 50627,San Merlo,Italien,750 ml,14 %,71:-
+487,Nr 59064,Bollo,Italien,750 ml,"13,5 %",151:-
+488,Nr 53141,Ricossa,Italien,750 ml,14 %,239:-
+489,Nr 2665,Roccamozzi,Italien,750 ml,"13,5 %",107:-
+490,Nr 53252,Massimo,Italien,1000 ml,"14,5 %",81:-
+491,Nr 75441,Musella,Italien,750 ml,16 %,532:-
+492,Nr 50764,Grattamacco,Italien,750 ml,14 %,270:-
+493,Nr 57355,Barbera d´Asti,Italien,750 ml,14 %,181:-
+494,Nr 70165,Piemonte,Italien,750 ml,14 %,101:-
+495,Nr 71557,Sant`Agata,Italien,750 ml,11 %,131:-
+496,Nr 72991,Bolla,Italien,750 ml,12 %,91:-
+497,Nr 56414,FIASCO!,Italien,1000 ml,13 %,201:-
+498,Nr 71786,Zensa,Italien,750 ml,"13,5 %",111:-
+499,Nr 72157,Giannetto,Italien,750 ml,"13,5 %",552:-
+500,Nr 70523,San Sereno,Italien,750 ml,13 %,220:-
+501,Nr 75163,il Momento,Italien,750 ml,14 %,122:-
+502,Nr 73494,b.io,Italien,750 ml,14 %,131:-
+503,Nr 73072,Rossojbleo,Italien,750 ml,13 %,167:-
+504,Nr 2373,Terreno,Italien,750 ml,14 %,181:-
+505,Nr 53035,Chianti Classico,Italien,750 ml,"13,5 %",190:-
+506,Nr 53220,Bosio Passato,Italien,750 ml,"14,5 %",240:-
+507,Nr 53322,Déraciné,Italien,750 ml,13 %,190:-
+508,Nr 54040,Ca'Rugate,Italien,375 ml,"12,5 %",90:-
+509,Nr 55192,Valpolicella,Italien,750 ml,"12,5 %",130:-
+510,Nr 55334,Malvirà,Italien,750 ml,13 %,251:-
+511,Nr 2375,Casaloste,Italien,750 ml,14 %,171:-
+512,Nr 2355,Botteotto,Italien,750 ml,"13,5 %",131:-
+513,Nr 73432,Trittico,Italien,750 ml,14 %,170:-
+514,Nr 76734,Atonello Cassarà,Italien,750 ml,"13,5 %",147:-
+515,Nr 78586,Gea,Italien,750 ml,"13,5 %",260:-
+516,Nr 59110,Montefoscoli,Italien,750 ml,"13,5 %",141:-
+517,Nr 59411,N Nero d’Avola Organic,Italien,750 ml,"13,5 %",121:-
+518,Nr 75078,Fidelio,Italien,750 ml,"14,5 %",179:-
+519,Nr 12355,Inycon,Italien,750 ml,13 %,89:-
+520,Nr 56629,Lambrusco,Italien,750 ml,11 %,190:-
+521,Nr 56695,Salustri,Italien,750 ml,"14,5 %",200:-
+522,Nr 56782,Monterustico Dogliani,Italien,750 ml,13 %,171:-
+523,Nr 57271,Cala Niuru,Italien,750 ml,"12,5 %",231:-
+524,Nr 57436,Esotico,Italien,750 ml,11 %,261:-
+525,Nr 57630,Barolo,Italien,750 ml,"14,5 %",531:-
+526,Nr 57633,Langhe Nebbiolo,Italien,750 ml,14 %,281:-
+527,Nr 51182,Barbera d'Alba Zio Nando,Italien,750 ml,"15,5 %",252:-
+528,Nr 51591,Grignolino,Italien,750 ml,"12,5 %",276:-
+529,Nr 52146,VinOlivs Lilla Röda,Italien,6 fl à 750 ml,"13,5 %",780:-
+530,Nr 52425,Nerobufaleffj,Italien,750 ml,"14,5 %",501:-
+531,Nr 75615,Barolo Monfalletto,Italien,750 ml,"14,5 %",486:-
+532,Nr 74734,Amarone della Valpolicella,Italien,750 ml,15 %,271:-
+533,Nr 71785,Gran Appasso,Italien,750 ml,15 %,91:-
+534,Nr 78660,Le Tende,Italien,750 ml,13 %,190:-
+535,Nr 75482,Le Tende,Italien,750 ml,13 %,176:-
+536,Nr 70755,Chianti,Italien,750 ml,"14,5 %",251:-
+537,Nr 55723,Torre Larniano,Italien,750 ml,14 %,151:-
+538,Nr 77187,Tenuta delle Terre Nere,Italien,750 ml,"13,5 %",231:-
+539,Nr 71080,Gurrieri,Italien,750 ml,"13,5 %",350:-
+540,Nr 73494,b.io,Italien,750 ml,14 %,131:-
+541,Nr 73072,Rossojbleo,Italien,750 ml,13 %,167:-
+542,Nr 2373,Terreno,Italien,750 ml,14 %,181:-
+543,Nr 74946,Esperanto,Italien,750 ml,15 %,301:-
+544,Nr 72515,Speri,Italien,750 ml,"13,5 %",181:-
+545,Nr 2316,Montefalco Rosso,Italien,750 ml,14 %,171:-
+546,Nr 71722,Podere72,Italien,750 ml,"14,5 %",247:-
+547,Nr 79981,Tavernello Organic,Italien,750 ml,"12,5 %",91:-
+548,Nr 70725,Brancaia,Italien,750 ml,14 %,181:-
+549,Nr 75125,Bacco Felice,Italien,750 ml,"13,5 %",201:-
+550,Nr 71204,Le Miccine,Italien,750 ml,"13,5 %",250:-
+551,Nr 75575,Lungarotti,Italien,750 ml,15 %,321:-
+552,Nr 79141,Lungarotti,Italien,750 ml,"14,5 %",181:-
+553,Nr 71963,Montipagano,Italien,750 ml,13 %,91:-
+554,Nr 79041,Poggio ai Grilli,Italien,750 ml,"13,5 %",209:-
+555,Nr 76315,Camparo,Italien,750 ml,"13,5 %",121:-
+556,Nr 78070,Corte Sant'Alda,Italien,500 ml,"14,5 %",530:-
+557,Nr 75071,Ceretto,Italien,750 ml,"14,5 %",551:-
+558,Nr 70739,Gurrieri,Italien,750 ml,13 %,290:-
+559,Nr 50318,Casa E. di Mirafiore,Italien,750 ml,14 %,291:-
+560,Nr 75329,Gelso Nero,Italien,750 ml,13 %,141:-
+561,Nr 70480,Le Tende,Italien,750 ml,13 %,240:-
+562,Nr 77149,Ruberpan,Italien,750 ml,14 %,231:-
+563,Nr 57284,Il Mortellito,Italien,750 ml,13 %,251:-
+564,Nr 57409,Vinonista,Italien,750 ml,"13,5 %",191:-
+565,Nr 84904,Poggio al Vento,Italien,750 ml,"14,5 %",856:-
+566,Nr 57435,Bardolino Goto,Italien,750 ml,"11,5 %",261:-
+567,Nr 87436,Terreno,Italien,750 ml,14 %,261:-
+568,Nr 54200,Lammidia,Italien,750 ml,12 %,247:-
+569,Nr 75021,Panzanello,Italien,750 ml,"14,5 %",354:-
+570,Nr 57009,Brunello di Montalcino,Italien,750 ml,"14,5 %",601:-
+571,Nr 57012,Rosso di Montalcino,Italien,750 ml,14 %,270:-
+572,Nr 50748,Fresco di Masi Rosso,Italien,750 ml,12 %,121:-
+573,Nr 51116,Der Keil,Italien,750 ml,"12,5 %",290:-
+574,Nr 51256,Tollo,Italien,750 ml,13 %,121:-
+575,Nr 71885,Il Valténesi,Italien,750 ml,13 %,171:-
+576,Nr 79580,Massimago,Italien,750 ml,"12,5 %",221:-
+577,Nr 74857,Casa E. di Mirafiore,Italien,750 ml,13 %,232:-
+578,Nr 55724,Ceretto,Italien,750 ml,14 %,1 051:-
+579,Nr 55903,Spirito Libero,Italien,750 ml,"14,5 %",161:-
+580,Nr 53000,Millesgården Bell’Ovile,Italien,750 ml,13 %,141:-
+581,Nr 53796,Barbera D'Alba,Italien,750 ml,"14,5 %",161:-
+582,Nr 54703,Tenuta Le Colonne,Italien,750 ml,"13,5 %",221:-
+583,Nr 55070,Donatella Cinelli,Italien,750 ml,13 %,246:-
+584,Nr 79457,Ciú Ciú,Italien,750 ml,14 %,161:-
+585,Nr 72121,La Corte del Pozzo,Italien,750 ml,"14,5 %",137:-
+586,Nr 70231,Ad Astra,Italien,750 ml,14 %,201:-
+587,Nr 71347,Grifola,Italien,750 ml,15 %,300:-
+588,Nr 6090,Tajano Rosso Piceno,Italien,750 ml,13 %,77:-
+589,Nr 78094,Musella,Italien,750 ml,14 %,231:-
+590,Nr 70322,Montefalco Sagrantino,Italien,750 ml,15 %,321:-
+591,Nr 75352,Gurrieri,Italien,750 ml,13 %,310:-
+592,Nr 76153,Langhe Nebbiolo,Italien,750 ml,14 %,261:-
+593,Nr 83207,Baglio di Grìsi,Italien,750 ml,"13,5 %",171:-
+594,Nr 56400,Valle Reale,Italien,750 ml,13 %,267:-
+595,Nr 56589,Medici Ermete,Italien,750 ml,"11,5 %",171:-
+596,Nr 56605,unsweet Organic,Italien,750 ml,13 %,101:-
+597,Nr 56867,Luigi Maffini,Italien,750 ml,15 %,351:-
+598,Nr 56863,San Polo,Italien,750 ml,"13,5 %",181:-
+599,Nr 57000,Terre del Barolo,Italien,750 ml,"14,5 %",141:-
+600,Nr 51524,Poggio d'Oro,Italien,750 ml,"14,5 %",287:-
+601,Nr 59727,Tenuta Rocca,Italien,750 ml,"14,5 %",199:-
+602,Nr 51223,Nebbiolo d'Alba Vigna Lirano,Italien,750 ml,"14,5 %",351:-
+603,Nr 51714,Camigliano,Italien,750 ml,14 %,151:-
+604,Nr 51715,Camigliano,Italien,750 ml,"14,5 %",211:-
+605,Nr 52704,Dievole,Italien,750 ml,"13,5 %",151:-
+606,Nr 53056,Chianti Classico,Italien,750 ml,14 %,379:-
+607,Nr 53036,Chianti,Italien,750 ml,14 %,130:-
+608,Nr 53222,Bosio Passato,Italien,750 ml,"15,5 %",272:-
+609,Nr 53305,Il Riccio,Italien,750 ml,15 %,300:-
+610,Nr 73194,Tuscarello,Italien,750 ml,14 %,131:-
+611,Nr 73705,Frappato,Italien,750 ml,"12,5 %",199:-
+612,Nr 72425,Chianti Classico,Italien,750 ml,"14,5 %",230:-
+613,Nr 57707,Casa E. di Mirafiore,Italien,750 ml,"13,5 %",211:-
+614,Nr 57849,Tenuta Il Palagio,Italien,750 ml,"13,5 %",210:-
+615,Nr 57868,Tenuta Il Palagio,Italien,750 ml,13 %,200:-
+616,Nr 58375,L'Erta di Radda,Italien,750 ml,14 %,230:-
+617,Nr 58386,Chianti Classico,Italien,750 ml,15 %,350:-
+618,Nr 32412,Allegro,Italien,750 ml,"13,5 %",96:-
+619,Nr 53776,Podere Brizio,Italien,750 ml,14 %,391:-
+620,Nr 53782,Tenuta Meraviglia,Italien,750 ml,"13,5 %",221:-
+621,Nr 54702,Tenuta Le Colonne,Italien,750 ml,"13,5 %",161:-
+622,Nr 79601,Ceretto,Italien,750 ml,14 %,271:-
+623,Nr 75336,Grosjean,Italien,750 ml,"13,5 %",301:-
+624,Nr 75967,Borgogno,Italien,750 ml,"13,5 %",211:-
+625,Nr 78124,Le Bertarole,Italien,750 ml,12 %,135:-
+626,Nr 55630,Brandini La Morra,Italien,750 ml,"14,5 %",440:-
+627,Nr 93628,Casanuova di Nittardi,Italien,750 ml,14 %,220:-
+628,Nr 55884,Rosso di Montalcino,Italien,750 ml,15 %,221:-
+629,Nr 70840,Pasqua Mucchietto,Italien,750 ml,13 %,91:-
+630,Nr 74334,Speri,Italien,750 ml,15 %,431:-
+631,Nr 74386,Tenuta San Jacopo,Italien,750 ml,"13,5 %",150:-
+632,Nr 73225,Monsordo,Italien,750 ml,14 %,271:-
+633,Nr 79167,Tommolo Organic,Italien,750 ml,13 %,101:-
+634,Nr 73392,Respiro,Italien,750 ml,"13,5 %",269:-
+635,Nr 74326,Le Bertarole,Italien,750 ml,14 %,246:-
+636,Nr 75292,Tommasi Surani Atlas,Italien,750 ml,13 %,121:-
+637,Nr 78892,La Corte del Pozzo,Italien,750 ml,17 %,428:-
+638,Nr 78911,Terreno,Italien,750 ml,14 %,350:-
+639,Nr 81627,Spezieri,Italien,750 ml,"13,5 %",136:-
+640,Nr 79450,CasalVegri,Italien,750 ml,"13,5 %",268:-
+641,Nr 74758,De Angelis,Italien,750 ml,13 %,199:-
+642,Nr 73579,Reciotto della Valpolicella,Italien,500 ml,"13,5 %",300:-
+643,Nr 79418,Alteo,Italien,750 ml,"17,5 %",802:-
+644,Nr 75541,Veneroso,Italien,750 ml,"14,5 %",350:-
+645,Nr 70353,Ser Alfiero,Italien,750 ml,"13,5 %",261:-
+646,Nr 72078,Camparo,Italien,750 ml,15 %,191:-
+647,Nr 76445,Camparo,Italien,750 ml,"14,5 %",191:-
+648,Nr 76340,Camparo,Italien,750 ml,15 %,361:-
+649,Nr 59666,Villa i Cipressi,Italien,750 ml,14 %,225:-
+650,Nr 59726,Tenuta Rocca Barolo,Italien,750 ml,15 %,379:-
+651,Nr 56524,Bosio,Italien,750 ml,"14,5 %",326:-
+652,Nr 51156,Icardi,Italien,750 ml,14 %,530:-
+653,Nr 51744,Cleto Chiarli,Italien,750 ml,11 %,141:-
+654,Nr 52278,Tenuta San Jacopo,Italien,750 ml,14 %,230:-
+655,Nr 53223,Bosio Passato,Italien,750 ml,"14,5 %",381:-
+656,Nr 53307,Rignana,Italien,750 ml,15 %,270:-
+657,Nr 53871,Mason,Italien,750 ml,"13,5 %",471:-
+658,Nr 57634,Dolcetto d'Alba,Italien,750 ml,13 %,241:-
+659,Nr 74327,Casasilia,Italien,750 ml,"14,5 %",500:-
+660,Nr 56524,Bosio,Italien,750 ml,"14,5 %",326:-
+661,Nr 57634,Dolcetto d'Alba,Italien,750 ml,13 %,241:-
+662,Nr 53871,Mason,Italien,750 ml,"13,5 %",471:-
+663,Nr 52278,Tenuta San Jacopo,Italien,750 ml,14 %,230:-
+664,Nr 53223,Bosio Passato,Italien,750 ml,"14,5 %",381:-
+665,Nr 53307,Rignana,Italien,750 ml,15 %,270:-
+666,Nr 75628,Batést,Italien,750 ml,"14,5 %",208:-
+667,Nr 71608,Casa Belfi,Italien,750 ml,12 %,191:-
+668,Nr 59666,Villa i Cipressi,Italien,750 ml,14 %,225:-
+669,Nr 59726,Tenuta Rocca Barolo,Italien,750 ml,15 %,379:-
+670,Nr 76442,L'Aura,Italien,750 ml,"13,5 %",201:-
+671,Nr 71918,Sei,Italien,750 ml,14 %,381:-
+672,Nr 76908,Ca`Bianca,Italien,750 ml,"13,5 %",201:-
+673,Nr 50138,Santedame,Italien,750 ml,14 %,151:-
+674,Nr 50839,Naturalmente,Italien,750 ml,"13,5 %",180:-
+675,Nr 50942,Brancaia,Italien,750 ml,"14,5 %",231:-
+676,Nr 51156,Icardi,Italien,750 ml,14 %,530:-
+677,Nr 51744,Cleto Chiarli,Italien,750 ml,11 %,141:-
+678,Nr 72514,Carandelle,Italien,750 ml,13 %,251:-
+679,Nr 73737,Do 12 Uve,Italien,750 ml,14 %,280:-
+680,Nr 71922,Barbera d'Asti,Italien,750 ml,14 %,191:-
+681,Nr 78776,Barbera d'Asti,Italien,750 ml,14 %,151:-
+682,Nr 50109,iRa,Italien,750 ml,15 %,223:-
+683,Nr 50722,Chianti Colli Senesi,Italien,750 ml,"13,5 %",210:-
+684,Nr 50770,Rigoleto,Italien,750 ml,"13,5 %",161:-
+685,Nr 50776,Grattamacco,Italien,750 ml,"14,5 %",873:-
+686,Nr 51079,Poggio al Casone,Italien,750 ml,"12,5 %",121:-
+687,Nr 51158,Icardi,Italien,750 ml,"14,5 %",571:-
+688,Nr 51716,Brunello di Montalcino,Italien,750 ml,15 %,421:-
+689,Nr 74525,Manifesto,Italien,750 ml,"13,5 %",91:-
+690,Nr 74406,Fontanafredda,Italien,750 ml,13 %,131:-
+691,Nr 73083,Passato,Italien,750 ml,"15,5 %",301:-
+692,Nr 72124,Barolo Biologico,Italien,750 ml,"14,5 %",301:-
+693,Nr 57632,Barolo,Italien,750 ml,15 %,731:-
+694,Nr 57773,Valle Reale,Italien,750 ml,13 %,191:-
+695,Nr 57848,Mori Concetta,Italien,750 ml,"13,5 %",240:-
+696,Nr 79388,Querciabella,Italien,750 ml,14 %,351:-
+697,Nr 76944,Querciabella,Italien,750 ml,14 %,371:-
+698,Nr 70645,Querciabella Mongrana,Italien,750 ml,14 %,191:-
+699,Nr 74053,Le Tende,Italien,750 ml,14 %,294:-
+700,Nr 58356,Fontalpino,Italien,750 ml,14 %,243:-
+701,Nr 58963,Ceretto,Italien,750 ml,"14,5 %",491:-
+702,Nr 59119,Montefoscoli,Italien,750 ml,13 %,161:-
+703,Nr 55491,Monte Bernardi,Italien,750 ml,"13,5 %",266:-
+704,Nr 53823,AntoNinoVino,Italien,750 ml,14 %,130:-
+705,Nr 54797,Brancatelli,Italien,750 ml,"13,5 %",291:-
+706,Nr 52290,Zoppi Cristina,Italien,750 ml,13 %,161:-
+707,Nr 53037,La Palèrna,Italien,750 ml,15 %,220:-
+708,Nr 53312,Rignana,Italien,750 ml,"14,5 %",190:-
+709,Nr 59352,Nerocapitano,Italien,750 ml,"12,5 %",201:-
+710,Nr 59458,Tenuta Rocca,Italien,750 ml,"14,5 %",161:-
+711,Nr 59690,Tom Barbera,Italien,750 ml,"13,5 %",229:-
+712,Nr 75020,Panzanello,Italien,750 ml,15 %,252:-
+713,Nr 77564,Gotico,Italien,1500 ml,14 %,352:-
+714,Nr 70722,Ciù Ciù,Italien,750 ml,"13,5 %",111:-
+715,Nr 73356,Bibbiano,Italien,750 ml,"13,5 %",217:-
+716,Nr 76041,JAKI,Italien,750 ml,14 %,255:-
+717,Nr 70700,Ciù Ciù,Italien,750 ml,14 %,121:-
+718,Nr 73739,Brunello di Montalcino,Italien,750 ml,"13,5 %",490:-
+719,Nr 76795,Collemassari Montecucco,Italien,750 ml,15 %,207:-
+720,Nr 70308,Villa Teresa,Italien,750 ml,12 %,123:-
+721,Nr 71709,Giacosa Fratelli,Italien,750 ml,"12,5 %",91:-
+722,Nr 55737,Tutti I Giorni Rosso,Italien,1000 ml,"13,5 %",191:-
+723,Nr 54972,Nino Negri,Italien,750 ml,14 %,301:-
+724,Nr 75130,Pizza Wine,Italien,750 ml,"12,5 %",91:-
+725,Nr 2399,Langhe Rosso,Italien,750 ml,13 %,121:-
+726,Nr 56664,Luca Bosio,Italien,750 ml,14 %,121:-
+727,Nr 58607,Saints & Sinners,Italien,750 ml,"13,5 %",140:-
+728,Nr 56003,Furnace,Italien,750 ml,"14,5 %",180:-
+729,Nr 90095,Radici Taurasi DOCG Riserva,Italien,750 ml,"13,5 %",1 301:-
+730,Nr 50982,Maggio,Italien,750 ml,14 %,177:-
+731,Nr 92956,Barolo Bricco Fiasco,Italien,750 ml,"14,5 %",801:-
+732,Nr 56159,Snabba Cash,Italien,750 ml,"13,5 %",81:-
+733,Nr 50578,Cont'Ugo,Italien,750 ml,"14,5 %",351:-
+734,Nr 79533,P.Lex Piemonte,Italien,750 ml,14 %,81:-
+735,Nr 2345,Masi Costasera,Italien,1500 ml,15 %,602:-
+736,Nr 50514,Ingrosso Infinito,Italien,750 ml,14 %,141:-
+737,Nr 2208,Ser Lapo,Italien,375 ml,"13,5 %",100:-
+738,Nr 93153,Barolo San Rocco,Italien,750 ml,"14,5 %",801:-
+739,Nr 51750,Gheppio,Italien,750 ml,"13,5 %",151:-
+740,Nr 73567,Casalforte,Italien,750 ml,"15,5 %",372:-
+741,Nr 71175,Mandrarossa,Italien,750 ml,"13,5 %",191:-
+742,Nr 50975,Maggio,Italien,750 ml,14 %,127:-
+743,Nr 90155,Mignane,Italien,750 ml,14 %,291:-
+744,Nr 92976,Barolo Margheria,Italien,750 ml,"14,5 %",801:-
+745,Nr 70401,Araldica Barolo,Italien,750 ml,14 %,161:-
+746,Nr 73186,Castelmondo,Italien,1500 ml,"13,5 %",192:-
+747,Nr 72846,Argentiera,Italien,750 ml,"14,5 %",796:-
+748,Nr 55571,Amasole,Italien,750 ml,"14,5 %",141:-
+749,Nr 2343,Teroldego d'Isera,Italien,750 ml,"12,5 %",131:-
+750,Nr 55571,Amasole,Italien,750 ml,"14,5 %",141:-
+751,Nr 32130,Castello di Fonterutoli,Italien,375 ml,14 %,200:-
+752,Nr 79652,Ruffino,Italien,750 ml,14 %,191:-
+753,Nr 50984,il Principe,Italien,750 ml,14 %,161:-
+754,Nr 75158,Casa Cavallo,Italien,750 ml,"13,5 %",81:-
+755,Nr 79161,Solaia,Italien,750 ml,14 %,3 502:-
+756,Nr 71290,Banfi,Italien,750 ml,14 %,291:-
+757,Nr 71266,Neropasso,Italien,750 ml,"13,5 %",121:-
+758,Nr 71998,Amarone Della Valpolicella,Italien,750 ml,15 %,311:-
+759,Nr 70592,Costa d´Orta,Italien,750 ml,14 %,149:-
+760,Nr 78899,Conte Ricci,Italien,750 ml,13 %,111:-
+761,Nr 54257,Ciacci Piccolomini,Italien,750 ml,"14,5 %",261:-
+762,Nr 54909,Tancredi,Italien,750 ml,"13,5 %",431:-
+763,Nr 73952,Gelso D´oro,Italien,750 ml,14 %,251:-
+764,Nr 77213,Giulia Negri,Italien,750 ml,"13,5 %",197:-
+765,Nr 75067,Tenuta Buon Tempo,Italien,750 ml,14 %,371:-
+766,Nr 58931,Idda,Italien,750 ml,"14,5 %",401:-
+767,Nr 57069,Brunello di Montalcino,Italien,750 ml,14 %,1 700:-
+768,Nr 57717,Buscareto,Italien,750 ml,"12,5 %",121:-
+769,Nr 58072,Thalman Pinot Nero Riserva,Italien,750 ml,14 %,291:-
+770,Nr 58466,Fontanabianca,Italien,750 ml,14 %,376:-
+771,Nr 58554,Etna Rosso,Italien,750 ml,13 %,371:-
+772,Nr 51501,Le Ragose,Italien,750 ml,"14,5 %",302:-
+773,Nr 52695,Zenato,Italien,500 ml,14 %,400:-
+774,Nr 73335,Le Macchiole,Italien,750 ml,"14,5 %",300:-
+775,Nr 78636,La Marescialla,Italien,750 ml,"15,5 %",258:-
+776,Nr 55552,Elena Fucchi,Italien,750 ml,14 %,381:-
+777,Nr 72640,Cascina Massara,Italien,750 ml,"14,5 %",351:-
+778,Nr 77130,Barolo Riserva,Italien,750 ml,14 %,470:-
+779,Nr 76901,Bruna Grimaldi,Italien,750 ml,"14,5 %",177:-
+780,Nr 78899,Conte Ricci,Italien,750 ml,13 %,111:-
+781,Nr 2241,Il Cuore Per Martina,Italien,750 ml,14 %,79:-
+782,Nr 72834,Tenuta Frescobaldi di Castiglioni,Italien,750 ml,14 %,201:-
+783,Nr 74947,Langhe Nebbiolo Fralù,Italien,750 ml,"14,5 %",271:-
+784,Nr 2162,Cannonau di Sardegna,Italien,750 ml,"12,5 %",127:-
+785,Nr 2345,Masi Costasera,Italien,375 ml,15 %,200:-
+786,Nr 2544,Castel del Monte,Italien,750 ml,13 %,59:-
+787,Nr 54023,Brachetto Birbet,Italien,750 ml,5 %,160:-
+788,Nr 52176,Casalforte Amaronelåda,Italien,3 fl à 750 ml,"15,5 %",747:-
+789,Nr 52675,La Maliosa,Italien,750 ml,14 %,288:-
+790,Nr 70307,Rasola,Italien,750 ml,13 %,201:-
+791,Nr 77732,Amalia,Italien,750 ml,15 %,279:-
+792,Nr 70369,Barolo,Italien,750 ml,"14,5 %",599:-
+793,Nr 86510,Caudium,Italien,750 ml,14 %,167:-
+794,Nr 58261,Barolo Persiera,Italien,1500 ml,14 %,1 102:-
+795,Nr 53143,Enzo Bartoli,Italien,750 ml,14 %,251:-
+796,Nr 58802,Nero Frizzante,Italien,750 ml,13 %,174:-
+797,Nr 42334,La Grola,Italien,750 ml,14 %,221:-
+798,Nr 74970,Amasole,Italien,750 ml,14 %,139:-
+799,Nr 72939,Tirrenico,Italien,750 ml,14 %,201:-
+800,Nr 78935,Vietti Barbera d’Alba,Italien,750 ml,"14,5 %",231:-
+801,Nr 6282,Taurasi,Italien,750 ml,14 %,221:-
+802,Nr 57879,Amarone della Valpolicella,Italien,750 ml,16 %,472:-
+803,Nr 57893,Merlot,Italien,750 ml,"12,5 %",89:-
+804,Nr 74446,Altesino,Italien,750 ml,14 %,161:-
+805,Nr 78879,Nebbiolo,Italien,750 ml,13 %,171:-
+806,Nr 3658,Saveroni,Italien,750 ml,"12,5 %",51:-
+807,Nr 71461,Otello,Italien,750 ml,11 %,191:-
+808,Nr 73935,Moliss,Italien,750 ml,"14,5 %",158:-
+809,Nr 79727,Biondi Santi,Italien,750 ml,"13,5 %",4 979:-
+810,Nr 51368,Grignolino del Monferrato Casales,Italien,750 ml,"13,5 %",191:-
+811,Nr 73935,Moliss,Italien,750 ml,"14,5 %",158:-
+812,Nr 79727,Biondi Santi,Italien,750 ml,"13,5 %",4 979:-
+813,Nr 57879,Amarone della Valpolicella,Italien,750 ml,16 %,472:-
+814,Nr 57893,Merlot,Italien,750 ml,"12,5 %",89:-
+815,Nr 53575,Girolamo Russo,Italien,750 ml,14 %,521:-
+816,Nr 54501,Wongraven,Italien,750 ml,14 %,721:-
+817,Nr 54568,Tenuta Buon Tempo,Italien,750 ml,"14,5 %",311:-
+818,Nr 78651,Borgogno,Italien,750 ml,13 %,177:-
+819,Nr 76596,Cecchi,Italien,750 ml,13 %,127:-
+820,Nr 74446,Altesino,Italien,750 ml,14 %,161:-
+821,Nr 87253,Casal dei Ronchi,Italien,500 ml,14 %,300:-
+822,Nr 70662,Il Bruciato,Italien,750 ml,"13,5 %",231:-
+823,Nr 6150,Cantina di Negrar,Italien,750 ml,"13,5 %",126:-
+824,Nr 79247,Barolo La Tartufaia,Italien,750 ml,14 %,427:-
+825,Nr 79271,Nozzole Chianti Classico,Italien,750 ml,14 %,201:-
+826,Nr 76964,Damoli Brigasco,Italien,750 ml,"14,5 %",377:-
+827,Nr 75188,Antiche Terre Venete,Italien,750 ml,15 %,251:-
+828,Nr 72000,Amante,Italien,750 ml,"13,5 %",199:-
+829,Nr 72383,Tommasi,Italien,750 ml,12 %,131:-
+830,Nr 2969,Nipozzano Chianti Rúfina,Italien,750 ml,"13,5 %",191:-
+831,Nr 76415,Eneo,Italien,750 ml,15 %,351:-
+832,Nr 54547,Barbera d'Alba,Italien,750 ml,"13,5 %",317:-
+833,Nr 54928,Michele Satta,Italien,750 ml,14 %,321:-
+834,Nr 57357,Macchie Santa Maria,Italien,750 ml,"13,5 %",421:-
+835,Nr 79296,A Quo,Italien,750 ml,"14,5 %",211:-
+836,Nr 70878,BelColle,Italien,750 ml,14 %,250:-
+837,Nr 79618,La Spinetta,Italien,750 ml,"14,5 %",581:-
+838,Nr 73850,Brunello di Montalcino,Italien,750 ml,"14,5 %",441:-
+839,Nr 55412,Rånäs Slott,Italien,750 ml,"13,5 %",141:-
+840,Nr 77897,SCEG Aglianico del Vulture,Italien,750 ml,"13,5 %",241:-
+841,Nr 50013,The Boutique Selection,Italien,750 ml,15 %,181:-
+842,Nr 50092,Casa Emma Vignalparco,Italien,750 ml,14 %,331:-
+843,Nr 50261,Armatura,Italien,750 ml,14 %,97:-
+844,Nr 73734,Messorio,Italien,750 ml,"14,5 %",1 978:-
+845,Nr 28002,Amarone,Italien,750 ml,15 %,331:-
+846,Nr 71800,Planeta,Italien,750 ml,"13,5 %",161:-
+847,Nr 75529,Sfursat,Italien,750 ml,16 %,342:-
+848,Nr 2351,Le Orme,Italien,750 ml,14 %,131:-
+849,Nr 2356,R,Italien,750 ml,"13,5 %",141:-
+850,Nr 71848,Barbera d'Alba Superiore,Italien,750 ml,14 %,187:-
+851,Nr 79202,Barbera d'Alba Superiore,Italien,750 ml,"13,5 %",208:-
+852,Nr 73341,Tenuta Tignanello Marchesi Antinori,Italien,750 ml,14 %,321:-
+853,Nr 77027,Banfi,Italien,750 ml,14 %,511:-
+854,Nr 57330,Valfresca,Italien,750 ml,13 %,390:-
+855,Nr 57859,Lagrein,Italien,750 ml,13 %,221:-
+856,Nr 55248,Ruffino,Italien,750 ml,"14,5 %",302:-
+857,Nr 74846,Villabella,Italien,750 ml,15 %,291:-
+858,Nr 93657,Barolo Cerretta,Italien,1500 ml,"14,5 %",2 102:-
+859,Nr 51606,Litró Rosso,Italien,1000 ml,12 %,257:-
+860,Nr 52817,Barbaresco Asili,Italien,750 ml,"14,5 %",361:-
+861,Nr 94232,Fattoria Moretto,Italien,750 ml,12 %,175:-
+862,Nr 75832,Amalia,Italien,750 ml,13 %,190:-
+863,Nr 72031,È Rosso,Italien,1000 ml,"13,5 %",185:-
+864,Nr 75354,Demarie Roero,Italien,750 ml,"14,5 %",211:-
+865,Nr 73305,Pian delle Vigne,Italien,750 ml,"14,5 %",491:-
+866,Nr 78274,Barolo Serralunga,Italien,750 ml,14 %,501:-
+867,Nr 76776,Mazzi,Italien,750 ml,14 %,291:-
+868,Nr 88623,Dolcetto d'Alba,Italien,750 ml,13 %,171:-
+869,Nr 2358,Pasqua,Italien,750 ml,15 %,281:-
+870,Nr 73697,Langhe,Italien,750 ml,"15,5 %",854:-
+871,Nr 71923,Ruchè,Italien,750 ml,15 %,212:-
+872,Nr 79774,Zonin Amarone,Italien,750 ml,"15,5 %",360:-
+873,Nr 72228,Massolino,Italien,750 ml,"14,5 %",191:-
+874,Nr 72971,Iuli,Italien,750 ml,"14,5 %",181:-
+875,Nr 72948,Le Marie,Italien,750 ml,13 %,190:-
+876,Nr 71102,Barilà,Italien,750 ml,"14,5 %",351:-
+877,Nr 75452,Auxo,Italien,750 ml,13 %,181:-
+878,Nr 73656,Ripa Delle Mandorle,Italien,750 ml,13 %,150:-
+879,Nr 73176,Agostino Petri,Italien,750 ml,"14,5 %",211:-
+880,Nr 75514,Baluma Langhe Nebbiolo,Italien,750 ml,14 %,211:-
+881,Nr 74202,Severus,Italien,750 ml,"13,5 %",274:-
+882,Nr 77062,Genuino,Italien,750 ml,"13,5 %",170:-
+883,Nr 72045,Planeta Eruzione 1614,Italien,750 ml,"13,5 %",291:-
+884,Nr 78160,Monchiero,Italien,750 ml,14 %,410:-
+885,Nr 76697,Piemonte Albarossa,Italien,750 ml,14 %,201:-
+886,Nr 70758,Ancelotta,Italien,750 ml,12 %,160:-
+887,Nr 79478,Laficaia,Italien,750 ml,14 %,218:-
+888,Nr 71767,Nada Fiorenzo,Italien,750 ml,"14,5 %",1 043:-
+889,Nr 72727,De Angelis,Italien,750 ml,14 %,278:-
+890,Nr 76709,Riccio Rosso,Italien,750 ml,"13,5 %",215:-
+891,Nr 77518,ERES,Italien,750 ml,12 %,117:-
+892,Nr 74485,Aglianico,Italien,750 ml,14 %,199:-
+893,Nr 73477,Trefilari Rosso,Italien,750 ml,"12,5 %",130:-
+894,Nr 73513,I’Rennero,Italien,750 ml,"14,5 %",506:-
+895,Nr 78104,Rosenberg Monterosa,Italien,750 ml,"13,5 %",136:-
+896,Nr 72982,Barolo,Italien,750 ml,"14,5 %",391:-
+897,Nr 74138,Corte Fornaledo,Italien,750 ml,"15,5 %",496:-
+898,Nr 78039,Prinsiòt Langhe Nebbiolo,Italien,750 ml,14 %,231:-
+899,Nr 70904,Grosjean,Italien,750 ml,"12,5 %",231:-
+900,Nr 78495,Roero Poderi Vaiot,Italien,750 ml,"13,5 %",211:-
+901,Nr 77553,Villa di Geggiano,Italien,750 ml,"13,5 %",193:-
+902,Nr 72639,Angoris,Italien,750 ml,"13,5 %",259:-
+903,Nr 71093,Campo Morar,Italien,750 ml,14 %,353:-
+904,Nr 73097,Barbera,Italien,750 ml,"14,5 %",206:-
+905,Nr 78207,San Jacopo,Italien,750 ml,13 %,161:-
+906,Nr 75393,De Buris,Italien,750 ml,"15,5 %",2 228:-
+907,Nr 73572,BelColle,Italien,750 ml,"15,5 %",348:-
+908,Nr 75971,Zizzolo,Italien,750 ml,"13,5 %",252:-
+909,Nr 77507,Val di Preti,Italien,750 ml,14 %,229:-
+910,Nr 71117,Brunello di Montalcino,Italien,750 ml,"14,5 %",331:-
+911,Nr 71646,Collio,Italien,750 ml,14 %,202:-
+912,Nr 76803,Gagliole,Italien,750 ml,"14,5 %",340:-
+913,Nr 52866,Giribaldi,Italien,750 ml,"14,5 %",171:-
+914,Nr 52874,Alma GM,Italien,750 ml,14 %,131:-
+915,Nr 52957,Lavignone,Italien,750 ml,14 %,190:-
+916,Nr 53039,Leverato,Italien,750 ml,14 %,141:-
+917,Nr 53112,Corteforte Amarone Classico,Italien,750 ml,16 %,971:-
+918,Nr 53135,Cimento,Italien,750 ml,14 %,239:-
+919,Nr 53167,Petra,Italien,750 ml,14 %,201:-
+920,Nr 53354,Ciavolich,Italien,750 ml,"12,5 %",161:-
+921,Nr 53361,Chianti Classico,Italien,750 ml,14 %,241:-
+922,Nr 53466,Modis,Italien,750 ml,"14,5 %",246:-
+923,Nr 53496,Equilatero,Italien,750 ml,"14,5 %",131:-
+924,Nr 53653,Sor Ugo,Italien,750 ml,15 %,361:-
+925,Nr 53752,Bruno Giacosa,Italien,750 ml,"13,5 %",261:-
+926,Nr 53756,Nebbiolo d'Alba,Italien,750 ml,14 %,531:-
+927,Nr 53748,Bricco Sereno,Italien,750 ml,15 %,231:-
+928,Nr 53939,Sandro Fay,Italien,750 ml,15 %,531:-
+929,Nr 54016,Barbera d'Alba Superiore,Italien,750 ml,"14,5 %",180:-
+930,Nr 54032,Boasso,Italien,750 ml,"13,5 %",160:-
+931,Nr 54025,Chianti Rufina,Italien,750 ml,"14,5 %",441:-
+932,Nr 54074,Malvirà,Italien,750 ml,"14,5 %",241:-
+933,Nr 54163,Amalia,Italien,750 ml,15 %,530:-
+934,Nr 54169,Bovio,Italien,750 ml,15 %,530:-
+935,Nr 54198,Cantina Toblino,Italien,750 ml,13 %,201:-
+936,Nr 54208,Barolo,Italien,750 ml,"14,5 %",381:-
+937,Nr 54217,Langhe,Italien,750 ml,"14,5 %",231:-
+938,Nr 54304,San Lorenzo di Verduno,Italien,750 ml,"14,5 %",460:-
+939,Nr 54546,Vino Rosso,Italien,750 ml,"12,5 %",250:-
+940,Nr 54560,Cascina Chicco,Italien,750 ml,"14,5 %",299:-
+941,Nr 94509,Tornatore,Italien,750 ml,14 %,191:-
+942,Nr 54610,Sanpaolo Irpinia,Italien,750 ml,14 %,160:-
+943,Nr 54841,Kellerei Kaltern,Italien,750 ml,14 %,370:-
+944,Nr 55190,.Parusso,Italien,750 ml,15 %,841:-
+945,Nr 72971,Iuli,Italien,750 ml,"14,5 %",181:-
+946,Nr 72948,Le Marie,Italien,750 ml,13 %,190:-
+947,Nr 71102,Barilà,Italien,750 ml,"14,5 %",351:-
+948,Nr 75452,Auxo,Italien,750 ml,13 %,181:-
+949,Nr 73656,Ripa Delle Mandorle,Italien,750 ml,13 %,150:-
+950,Nr 73176,Agostino Petri,Italien,750 ml,"14,5 %",211:-
+951,Nr 75514,Baluma Langhe Nebbiolo,Italien,750 ml,14 %,211:-
+952,Nr 74202,Severus,Italien,750 ml,"13,5 %",274:-
+953,Nr 77062,Genuino,Italien,750 ml,"13,5 %",170:-
+954,Nr 72045,Planeta Eruzione 1614,Italien,750 ml,"13,5 %",291:-
+955,Nr 78160,Monchiero,Italien,750 ml,14 %,410:-
+956,Nr 76697,Piemonte Albarossa,Italien,750 ml,14 %,201:-
+957,Nr 70758,Ancelotta,Italien,750 ml,12 %,160:-
+958,Nr 79478,Laficaia,Italien,750 ml,14 %,218:-
+959,Nr 71767,Nada Fiorenzo,Italien,750 ml,"14,5 %",1 043:-
+960,Nr 72727,De Angelis,Italien,750 ml,14 %,278:-
+961,Nr 76709,Riccio Rosso,Italien,750 ml,"13,5 %",215:-
+962,Nr 77518,ERES,Italien,750 ml,12 %,117:-
+963,Nr 74485,Aglianico,Italien,750 ml,14 %,199:-
+964,Nr 73477,Trefilari Rosso,Italien,750 ml,"12,5 %",130:-
+965,Nr 73513,I’Rennero,Italien,750 ml,"14,5 %",506:-
+966,Nr 78104,Rosenberg Monterosa,Italien,750 ml,"13,5 %",136:-
+967,Nr 72982,Barolo,Italien,750 ml,"14,5 %",391:-
+968,Nr 74138,Corte Fornaledo,Italien,750 ml,"15,5 %",496:-
+969,Nr 78039,Prinsiòt Langhe Nebbiolo,Italien,750 ml,14 %,231:-
+970,Nr 70904,Grosjean,Italien,750 ml,"12,5 %",231:-
+971,Nr 50427,Appassionante,Italien,750 ml,13 %,161:-
+972,Nr 54036,Barolo Paiagallo,Italien,750 ml,14 %,639:-
+973,Nr 54095,San Giovanni,Italien,750 ml,"14,5 %",515:-
+974,Nr 58650,Barolo,Italien,750 ml,"14,5 %",602:-
+975,Nr 58681,Amarone,Italien,750 ml,16 %,447:-
+976,Nr 59253,Banfi Poggio alle Mura,Italien,750 ml,"15,5 %",898:-
+977,Nr 59298,Damilano,Italien,750 ml,14 %,201:-
+978,Nr 59377,Amalia Barolo Le Coste Di Monforte,Italien,750 ml,"14,5 %",530:-
+979,Nr 59453,La Molla,Italien,750 ml,"14,5 %",121:-
+980,Nr 59457,Rosso di Montalcino,Italien,750 ml,"14,5 %",221:-
+981,Nr 59644,Villa i Cipressi,Italien,750 ml,"14,5 %",560:-
+982,Nr 59662,Ca’ Rome’,Italien,750 ml,"14,5 %",580:-
+983,Nr 59665,Villa i Cipressi,Italien,750 ml,"14,5 %",440:-
+984,Nr 74778,Rosso di Toscana,Italien,750 ml,13 %,171:-
+985,Nr 75751,Le Volte,Italien,1500 ml,"13,5 %",452:-
+986,Nr 75887,Noi,Italien,750 ml,14 %,186:-
+987,Nr 75335,Il Roncal,Italien,750 ml,"12,5 %",204:-
+988,Nr 70300,Il Roncal,Italien,750 ml,"14,5 %",342:-
+989,Nr 73279,Langhe,Italien,750 ml,13 %,131:-
+990,Nr 56405,Selvaggia,Italien,750 ml,14 %,141:-
+991,Nr 93346,Barolo Bricco Fiasco,Italien,1500 ml,"14,5 %",1 802:-
+992,Nr 2365,Barbera d'Alba,Italien,750 ml,14 %,121:-
+993,Nr 57327,602020,Italien,750 ml,"14,5 %",557:-
+994,Nr 57551,Feudo Disisa,Italien,750 ml,"13,5 %",151:-
+995,Nr 57799,Réva,Italien,750 ml,15 %,256:-
+996,Nr 57862,Brasa Coèrta,Italien,750 ml,"13,5 %",381:-
+997,Nr 57890,Valpolicella Ripasso,Italien,750 ml,14 %,191:-
+998,Nr 57943,Rossonoah,Italien,750 ml,13 %,171:-
+999,Nr 58025,Dolcetto d'Alba,Italien,750 ml,"12,5 %",201:-
+1000,Nr 58148,Roccapalea,Italien,750 ml,14 %,291:-
+1001,Nr 58197,Guasti Clemente,Italien,750 ml,"14,5 %",457:-
+1002,Nr 58214,Libellula,Italien,750 ml,13 %,236:-
+1003,Nr 58250,Vecchia Cantina,Italien,750 ml,"13,5 %",114:-
+1004,Nr 58259,Colledila,Italien,750 ml,"14,5 %",651:-
+1005,Nr 58268,Ceniprimo,Italien,750 ml,14 %,651:-
+1006,Nr 58292,Magna Terra,Italien,750 ml,15 %,381:-
+1007,Nr 58401,Monte Zovo,Italien,375 ml,"13,5 %",277:-
+1008,Nr 58548,Etna Rosso Feudo Di Mezzo,Italien,750 ml,14 %,291:-
+1009,Nr 58549,Etna Rosso,Italien,750 ml,"13,5 %",221:-
+1010,Nr 58560,Tomassetti,Italien,1500 ml,"13,5 %",172:-
+1011,Nr 51142,Raggio Brusa,Italien,750 ml,"13,5 %",501:-
+1012,Nr 51441,Solitario,Italien,750 ml,17 %,1 447:-
+1013,Nr 51471,Brecciaro,Italien,750 ml,13 %,251:-
+1014,Nr 51514,Le Ragose,Italien,500 ml,"15,5 %",392:-
+1015,Nr 51686,Bosco delle Guardie,Italien,750 ml,"13,5 %",187:-
+1016,Nr 51737,Rusel,Italien,750 ml,"14,5 %",190:-
+1017,Nr 51747,Cleto Chiarli,Italien,750 ml,11 %,161:-
+1018,Nr 93858,Radici Taurasi Riserva,Italien,750 ml,"13,5 %",401:-
+1019,Nr 79652,Ruffino Riserva Ducale,Italien,1500 ml,13 %,419:-
+1020,Nr 51825,Ruffino,Italien,750 ml,"14,5 %",319:-
+1021,Nr 93878,Cerbaia,Italien,750 ml,14 %,391:-
+1022,Nr 51863,Mauro Molino,Italien,750 ml,14 %,640:-
+1023,Nr 52026,Brachetto d'Acqui,Italien,750 ml,6 %,190:-
+1024,Nr 52023,Sacrantino,Italien,750 ml,"14,5 %",461:-
+1025,Nr 52040,Marrone,Italien,750 ml,15 %,381:-
+1026,Nr 52093,Montefalco Sagrantino,Italien,750 ml,15 %,321:-
+1027,Nr 52214,Barolo,Italien,750 ml,"14,5 %",851:-
+1028,Nr 52297,Pranzegg,Italien,750 ml,11 %,230:-
+1029,Nr 52398,Vino Nobile di Montepulciano,Italien,750 ml,14 %,321:-
+1030,Nr 52414,Villa Job,Italien,750 ml,13 %,259:-
+1031,Nr 52621,Vigin Moody,Italien,750 ml,"13,5 %",185:-
+1032,Nr 74252,Mastio,Italien,750 ml,14 %,161:-
+1033,Nr 73535,Langhe Nebbiolo,Italien,750 ml,14 %,230:-
+1034,Nr 77067,Enzo Boglietti,Italien,750 ml,"14,5 %",201:-
+1035,Nr 71710,L'Iroso,Italien,750 ml,14 %,468:-
+1036,Nr 76280,L'Amarone Casa dei Bepi,Italien,750 ml,16 %,749:-
+1037,Nr 74385,Conti Ducco,Italien,750 ml,13 %,310:-
+1038,Nr 75652,Diano d'Alba,Italien,750 ml,13 %,191:-
+1039,Nr 72679,Schioppettino,Italien,750 ml,14 %,332:-
+1040,Nr 70915,Valpolicella Classico Superiore,Italien,750 ml,13 %,205:-
+1041,Nr 72618,Poggio al Sole,Italien,750 ml,"14,5 %",370:-
+1042,Nr 74323,Dogarina,Italien,750 ml,"12,5 %",127:-
+1043,Nr 78831,Lilliano Ruspoli,Italien,750 ml,"14,5 %",401:-
+1044,Nr 79145,Anima di Primitivo di Manduria,Italien,750 ml,"14,5 %",193:-
+1045,Nr 79674,La Carlina,Italien,750 ml,14 %,240:-
+1046,Nr 76342,La Carlina,Italien,750 ml,15 %,240:-
+1047,Nr 76847,Vini Tonon,Italien,750 ml,"12,5 %",125:-
+1048,Nr 78215,Monte Santoccio,Italien,750 ml,13 %,211:-
+1049,Nr 79004,Valplazza Rovellotti,Italien,750 ml,"13,5 %",200:-
+1050,Nr 79049,Concentus,Italien,750 ml,14 %,370:-
+1051,Nr 74529,Antolini,Italien,750 ml,13 %,220:-
+1052,Nr 76082,Entis,Italien,750 ml,"14,5 %",477:-
+1053,Nr 74724,Valpolicella Ripasso Classico Superiore,Italien,750 ml,"14,5 %",300:-
+1054,Nr 75087,Barolo,Italien,750 ml,"14,5 %",350:-
+1055,Nr 73054,Brunello di Montalcino,Italien,750 ml,"14,5 %",741:-
+1056,Nr 72562,Amarone della Valpolicella Classico,Italien,750 ml,"16,5 %",540:-
+1057,Nr 75301,Bonazzi Badin,Italien,750 ml,16 %,326:-
+1058,Nr 76357,Savoia,Italien,750 ml,"14,5 %",278:-
+1059,Nr 75810,Pojega,Italien,750 ml,"14,5 %",151:-
+1060,Nr 72616,Monte Santoccio,Italien,750 ml,14 %,261:-
+1061,Nr 71939,Santoccio Rosso,Italien,750 ml,15 %,299:-
+1062,Nr 72398,Valpolicella Superiore,Italien,750 ml,"14,5 %",390:-
+1063,Nr 71548,Amarone Della Valpolicella Classico,Italien,750 ml,"15,5 %",393:-
+1064,Nr 78306,Amarone Classico Riserva,Italien,750 ml,16 %,851:-
+1065,Nr 70543,Le Fonti,Italien,750 ml,"13,5 %",237:-
+1066,Nr 55450,Marco Porello,Italien,750 ml,14 %,177:-
+1067,Nr 55687,Vespamaro,Italien,750 ml,"12,5 %",129:-
+1068,Nr 55740,Drago Rosso,Italien,750 ml,14 %,166:-
+1069,Nr 56060,Matteo Correggia,Italien,750 ml,"14,5 %",373:-
+1070,Nr 56606,Benedetti & Grigi,Italien,750 ml,"15,5 %",341:-
+1071,Nr 56179,Brunello di Montalcino,Italien,750 ml,"13,5 %",651:-
+1072,Nr 78258,Nervi,Italien,750 ml,"13,5 %",551:-
+1073,Nr 79930,Amarone Della Valpolicella Classico,Italien,750 ml,15 %,299:-
+1074,Nr 76380,Wongraven Alleanza,Italien,750 ml,13 %,131:-
+1075,Nr 78271,Stockholms Studentsångare,Italien,750 ml,15 %,171:-
+1076,Nr 78690,Castello del Poggio,Italien,750 ml,"13,5 %",121:-
+1077,Nr 76779,Rubesco,Italien,750 ml,"14,5 %",451:-
+1078,Nr 78643,Zengarello,Italien,750 ml,13 %,121:-
+1079,Nr 77277,BelColle Barolo,Italien,1500 ml,"14,5 %",987:-
+1080,Nr 74076,Amarone della Valpolicella Classico,Italien,750 ml,"15,5 %",429:-
+1081,Nr 78852,Barbera d'Alba,Italien,750 ml,"15,5 %",322:-
+1082,Nr 73807,Barbaresco,Italien,750 ml,"14,5 %",401:-
+1083,Nr 72731,Barolo,Italien,750 ml,"14,5 %",561:-
+1084,Nr 78534,Barolo,Italien,750 ml,"14,5 %",701:-
+1085,Nr 78883,Barolo,Italien,750 ml,"14,5 %",561:-
+1086,Nr 71745,Morella Primitivo,Italien,750 ml,"14,5 %",499:-
+1087,Nr 72902,Silvio Nardi,Italien,750 ml,"13,5 %",300:-
+1088,Nr 75227,Vini Rabasco,Italien,750 ml,12 %,259:-
+1089,Nr 72573,Cantina Lavis,Italien,750 ml,"12,5 %",151:-
+1090,Nr 70283,Valpolicella Ripasso Classico Superiore,Italien,750 ml,15 %,266:-
+1091,Nr 92377,Radici Taurasi,Italien,750 ml,"13,5 %",361:-
+1092,Nr 76907,Chianti Classico,Italien,750 ml,13 %,171:-
+1093,Nr 72691,Enigma,Italien,750 ml,15 %,181:-
+1094,Nr 70843,La Court,Italien,750 ml,14 %,381:-
+1095,Nr 77853,Demarie,Italien,750 ml,14 %,141:-
+1096,Nr 78854,Demarie,Italien,750 ml,13 %,121:-
+1097,Nr 81487,Amarone della Valpolicella,Italien,750 ml,"16,5 %",732:-
+1098,Nr 86418,Garesio,Italien,750 ml,"14,5 %",221:-
+1099,Nr 80027,Garesio,Italien,750 ml,14 %,350:-
+1100,Nr 81690,Trediberri,Italien,750 ml,"14,5 %",191:-
+1101,Nr 82581,Castello di Bossi Chianti Classico,Italien,750 ml,"14,5 %",321:-
+1102,Nr 50011,Campogiani,Italien,750 ml,14 %,198:-
+1103,Nr 50112,Pineto,Italien,375 ml,5 %,100:-
+1104,Nr 50200,La Vicina,Italien,1000 ml,"14,5 %",81:-
+1105,Nr 50188,Saltner,Italien,750 ml,"13,5 %",400:-
+1106,Nr 50461,Mauro Molino,Italien,750 ml,"13,5 %",190:-
+1107,Nr 50773,Barolo,Italien,750 ml,"14,5 %",389:-
+1108,Nr 50759,Banfi,Italien,750 ml,13 %,161:-
+1109,Nr 50818,Brunello di Montalcino,Italien,750 ml,"14,5 %",440:-
+1110,Nr 51054,Montresor,Italien,750 ml,14 %,106:-
+1111,Nr 51123,Barbaresco,Italien,750 ml,"14,5 %",297:-
+1112,Nr 72823,Biscardo,Italien,750 ml,14 %,151:-
+1113,Nr 76297,Monte Vibiano,Italien,750 ml,"14,5 %",321:-
+1114,Nr 79189,Mazzi,Italien,750 ml,16 %,550:-
+1115,Nr 78653,Granducato,Italien,750 ml,"12,5 %",191:-
+1116,Nr 79841,Granducato,Italien,750 ml,13 %,241:-
+1117,Nr 74096,Severina,Italien,750 ml,14 %,201:-
+1118,Nr 72345,Tommasi,Italien,3000 ml,15 %,1 604:-
+1119,Nr 72388,Rosa d'Amore,Italien,750 ml,5 %,161:-
+1120,Nr 72912,Sud,Italien,750 ml,"13,5 %",101:-
+1121,Nr 75265,Amarone della Valpolicella Classico,Italien,750 ml,"15,5 %",971:-
+1122,Nr 73542,Hipster,Italien,750 ml,13 %,134:-
+1123,Nr 72324,Rondineto,Italien,750 ml,"12,5 %",106:-
+1124,Nr 70581,Fòla,Italien,750 ml,15 %,284:-
+1125,Nr 70295,Savini,Italien,750 ml,"13,5 %",277:-
+1126,Nr 70064,Gran Mauro,Italien,750 ml,14 %,101:-
+1127,Nr 75084,Viticoltori Casorzo,Italien,750 ml,13 %,138:-
+1128,Nr 75167,Muncup,Italien,750 ml,"12,5 %",126:-
+1129,Nr 76473,"Barbera d´Alba ""Le Masche""",Italien,750 ml,"14,5 %",261:-
+1130,Nr 73842,Aglianico,Italien,750 ml,14 %,333:-
+1131,Nr 22350,Tommasi,Italien,1500 ml,15 %,692:-
+1132,Nr 73574,Amarone della Valpolicella,Italien,750 ml,16 %,402:-
+1133,Nr 71582,Barbera d'Asti Superiore Nizza,Italien,750 ml,"14,5 %",341:-
+1134,Nr 76075,Barbera d'Alba,Italien,750 ml,15 %,281:-
+1135,Nr 74151,Castel Sallegg,Italien,750 ml,13 %,235:-
+1136,Nr 79018,Clivus,Italien,750 ml,"13,5 %",131:-
+1137,Nr 71972,Le Ville di Antanè,Italien,750 ml,15 %,261:-
+1138,Nr 79331,Vietti,Italien,750 ml,14 %,251:-
+1139,Nr 70149,Barbera d'Alba,Italien,750 ml,"14,5 %",180:-
+1140,Nr 72491,Langhe Nebbiolo,Italien,750 ml,14 %,201:-
+1141,Nr 70621,Solers,Italien,750 ml,"13,5 %",149:-
+1142,Nr 79552,Bertani,Italien,750 ml,"15,5 %",402:-
+1143,Nr 70619,Castiglion del Bosco,Italien,750 ml,15 %,501:-
+1144,Nr 79870,Villa Simone,Italien,750 ml,"13,5 %",245:-
+1145,Nr 73812,Brunello di Montalcino,Italien,750 ml,"14,5 %",281:-
+1146,Nr 75941,Rosso di Montalcino,Italien,750 ml,"13,5 %",179:-
+1147,Nr 72802,Massimago,Italien,750 ml,"16,5 %",642:-
+1148,Nr 74029,Le Bertarole Podere Cariano,Italien,750 ml,15 %,379:-
+1149,Nr 74280,Bertani,Italien,750 ml,"13,5 %",191:-
+1150,Nr 73821,Campo Leòn,Italien,750 ml,16 %,305:-
+1151,Nr 74644,Il Grigio,Italien,750 ml,"13,5 %",221:-
+1152,Nr 78347,C'D'C,Italien,750 ml,"13,5 %",141:-
+1153,Nr 71600,Chianti Classico,Italien,750 ml,"13,5 %",391:-
+1154,Nr 71937,Adeo,Italien,750 ml,"14,5 %",272:-
+1155,Nr 78936,Elvio 1,Italien,750 ml,14 %,100:-
+1156,Nr 73519,P.Lex,Italien,750 ml,"14,5 %",341:-
+1157,Nr 72268,Sasseo,Italien,750 ml,"14,5 %",141:-
+1158,Nr 75953,Barbera del Monferrato,Italien,750 ml,"14,5 %",187:-
+1159,Nr 74329,Barolo,Italien,750 ml,"14,5 %",281:-
+1160,Nr 72210,Rosso di Montalcino,Italien,750 ml,14 %,288:-
+1161,Nr 74937,Damoli Checo,Italien,750 ml,"15,5 %",558:-
+1162,Nr 70163,Barolo,Italien,750 ml,"14,5 %",391:-
+1163,Nr 70413,Brunello di Montalcino,Italien,750 ml,14 %,401:-
+1164,Nr 71265,Langhe,Italien,750 ml,"14,5 %",283:-
+1165,Nr 82403,Tommasi Poggio al Tufo,Italien,750 ml,13 %,191:-
+1166,Nr 70979,Rocca di Montemassi,Italien,750 ml,13 %,101:-
+1167,Nr 72537,Èrema,Italien,750 ml,"14,5 %",170:-
+1168,Nr 82318,Barbera d'Alba,Italien,750 ml,"14,5 %",241:-
+1169,Nr 72704,Brigaldara,Italien,750 ml,13 %,131:-
+1170,Nr 78313,Tano,Italien,750 ml,13 %,246:-
+1171,Nr 76101,Barbera d'Alba,Italien,750 ml,"13,5 %",171:-
+1172,Nr 77682,Damoli,Italien,750 ml,14 %,274:-
+1173,Nr 78834,Vietti,Italien,1500 ml,14 %,562:-
+1174,Nr 70512,Brunello di Montalcino,Italien,750 ml,15 %,471:-
+1175,Nr 76584,Borgogno,Italien,750 ml,14 %,471:-
+1176,Nr 79322,Robbione,Italien,750 ml,15 %,340:-
+1177,Nr 75910,Barbaresco Canova,Italien,750 ml,14 %,401:-
+1178,Nr 74522,Valletta,Italien,750 ml,"14,5 %",277:-
+1179,Nr 75444,Barolo,Italien,750 ml,"13,5 %",500:-
+1180,Nr 75234,Podere,Italien,750 ml,13 %,98:-
+1181,Nr 77516,Piccini,Italien,750 ml,13 %,101:-
+1182,Nr 76440,Torre Mora,Italien,750 ml,13 %,181:-
+1183,Nr 73849,Dolcetto Diano d´alba,Italien,750 ml,13 %,245:-
+1184,Nr 77381,Barolo Teodoro,Italien,750 ml,"14,5 %",698:-
+1185,Nr 77192,Nebbiolo d'Alba,Italien,750 ml,"14,5 %",275:-
+1186,Nr 76054,Franz Haas,Italien,750 ml,"13,5 %",281:-
+1187,Nr 79904,La Spinetta,Italien,750 ml,"14,5 %",1 601:-
+1188,Nr 76789,La Spinetta,Italien,750 ml,"14,5 %",1 601:-
+1189,Nr 78729,Marrone,Italien,750 ml,"14,5 %",521:-
+1190,Nr 71930,Foglio 38,Italien,750 ml,"14,5 %",522:-
+1191,Nr 75134,Roche d´Ampsej,Italien,750 ml,"14,5 %",373:-
+1192,Nr 75726,Montecariano,Italien,750 ml,14 %,196:-
+1193,Nr 70803,Baracchi,Italien,750 ml,14 %,201:-
+1194,Nr 75201,Tre Rocche,Italien,750 ml,14 %,179:-
+1195,Nr 72028,Valpolicella Classico Superiore,Italien,750 ml,14 %,186:-
+1196,Nr 70193,Ripa delle More,Italien,750 ml,14 %,300:-
+1197,Nr 70105,BorgoFulvia,Italien,750 ml,"12,5 %",97:-
+1198,Nr 78303,Barolo Briccolina,Italien,750 ml,14 %,1 351:-
+1199,Nr 71061,Mauro Sebaste,Italien,750 ml,"14,5 %",201:-
+1200,Nr 70370,Harlequin,Italien,750 ml,15 %,3 402:-
+1201,Nr 73317,Trigaio,Italien,750 ml,13 %,141:-
+1202,Nr 78195,La Sabla,Italien,750 ml,"14,5 %",161:-
+1203,Nr 78396,Brecciarolo Velenosi,Italien,750 ml,"13,5 %",122:-
+1204,Nr 75620,Tifeo,Italien,750 ml,14 %,209:-
+1205,Nr 78511,G.D. Vajra,Italien,750 ml,14 %,201:-
+1206,Nr 74765,Fattoria Poggerino,Italien,750 ml,"14,5 %",321:-
+1207,Nr 75169,Vermentino Nero,Italien,750 ml,"13,5 %",261:-
+1208,Nr 75974,La Prima,Italien,750 ml,14 %,397:-
+1209,Nr 73719,Casina Valle Asinari,Italien,750 ml,"14,5 %",177:-
+1210,Nr 78753,Rizzardi,Italien,750 ml,16 %,287:-
+1211,Nr 74664,Tezza,Italien,750 ml,15 %,361:-
+1212,Nr 75346,Barbera d'Alba Punta,Italien,750 ml,15 %,261:-
+1213,Nr 73520,Terre Magre,Italien,750 ml,13 %,141:-
+1214,Nr 79970,Bruno Giacosa,Italien,750 ml,14 %,401:-
+1215,Nr 74812,BelColle,Italien,1500 ml,"14,5 %",901:-
+1216,Nr 75781,San Leonardo,Italien,750 ml,13 %,701:-
+1217,Nr 76930,Rosso di Montalcino,Italien,750 ml,14 %,467:-
+1218,Nr 71787,Le Bolle,Italien,750 ml,13 %,496:-
+1219,Nr 80089,Marco Cecchini,Italien,750 ml,13 %,252:-
+1220,Nr 83913,Sole e Roccia,Italien,750 ml,"13,5 %",431:-
+1221,Nr 83615,Bonarda,Italien,750 ml,14 %,171:-
+1222,Nr 80023,Terrazze,Italien,750 ml,13 %,197:-
+1223,Nr 50193,Lareith,Italien,750 ml,13 %,370:-
+1224,Nr 71265,Langhe,Italien,750 ml,"14,5 %",283:-
+1225,Nr 82403,Tommasi Poggio al Tufo,Italien,750 ml,13 %,191:-
+1226,Nr 70979,Rocca di Montemassi,Italien,750 ml,13 %,101:-
+1227,Nr 72537,Èrema,Italien,750 ml,"14,5 %",170:-
+1228,Nr 82318,Barbera d'Alba,Italien,750 ml,"14,5 %",241:-
+1229,Nr 72704,Brigaldara,Italien,750 ml,13 %,131:-
+1230,Nr 57362,Prunotto,Italien,750 ml,"14,5 %",141:-
+1231,Nr 57539,Cantina del Glincine,Italien,750 ml,"14,5 %",430:-
+1232,Nr 57710,Rabàh,Italien,750 ml,14 %,111:-
+1233,Nr 57716,Buscareto,Italien,750 ml,13 %,121:-
+1234,Nr 57744,Antico,Italien,750 ml,"13,5 %",170:-
+1235,Nr 53368,Le Guaite di Noemi,Italien,750 ml,16 %,502:-
+1236,Nr 57823,Réva,Italien,750 ml,14 %,246:-
+1237,Nr 57872,Acinatico,Italien,750 ml,14 %,211:-
+1238,Nr 57880,Tazzelenghe,Italien,750 ml,"11,5 %",281:-
+1239,Nr 57881,Paxxo,Italien,750 ml,"14,5 %",271:-
+1240,Nr 51264,Tenuta Carlin de Paolo,Italien,750 ml,13 %,151:-
+1241,Nr 51359,Michele Satta,Italien,750 ml,"13,5 %",331:-
+1242,Nr 51442,Torre d'Orti,Italien,750 ml,"14,5 %",246:-
+1243,Nr 51465,Mauro Molino,Italien,750 ml,"14,5 %",470:-
+1244,Nr 51576,Ratti,Italien,750 ml,"14,5 %",1 001:-
+1245,Nr 51648,Novello,Italien,750 ml,12 %,141:-
+1246,Nr 51746,Cleto Chiarli,Italien,750 ml,8 %,130:-
+1247,Nr 52469,La Gironda Monferatto,Italien,750 ml,"15,5 %",292:-
+1248,Nr 52578,Langhe Rosso Rossoluna,Italien,750 ml,"14,5 %",231:-
+1249,Nr 52642,Fontaleoni,Italien,750 ml,"13,5 %",180:-
+1250,Nr 52676,Nizza Reserva Bricco Roche,Italien,750 ml,16 %,442:-
+1251,Nr 52832,Barbaresco,Italien,750 ml,15 %,321:-
+1252,Nr 52865,Giribaldi,Italien,750 ml,"14,5 %",341:-
+1253,Nr 53204,Monte Maletto,Italien,750 ml,13 %,221:-
+1254,Nr 53381,Pian Scorrone,Italien,750 ml,"14,5 %",141:-
+1255,Nr 76025,Crescendo,Italien,750 ml,"14,5 %",301:-
+1256,Nr 74380,Corpo Notte,Italien,750 ml,"14,5 %",401:-
+1257,Nr 75814,Terre,Italien,1500 ml,13 %,332:-
+1258,Nr 74710,San Calisto,Italien,750 ml,"12,5 %",471:-
+1259,Nr 72700,Villa Rosa,Italien,750 ml,14 %,421:-
+1260,Nr 57932,Scarpa,Italien,750 ml,"13,5 %",451:-
+1261,Nr 57938,Lessona,Italien,750 ml,14 %,401:-
+1262,Nr 57999,Pelago,Italien,750 ml,14 %,301:-
+1263,Nr 58008,Barbera d'Alba,Italien,750 ml,14 %,300:-
+1264,Nr 58047,Barolo,Italien,750 ml,"14,5 %",501:-
+1265,Nr 58205,ColleFirata,Italien,750 ml,"13,5 %",216:-
+1266,Nr 82293,Ruffino Greppone Mazzi,Italien,750 ml,15 %,501:-
+1267,Nr 58260,Monte Zovo,Italien,750 ml,"14,5 %",171:-
+1268,Nr 58312,Selezione di Famiglia,Italien,750 ml,"14,5 %",136:-
+1269,Nr 58352,BelColle,Italien,1500 ml,"14,5 %",971:-
+1270,Nr 58365,Monte Zovo,Italien,750 ml,16 %,402:-
+1271,Nr 58520,Colombaia,Italien,750 ml,13 %,310:-
+1272,Nr 58534,Profumo Di Vulcano,Italien,750 ml,"13,5 %",1 001:-
+1273,Nr 58573,La Massa,Italien,750 ml,"13,5 %",321:-
+1274,Nr 52402,Villa Mangiacane,Italien,750 ml,14 %,178:-
+1275,Nr 52365,Villa Mangiacane,Italien,750 ml,"14,5 %",241:-
+1276,Nr 52270,Villa Mangiacane,Italien,750 ml,"14,5 %",261:-
+1277,Nr 53670,La Bonnarda,Italien,750 ml,"13,5 %",265:-
+1278,Nr 53894,Casisano,Italien,750 ml,14 %,421:-
+1279,Nr 53896,Casisano,Italien,750 ml,"13,5 %",191:-
+1280,Nr 58639,Casisano,Italien,750 ml,14 %,481:-
+1281,Nr 58780,Fattoria Rodano,Italien,750 ml,"14,5 %",226:-
+1282,Nr 58807,Ciabot Russ,Italien,750 ml,"14,5 %",191:-
+1283,Nr 58889,Gheppio,Italien,750 ml,13 %,131:-
+1284,Nr 58902,Conterno,Italien,750 ml,"14,5 %",646:-
+1285,Nr 59051,Torre D'Orti,Italien,3000 ml,"16,5 %",1 511:-
+1286,Nr 59063,Puritani,Italien,750 ml,"13,5 %",330:-
+1287,Nr 59332,Pecchenino,Italien,750 ml,14 %,241:-
+1288,Nr 59367,Gutturnio,Italien,750 ml,"12,5 %",160:-
+1289,Nr 59420,Lorlando,Italien,750 ml,"13,6 %",171:-
+1290,Nr 73719,Casina Valle Asinari,Italien,750 ml,"14,5 %",177:-
+1291,Nr 78753,Rizzardi,Italien,750 ml,16 %,287:-
+1292,Nr 74664,Tezza,Italien,750 ml,15 %,361:-
+1293,Nr 75346,Barbera d'Alba Punta,Italien,750 ml,15 %,261:-
+1294,Nr 73520,Terre Magre,Italien,750 ml,13 %,141:-
+1295,Nr 79970,Bruno Giacosa,Italien,750 ml,14 %,401:-
+1296,Nr 74812,BelColle,Italien,1500 ml,"14,5 %",901:-
+1297,Nr 75781,San Leonardo,Italien,750 ml,13 %,701:-
+1298,Nr 76930,Rosso di Montalcino,Italien,750 ml,14 %,467:-
+1299,Nr 71787,Le Bolle,Italien,750 ml,13 %,496:-
+1300,Nr 80089,Marco Cecchini,Italien,750 ml,13 %,252:-
+1301,Nr 83913,Sole e Roccia,Italien,750 ml,"13,5 %",431:-
+1302,Nr 83615,Bonarda,Italien,750 ml,14 %,171:-
+1303,Nr 80023,Terrazze,Italien,750 ml,13 %,197:-
+1304,Nr 50193,Lareith,Italien,750 ml,13 %,370:-
+1305,Nr 50674,Pasqua,Italien,750 ml,14 %,111:-
+1306,Nr 50814,Prunotto,Italien,750 ml,14 %,191:-
+1307,Nr 50952,Barbaresco,Italien,750 ml,"14,5 %",321:-
+1308,Nr 50976,Mani di Bacco,Italien,750 ml,"14,5 %",280:-
+1309,Nr 51053,Montresor,Italien,750 ml,15 %,281:-
+1310,Nr 57910,Sperino,Italien,750 ml,14 %,651:-
+1311,Nr 57932,Scarpa,Italien,750 ml,"13,5 %",451:-
+1312,Nr 57938,Lessona,Italien,750 ml,14 %,401:-
+1313,Nr 57999,Pelago,Italien,750 ml,14 %,301:-
+1314,Nr 58008,Barbera d'Alba,Italien,750 ml,14 %,300:-
+1315,Nr 58047,Barolo,Italien,750 ml,"14,5 %",501:-
+1316,Nr 58205,ColleFirata,Italien,750 ml,"13,5 %",216:-
+1317,Nr 82293,Ruffino Greppone Mazzi,Italien,750 ml,15 %,501:-
+1318,Nr 58260,Monte Zovo,Italien,750 ml,"14,5 %",171:-
+1319,Nr 58312,Selezione di Famiglia,Italien,750 ml,"14,5 %",136:-
+1320,Nr 51465,Mauro Molino,Italien,750 ml,"14,5 %",470:-
+1321,Nr 51576,Ratti,Italien,750 ml,"14,5 %",1 001:-
+1322,Nr 51648,Novello,Italien,750 ml,12 %,141:-
+1323,Nr 51746,Cleto Chiarli,Italien,750 ml,8 %,130:-
+1324,Nr 71400,Medolago Albani,Italien,750 ml,13 %,186:-
+1325,Nr 74736,Langhe,Italien,750 ml,14 %,266:-
+1326,Nr 73351,Barbera d'Asti Superiore,Italien,750 ml,15 %,231:-
+1327,Nr 70708,Bertoldi Manuele,Italien,750 ml,14 %,296:-
+1328,Nr 73003,Barolo Boscareto,Italien,750 ml,"14,5 %",460:-
+1329,Nr 77349,Amarone della Valpolicella,Italien,750 ml,"17,5 %",724:-
+1330,Nr 77473,Valpolicella Superiore,Italien,750 ml,"15,5 %",439:-
+1331,Nr 70571,Nebbiolo d'Alba,Italien,750 ml,15 %,269:-
+1332,Nr 72545,Zýme La Mattonara Riserva,Italien,750 ml,16 %,3 503:-
+1333,Nr 72847,Zýme,Italien,750 ml,"13,5 %",427:-
+1334,Nr 71025,Poggio alla Guardia,Italien,750 ml,14 %,201:-
+1335,Nr 72291,Recioto Della Valpolicella Classico,Italien,500 ml,15 %,282:-
+1336,Nr 72026,Dolcetto d'Alba,Italien,750 ml,"13,5 %",291:-
+1337,Nr 76025,Crescendo,Italien,750 ml,"14,5 %",301:-
+1338,Nr 74380,Corpo Notte,Italien,750 ml,"14,5 %",401:-
+1339,Nr 75814,Terre,Italien,1500 ml,13 %,332:-
+1340,Nr 74710,San Calisto,Italien,750 ml,"12,5 %",471:-
+1341,Nr 72700,Villa Rosa,Italien,750 ml,14 %,421:-
+1342,Nr 72177,Villa dei Baroni,Italien,750 ml,14 %,301:-
+1343,Nr 70743,Eternamente,Italien,750 ml,"13,5 %",253:-
+1344,Nr 72470,Contucci,Italien,750 ml,14 %,332:-
+1345,Nr 79858,Tommasi,Italien,750 ml,13 %,161:-
+1346,Nr 73874,Barolo,Italien,750 ml,"14,5 %",651:-
+1347,Nr 74215,Dolcetto d'Alba,Italien,750 ml,13 %,221:-
+1348,Nr 70294,Barbaresco,Italien,750 ml,14 %,350:-
+1349,Nr 74056,Talò,Italien,750 ml,14 %,171:-
+1350,Nr 72505,Rusel,Italien,750 ml,"14,5 %",210:-
+1351,Nr 73944,Il Roncal,Italien,750 ml,14 %,208:-
+1352,Nr 71400,Medolago Albani,Italien,750 ml,13 %,186:-
+1353,Nr 74736,Langhe,Italien,750 ml,14 %,266:-
+1354,Nr 73351,Barbera d'Asti Superiore,Italien,750 ml,15 %,231:-
+1355,Nr 70708,Bertoldi Manuele,Italien,750 ml,14 %,296:-
+1356,Nr 73003,Barolo Boscareto,Italien,750 ml,"14,5 %",460:-
+1357,Nr 77349,Amarone della Valpolicella,Italien,750 ml,"17,5 %",724:-
+1358,Nr 77473,Valpolicella Superiore,Italien,750 ml,"15,5 %",439:-
+1359,Nr 70571,Nebbiolo d'Alba,Italien,750 ml,15 %,269:-
+1360,Nr 72545,Zýme La Mattonara Riserva,Italien,750 ml,16 %,3 503:-
+1361,Nr 72847,Zýme,Italien,750 ml,"13,5 %",427:-
+1362,Nr 71025,Poggio alla Guardia,Italien,750 ml,14 %,201:-
+1363,Nr 72291,Recioto Della Valpolicella Classico,Italien,500 ml,15 %,282:-
+1364,Nr 72026,Dolcetto d'Alba,Italien,750 ml,"13,5 %",291:-
+1365,Nr 70047,Rugolin,Italien,750 ml,"12,5 %",185:-
+1366,Nr 72082,Crosara de le Strie,Italien,750 ml,"15,5 %",556:-
+1367,Nr 70872,Recioto,Italien,375 ml,13 %,290:-
+1368,Nr 74047,Barolo,Italien,750 ml,14 %,340:-
+1369,Nr 70681,Antico Monastero,Italien,750 ml,14 %,290:-
+1370,Nr 79709,Borgogno,Italien,750 ml,14 %,221:-
+1371,Nr 78313,Tano,Italien,750 ml,13 %,246:-
+1372,Nr 76101,Barbera d'Alba,Italien,750 ml,"13,5 %",171:-
+1373,Nr 77682,Damoli,Italien,750 ml,14 %,274:-
+1374,Nr 78834,Vietti,Italien,1500 ml,14 %,562:-
+1375,Nr 70512,Brunello di Montalcino,Italien,750 ml,15 %,471:-
+1376,Nr 76584,Borgogno,Italien,750 ml,14 %,471:-
+1377,Nr 79322,Robbione,Italien,750 ml,15 %,340:-
+1378,Nr 75910,Barbaresco Canova,Italien,750 ml,14 %,401:-
+1379,Nr 74522,Valletta,Italien,750 ml,"14,5 %",277:-
+1380,Nr 54325,Core,Italien,750 ml,"13,5 %",221:-
+1381,Nr 54302,Pelassa,Italien,750 ml,15 %,350:-
+1382,Nr 54301,Pelassa,Italien,750 ml,14 %,130:-
+1383,Nr 54416,Le Mortelle,Italien,750 ml,14 %,181:-
+1384,Nr 54524,Langhe,Italien,750 ml,14 %,341:-
+1385,Nr 54897,Il Campanone,Italien,1500 ml,11 %,332:-
+1386,Nr 54922,Tenuta le Colonne,Italien,750 ml,"13,5 %",421:-
+1387,Nr 55060,Elios Modus,Italien,750 ml,14 %,230:-
+1388,Nr 55152,Pecchenino,Italien,750 ml,15 %,381:-
+1389,Nr 55155,Pecchenino,Italien,750 ml,"14,5 %",191:-
+1390,Nr 55188,Parusso,Italien,750 ml,15 %,1 221:-
+1391,Nr 55189,Parusso,Italien,750 ml,15 %,1 221:-
+1392,Nr 55350,Asso Di Denari,Italien,750 ml,"14,5 %",260:-
+1393,Nr 2025,Colline Novaresi Nebbiolo,Italien,750 ml,13 %,104:-
+1394,Nr 73779,Scriani,Italien,750 ml,14 %,191:-
+1395,Nr 74318,Baracchi,Italien,750 ml,14 %,310:-
+1396,Nr 73457,Solare,Italien,750 ml,13 %,494:-
+1397,Nr 78430,Nebbiolo d'Alba,Italien,750 ml,"13,5 %",201:-
+1398,Nr 76745,Granducato,Italien,750 ml,"13,5 %",351:-
+1399,Nr 23050,Domìni Veneti,Italien,750 ml,"15,5 %",222:-
+1400,Nr 72020,Marion,Italien,750 ml,16 %,692:-
+1401,Nr 72107,Barbaresco,Italien,750 ml,"14,5 %",247:-
+1402,Nr 73606,Hacker,Italien,750 ml,"13,5 %",147:-
+1403,Nr 72248,Rondineto,Italien,750 ml,"12,5 %",106:-
+1404,Nr 71704,Grignolino d'Asti,Italien,750 ml,"12,5 %",119:-
+1405,Nr 70119,Michele Chiarlo,Italien,750 ml,14 %,381:-
+1406,Nr 70855,Bricco Paradiso Barbera d'Asti Superiore,Italien,750 ml,15 %,221:-
+1407,Nr 75268,Edone,Italien,500 ml,14 %,184:-
+1408,Nr 75800,Barbera d'Asti,Italien,750 ml,"13,5 %",129:-
+1409,Nr 75256,Albino Armani,Italien,750 ml,"15,5 %",382:-
+1410,Nr 74728,Ruffino,Italien,750 ml,15 %,349:-
+1411,Nr 75047,Aglianico del Taburno,Italien,750 ml,"13,5 %",236:-
+1412,Nr 2392,Piccini,Italien,750 ml,14 %,111:-
+1413,Nr 77312,Barbera d'Alba,Italien,750 ml,15 %,231:-
+1414,Nr 70122,Barbaresco,Italien,750 ml,"14,5 %",461:-
+1415,Nr 81563,Toscana Rosso,Italien,750 ml,13 %,131:-
+1416,Nr 70514,Aurelio Settimo,Italien,750 ml,14 %,290:-
+1417,Nr 72172,Roccolo Grassi,Italien,750 ml,"16,5 %",849:-
+1418,Nr 74016,Tenuta Marcati,Italien,750 ml,15 %,288:-
+1419,Nr 70223,Cadetto,Italien,750 ml,"13,5 %",91:-
+1420,Nr 76343,Arpago,Italien,750 ml,14 %,129:-
+1421,Nr 71523,Pietradolce,Italien,750 ml,"13,5 %",224:-
+1422,Nr 71674,Archineri,Italien,750 ml,15 %,367:-
+1423,Nr 78921,The Fat Lady Sings,Italien,750 ml,14 %,161:-
+1424,Nr 75812,Barolo Ravera,Italien,750 ml,"14,5 %",481:-
+1425,Nr 74531,Castello d'Albola,Italien,750 ml,"13,5 %",221:-
+1426,Nr 73589,Rock,Italien,750 ml,15 %,251:-
+1427,Nr 79638,Tenuta Marcati,Italien,750 ml,13 %,148:-
+1428,Nr 70114,Tommasi Ca' Florian Riserva,Italien,750 ml,"15,5 %",702:-
+1429,Nr 72836,Castello di Ama,Italien,750 ml,"13,5 %",421:-
+1430,Nr 71769,Famiglia Losi Chianti,Italien,750 ml,14 %,227:-
+1431,Nr 72950,Massolino,Italien,750 ml,"13,5 %",161:-
+1432,Nr 73143,Barbaresco,Italien,750 ml,14 %,401:-
+1433,Nr 78718,Langhe Nebbiolo,Italien,750 ml,14 %,221:-
+1434,Nr 78735,Barolo,Italien,750 ml,"14,5 %",351:-
+1435,Nr 76130,Barolo,Italien,750 ml,"14,5 %",401:-
+1436,Nr 72674,Monte Vibiano,Italien,750 ml,"14,5 %",201:-
+1437,Nr 78404,Englar,Italien,750 ml,"13,5 %",360:-
+1438,Nr 78119,Englar,Italien,750 ml,"12,5 %",310:-
+1439,Nr 79662,Barolo,Italien,750 ml,"14,5 %",561:-
+1440,Nr 57775,Scarpa,Italien,750 ml,13 %,161:-
+1441,Nr 57927,Scarpa,Italien,750 ml,"12,5 %",201:-
+1442,Nr 57931,Pfitscher,Italien,750 ml,"13,5 %",401:-
+1443,Nr 57936,Dellamesola,Italien,750 ml,"13,5 %",201:-
+1444,Nr 57937,Bramaterra,Italien,750 ml,14 %,301:-
+1445,Nr 58007,Barbera d'Alba,Italien,750 ml,"14,5 %",221:-
+1446,Nr 58075,Guasti Nebbiolo d'Alba,Italien,750 ml,14 %,281:-
+1447,Nr 58076,Sordo Verduno Pelaverga,Italien,750 ml,"13,5 %",332:-
+1448,Nr 58264,Roncicone,Italien,750 ml,14 %,651:-
+1449,Nr 58267,Amarone della Valpolicella Classico,Italien,750 ml,16 %,302:-
+1450,Nr 58371,Rosso dei Sesi,Italien,750 ml,12 %,351:-
+1451,Nr 58469,Fontanabianca,Italien,750 ml,14 %,376:-
+1452,Nr 58474,Fontanabianca,Italien,750 ml,13 %,166:-
+1453,Nr 58475,Tommasi,Italien,750 ml,12 %,96:-
+1454,Nr 75096,Langhe Rosso,Italien,750 ml,14 %,149:-
+1455,Nr 79880,Elio Altare,Italien,750 ml,14 %,206:-
+1456,Nr 73299,Roero,Italien,750 ml,14 %,191:-
+1457,Nr 2374,Alta Mora,Italien,750 ml,13 %,191:-
+1458,Nr 74732,Barbera d'Alba Marti,Italien,750 ml,"14,5 %",347:-
+1459,Nr 78001,Corteforte Recioto,Italien,500 ml,"14,5 %",431:-
+1460,Nr 70360,Amarone della Valpolicella,Italien,750 ml,15 %,279:-
+1461,Nr 74938,Capo di Capo,Italien,750 ml,"13,5 %",101:-
+1462,Nr 90630,Pietro dal Cero,Italien,375 ml,16 %,351:-
+1463,Nr 79251,Brunello di Montalcino,Italien,750 ml,"14,5 %",521:-
+1464,Nr 79845,Rapace,Italien,750 ml,"14,5 %",369:-
+1465,Nr 71824,Torre D'Orti,Italien,750 ml,"16,5 %",353:-
+1466,Nr 75500,Salice Salentino,Italien,750 ml,14 %,226:-
+1467,Nr 76085,Banfi Excelsus,Italien,750 ml,"14,5 %",571:-
+1468,Nr 79724,Torre D'Orti,Italien,1500 ml,"16,5 %",706:-
+1469,Nr 71901,Paolo Scavino,Italien,750 ml,"14,5 %",241:-
+1470,Nr 57254,Abbadia Ardenga,Italien,750 ml,15 %,471:-
+1471,Nr 57253,Cavaliere d'Oro,Italien,750 ml,13 %,141:-
+1472,Nr 50029,Fontanafredda,Italien,1000 ml,14 %,302:-
+1473,Nr 50124,Abbona,Italien,750 ml,14 %,301:-
+1474,Nr 53882,Piero Busso,Italien,750 ml,15 %,301:-
+1475,Nr 54096,Barolo,Italien,750 ml,"14,5 %",471:-
+1476,Nr 58642,Tommasi,Italien,750 ml,15 %,447:-
+1477,Nr 58759,Savoia Americano,Italien,500 ml,"18,6 %",245:-
+1478,Nr 58915,Lamborghini,Italien,750 ml,"13,5 %",639:-
+1479,Nr 59059,Norma,Italien,750 ml,13 %,210:-
+1480,Nr 59301,Damilano,Italien,750 ml,"14,5 %",451:-
+1481,Nr 59297,Damilano,Italien,750 ml,"14,5 %",451:-
+1482,Nr 59413,SERA,Italien,750 ml,14 %,141:-
+1483,Nr 59478,Lamborghini,Italien,750 ml,13 %,626:-
+1484,Nr 59544,Lamborghini,Italien,750 ml,13 %,367:-
+1485,Nr 59607,VantoRosso,Italien,750 ml,"16,5 %",933:-
+1486,Nr 59663,Ca’ Rome’,Italien,750 ml,"14,5 %",530:-
+1487,Nr 74454,Torre del Falasco,Italien,750 ml,"15,5 %",298:-
+1488,Nr 74505,Lamole di Lamole,Italien,750 ml,"13,5 %",151:-
+1489,Nr 75299,Il Nero di Casanova,Italien,750 ml,"13,5 %",201:-
+1490,Nr 75791,Bronzone Belguardo,Italien,750 ml,"13,5 %",201:-
+1491,Nr 51224,Il Carbonaione,Italien,750 ml,"13,5 %",486:-
+1492,Nr 51498,Le Ragose,Italien,750 ml,16 %,669:-
+1493,Nr 51500,Le Ragose,Italien,750 ml,"16,5 %",702:-
+1494,Nr 51629,Ratti,Italien,750 ml,"14,5 %",301:-
+1495,Nr 51762,Montefalco Rosso,Italien,750 ml,14 %,181:-
+1496,Nr 52222,Barolo,Italien,750 ml,14 %,671:-
+1497,Nr 52471,Brachetto D´Acqui,Italien,750 ml,"5,5 %",200:-
+1498,Nr 52674,La Maliosa,Italien,750 ml,14 %,376:-
+1499,Nr 52767,Sassoalloro,Italien,750 ml,14 %,241:-
+1500,Nr 54096,Barolo,Italien,750 ml,"14,5 %",471:-
+1501,Nr 58642,Tommasi,Italien,750 ml,15 %,447:-
+1502,Nr 58759,Savoia Americano,Italien,500 ml,"18,6 %",245:-
+1503,Nr 58915,Lamborghini,Italien,750 ml,"13,5 %",639:-
+1504,Nr 59059,Norma,Italien,750 ml,13 %,210:-
+1505,Nr 59301,Damilano,Italien,750 ml,"14,5 %",451:-
+1506,Nr 59297,Damilano,Italien,750 ml,"14,5 %",451:-
+1507,Nr 59413,SERA,Italien,750 ml,14 %,141:-
+1508,Nr 59478,Lamborghini,Italien,750 ml,13 %,626:-
+1509,Nr 59544,Lamborghini,Italien,750 ml,13 %,367:-
+1510,Nr 59607,VantoRosso,Italien,750 ml,"16,5 %",933:-
+1511,Nr 59663,Ca’ Rome’,Italien,750 ml,"14,5 %",530:-
+1512,Nr 74454,Torre del Falasco,Italien,750 ml,"15,5 %",298:-
+1513,Nr 74505,Lamole di Lamole,Italien,750 ml,"13,5 %",151:-
+1514,Nr 75299,Il Nero di Casanova,Italien,750 ml,"13,5 %",201:-
+1515,Nr 75791,Bronzone Belguardo,Italien,750 ml,"13,5 %",201:-
+1516,Nr 79871,Iuli,Italien,750 ml,"14,5 %",220:-
+1517,Nr 71247,Barolo,Italien,750 ml,14 %,465:-
+1518,Nr 70259,Brunelli,Italien,750 ml,15 %,464:-
+1519,Nr 78900,Moraia,Italien,750 ml,"13,5 %",451:-
+1520,Nr 74989,Bastianich,Italien,750 ml,13 %,299:-
+1521,Nr 72571,Unio,Italien,750 ml,"13,5 %",149:-
+1522,Nr 32341,Le Tense,Italien,750 ml,"13,5 %",201:-
+1523,Nr 82462,Il Monello,Italien,750 ml,14 %,181:-
+1524,Nr 73028,Castelmondo,Italien,750 ml,15 %,151:-
+1525,Nr 72937,Barbera d'Alba Volupta,Italien,750 ml,15 %,236:-
+1526,Nr 74911,Barolo,Italien,750 ml,"14,5 %",405:-
+1527,Nr 70894,Langhe,Italien,750 ml,14 %,240:-
+1528,Nr 72395,Giusto Alle Balze,Italien,750 ml,14 %,427:-
+1529,Nr 77050,Marion,Italien,750 ml,"14,5 %",402:-
+1530,Nr 79123,Poggio ai Ginepri,Italien,750 ml,13 %,262:-
+1531,Nr 78161,Monchiero,Italien,750 ml,14 %,198:-
+1532,Nr 70527,Monte delle Vigne,Italien,750 ml,"11,5 %",135:-
+1533,Nr 72723,Barolo,Italien,750 ml,14 %,383:-
+1534,Nr 74552,Barbera d'Asti,Italien,750 ml,16 %,702:-
+1535,Nr 75988,Borgo dei Guidi,Italien,750 ml,"14,5 %",201:-
+1536,Nr 76577,Morella,Italien,750 ml,15 %,290:-
+1537,Nr 73934,Monte Santoccio,Italien,750 ml,12 %,190:-
+1538,Nr 75711,Barolo Persiera,Italien,750 ml,14 %,541:-
+1539,Nr 78618,Colli Euganei,Italien,750 ml,12 %,149:-
+1540,Nr 76853,Barbera d'Asti,Italien,750 ml,14 %,250:-
+1541,Nr 76746,Monte Faustino,Italien,750 ml,17 %,497:-
+1542,Nr 70702,Ripasso,Italien,750 ml,"14,5 %",237:-
+1543,Nr 76304,Carmenère,Italien,1500 ml,13 %,1 202:-
+1544,Nr 76441,Carmenère,Italien,750 ml,13 %,571:-
+1545,Nr 50266,Amarone della Valpolicella,Italien,750 ml,15 %,337:-
+1546,Nr 50328,Franco Conterno,Italien,750 ml,"14,5 %",332:-
+1547,Nr 50460,Mauro Molino,Italien,750 ml,14 %,201:-
+1548,Nr 50721,Frattasi Aglianico,Italien,750 ml,"12,5 %",177:-
+1549,Nr 50809,Duvanera,Italien,750 ml,14 %,179:-
+1550,Nr 50885,Mauro Molino,Italien,750 ml,"13,5 %",221:-
+1551,Nr 51088,Montresor,Italien,750 ml,14 %,141:-
+1552,Nr 51224,Il Carbonaione,Italien,750 ml,"13,5 %",486:-
+1553,Nr 51498,Le Ragose,Italien,750 ml,16 %,669:-
+1554,Nr 51500,Le Ragose,Italien,750 ml,"16,5 %",702:-
+1555,Nr 51629,Ratti,Italien,750 ml,"14,5 %",301:-
+1556,Nr 51762,Montefalco Rosso,Italien,750 ml,14 %,181:-
+1557,Nr 52222,Barolo,Italien,750 ml,14 %,671:-
+1558,Nr 56378,Recioto,Italien,500 ml,"13,5 %",896:-
+1559,Nr 56579,Lambrusco,Italien,750 ml,12 %,201:-
+1560,Nr 53833,Corte Giara,Italien,750 ml,15 %,351:-
+1561,Nr 53948,Solaia,Italien,750 ml,15 %,3 502:-
+1562,Nr 54105,Amalia,Italien,750 ml,"15,5 %",327:-
+1563,Nr 54106,Bovio Langhe,Italien,750 ml,14 %,250:-
+1564,Nr 54160,Bovio,Italien,750 ml,15 %,600:-
+1565,Nr 54142,Renato Corino,Italien,750 ml,15 %,540:-
+1566,Nr 54192,Sara Vezza,Italien,750 ml,14 %,270:-
+1567,Nr 54237,Crissante,Italien,750 ml,13 %,171:-
+1568,Nr 54268,Amarone della Valpolicella,Italien,750 ml,16 %,651:-
+1569,Nr 54286,Bussola,Italien,750 ml,"16,5 %",678:-
+1570,Nr 54342,Montresor,Italien,750 ml,15 %,401:-
+1571,Nr 54632,Sylla Sebaste,Italien,750 ml,14 %,329:-
+1572,Nr 54660,Sylla Sebaste,Italien,750 ml,"13,5 %",199:-
+1573,Nr 54645,Sylla Sebaste,Italien,750 ml,14 %,454:-
+1574,Nr 54814,Fattoria Le Fonti,Italien,750 ml,"14,5 %",359:-
+1575,Nr 54824,Fattoria Rodano,Italien,750 ml,"14,5 %",266:-
+1576,Nr 54937,Moro,Italien,750 ml,"13,5 %",181:-
+1577,Nr 55100,Il Rinzacco,Italien,750 ml,"13,5 %",161:-
+1578,Nr 55131,Zýme,Italien,750 ml,15 %,752:-
+1579,Nr 79668,San Leonardo,Italien,1500 ml,13 %,1 353:-
+1580,Nr 73583,Vigna del Convento,Italien,750 ml,"13,5 %",447:-
+1581,Nr 75157,Amalia,Italien,750 ml,"14,5 %",230:-
+1582,Nr 71883,Amalia,Italien,750 ml,15 %,216:-
+1583,Nr 75996,Lilliano Ruspoli,Italien,750 ml,"14,5 %",201:-
+1584,Nr 70033,Contucci,Italien,750 ml,"13,5 %",200:-
+1585,Nr 71464,Il Presuntuoso,Italien,750 ml,14 %,660:-
+1586,Nr 75645,Barolo,Italien,750 ml,14 %,481:-
+1587,Nr 74975,Dogarina,Italien,750 ml,"12,5 %",127:-
+1588,Nr 77544,Dogarina,Italien,750 ml,"12,5 %",127:-
+1589,Nr 76724,Terre More,Italien,750 ml,13 %,177:-
+1590,Nr 71964,Bussola,Italien,750 ml,15 %,397:-
+1591,Nr 83305,Pian delle Vigne,Italien,750 ml,14 %,221:-
+1592,Nr 74632,Demarie,Italien,750 ml,"14,5 %",311:-
+1593,Nr 70673,Coppo,Italien,750 ml,"13,5 %",401:-
+1594,Nr 72930,Arpepe,Italien,750 ml,14 %,260:-
+1595,Nr 74025,Barolo La Tartufaia,Italien,1500 ml,"14,5 %",952:-
+1596,Nr 74021,Pruno,Italien,750 ml,"13,5 %",297:-
+1597,Nr 73880,Valpolicella Ripasso Classico Superiore,Italien,750 ml,"14,5 %",258:-
+1598,Nr 72981,Chianti Superiore,Italien,750 ml,13 %,141:-
+1599,Nr 75124,Cavaliere,Italien,750 ml,13 %,341:-
+1600,Nr 73595,Il Nespoli,Italien,750 ml,"14,5 %",181:-
+1601,Nr 75307,Ornello di Frassinello,Italien,750 ml,"14,5 %",225:-
+1602,Nr 76002,Marzemino,Italien,750 ml,8 %,140:-
+1603,Nr 78759,Valpolicella Classico Superiore,Italien,750 ml,13 %,185:-
+1604,Nr 78785,Bardolino,Italien,750 ml,13 %,162:-
+1605,Nr 55356,Azelia,Italien,750 ml,"13,5 %",177:-
+1606,Nr 55490,Le Guaite di Noemi,Italien,1500 ml,17 %,1 561:-
+1607,Nr 55609,Riserva Savini,Italien,3000 ml,14 %,790:-
+1608,Nr 55686,Il Bruno dei Vespa,Italien,750 ml,14 %,141:-
+1609,Nr 55928,Vantorosso,Italien,750 ml,"14,5 %",271:-
+1610,Nr 55971,Capotondo Castelvecchi,Italien,750 ml,"13,5 %",179:-
+1611,Nr 56042,Chianti Classico,Italien,750 ml,"13,5 %",190:-
+1612,Nr 56050,Montefalco,Italien,750 ml,14 %,185:-
+1613,Nr 56093,La Source,Italien,750 ml,13 %,187:-
+1614,Nr 56100,Torre d'Orti,Italien,500 ml,16 %,502:-
+1615,Nr 75096,Langhe Rosso,Italien,750 ml,14 %,149:-
+1616,Nr 79880,Elio Altare,Italien,750 ml,14 %,206:-
+1617,Nr 73299,Roero,Italien,750 ml,14 %,191:-
+1618,Nr 2374,Alta Mora,Italien,750 ml,13 %,191:-
+1619,Nr 74732,Barbera d'Alba Marti,Italien,750 ml,"14,5 %",347:-
+1620,Nr 78001,Corteforte Recioto,Italien,500 ml,"14,5 %",431:-
+1621,Nr 70360,Amarone della Valpolicella,Italien,750 ml,15 %,279:-
+1622,Nr 74938,Capo di Capo,Italien,750 ml,"13,5 %",101:-
+1623,Nr 90630,Pietro dal Cero,Italien,375 ml,16 %,351:-
+1624,Nr 79251,Brunello di Montalcino,Italien,750 ml,"14,5 %",521:-
+1625,Nr 79845,Rapace,Italien,750 ml,"14,5 %",369:-
+1626,Nr 71824,Torre D'Orti,Italien,750 ml,"16,5 %",353:-
+1627,Nr 75500,Salice Salentino,Italien,750 ml,14 %,226:-
+1628,Nr 76085,Banfi Excelsus,Italien,750 ml,"14,5 %",571:-
+1629,Nr 79724,Torre D'Orti,Italien,1500 ml,"16,5 %",706:-
+1630,Nr 71901,Paolo Scavino,Italien,750 ml,"14,5 %",241:-
+1631,Nr 79811,La Spinetta,Italien,750 ml,"14,5 %",1 601:-
+1632,Nr 78656,Valpolicella Superiore,Italien,750 ml,"13,5 %",252:-
+1633,Nr 72337,Amarone Della Valpolicella Classico,Italien,750 ml,15 %,281:-
+1634,Nr 22409,i Castei,Italien,750 ml,14 %,131:-
+1635,Nr 73732,Paleo,Italien,750 ml,14 %,894:-
+1636,Nr 73765,Barbera d'Alba,Italien,750 ml,"13,5 %",249:-
+1637,Nr 77048,Monte Vibiano,Italien,750 ml,"13,5 %",136:-
+1638,Nr 87201,Tommasi,Italien,750 ml,"13,5 %",201:-
+1639,Nr 76372,Barolo,Italien,750 ml,14 %,321:-
+1640,Nr 78948,Barbera d'Asti,Italien,750 ml,"13,5 %",131:-
+1641,Nr 72852,Planeta,Italien,750 ml,14 %,341:-
+1642,Nr 72043,Gentleman,Italien,750 ml,"12,5 %",147:-
+1643,Nr 71695,Monte Santoccio,Italien,750 ml,16 %,555:-
+1644,Nr 87201,Tommasi,Italien,1500 ml,"13,5 %",422:-
+1645,Nr 70491,C,Italien,750 ml,"12,5 %",81:-
+1646,Nr 70452,V,Italien,750 ml,"12,5 %",111:-
+1647,Nr 74106,Villa Poggio Salvi Caspagnolo,Italien,750 ml,"13,5 %",141:-
+1648,Nr 70966,Tommasi,Italien,750 ml,13 %,191:-
+1649,Nr 73274,Masi Costasera,Italien,5000 ml,15 %,3 308:-
+1650,Nr 2359,Torre del Falasco,Italien,750 ml,"13,5 %",131:-
+1651,Nr 73793,Poliziano,Italien,750 ml,"14,5 %",231:-
+1652,Nr 72611,Barbera d'Alba Donna Margherita,Italien,750 ml,"13,5 %",171:-
+1653,Nr 71374,Barbaresco,Italien,750 ml,"14,5 %",290:-
+1654,Nr 72484,Barbaresco,Italien,750 ml,"14,5 %",290:-
+1655,Nr 71249,The Per Gessle Selection,Italien,750 ml,14 %,221:-
+1656,Nr 75662,Castel Sallegg,Italien,750 ml,14 %,220:-
+1657,Nr 71022,Carpané,Italien,750 ml,"14,5 %",229:-
+1658,Nr 71082,Albarone,Italien,750 ml,"15,5 %",402:-
+1659,Nr 2597,Campogiovanni,Italien,750 ml,13 %,201:-
+1660,Nr 72722,Laccento,Italien,750 ml,14 %,252:-
+1661,Nr 79233,Rosso di Montalcino,Italien,750 ml,"14,5 %",279:-
+1662,Nr 73459,Chianti Classico,Italien,750 ml,13 %,397:-
+1663,Nr 79302,Farina,Italien,750 ml,"13,5 %",147:-
+1664,Nr 79655,Chianti Classico,Italien,750 ml,14 %,212:-
+1665,Nr 72432,Chianti,Italien,750 ml,"13,5 %",159:-
+1666,Nr 79095,Giacomo Vico Roero,Italien,750 ml,14 %,223:-
+1667,Nr 76682,Sartori,Italien,750 ml,13 %,131:-
+1668,Nr 76714,Nebbiolo d´Alba,Italien,750 ml,14 %,255:-
+1669,Nr 78649,Le Bertarole,Italien,750 ml,15 %,301:-
+1670,Nr 6346,Castelforte,Italien,750 ml,14 %,81:-
+1671,Nr 73316,Terlan,Italien,750 ml,"13,5 %",201:-
+1672,Nr 2208,Ser Lapo,Italien,750 ml,"13,5 %",221:-
+1673,Nr 72385,Langhe,Italien,750 ml,14 %,231:-
+1674,Nr 78310,La Torraccia,Italien,750 ml,"13,5 %",179:-
+1675,Nr 74772,Chunky Red,Italien,750 ml,"14,5 %",106:-
+1676,Nr 74747,Vigorello,Italien,750 ml,"13,5 %",451:-
+1677,Nr 78412,Barbera d'Alba,Italien,750 ml,"14,5 %",191:-
+1678,Nr 78944,Tintilia 66,Italien,750 ml,"14,5 %",452:-
+1679,Nr 70311,Terra Mazzei,Italien,750 ml,13 %,131:-
+1680,Nr 70150,Mangiacane,Italien,750 ml,"14,5 %",299:-
+1681,Nr 77145,Barbaresco,Italien,750 ml,14 %,301:-
+1682,Nr 76525,Barbaresco,Italien,750 ml,"14,5 %",445:-
+1683,Nr 70397,Reale,Italien,750 ml,14 %,275:-
+1684,Nr 90459,Marchese di Villamarina,Italien,750 ml,"13,5 %",431:-
+1685,Nr 72226,Barolo,Italien,750 ml,14 %,536:-
+1686,Nr 72612,BelColle,Italien,750 ml,14 %,206:-
+1687,Nr 72853,Venturini,Italien,750 ml,16 %,1 988:-
+1688,Nr 75566,Barbera d'Alba Superiore,Italien,1500 ml,14 %,402:-
+1689,Nr 77772,Rosso di Montalcino,Italien,750 ml,"13,5 %",290:-
+1690,Nr 76587,Marion,Italien,750 ml,"14,5 %",362:-
+1691,Nr 76635,Barolo,Italien,750 ml,"14,5 %",430:-
+1692,Nr 72075,Marion,Italien,750 ml,"14,5 %",402:-
+1693,Nr 78350,Groppello di Revò,Italien,750 ml,13 %,218:-
+1694,Nr 74530,Cadia,Italien,750 ml,12 %,86:-
+1695,Nr 70825,Rodaro Romain,Italien,750 ml,"15,5 %",509:-
+1696,Nr 70493,Laficaia,Italien,750 ml,14 %,426:-
+1697,Nr 74976,De Angelis,Italien,750 ml,13 %,189:-
+1698,Nr 91224,Chiara Condello,Italien,750 ml,14 %,171:-
+1699,Nr 72643,BelColle,Italien,750 ml,"14,5 %",430:-
+1700,Nr 76785,La Barbera,Italien,750 ml,12 %,201:-
+1701,Nr 72720,Galverno,Italien,750 ml,13 %,251:-
+1702,Nr 70074,Verduno Pelaverga,Italien,750 ml,"13,5 %",231:-
+1703,Nr 71104,Barolo Riserva Millenovecento48,Italien,750 ml,14 %,641:-
+1704,Nr 78099,La Spia,Italien,750 ml,"14,5 %",251:-
+1705,Nr 77683,Corte Rugolin,Italien,375 ml,13 %,250:-
+1706,Nr 78561,Grosjean,Italien,750 ml,13 %,301:-
+1707,Nr 71060,Ronchedone,Italien,750 ml,"14,5 %",221:-
+1708,Nr 72275,Barolo Riserva Bricco delle Viole,Italien,750 ml,"14,5 %",611:-
+1709,Nr 79217,MariaBella,Italien,750 ml,"14,5 %",266:-
+1710,Nr 73708,Rosso di Montalcino,Italien,750 ml,"14,5 %",270:-
+1711,Nr 73191,Brunello di Montalcino,Italien,750 ml,15 %,580:-
+1712,Nr 72283,Nero,Italien,750 ml,"14,5 %",129:-
+1713,Nr 76427,Calcarole,Italien,750 ml,17 %,623:-
+1714,Nr 77974,Prunotto Mompertone,Italien,750 ml,"14,5 %",161:-
+1715,Nr 74882,Morella,Italien,750 ml,"14,5 %",499:-
+1716,Nr 2300,Villa Antinori,Italien,1500 ml,"13,5 %",352:-
+1717,Nr 74977,Rosso di Montepulciano,Italien,750 ml,14 %,265:-
+1718,Nr 73761,Mandrarossa,Italien,750 ml,"13,5 %",169:-
+1719,Nr 72329,Canebbio Langhe Nebbiolo,Italien,750 ml,"14,5 %",291:-
+1720,Nr 74319,Ratti,Italien,750 ml,13 %,171:-
+1721,Nr 78072,Brunello di Montalcino,Italien,750 ml,"14,5 %",589:-
+1722,Nr 71741,Per Lui,Italien,750 ml,"13,5 %",451:-
+1723,Nr 2341,Il Grande Vivati,Italien,750 ml,14 %,141:-
+1724,Nr 73151,Paolo Scavino,Italien,750 ml,"13,5 %",161:-
+1725,Nr 73831,Balbiano,Italien,750 ml,13 %,479:-
+1726,Nr 76492,Balbiano,Italien,750 ml,"13,5 %",252:-
+1727,Nr 74685,La Spinetta,Italien,750 ml,"14,5 %",1 701:-
+1728,Nr 77794,Marrone,Italien,750 ml,14 %,449:-
+1729,Nr 74874,Benanti,Italien,750 ml,"13,5 %",201:-
+1730,Nr 73586,Guarda Boschi,Italien,750 ml,14 %,402:-
+1731,Nr 2022,San Claudio II,Italien,750 ml,"14,5 %",191:-
+1732,Nr 78607,Le Lucciole,Italien,1500 ml,"13,5 %",802:-
+1733,Nr 78345,Le Lucciole,Italien,750 ml,14 %,427:-
+1734,Nr 76134,Rialto,Italien,750 ml,"13,5 %",176:-
+1735,Nr 58574,La Massa,Italien,750 ml,14 %,1 072:-
+1736,Nr 58579,La Massa,Italien,750 ml,"14,5 %",1 252:-
+1737,Nr 53728,Colombaia,Italien,750 ml,13 %,301:-
+1738,Nr 53928,Broccardo,Italien,750 ml,14 %,201:-
+1739,Nr 58898,Taurasi,Italien,750 ml,"13,5 %",301:-
+1740,Nr 59038,Serre,Italien,750 ml,"13,5 %",170:-
+1741,Nr 59254,Barbera d'Alba,Italien,750 ml,"14,5 %",345:-
+1742,Nr 59308,Notte di Galileo,Italien,1500 ml,"14,5 %",483:-
+1743,Nr 59380,Enzo Boglietti,Italien,750 ml,15 %,1 102:-
+1744,Nr 59392,Nero Dàvola,Italien,750 ml,"13,5 %",226:-
+1745,Nr 75023,Montepirolo,Italien,750 ml,"14,5 %",245:-
+1746,Nr 77047,Ca' Rugate,Italien,500 ml,"13,5 %",340:-
+1747,Nr 75851,Tommasi Poggio al Tufo,Italien,750 ml,13 %,201:-
+1748,Nr 73004,Castello del Poggio,Italien,750 ml,14 %,121:-
+1749,Nr 76099,Il Roncal,Italien,750 ml,"13,5 %",242:-
+1750,Nr 78784,Barolo,Italien,750 ml,"13,5 %",400:-
+1751,Nr 56460,Poggio A'frati,Italien,1500 ml,14 %,602:-
+1752,Nr 93599,Barolo San Rocco,Italien,1500 ml,"14,5 %",1 802:-
+1753,Nr 56827,Begali,Italien,750 ml,"12,5 %",168:-
+1754,Nr 79521,Freisa di Chieri,Italien,750 ml,13 %,266:-
+1755,Nr 57276,Abbadia Ardenga,Italien,750 ml,"14,5 %",241:-
+1756,Nr 57255,Cavaliere d'Oro,Italien,750 ml,14 %,231:-
+1757,Nr 82390,Regolo,Italien,750 ml,"13,5 %",191:-
+1758,Nr 51132,Bricco Bonfante,Italien,750 ml,"15,5 %",402:-
+1759,Nr 51128,Brunello di Montalcino,Italien,750 ml,"14,5 %",401:-
+1760,Nr 51205,Kunst Stück,Italien,1500 ml,"13,5 %",1 401:-
+1761,Nr 51233,Biserno,Italien,750 ml,"14,5 %",1 201:-
+1762,Nr 51408,Bongiovanni,Italien,750 ml,15 %,261:-
+1763,Nr 51435,Bongiovanni,Italien,750 ml,15 %,540:-
+1764,Nr 51512,Le Ragose,Italien,750 ml,"14,5 %",279:-
+1765,Nr 51499,Le Ragose,Italien,750 ml,"16,5 %",1 253:-
+1766,Nr 51616,Pizza Lovers Rosso,Italien,500 ml,"11,5 %",135:-
+1767,Nr 51753,Gheppio,Italien,750 ml,"13,5 %",137:-
+1768,Nr 51790,Terlan,Italien,750 ml,13 %,167:-
+1769,Nr 51816,Nino Negri,Italien,750 ml,16 %,532:-
+1770,Nr 51880,Barbera del Monferrato,Italien,750 ml,14 %,276:-
+1771,Nr 51963,San Zenone,Italien,750 ml,14 %,147:-
+1772,Nr 52041,Marrone,Italien,750 ml,14 %,300:-
+1773,Nr 52220,Barolo,Italien,750 ml,"14,5 %",850:-
+1774,Nr 52475,Renato Corino,Italien,750 ml,15 %,651:-
+1775,Nr 52576,Renato Corino,Italien,750 ml,"14,5 %",430:-
+1776,Nr 94031,Barolo del comune di Verduno,Italien,750 ml,15 %,441:-
+1777,Nr 52760,Le Cecche,Italien,750 ml,"14,5 %",220:-
+1778,Nr 52763,Le Cecche,Italien,750 ml,15 %,397:-
+1779,Nr 52765,Barbera d'Alba,Italien,750 ml,14 %,147:-
+1780,Nr 52818,Langhe Nebbiolo,Italien,750 ml,"13,5 %",151:-
+1781,Nr 52819,Barbaresco Autinbej,Italien,750 ml,15 %,271:-
+1782,Nr 52951,Villa Donoratico,Italien,750 ml,"14,5 %",392:-
+1783,Nr 53024,Barolo,Italien,750 ml,"14,5 %",451:-
+1784,Nr 53139,Enzo Bartoli,Italien,750 ml,14 %,251:-
+1785,Nr 53357,Tenuta Casenuove,Italien,750 ml,14 %,231:-
+1786,Nr 53429,Madama,Italien,750 ml,"14,5 %",226:-
+1787,Nr 53467,Podere Grasselino,Italien,1500 ml,"14,5 %",452:-
+1788,Nr 53472,Poggio al Leone,Italien,750 ml,"14,5 %",221:-
+1789,Nr 53525,Nusserhof,Italien,750 ml,13 %,460:-
+1790,Nr 53552,Adenzia,Italien,750 ml,14 %,201:-
+1791,Nr 53598,Rosso di Montalcino,Italien,750 ml,"14,5 %",201:-
+1792,Nr 53753,Bruno Giacosa,Italien,750 ml,"14,5 %",361:-
+1793,Nr 53813,Poggio al Tesoro,Italien,750 ml,14 %,191:-
+1794,Nr 53834,Corte Giara,Italien,750 ml,"12,5 %",121:-
+1795,Nr 53858,Roero,Italien,750 ml,"14,5 %",196:-
+1796,Nr 54034,Boasso,Italien,750 ml,15 %,321:-
+1797,Nr 54138,Barbaresco,Italien,750 ml,"14,5 %",627:-
+1798,Nr 54140,Barbaresco,Italien,750 ml,14 %,817:-
+1799,Nr 54147,Renato Corino,Italien,750 ml,14 %,240:-
+1800,Nr 54151,Enzo Boglietti,Italien,750 ml,"14,5 %",376:-
+1801,Nr 54165,Renato Corino,Italien,750 ml,14 %,221:-
+1802,Nr 54166,Renato Corino,Italien,750 ml,"13,5 %",199:-
+1803,Nr 54172,La Carlina,Italien,750 ml,14 %,201:-
+1804,Nr 54214,Barolo Galina,Italien,750 ml,15 %,517:-
+1805,Nr 54252,Canavese,Italien,750 ml,"13,5 %",180:-
+1806,Nr 54250,Montevetrano,Italien,750 ml,"14,5 %",641:-
+1807,Nr 54288,La Combarbia,Italien,750 ml,15 %,347:-
+1808,Nr 54471,Per Terras,Italien,750 ml,15 %,951:-
+1809,Nr 54498,Ottavio,Italien,750 ml,"12,5 %",275:-
+1810,Nr 54552,Arpepe,Italien,750 ml,13 %,382:-
+1811,Nr 54555,Capo di Vigna,Italien,750 ml,12 %,160:-
+1812,Nr 54714,Gattinara,Italien,750 ml,14 %,651:-
+1813,Nr 54889,Mon Nené,Italien,750 ml,"14,5 %",285:-
+1814,Nr 54892,Donnafugata,Italien,750 ml,13 %,211:-
+1815,Nr 54898,Bell'Assai,Italien,750 ml,13 %,221:-
+1816,Nr 54944,Dea Vulcano,Italien,750 ml,"13,5 %",201:-
+1817,Nr 54938,Chianti,Italien,750 ml,"13,5 %",161:-
+1818,Nr 55335,BelColle,Italien,750 ml,"14,5 %",350:-
+1819,Nr 57287,Angelo Negro,Italien,750 ml,14 %,601:-
+1820,Nr 57419,Il Rosso,Italien,750 ml,13 %,245:-
+1821,Nr 57486,Domìni Veneti,Italien,750 ml,"12,5 %",126:-
+1822,Nr 57693,Campomaggio,Italien,750 ml,"13,5 %",171:-
+1823,Nr 57731,Antico Monastero,Italien,750 ml,"13,5 %",170:-
+1824,Nr 57761,Uvaggio,Italien,750 ml,"13,5 %",320:-
+1825,Nr 57782,Scarpa,Italien,750 ml,14 %,321:-
+1826,Nr 57825,Scarpa,Italien,750 ml,14 %,631:-
+1827,Nr 57873,Pfitscher,Italien,750 ml,13 %,251:-
+1828,Nr 57940,Astroni,Italien,750 ml,13 %,200:-
+1829,Nr 58059,Scarpa,Italien,750 ml,"14,5 %",601:-
+1830,Nr 58092,Montefalco Rosso,Italien,750 ml,"14,5 %",220:-
+1831,Nr 58351,Amalia,Italien,750 ml,14 %,500:-
+1832,Nr 58448,Vittorini,Italien,750 ml,15 %,265:-
+1833,Nr 58463,Fontanabianca,Italien,750 ml,14 %,306:-
+1834,Nr 58464,Fontanabianca,Italien,750 ml,"14,5 %",191:-
+1835,Nr 58482,Cirneco,Italien,750 ml,14 %,361:-
+1836,Nr 76053,Violae,Italien,750 ml,14 %,221:-
+1837,Nr 74266,Monferrato Nebbiolo,Italien,750 ml,"14,5 %",201:-
+1838,Nr 74075,Nizza,Italien,750 ml,15 %,291:-
+1839,Nr 95610,La Spia MR72 Sassella,Italien,750 ml,13 %,391:-
+1840,Nr 74356,Turione,Italien,750 ml,"14,5 %",131:-
+1841,Nr 70727,Marujo,Italien,750 ml,14 %,301:-
+1842,Nr 70253,Gottardi,Italien,750 ml,13 %,360:-
+1843,Nr 71493,Contucci,Italien,750 ml,14 %,343:-
+1844,Nr 75739,Prego Grande,Italien,1000 ml,13 %,91:-
+1845,Nr 76144,Barolo,Italien,750 ml,"14,5 %",671:-
+1846,Nr 78318,Torre d´Orti,Italien,1500 ml,"14,5 %",402:-
+1847,Nr 70661,Barbera D´Alba,Italien,750 ml,14 %,170:-
+1848,Nr 78704,Rèmole,Italien,750 ml,"12,5 %",141:-
+1849,Nr 74084,Bussola,Italien,750 ml,"16,5 %",1 528:-
+1850,Nr 79848,San Zio,Italien,750 ml,"13,5 %",201:-
+1851,Nr 78244,Morlongo,Italien,750 ml,13 %,127:-
+1852,Nr 72181,Coppi,Italien,750 ml,"13,5 %",256:-
+1853,Nr 76902,Amarone della Valpolicella Classico,Italien,750 ml,17 %,752:-
+1854,Nr 75878,Planeta,Italien,750 ml,12 %,201:-
+1855,Nr 78091,Ca'Botta,Italien,750 ml,16 %,552:-
+1856,Nr 79207,Barbarossa Langhe Nebbiolo,Italien,750 ml,14 %,181:-
+1857,Nr 75489,Arpepe,Italien,750 ml,"13,5 %",382:-
+1858,Nr 79544,Podere Bertarole,Italien,750 ml,14 %,321:-
+1859,Nr 76806,Terre di San Zeno,Italien,750 ml,15 %,500:-
+1860,Nr 79438,Recioto della Valpolicella Classico,Italien,500 ml,"13,5 %",431:-
+1861,Nr 2361,Rigogolo Chianti Riserva,Italien,750 ml,13 %,156:-
+1862,Nr 74997,Allegrini,Italien,750 ml,"13,5 %",201:-
+1863,Nr 79058,Barbera d'Asti,Italien,750 ml,"13,5 %",149:-
+1864,Nr 71508,Recioto della Valpolicella,Italien,500 ml,14 %,548:-
+1865,Nr 79768,Villa Locatelli,Italien,750 ml,12 %,186:-
+1866,Nr 74698,Barbera d'Asti Lavvocata,Italien,750 ml,"14,5 %",161:-
+1867,Nr 70566,Zenato,Italien,750 ml,"12,5 %",111:-
+1868,Nr 70488,Viviani,Italien,750 ml,"13,5 %",266:-
+1869,Nr 75534,Negroamaro,Italien,750 ml,13 %,171:-
+1870,Nr 73357,Michele Satta,Italien,750 ml,"13,5 %",191:-
+1871,Nr 72490,Notte di Galileo,Italien,750 ml,"14,5 %",209:-
+1872,Nr 70470,Ripresa,Italien,750 ml,"13,5 %",121:-
+1873,Nr 72127,Le Fonti,Italien,750 ml,"14,5 %",171:-
+1874,Nr 78842,Ratti,Italien,750 ml,14 %,201:-
+1875,Nr 55454,Le Guaite di Noemi,Italien,750 ml,17 %,1 002:-
+1876,Nr 55551,Elena Fucchi,Italien,750 ml,14 %,390:-
+1877,Nr 55715,Brunello di Montalcino,Italien,750 ml,"14,5 %",630:-
+1878,Nr 55856,Pietro Di Campo,Italien,750 ml,"13,5 %",201:-
+1879,Nr 55859,Vantorosso,Italien,750 ml,16 %,538:-
+1880,Nr 55998,Governo,Italien,750 ml,"13,5 %",174:-
+1881,Nr 56013,Chianti Classico Riserva,Italien,750 ml,14 %,237:-
+1882,Nr 79079,La Fiorita,Italien,750 ml,14 %,270:-
+1883,Nr 78682,Bosco Bracco,Italien,750 ml,15 %,250:-
+1884,Nr 78853,Amarone della Valpolicella Classico,Italien,750 ml,16 %,581:-
+1885,Nr 78516,Barolo,Italien,1500 ml,"14,5 %",1 198:-
+1886,Nr 76967,Miravigna,Italien,750 ml,13 %,121:-
+1887,Nr 70532,Silvio Nardi,Italien,750 ml,14 %,500:-
+1888,Nr 76897,Viberti,Italien,750 ml,14 %,201:-
+1889,Nr 74965,Englar,Italien,750 ml,"13,5 %",521:-
+1890,Nr 78925,Guado Al Tasso,Italien,750 ml,"14,5 %",1 102:-
+1891,Nr 78410,BelColle,Italien,1500 ml,"14,5 %",522:-
+1892,Nr 78346,Bovio,Italien,750 ml,"14,5 %",221:-
+1893,Nr 76801,Cadia Barolo,Italien,750 ml,15 %,588:-
+1894,Nr 74137,Mastro Janni,Italien,750 ml,"14,5 %",301:-
+1895,Nr 71652,Frappato,Italien,750 ml,13 %,221:-
+1896,Nr 72707,Nizza Silvano,Italien,750 ml,"13,5 %",201:-
+1897,Nr 95598,Russiz Superiore,Italien,750 ml,14 %,341:-
+1898,Nr 77079,Sforzato dell’orco,Italien,750 ml,15 %,490:-
+1899,Nr 79607,Talosa,Italien,750 ml,14 %,446:-
+1900,Nr 79964,Amarone della Valpolicella Classico,Italien,750 ml,"15,5 %",481:-
+1901,Nr 85000,Barolo Bussia,Italien,750 ml,"14,5 %",555:-
+1902,Nr 87459,Amarone della Valpolicella Classico Albasini,Italien,750 ml,16 %,627:-
+1903,Nr 80357,Garesio,Italien,750 ml,14 %,200:-
+1904,Nr 82164,Chianti Rufina,Italien,750 ml,"14,5 %",321:-
+1905,Nr 83140,Wongraven,Italien,750 ml,14 %,481:-
+1906,Nr 83090,Cabernet Franc Rubicone,Italien,750 ml,14 %,193:-
+1907,Nr 83089,Gaja Ca'Marcanda,Italien,750 ml,"14,5 %",621:-
+1908,Nr 80112,Noir,Italien,750 ml,"13,5 %",341:-
+1909,Nr 50066,Quintarelli Primofiore,Italien,750 ml,14 %,574:-
+1910,Nr 50144,Enzo Boglietti,Italien,750 ml,"14,5 %",440:-
+1911,Nr 50099,Casa Emma,Italien,750 ml,14 %,201:-
+1912,Nr 50192,Silvio Nardi,Italien,1500 ml,14 %,1 242:-
+1913,Nr 50231,Puro,Italien,750 ml,"12,5 %",106:-
+1914,Nr 50912,Barolo Brunate,Italien,750 ml,"14,5 %",511:-
+1915,Nr 50956,Brunello di Montalcino Riserva,Italien,750 ml,15 %,870:-
+1916,Nr 75273,La Bella Barbera,Italien,750 ml,13 %,101:-
+1917,Nr 73736,Montefalco Sagrantino,Italien,750 ml,15 %,323:-
+1918,Nr 73769,Amarone della Valpolicella Classico,Italien,750 ml,16 %,398:-
+1919,Nr 75661,Rondineto,Italien,750 ml,13 %,94:-
+1920,Nr 473091,Zeni,Italien,750 ml,14 %,161:-
+1921,Nr 72876,Tre Confini,Italien,750 ml,"12,5 %",121:-
+1922,Nr 74735,Luigi Voghera,Italien,750 ml,14 %,127:-
+1923,Nr 73382,Luigi Voghera,Italien,750 ml,14 %,161:-
+1924,Nr 88390,Colterenzio,Italien,750 ml,"13,5 %",176:-
+1925,Nr 72319,Nerd,Italien,750 ml,13 %,134:-
+1926,Nr 72615,Pasqua Mai Dire Mai,Italien,750 ml,15 %,401:-
+1927,Nr 73643,Campo Ciotoli,Italien,750 ml,"14,5 %",256:-
+1928,Nr 74343,Lagone,Italien,750 ml,"14,5 %",161:-
+1929,Nr 70337,Masi Costasera,Italien,3000 ml,15 %,1 804:-
+1930,Nr 76980,Langhe Nebbiolo,Italien,750 ml,14 %,230:-
+1931,Nr 74473,Pèppoli Chianti Classico,Italien,750 ml,"13,5 %",171:-
+1932,Nr 74282,Amarone della Valpolicella,Italien,750 ml,"16,5 %",502:-
+1933,Nr 71750,The Per Gessle Selection,Italien,750 ml,"14,5 %",301:-
+1934,Nr 71686,Barbera d'Asti Superiore,Italien,750 ml,"14,5 %",196:-
+1935,Nr 71586,Ray Albarossa,Italien,750 ml,13 %,197:-
+1936,Nr 71986,Ora,Italien,750 ml,14 %,171:-
+1937,Nr 73060,Recioto della Valpolicella Classico,Italien,375 ml,13 %,219:-
+1938,Nr 79865,Villa Simone Rosso,Italien,750 ml,13 %,142:-
+1939,Nr 72789,Casa E. di Mirafiore,Italien,750 ml,14 %,501:-
+1940,Nr 75272,Pugnitello da San Felice,Italien,750 ml,"13,5 %",451:-
+1941,Nr 78044,Aurelio Settimo,Italien,750 ml,"12,5 %",180:-
+1942,Nr 71594,Lequilibrio Barbera 'Asti,Italien,750 ml,"14,5 %",245:-
+1943,Nr 72068,Masi Angelorum,Italien,375 ml,14 %,250:-
+1944,Nr 76402,Barolo,Italien,750 ml,14 %,705:-
+1945,Nr 71793,Musita,Italien,750 ml,15 %,186:-
+1946,Nr 71891,Langhe Nebbiolo,Italien,750 ml,14 %,211:-
+1947,Nr 78929,Vinosìa,Italien,750 ml,14 %,250:-
+1948,Nr 72911,Savoia,Italien,750 ml,15 %,307:-
+1949,Nr 78600,Barbara d'Asti,Italien,750 ml,"14,5 %",170:-
+1950,Nr 71879,Barolo,Italien,750 ml,"14,5 %",440:-
+1951,Nr 72769,Campo dei Gigli Amarone,Italien,750 ml,16 %,702:-
+1952,Nr 71673,Mammoth,Italien,750 ml,"14,5 %",111:-
+1953,Nr 73764,Rusel,Italien,750 ml,"14,5 %",367:-
+1954,Nr 79667,Bruna Grimaldi,Italien,750 ml,14 %,161:-
+1955,Nr 78923,Torre d'Orti,Italien,750 ml,13 %,224:-
+1956,Nr 76906,Enzo Boglietti,Italien,750 ml,"14,5 %",350:-
+1957,Nr 78025,Redinoce,Italien,750 ml,13 %,208:-
+1958,Nr 79401,Barbaresco,Italien,750 ml,"14,5 %",481:-
+1959,Nr 79248,Barbera d'Asti Superiore,Italien,750 ml,"14,5 %",231:-
+1960,Nr 79484,Cerasuolo di Vittoria,Italien,750 ml,14 %,251:-
+1961,Nr 70260,Chiara Condello,Italien,1500 ml,14 %,378:-
+1962,Nr 78637,Talosa,Italien,750 ml,14 %,235:-
+1963,Nr 73603,La Gironda,Italien,750 ml,14 %,190:-
+1964,Nr 74627,Barolo Monvigliero,Italien,750 ml,"14,5 %",601:-
+1965,Nr 82918,Piero Busso,Italien,750 ml,"14,5 %",191:-
+1966,Nr 84089,Cecchi Chianti Classico,Italien,750 ml,"13,5 %",201:-
+1967,Nr 50125,Monte del Frà,Italien,750 ml,14 %,137:-
+1968,Nr 50134,Silvio Nardi,Italien,750 ml,"14,5 %",261:-
+1969,Nr 50131,Silvio Nardi,Italien,750 ml,"14,5 %",265:-
+1970,Nr 50194,Corte Canella,Italien,750 ml,"13,5 %",243:-
+1971,Nr 50281,Roncolato,Italien,750 ml,"13,5 %",151:-
+1972,Nr 50282,Roncolato,Italien,750 ml,"14,5 %",184:-
+1973,Nr 50324,Inama,Italien,750 ml,"13,5 %",201:-
+1974,Nr 50521,Freixenet,Italien,750 ml,"12,5 %",111:-
+1975,Nr 50645,Barbera d'Alba,Italien,750 ml,15 %,191:-
+1976,Nr 50673,Baffo Rosso,Italien,750 ml,12 %,77:-
+1977,Nr 50739,Per Elen,Italien,750 ml,"14,5 %",752:-
+1978,Nr 51190,Binomio,Italien,750 ml,14 %,486:-
+1979,Nr 51171,Predappio di Predappio,Italien,750 ml,"14,5 %",369:-
+1980,Nr 51163,Brocca,Italien,750 ml,14 %,161:-
+1981,Nr 51212,Biserno Il Pino,Italien,750 ml,"14,5 %",471:-
+1982,Nr 51215,Biserno Insoglio,Italien,750 ml,14 %,271:-
+1983,Nr 51266,Tenuta Carlin de Paolo,Italien,750 ml,14 %,181:-
+1984,Nr 51466,Mauro Molino,Italien,750 ml,"14,5 %",400:-
+1985,Nr 51540,Langhe,Italien,750 ml,14 %,201:-
+1986,Nr 51542,Barbaresco,Italien,750 ml,15 %,467:-
+1987,Nr 51544,Barbaresco,Italien,750 ml,"14,5 %",341:-
+1988,Nr 51508,Le Sassine,Italien,750 ml,"14,5 %",301:-
+1989,Nr 51666,Sabbiato,Italien,750 ml,14 %,200:-
+1990,Nr 51839,Ruffino,Italien,1500 ml,"14,5 %",752:-
+1991,Nr 51859,Mauro Molino,Italien,750 ml,"14,5 %",800:-
+1992,Nr 73826,Fattoria Pagano,Italien,750 ml,14 %,121:-
+1993,Nr 75279,Avia Pervia,Italien,750 ml,"13,5 %",131:-
+1994,Nr 70278,Venturini Amarone,Italien,750 ml,"16,5 %",989:-
+1995,Nr 73012,Chianti Colli Senesi,Italien,750 ml,"14,5 %",261:-
+1996,Nr 74391,Valpolicella Superiore,Italien,750 ml,14 %,173:-
+1997,Nr 76160,Ripasso Classico,Italien,750 ml,15 %,192:-
+1998,Nr 78358,Barolo,Italien,750 ml,"14,5 %",427:-
+1999,Nr 73044,Mani di Bacco,Italien,750 ml,"14,5 %",270:-
+2000,Nr 71297,Curva Minore,Italien,750 ml,13 %,215:-
+2001,Nr 79044,Raboso,Italien,750 ml,"11,5 %",160:-
+2002,Nr 75983,Rodaro,Italien,750 ml,15 %,477:-
+2003,Nr 70670,Nada Fiorenzo,Italien,750 ml,"14,5 %",427:-
+2004,Nr 74074,Tenuta Buon Tempo,Italien,750 ml,"14,5 %",191:-
+2005,Nr 79528,Cannonau di Sardegna,Italien,750 ml,15 %,200:-
+2006,Nr 79732,Centine,Italien,750 ml,"13,5 %",151:-
+2007,Nr 71201,Guiscardo,Italien,750 ml,"13,5 %",186:-
+2008,Nr 72818,RonciCone,Italien,750 ml,14 %,601:-
+2009,Nr 70863,Momento Massimo,Italien,750 ml,14 %,601:-
+2010,Nr 74768,Ammasso,Italien,750 ml,"14,5 %",191:-
+2011,Nr 78401,Segreto,Italien,750 ml,14 %,179:-
+2012,Nr 78865,Monte Faustino,Italien,750 ml,14 %,200:-
+2013,Nr 75420,Marrone,Italien,750 ml,"14,5 %",350:-
+2014,Nr 79188,Marrone,Italien,750 ml,15 %,340:-
+2015,Nr 56755,Campo alle Comete,Italien,750 ml,"14,5 %",401:-
+2016,Nr 93558,Barolo Margheria,Italien,1500 ml,"14,5 %",1 802:-
+2017,Nr 57131,Goccia Nuda,Italien,750 ml,"13,5 %",171:-
+2018,Nr 57152,Castello della Sala,Italien,750 ml,14 %,501:-
+2019,Nr 57317,Angelo Negro,Italien,750 ml,14 %,261:-
+2020,Nr 57328,Kairos,Italien,750 ml,15 %,857:-
+2021,Nr 57476,San Lorenzo,Italien,750 ml,14 %,521:-
+2022,Nr 57682,Nettare,Italien,750 ml,"12,5 %",271:-
+2023,Nr 57696,Campomaggio,Italien,750 ml,14 %,241:-
+2024,Nr 57762,Antico Monastero,Italien,750 ml,14 %,201:-
+2025,Nr 57780,Proprietà Sperino,Italien,750 ml,14 %,1 001:-
+2026,Nr 57798,Réva,Italien,750 ml,"13,5 %",190:-
+2027,Nr 57889,Barone,Italien,750 ml,13 %,99:-
+2028,Nr 75243,Piemonte Freisa,Italien,750 ml,"14,5 %",221:-
+2029,Nr 77054,Cagliero,Italien,750 ml,"14,5 %",201:-
+2030,Nr 73496,Guado Alto,Italien,750 ml,"13,5 %",186:-
+2031,Nr 73687,Ceppatella,Italien,750 ml,"14,5 %",720:-
+2032,Nr 72678,Ciliegiolo,Italien,750 ml,14 %,310:-
+2033,Nr 76371,Marion,Italien,750 ml,"12,5 %",191:-
+2034,Nr 76287,Antico Monastero,Italien,750 ml,14 %,236:-
+2035,Nr 74277,Malanotte,Italien,750 ml,14 %,537:-
+2036,Nr 75380,Valpolicella Classico,Italien,750 ml,12 %,191:-
+2037,Nr 71546,Langhe,Italien,750 ml,"13,5 %",201:-
+2038,Nr 73359,Sirica Campania,Italien,750 ml,"13,5 %",171:-
+2039,Nr 85844,Il Campanone,Italien,750 ml,11 %,170:-
+2040,Nr 59456,Brunello di Montalcino,Italien,750 ml,15 %,450:-
+2041,Nr 59543,Magna Terra,Italien,750 ml,14 %,440:-
+2042,Nr 59545,Magna Terra,Italien,750 ml,13 %,201:-
+2043,Nr 59691,Ca’ Rome’,Italien,750 ml,"14,5 %",530:-
+2044,Nr 71495,Banfi,Italien,750 ml,"14,5 %",231:-
+2045,Nr 2523,Rocca di Montemassi,Italien,750 ml,"13,5 %",131:-
+2046,Nr 75022,Panzanello,Italien,750 ml,15 %,171:-
+2047,Nr 75527,Scaia,Italien,750 ml,13 %,156:-
+2048,Nr 85476,Il Bacialé,Italien,750 ml,15 %,271:-
+2049,Nr 75648,Morrodoro,Italien,500 ml,14 %,238:-
+2050,Nr 32444,Masi Grandarella,Italien,750 ml,"14,5 %",231:-
+2051,Nr 75954,Rocca di Montemassi,Italien,750 ml,14 %,179:-
+2052,Nr 74718,Il Roncal,Italien,750 ml,14 %,204:-
+2053,Nr 73724,Antico Monastero,Italien,750 ml,13 %,149:-
+2054,Nr 56270,Brunelli,Italien,750 ml,14 %,202:-
+2055,Nr 56356,BelColle,Italien,750 ml,"14,5 %",420:-
+2056,Nr 56703,Medici Ermete,Italien,750 ml,"11,5 %",201:-
+2057,Nr 56755,Campo alle Comete,Italien,750 ml,"14,5 %",401:-
+2058,Nr 93558,Barolo Margheria,Italien,1500 ml,"14,5 %",1 802:-
+2059,Nr 57131,Goccia Nuda,Italien,750 ml,"13,5 %",171:-
+2060,Nr 57152,Castello della Sala,Italien,750 ml,14 %,501:-
+2061,Nr 53055,Rosso di Valdimonte,Italien,750 ml,14 %,136:-
+2062,Nr 53081,Tenuta Rapitalà,Italien,750 ml,"13,5 %",141:-
+2063,Nr 53067,Nadir,Italien,750 ml,14 %,161:-
+2064,Nr 53072,Luigi Di Grasso,Italien,750 ml,"13,5 %",121:-
+2065,Nr 53073,Luigi Di Grasso,Italien,750 ml,"13,5 %",151:-
+2066,Nr 53076,Luigi Di Grasso,Italien,750 ml,14 %,281:-
+2067,Nr 53380,Climat Wines La Vedettalåda,Italien,3 fl à 750 ml,"13,5 %",873:-
+2068,Nr 53544,Barbaresco,Italien,750 ml,"14,5 %",491:-
+2069,Nr 53560,Barbaresco,Italien,750 ml,"14,5 %",501:-
+2070,Nr 58219,Dislivelli,Italien,750 ml,"12,5 %",670:-
+2071,Nr 58263,Castello di Brolio,Italien,750 ml,"14,5 %",481:-
+2072,Nr 58269,Impetuoso,Italien,750 ml,14 %,200:-
+2073,Nr 84907,Luccarelli,Italien,750 ml,"12,5 %",101:-
+2074,Nr 58348,Vajo dei Masi,Italien,1500 ml,16 %,7 005:-
+2075,Nr 58353,Monte Faustino,Italien,750 ml,15 %,250:-
+2076,Nr 58471,Fontanabianca,Italien,750 ml,"13,5 %",206:-
+2077,Nr 58481,Tomasetti,Italien,750 ml,"11,5 %",171:-
+2078,Nr 58551,Rosso di Mezzo,Italien,750 ml,13 %,601:-
+2079,Nr 53754,Cascina,Italien,750 ml,15 %,341:-
+2080,Nr 58660,05035,Italien,750 ml,"13,5 %",221:-
+2081,Nr 58697,Barolo Vecchie Viti,Italien,750 ml,"14,5 %",351:-
+2082,Nr 58716,Ecco Qui,Italien,750 ml,13 %,131:-
+2083,Nr 59120,Prunotto,Italien,750 ml,14 %,401:-
+2084,Nr 55463,Pandolfa,Italien,750 ml,"13,5 %",150:-
+2085,Nr 55490,Le Guaite di Noemi,Italien,750 ml,17 %,780:-
+2086,Nr 55513,Croce di Febo,Italien,750 ml,"13,5 %",274:-
+2087,Nr 55623,Vignot,Italien,5000 ml,14 %,746:-
+2088,Nr 55627,Rondineto,Italien,6000 ml,"12,5 %",1 110:-
+2089,Nr 55629,Langhe Nebbiolo,Italien,750 ml,14 %,251:-
+2090,Nr 55709,Amarone,Italien,750 ml,"15,5 %",428:-
+2091,Nr 55717,Rosso di Montalcino,Italien,750 ml,"13,5 %",298:-
+2092,Nr 71281,Poliziano,Italien,750 ml,14 %,337:-
+2093,Nr 55814,Gaffino,Italien,750 ml,14 %,161:-
+2094,Nr 55866,Brunello di Montalcino,Italien,750 ml,"14,5 %",441:-
+2095,Nr 56129,Torre d'Orti,Italien,750 ml,17 %,1 153:-
+2096,Nr 56270,Brunelli,Italien,750 ml,14 %,202:-
+2097,Nr 56356,BelColle,Italien,750 ml,"14,5 %",420:-
+2098,Nr 56703,Medici Ermete,Italien,750 ml,"11,5 %",201:-
+2099,Nr 53544,Barbaresco,Italien,750 ml,"14,5 %",491:-
+2100,Nr 51839,Ruffino,Italien,1500 ml,"14,5 %",752:-
+2101,Nr 51859,Mauro Molino,Italien,750 ml,"14,5 %",800:-
+2102,Nr 51932,Fattoria di Caspri,Italien,750 ml,"13,5 %",251:-
+2103,Nr 51998,Maggio,Italien,750 ml,14 %,151:-
+2104,Nr 52039,Marrone,Italien,750 ml,14 %,250:-
+2105,Nr 52462,Nebbiolo,Italien,750 ml,"13,5 %",221:-
+2106,Nr 52467,Gattinara,Italien,750 ml,"13,5 %",452:-
+2107,Nr 53061,Roccheviberti,Italien,750 ml,13 %,181:-
+2108,Nr 76578,Ruffino,Italien,750 ml,14 %,151:-
+2109,Nr 74393,Barolo Serradenari,Italien,750 ml,14 %,552:-
+2110,Nr 74628,Amasole,Italien,750 ml,14 %,161:-
+2111,Nr 79301,Vigneti di Osan,Italien,750 ml,"15,5 %",851:-
+2112,Nr 76633,Angoris,Italien,750 ml,14 %,250:-
+2113,Nr 75856,Barbera d'Asti,Italien,750 ml,15 %,171:-
+2114,Nr 70445,La Rocca 33,Italien,750 ml,15 %,337:-
+2115,Nr 72992,Corte Cariano,Italien,750 ml,"13,5 %",192:-
+2116,Nr 74410,Governo,Italien,750 ml,14 %,161:-
+2117,Nr 71223,Barbera d´Asti,Italien,750 ml,"13,5 %",250:-
+2118,Nr 71527,Barbera d'Alba,Italien,750 ml,15 %,279:-
+2119,Nr 76161,Barbera d'Asti Stella Rossa,Italien,750 ml,14 %,161:-
+2120,Nr 72010,Collosorbo,Italien,750 ml,14 %,111:-
+2121,Nr 78267,La Valentina,Italien,750 ml,14 %,245:-
+2122,Nr 76433,La Valentina,Italien,750 ml,"13,5 %",149:-
+2123,Nr 71716,Monte del Frà,Italien,750 ml,14 %,171:-
+2124,Nr 78677,Tola,Italien,750 ml,"13,5 %",111:-
+2125,Nr 78190,Rubro,Italien,750 ml,14 %,300:-
+2126,Nr 72510,Valpolicella Ripasso Classico Superiore,Italien,750 ml,"13,5 %",208:-
+2127,Nr 73517,Le Fonti,Italien,750 ml,"14,5 %",354:-
+2128,Nr 78842,Ratti,Italien,1500 ml,14 %,402:-
+2129,Nr 76104,Barbera d'Asti Rurè,Italien,750 ml,"13,5 %",151:-
+2130,Nr 53076,Luigi Di Grasso,Italien,750 ml,14 %,281:-
+2131,Nr 53380,Climat Wines La Vedettalåda,Italien,3 fl à 750 ml,"13,5 %",873:-
+2132,Nr 59199,Ruffino,Italien,750 ml,14 %,301:-
+2133,Nr 59255,Langhe Nebbiolo,Italien,750 ml,"14,5 %",375:-
+2134,Nr 59292,Damilano,Italien,750 ml,"15,5 %",152:-
+2135,Nr 59294,Damilano,Italien,750 ml,15 %,1 001:-
+2136,Nr 59296,Damilano,Italien,750 ml,15 %,1 001:-
+2137,Nr 59323,Salina Rosso,Italien,750 ml,"13,5 %",161:-
+2138,Nr 59328,Banfi,Italien,750 ml,"14,5 %",731:-
+2139,Nr 59456,Brunello di Montalcino,Italien,750 ml,15 %,450:-
+2140,Nr 59543,Magna Terra,Italien,750 ml,14 %,440:-
+2141,Nr 59545,Magna Terra,Italien,750 ml,13 %,201:-
+2142,Nr 59691,Ca’ Rome’,Italien,750 ml,"14,5 %",530:-
+2143,Nr 71495,Banfi,Italien,750 ml,"14,5 %",231:-
+2144,Nr 2523,Rocca di Montemassi,Italien,750 ml,"13,5 %",131:-
+2145,Nr 75022,Panzanello,Italien,750 ml,15 %,171:-
+2146,Nr 75527,Scaia,Italien,750 ml,13 %,156:-
+2147,Nr 85476,Il Bacialé,Italien,750 ml,15 %,271:-
+2148,Nr 75648,Morrodoro,Italien,500 ml,14 %,238:-
+2149,Nr 32444,Masi Grandarella,Italien,750 ml,"14,5 %",231:-
+2150,Nr 75954,Rocca di Montemassi,Italien,750 ml,14 %,179:-
+2151,Nr 74718,Il Roncal,Italien,750 ml,14 %,204:-
+2152,Nr 73724,Antico Monastero,Italien,750 ml,13 %,149:-
+2153,Nr 76578,Ruffino,Italien,750 ml,14 %,151:-
+2154,Nr 74393,Barolo Serradenari,Italien,750 ml,14 %,552:-
+2155,Nr 74628,Amasole,Italien,750 ml,14 %,161:-
+2156,Nr 79301,Vigneti di Osan,Italien,750 ml,"15,5 %",851:-
+2157,Nr 76633,Angoris,Italien,750 ml,14 %,250:-
+2158,Nr 75856,Barbera d'Asti,Italien,750 ml,15 %,171:-
+2159,Nr 70445,La Rocca 33,Italien,750 ml,15 %,337:-
+2160,Nr 79024,Sartori,Italien,750 ml,"13,5 %",161:-
+2161,Nr 71595,Greppicaia,Italien,750 ml,"13,5 %",601:-
+2162,Nr 73646,Siquelia,Italien,750 ml,"13,5 %",163:-
+2163,Nr 79254,Cigliuti,Italien,750 ml,"14,5 %",261:-
+2164,Nr 78422,BelColle,Italien,1500 ml,14 %,401:-
+2165,Nr 76970,Cascina Massara,Italien,750 ml,"14,5 %",231:-
+2166,Nr 79549,Grosjean,Italien,750 ml,13 %,231:-
+2167,Nr 70321,Fratelli Alessandria,Italien,750 ml,"13,5 %",171:-
+2168,Nr 76706,Rosso di Montalcino,Italien,750 ml,14 %,211:-
+2169,Nr 76705,Brio Pop,Italien,750 ml,"12,5 %",149:-
+2170,Nr 79082,Amphiarao,Italien,750 ml,"14,5 %",331:-
+2171,Nr 71166,Barbaresco,Italien,750 ml,"14,5 %",537:-
+2172,Nr 78371,Mauro Sebaste,Italien,750 ml,"14,5 %",551:-
+2173,Nr 78489,Mauro Sebaste,Italien,750 ml,15 %,447:-
+2174,Nr 70548,Mauro Sebaste,Italien,750 ml,"14,5 %",271:-
+2175,Nr 71869,Mauro Sebaste,Italien,750 ml,14 %,201:-
+2176,Nr 76131,Valpolicella Classico,Italien,750 ml,"12,5 %",129:-
+2177,Nr 73764,Rusel,Italien,750 ml,"14,5 %",367:-
+2178,Nr 79667,Bruna Grimaldi,Italien,750 ml,14 %,161:-
+2179,Nr 78923,Torre d'Orti,Italien,750 ml,13 %,224:-
+2180,Nr 76906,Enzo Boglietti,Italien,750 ml,"14,5 %",350:-
+2181,Nr 78025,Redinoce,Italien,750 ml,13 %,208:-
+2182,Nr 79401,Barbaresco,Italien,750 ml,"14,5 %",481:-
+2183,Nr 79248,Barbera d'Asti Superiore,Italien,750 ml,"14,5 %",231:-
+2184,Nr 79484,Cerasuolo di Vittoria,Italien,750 ml,14 %,251:-
+2185,Nr 70260,Chiara Condello,Italien,1500 ml,14 %,378:-
+2186,Nr 78637,Talosa,Italien,750 ml,14 %,235:-
+2187,Nr 73603,La Gironda,Italien,750 ml,14 %,190:-
+2188,Nr 74627,Barolo Monvigliero,Italien,750 ml,"14,5 %",601:-
+2189,Nr 82918,Piero Busso,Italien,750 ml,"14,5 %",191:-
+2190,Nr 84089,Cecchi Chianti Classico,Italien,750 ml,"13,5 %",201:-
+2191,Nr 50125,Monte del Frà,Italien,750 ml,14 %,137:-
+2192,Nr 50134,Silvio Nardi,Italien,750 ml,"14,5 %",261:-
+2193,Nr 50131,Silvio Nardi,Italien,750 ml,"14,5 %",265:-
+2194,Nr 50194,Corte Canella,Italien,750 ml,"13,5 %",243:-
+2195,Nr 50281,Roncolato,Italien,750 ml,"13,5 %",151:-
+2196,Nr 50282,Roncolato,Italien,750 ml,"14,5 %",184:-
+2197,Nr 50324,Inama,Italien,750 ml,"13,5 %",201:-
+2198,Nr 50521,Freixenet,Italien,750 ml,"12,5 %",111:-
+2199,Nr 50645,Barbera d'Alba,Italien,750 ml,15 %,191:-
+2200,Nr 50673,Baffo Rosso,Italien,750 ml,12 %,77:-
+2201,Nr 50739,Per Elen,Italien,750 ml,"14,5 %",752:-
+2202,Nr 73733,Scrio,Italien,750 ml,14 %,1 464:-
+2203,Nr 73768,Recioto della Valpolicella Classico,Italien,500 ml,14 %,260:-
+2204,Nr 73770,Marco Bonfante,Italien,750 ml,14 %,259:-
+2205,Nr 78517,Baracchi,Italien,750 ml,"14,5 %",178:-
+2206,Nr 73743,Monte Vibiano,Italien,750 ml,14 %,183:-
+2207,Nr 87204,Tommasi,Italien,750 ml,14 %,201:-
+2208,Nr 473088,Zeni,Italien,750 ml,"15,5 %",382:-
+2209,Nr 76798,Mazzi,Italien,750 ml,13 %,235:-
+2210,Nr 78431,Barbera d'Asti Riserva Nizza,Italien,750 ml,15 %,220:-
+2211,Nr 76155,Pasqua Mai Dire Mai,Italien,750 ml,"16,5 %",953:-
+2212,Nr 72238,Rondineto,Italien,750 ml,"12,5 %",106:-
+2213,Nr 70201,Aleatico Dell'Elba,Italien,375 ml,14 %,291:-
+2214,Nr 71435,Barbera del Monferrato,Italien,750 ml,"12,5 %",119:-
+2215,Nr 71288,Monferrato Freisa,Italien,750 ml,"12,5 %",111:-
+2216,Nr 71115,Ca'Rugate,Italien,750 ml,"14,5 %",221:-
+2217,Nr 70355,Aurelio Settimo,Italien,750 ml,"14,5 %",460:-
+2218,Nr 70460,Aurelio Settimo,Italien,750 ml,14 %,530:-
+2219,Nr 72471,Rosso Di Montalcino,Italien,750 ml,14 %,171:-
+2220,Nr 70296,Rondineto,Italien,750 ml,"12,5 %",94:-
+2221,Nr 70887,Malvasia di Casorzo,Italien,750 ml,5 %,108:-
+2222,Nr 75371,Tertulia,Italien,750 ml,12 %,94:-
+2223,Nr 75972,286 Malvasia di Casorzo,Italien,375 ml,15 %,220:-
+2224,Nr 75357,Vignôt,Italien,750 ml,14 %,129:-
+2225,Nr 75254,Albino Armani,Italien,750 ml,14 %,191:-
+2226,Nr 2349,Cúmaro Conero Riserva,Italien,750 ml,14 %,227:-
+2227,Nr 73539,Nebbiolo d´Alba Le Reala,Italien,750 ml,"14,5 %",266:-
+2228,Nr 73492,Ca'Rugate,Italien,750 ml,15 %,507:-
+2229,Nr 73399,Barbaresco,Italien,750 ml,"14,5 %",431:-
+2230,Nr 72517,Mormoreto,Italien,750 ml,14 %,641:-
+2231,Nr 71165,Dolcetto d'Asti Superiore,Italien,750 ml,13 %,194:-
+2232,Nr 75829,Barbera d'Alba,Italien,750 ml,14 %,170:-
+2233,Nr 71950,Roche Rosse,Italien,750 ml,14 %,131:-
+2234,Nr 79303,Farina,Italien,750 ml,15 %,277:-
+2235,Nr 79442,Barolo Tortoniano,Italien,750 ml,14 %,421:-
+2236,Nr 79551,Secco-Bertani,Italien,750 ml,13 %,206:-
+2237,Nr 79889,Chianti Classico Riserva,Italien,750 ml,"14,5 %",296:-
+2238,Nr 70325,Poliziano,Italien,750 ml,"13,5 %",161:-
+2239,Nr 79786,Zonin,Italien,750 ml,14 %,151:-
+2240,Nr 73504,Roccolo Grassi,Italien,750 ml,"14,5 %",359:-
+2241,Nr 71483,Brolio,Italien,750 ml,"14,5 %",271:-
+2242,Nr 76488,Simposio,Italien,750 ml,"14,5 %",196:-
+2243,Nr 78428,Zanoni,Italien,750 ml,"14,5 %",230:-
+2244,Nr 71956,Amarone della Valpolicella,Italien,750 ml,"16,5 %",447:-
+2245,Nr 71976,Musita Regieterre,Italien,750 ml,14 %,141:-
+2246,Nr 78529,Eliseo,Italien,750 ml,"14,5 %",186:-
+2247,Nr 79227,Ca' del Sette,Italien,750 ml,12 %,116:-
+2248,Nr 71987,Gricos,Italien,750 ml,13 %,151:-
+2249,Nr 78930,Vinosìa,Italien,750 ml,"13,5 %",160:-
+2250,Nr 72400,Savoia,Italien,750 ml,16 %,699:-
+2251,Nr 75693,Rocca di Montemassi,Italien,750 ml,"14,5 %",331:-
+2252,Nr 73480,Massolino,Italien,750 ml,"14,5 %",231:-

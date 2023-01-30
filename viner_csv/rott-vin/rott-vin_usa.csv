@@ -1,0 +1,366 @@
+idx,ID,Name,Country,Volume,Alcohol,Price
+0,Nr 6526,Bonterra Estate Collection,USA,750 ml,"14,5 %",251:-
+0,Nr 6505,Butternut Pinot Noir,USA,750 ml,"13,5 %",150:-
+0,Nr 6711,Spring Village,USA,750 ml,"12,5 %",81:-*
+0,Nr 6420,Apothic Red,USA,750 ml,"13,5 %",111:-
+0,Nr 6207,Black Stallion,USA,750 ml,"14,5 %",261:-
+0,Nr 6520,McManis,USA,750 ml,"13,5 %",121:-
+0,Nr 74087,Lynx,USA,750 ml,14 %,101:-
+0,Nr 3528,Three Finger Jack,USA,750 ml,15 %,151:-
+0,Nr 2498,Yoga,USA,750 ml,"13,5 %",81:-*
+0,Nr 6694,Irony,USA,750 ml,"14,5 %",161:-
+0,Nr 74299,Prohibition,USA,750 ml,14 %,111:-
+0,Nr 72387,Lynx,USA,750 ml,"13,5 %",121:-
+0,Nr 76778,Zupreme,USA,750 ml,14 %,81:-
+0,Nr 76680,Ruby Zin,USA,750 ml,"12,5 %",111:-
+0,Nr 76671,Bread&Butter,USA,750 ml,"13,5 %",171:-
+0,Nr 2539,Amazin',USA,750 ml,14 %,91:-*
+0,Nr 6605,The Ultimate Zin,USA,750 ml,14 %,91:-*
+0,Nr 6578,District 7,USA,750 ml,"13,5 %",151:-
+0,Nr 2030,Sun Gate,USA,750 ml,"13,5 %",81:-*
+0,Nr 2496,Andrew Murray Vineyards,USA,750 ml,15 %,201:-
+0,Nr 22620,Bonterra,USA,750 ml,15 %,141:-
+0,Nr 72113,Nashville Stories,USA,750 ml,"14,5 %",111:-
+0,Nr 4645,Dark Horse,USA,750 ml,"14,5 %",101:-
+0,Nr 6550,The Ultimate Zin,USA,750 ml,14 %,91:-
+0,Nr 2235,Black Stallion,USA,750 ml,"14,5 %",231:-
+0,Nr 6597,Gnarly Head,USA,750 ml,"14,5 %",111:-
+0,Nr 6690,7 Deadly Zins,USA,750 ml,15 %,131:-
+0,Nr 22562,Seghesio,USA,750 ml,15 %,241:-
+0,Nr 2381,Reflection Ridge Cabernet Sauvignon,USA,750 ml,"13,5 %",139:-
+0,Nr 6611,Noble Vines 667,USA,750 ml,"14,5 %",131:-
+0,Nr 2498,Yoga,USA,750 ml,"13,5 %",79:-
+0,Nr 6203,Chateau Ste Michelle,USA,750 ml,"13,5 %",151:-
+0,Nr 22826,CHILL OUT,USA,750 ml,13 %,81:-*
+0,Nr 74083,Substance,USA,750 ml,"14,5 %",191:-
+0,Nr 71141,Cocoon,USA,750 ml,14 %,101:-*
+0,Nr 87282,Calera,USA,750 ml,"14,5 %",301:-
+0,Nr 2638,Clay Creek Vineyards,USA,750 ml,"14,5 %",131:-
+0,Nr 6714,Boom Boom!,USA,750 ml,"14,5 %",167:-
+0,Nr 3501,Chateau Ste Michelle,USA,375 ml,"14,5 %",120:-
+0,Nr 5725,Avalon,USA,750 ml,"14,5 %",251:-
+0,Nr 2465,Cline Old Vine Zinfandel,USA,750 ml,"14,5 %",101:-*
+0,Nr 2192,Laetitia Estate,USA,750 ml,14 %,207:-
+0,Nr 72972,Falling Feather,USA,750 ml,"12,5 %",97:-
+0,Nr 91304,Stolpman Vineyards,USA,750 ml,14 %,217:-
+0,Nr 76365,Prescription,USA,750 ml,"13,5 %",81:-
+0,Nr 92689,A Tribute to Grace,USA,750 ml,14 %,279:-
+0,Nr 75316,Heitz,USA,750 ml,"14,5 %",901:-
+0,Nr 73251,Mega Zin,USA,1000 ml,"13,5 %",101:-
+0,Nr 2583,Daytripper,USA,750 ml,"13,5 %",101:-
+0,Nr 6380,Buena Vista,USA,750 ml,"14,5 %",221:-
+0,Nr 93165,Ridge Lytton Estate,USA,750 ml,14 %,401:-
+0,Nr 72094,Petite Petit,USA,750 ml,"14,5 %",181:-
+0,Nr 78952,Bellflower,USA,750 ml,"14,5 %",131:-
+0,Nr 92734,Ridge,USA,750 ml,"14,5 %",351:-
+0,Nr 70990,Lynx,USA,750 ml,"13,5 %",131:-
+0,Nr 77573,Buffalo Barrel,USA,750 ml,14 %,111:-
+0,Nr 74480,Marimar Estate,USA,750 ml,"13,5 %",401:-
+0,Nr 94920,Long Meadow Ranch,USA,750 ml,"13,5 %",401:-
+0,Nr 94792,Matthiasson,USA,750 ml,13 %,601:-
+0,Nr 93023,Seghesio,USA,750 ml,15 %,421:-
+0,Nr 6723,Louis M Martini,USA,750 ml,15 %,351:-
+0,Nr 94708,Tyler,USA,750 ml,13 %,301:-
+0,Nr 71141,Cocoon,USA,750 ml,14 %,101:-
+0,Nr 91330,Ridge,USA,750 ml,"14,5 %",451:-
+0,Nr 92226,Au Bon Climat,USA,750 ml,"13,5 %",241:-
+0,Nr 5497,Ojai Santa Barbara,USA,750 ml,13 %,351:-
+0,Nr 92112,Ridge,USA,750 ml,14 %,449:-
+0,Nr 22337,Girard,USA,750 ml,15 %,227:-
+0,Nr 92769,Lingua Franca,USA,750 ml,13 %,370:-
+0,Nr 94841,Shafer Vineyards,USA,750 ml,15 %,941:-
+0,Nr 94707,Steady State,USA,750 ml,"14,5 %",499:-
+0,Nr 72524,Black Stallion,USA,1500 ml,"14,5 %",502:-
+0,Nr 94631,Kutch,USA,750 ml,13 %,591:-
+0,Nr 94658,The Boy,USA,750 ml,"14,5 %",460:-
+0,Nr 92970,Littorai,USA,750 ml,"12,5 %",619:-
+0,Nr 94609,Kutch,USA,750 ml,13 %,541:-
+0,Nr 94775,Adelsheim,USA,750 ml,13 %,420:-
+0,Nr 93262,Reynvaan Estate,USA,750 ml,13 %,795:-
+0,Nr 94044,Duckhorn,USA,750 ml,"14,5 %",751:-
+0,Nr 94632,Kutch,USA,750 ml,13 %,591:-
+0,Nr 94806,Shafer Vineyards,USA,750 ml,15 %,641:-
+0,Nr 93135,Jolie Laide,USA,750 ml,"12,5 %",401:-
+0,Nr 94842,Shafer Vineyards,USA,750 ml,"15,5 %",932:-
+0,Nr 94603,Gallica Cabernet Sauvignon,USA,750 ml,14 %,1 699:-
+0,Nr 92920,Quilceda Creek,USA,750 ml,"14,5 %",1 995:-
+0,Nr 94385,Mount Eden Estate,USA,750 ml,14 %,899:-
+0,Nr 90635,Pike Road Willamette Valley,USA,750 ml,"13,5 %",191:-
+0,Nr 71926,Chateau Montelena,USA,750 ml,14 %,701:-
+0,Nr 92050,Continuum,USA,750 ml,15 %,2 399:-
+0,Nr 93545,Snowden Brothers Vineyard,USA,750 ml,15 %,775:-
+0,Nr 94614,La Source,USA,750 ml,14 %,729:-
+0,Nr 94840,Hirsch,USA,750 ml,13 %,701:-
+0,Nr 94554,Brewer-Clifton,USA,750 ml,"14,5 %",439:-
+0,Nr 94080,Philip Togni Estate,USA,750 ml,"13,5 %",1 699:-
+0,Nr 94410,Ex Post Facto,USA,750 ml,15 %,399:-
+0,Nr 94591,Hiyu Tzum Elder,USA,750 ml,"12,5 %",539:-
+0,Nr 93708,Hirsch Raschen Ridge Pinot Noir,USA,750 ml,"12,9 %",749:-
+0,Nr 94513,Hirsch,USA,750 ml,13 %,749:-
+0,Nr 94797,Shafer Vineyards,USA,750 ml,"15,5 %",3 103:-
+0,Nr 94161,Relentless,USA,750 ml,"15,5 %",919:-
+0,Nr 93257,Colgin IX Estate,USA,750 ml,"15,5 %",6 299:-
+0,Nr 99077,Vérité,USA,750 ml,14 %,3 999:-
+0,Nr 94601,Piedrasassi,USA,750 ml,13 %,459:-
+0,Nr 93142,Silver Oak Napa,USA,750 ml,"14,5 %",1 199:-
+0,Nr 92951,Calera Mt Harlan,USA,750 ml,"14,5 %",899:-
+0,Nr 94367,Failla,USA,750 ml,14 %,549:-
+0,Nr 92607,Kutch,USA,750 ml,"12,5 %",539:-
+0,Nr 94530,Vérité Estate,USA,3 fl à 750 ml,14 %,11 943:-
+0,Nr 90409,Piedrasassi,USA,750 ml,13 %,259:-
+0,Nr 94600,Piedrasassi,USA,750 ml,13 %,459:-
+0,Nr 95022,Bond Quella,USA,750 ml,"14,5 %",7 499:-
+0,Nr 95037,Bond St. Eden,USA,750 ml,"14,5 %",7 499:-
+0,Nr 95116,Harlan Estate,USA,750 ml,15 %,13 999:-
+0,Nr 90618,Colgin,USA,750 ml,15 %,5 799:-
+0,Nr 92009,Colgin,USA,750 ml,15 %,5 799:-
+0,Nr 99020,Vérité,USA,750 ml,"14,5 %",3 999:-
+0,Nr 93279,Andremily,USA,750 ml,"15,5 %",1 399:-
+0,Nr 93533,La Cuadrilla,USA,750 ml,"14,5 %",229:-
+0,Nr 93731,Turley,USA,750 ml,"15,5 %",359:-
+0,Nr 91324,Harlan Estate,USA,750 ml,"14,5 %",13 999:-
+0,Nr 93148,RAEN,USA,750 ml,13 %,899:-
+0,Nr 91701,Colgin,USA,750 ml,"15,5 %",4 499:-
+0,Nr 94586,Pax,USA,750 ml,"12,5 %",339:-
+0,Nr 90138,Vérité,USA,750 ml,"14,5 %",3 630:-
+0,Nr 95084,Bond Vecina,USA,750 ml,"14,5 %",7 499:-
+0,Nr 92218,Eisele Altagracia,USA,750 ml,"14,5 %",1 599:-
+0,Nr 94081,Kutch,USA,750 ml,13 %,299:-
+0,Nr 94347,Eyrie,USA,750 ml,"14,5 %",399:-
+0,Nr 94797,Shafer Vineyards,USA,1500 ml,"15,5 %",6 406:-
+0,Nr 6711,Spring Village,USA,187 ml,"12,5 %",30:-*
+0,Nr 83008,Big Bossy Jane,USA,1500 ml,14 %,132:-*
+0,Nr 55250,Ascot,USA,750 ml,"13,5 %",141:-
+0,Nr 55376,Butter Cake,USA,1000 ml,"13,5 %",101:-
+0,Nr 75888,Paul Dolan,USA,750 ml,15 %,261:-
+0,Nr 6507,Three Finger Jack,USA,750 ml,"14,5 %",141:-
+0,Nr 78047,Bread&Butter,USA,750 ml,"13,5 %",170:-
+0,Nr 2694,Emblem Napa Valley Cabernet Sauvignon,USA,750 ml,15 %,371:-
+0,Nr 77123,Zupreme,USA,750 ml,13 %,61:-
+0,Nr 74646,Beringer,USA,750 ml,"14,5 %",231:-
+0,Nr 2743,Scatena Brothers Zinfandel by Seghesio,USA,750 ml,15 %,191:-
+0,Nr 2587,Argyle,USA,750 ml,"13,8 %",151:-
+0,Nr 94326,Cattle King,USA,750 ml,"14,5 %",739:-
+0,Nr 71771,Apothic Cab,USA,750 ml,"13,5 %",121:-
+0,Nr 72402,Odd Lot,USA,750 ml,"13,5 %",111:-
+0,Nr 57401,Double Diamond,USA,750 ml,"15,5 %",790:-
+0,Nr 53897,19 Crimes,USA,750 ml,14 %,141:-
+0,Nr 88880,Robert Mondavi Private Selection,USA,750 ml,"13,5 %",155:-
+0,Nr 57559,Melville Estate,USA,750 ml,14 %,541:-
+0,Nr 58036,DeLoach Vineyards,USA,750 ml,"13,5 %",161:-
+0,Nr 74755,Barefoot,USA,750 ml,13 %,91:-
+0,Nr 75553,Pali Huntington,USA,750 ml,"14,5 %",261:-
+0,Nr 78560,Country Roads,USA,1000 ml,14 %,99:-
+0,Nr 57430,The Prisoner,USA,750 ml,15 %,701:-
+0,Nr 57483,Saldo,USA,750 ml,"15,5 %",372:-
+0,Nr 57980,Duckhorn,USA,750 ml,"14,5 %",601:-
+0,Nr 73397,Robert Mondavi,USA,750 ml,"13,5 %",157:-
+0,Nr 2222,DeLoach Vineyards,USA,750 ml,"14,5 %",251:-
+0,Nr 74351,Super Substance,USA,750 ml,15 %,651:-
+0,Nr 92900,Birichino,USA,750 ml,"13,5 %",261:-
+0,Nr 72090,Long Barn,USA,750 ml,"13,5 %",150:-
+0,Nr 56120,Turley,USA,750 ml,"15,5 %",398:-
+0,Nr 74065,Rumi,USA,750 ml,"14,1 %",376:-
+0,Nr 72619,Kendall-Jackson,USA,750 ml,"13,5 %",271:-
+0,Nr 79609,Frog's Leap,USA,750 ml,14 %,311:-
+0,Nr 76358,Woodbridge by Robert Mondavi,USA,750 ml,13 %,129:-
+0,Nr 71749,Pine Ridge,USA,750 ml,"15,2 %",727:-
+0,Nr 77280,Cline,USA,750 ml,"14,5 %",201:-
+0,Nr 78907,Twomey,USA,750 ml,"13,5 %",601:-
+0,Nr 72276,Golden West,USA,750 ml,"13,5 %",201:-
+0,Nr 51286,Sonoma Coma,USA,750 ml,13 %,701:-
+0,Nr 92436,DAOU,USA,750 ml,"14,8 %",471:-
+0,Nr 55275,Grenache,USA,750 ml,"13,5 %",691:-
+0,Nr 55520,Favia,USA,750 ml,"14,5 %",2 301:-
+0,Nr 55556,Favia Oakville,USA,750 ml,"14,5 %",2 301:-
+0,Nr 55981,Francis Ford Coppola,USA,750 ml,"14,5 %",291:-
+0,Nr 56063,Di Costanzo,USA,750 ml,"14,5 %",1 101:-
+0,Nr 57534,Colgin,USA,750 ml,15 %,8 000:-
+0,Nr 58256,Reata,USA,750 ml,"14,5 %",226:-
+0,Nr 54785,Angels & Cowboys,USA,750 ml,"14,5 %",351:-
+0,Nr 79647,Failla,USA,750 ml,14 %,641:-
+0,Nr 78926,Mercer Brothers,USA,750 ml,"14,5 %",151:-
+0,Nr 79347,Cline,USA,750 ml,"14,5 %",221:-
+0,Nr 50241,The Paring,USA,750 ml,"13,5 %",301:-
+0,Nr 50330,Chateau Bianca,USA,750 ml,13 %,201:-
+0,Nr 51102,Birichino,USA,750 ml,13 %,201:-
+0,Nr 59218,Ojai,USA,750 ml,"13,5 %",481:-
+0,Nr 59522,K Vintners,USA,750 ml,"13,5 %",600:-
+0,Nr 76149,Ironstone,USA,750 ml,"14,5 %",141:-
+0,Nr 88684,Columbia Crest,USA,750 ml,"13,5 %",131:-
+0,Nr 70486,Clos du Val,USA,750 ml,"14,5 %",411:-
+0,Nr 75010,Lange Twins,USA,750 ml,"14,5 %",229:-
+0,Nr 70476,McManis,USA,750 ml,14 %,161:-
+0,Nr 71803,The Big Top,USA,750 ml,14 %,121:-
+0,Nr 72762,Block Nine,USA,750 ml,"13,5 %",241:-
+0,Nr 74037,Broncho,USA,750 ml,"14,5 %",651:-
+0,Nr 70400,Schug Carneros,USA,750 ml,14 %,349:-
+0,Nr 75952,Hillside Valley,USA,750 ml,"13,5 %",101:-
+0,Nr 95561,Casasmith Cervo Barbera,USA,750 ml,"14,5 %",231:-
+0,Nr 55980,Francis Ford Coppola,USA,750 ml,"13,5 %",221:-
+0,Nr 79199,Cakebread,USA,750 ml,15 %,901:-
+0,Nr 93385,Robert Mondavi,USA,750 ml,"14,5 %",761:-
+0,Nr 54635,Robert Mondavi Winery The Reserve,USA,750 ml,"14,5 %",1 501:-
+0,Nr 54639,Scheid Vineyards,USA,750 ml,"14,5 %",301:-
+0,Nr 54901,Bread & Butter,USA,750 ml,"13,5 %",171:-
+0,Nr 55225,Aliénor,USA,750 ml,"14,5 %",551:-
+0,Nr 57195,Three Sticks,USA,750 ml,14 %,601:-
+0,Nr 57453,K,USA,750 ml,15 %,371:-
+0,Nr 57456,K,USA,750 ml,15 %,341:-
+0,Nr 57523,Andrew Murray,USA,750 ml,14 %,441:-
+0,Nr 52432,Melville,USA,750 ml,14 %,521:-
+0,Nr 52902,K Roma,USA,1500 ml,"14,5 %",1 238:-
+0,Nr 52905,Casa Smith,USA,1500 ml,13 %,898:-
+0,Nr 79181,Rhiannon,USA,750 ml,"13,5 %",201:-
+0,Nr 77058,Me,USA,1500 ml,15 %,998:-
+0,Nr 76249,K,USA,1500 ml,14 %,1 492:-
+0,Nr 73939,Patz & Hall,USA,750 ml,"14,5 %",551:-
+0,Nr 77094,Black Stallion,USA,750 ml,"15,5 %",1 793:-
+0,Nr 51127,Othello,USA,750 ml,"14,5 %",501:-
+0,Nr 57919,DeLoach Vineyards,USA,750 ml,15 %,421:-
+0,Nr 57953,Wölffer Estate,USA,750 ml,13 %,301:-
+0,Nr 58004,Unshackled,USA,750 ml,"14,5 %",281:-
+0,Nr 58095,Twomey Russian River,USA,750 ml,14 %,531:-
+0,Nr 58255,Chronic Cellars,USA,750 ml,"14,5 %",199:-
+0,Nr 58430,Rocklin Ranch,USA,750 ml,"13,5 %",241:-
+0,Nr 73783,Lavender Creek,USA,750 ml,"14,5 %",348:-
+0,Nr 71676,Robert Mondavi Winery,USA,750 ml,15 %,519:-
+0,Nr 70066,Hahn,USA,750 ml,"14,5 %",171:-
+0,Nr 2693,Slayer,USA,750 ml,"12,5 %",131:-
+0,Nr 79221,Bogle,USA,750 ml,"14,5 %",231:-
+0,Nr 72290,Love,USA,750 ml,"13,5 %",131:-
+0,Nr 74284,Lone Birch,USA,750 ml,14 %,171:-
+0,Nr 26001,Ravenswood,USA,750 ml,"14,5 %",141:-
+0,Nr 79100,Patz & Hall,USA,750 ml,"14,5 %",551:-
+0,Nr 79733,Starmont,USA,750 ml,"13,5 %",471:-
+0,Nr 77016,Schug,USA,750 ml,14 %,571:-
+0,Nr 75168,Failla,USA,750 ml,"13,5 %",551:-
+0,Nr 79631,Black Stallion,USA,750 ml,"15,5 %",1 793:-
+0,Nr 50054,Black Stallion,USA,750 ml,15 %,521:-
+0,Nr 50156,7 Deadly,USA,750 ml,15 %,101:-
+0,Nr 50104,Black Stallion,USA,750 ml,"14,5 %",501:-
+0,Nr 71364,14 Hands,USA,750 ml,"13,5 %",181:-
+0,Nr 77512,Hahn,USA,750 ml,"14,5 %",286:-
+0,Nr 89170,Cline Ancient Vines,USA,750 ml,"14,5 %",201:-
+0,Nr 72673,Alesia Anderson Valley,USA,750 ml,13 %,401:-
+0,Nr 72258,Estate,USA,750 ml,"14,5 %",801:-
+0,Nr 77016,Schug,USA,750 ml,14 %,571:-
+0,Nr 75168,Failla,USA,750 ml,"13,5 %",551:-
+0,Nr 79631,Black Stallion,USA,750 ml,"15,5 %",1 793:-
+0,Nr 50054,Black Stallion,USA,750 ml,15 %,521:-
+0,Nr 50156,7 Deadly,USA,750 ml,15 %,101:-
+0,Nr 50104,Black Stallion,USA,750 ml,"14,5 %",501:-
+0,Nr 59169,Morgan Bay Cellars,USA,750 ml,13 %,171:-
+0,Nr 75306,Columbia Crest,USA,750 ml,"14,5 %",151:-
+0,Nr 75885,Parducci,USA,750 ml,14 %,311:-
+0,Nr 71880,Ironstone,USA,750 ml,15 %,217:-
+0,Nr 50263,Jonata,USA,750 ml,15 %,1 401:-
+0,Nr 50270,Jonata,USA,750 ml,15 %,601:-
+0,Nr 51043,Birichino,USA,750 ml,"13,5 %",261:-
+0,Nr 51285,Hansen,USA,750 ml,13 %,741:-
+0,Nr 56306,Forman,USA,750 ml,15 %,1 231:-
+0,Nr 56429,Bread & Butter,USA,750 ml,"14,5 %",291:-
+0,Nr 56636,Locatour,USA,750 ml,"13,5 %",121:-
+0,Nr 74499,Duckhorn,USA,750 ml,"14,5 %",451:-
+0,Nr 75149,Dark Horse,USA,750 ml,"13,5 %",91:-
+0,Nr 55416,Laetitia Estate,USA,750 ml,"14,5 %",451:-
+0,Nr 55517,Favia,USA,750 ml,"14,5 %",2 301:-
+0,Nr 55518,Favia,USA,750 ml,"14,5 %",2 301:-
+0,Nr 55696,DAOU,USA,750 ml,15 %,1 500:-
+0,Nr 56002,Francis Ford Coppola,USA,750 ml,14 %,271:-
+0,Nr 74948,District 7,USA,750 ml,"13,5 %",151:-
+0,Nr 52397,Head High,USA,750 ml,"14,5 %",301:-
+0,Nr 52699,Dominus,USA,750 ml,"14,5 %",4 202:-
+0,Nr 52700,Dominus,USA,750 ml,15 %,7 002:-
+0,Nr 52900,B.Leighton,USA,1500 ml,13 %,998:-
+0,Nr 54176,West,USA,750 ml,"14,5 %",400:-
+0,Nr 54609,Failla,USA,750 ml,14 %,841:-
+0,Nr 54638,Scheid Vineyards,USA,750 ml,15 %,301:-
+0,Nr 74824,1000 Stories,USA,750 ml,"14,5 %",141:-
+0,Nr 78063,The Velvet Devil,USA,750 ml,"13,5 %",151:-
+0,Nr 75852,Castle Rock,USA,750 ml,"13,5 %",161:-
+0,Nr 77666,Patz & Hall,USA,750 ml,"14,5 %",351:-
+0,Nr 72098,6th Sense,USA,750 ml,15 %,201:-
+0,Nr 72021,Kendall-Jackson,USA,750 ml,"14,5 %",231:-
+0,Nr 72623,Kendall-Jackson,USA,750 ml,"14,5 %",271:-
+0,Nr 74028,Magnolia Hill,USA,750 ml,"14,5 %",249:-
+0,Nr 72516,Chasing Lions,USA,750 ml,14 %,161:-
+0,Nr 70886,Merryvale,USA,750 ml,15 %,2 387:-
+0,Nr 77691,Ken Wright,USA,750 ml,"13,5 %",341:-
+0,Nr 26507,Woodbridge by Robert Mondavi,USA,750 ml,"13,5 %",129:-
+0,Nr 79429,Rhys Bearwallow Vineyard,USA,750 ml,13 %,531:-
+0,Nr 72049,LIOCO,USA,750 ml,13 %,277:-
+0,Nr 78469,Découverte Vineyard,USA,750 ml,14 %,581:-
+0,Nr 75654,Schug,USA,750 ml,"13,5 %",331:-
+0,Nr 55979,Francis Ford Coppola,USA,750 ml,"13,5 %",221:-
+0,Nr 57145,The Mascot,USA,750 ml,"14,5 %",1 501:-
+0,Nr 57232,Ampelos,USA,750 ml,14 %,401:-
+0,Nr 57505,Elk Cove,USA,750 ml,"14,5 %",651:-
+0,Nr 57541,Andrew Murray,USA,750 ml,"14,5 %",622:-
+0,Nr 57526,Melville,USA,750 ml,14 %,891:-
+0,Nr 57576,K,USA,750 ml,"14,5 %",561:-
+0,Nr 89371,McManis,USA,750 ml,"13,5 %",161:-
+0,Nr 58416,Red Newt,USA,750 ml,"12,5 %",331:-
+0,Nr 59124,Vinyard Collection,USA,750 ml,"13,5 %",400:-
+0,Nr 53878,B. Leighton,USA,750 ml,"13,5 %",627:-
+0,Nr 54679,Ampelos,USA,750 ml,14 %,531:-
+0,Nr 55108,Cline,USA,750 ml,14 %,221:-
+0,Nr 51961,Penfolds,USA,750 ml,"14,5 %",6 501:-
+0,Nr 71634,Parducci,USA,750 ml,15 %,211:-
+0,Nr 70472,The Pundit,USA,750 ml,"14,5 %",251:-
+0,Nr 59750,Substance,USA,750 ml,"13,5 %",232:-
+0,Nr 3992,Erath,USA,750 ml,13 %,201:-
+0,Nr 79055,Failla,USA,750 ml,"13,5 %",851:-
+0,Nr 73236,Metz Road,USA,750 ml,"14,5 %",261:-
+0,Nr 50897,Favia Cerro Sur,USA,750 ml,"14,5 %",1 617:-
+0,Nr 71907,Chateau Smith,USA,750 ml,14 %,221:-
+0,Nr 75672,Cambria,USA,750 ml,"13,5 %",321:-
+0,Nr 74353,McManis,USA,750 ml,"13,5 %",161:-
+0,Nr 79093,Starmont,USA,750 ml,"13,5 %",471:-
+0,Nr 81738,Canvasback,USA,750 ml,"14,5 %",331:-
+0,Nr 50242,The Paring,USA,750 ml,"14,5 %",301:-
+0,Nr 50400,Crossbarn,USA,750 ml,15 %,581:-
+0,Nr 51290,Leras,USA,750 ml,13 %,741:-
+0,Nr 77037,Canyon Road,USA,750 ml,"12,5 %",77:-
+0,Nr 2497,Ivory & Burt,USA,750 ml,14 %,157:-
+0,Nr 75806,Merryvale,USA,750 ml,"14,5 %",673:-
+0,Nr 57267,Spottswoode,USA,750 ml,14 %,2 401:-
+0,Nr 57366,Locatour,USA,750 ml,"14,5 %",121:-
+0,Nr 57448,Super Substance,USA,750 ml,"14,5 %",541:-
+0,Nr 57446,K The hidden,USA,750 ml,"14,5 %",701:-
+0,Nr 57501,Substance VC,USA,750 ml,"14,5 %",701:-
+0,Nr 57540,Andrew Murray,USA,750 ml,"14,5 %",471:-
+0,Nr 57575,K,USA,750 ml,13 %,471:-
+0,Nr 57594,McManis,USA,750 ml,"13,5 %",251:-
+0,Nr 57607,Love You Bunches,USA,1500 ml,"12,5 %",481:-
+0,Nr 73283,14 Hands,USA,750 ml,"13,5 %",181:-
+0,Nr 77227,Long Meadow Ranch,USA,750 ml,13 %,401:-
+0,Nr 79370,Me,USA,1500 ml,"14,5 %",998:-
+0,Nr 74717,K,USA,1500 ml,"14,5 %",897:-
+0,Nr 53242,Rocklin Ranch,USA,750 ml,"13,5 %",230:-
+0,Nr 58718,Little K,USA,750 ml,14 %,239:-
+0,Nr 55695,Pessimist,USA,750 ml,15 %,250:-
+0,Nr 55777,Ponzi,USA,750 ml,"13,5 %",271:-
+0,Nr 56131,Turley,USA,750 ml,"15,5 %",658:-
+0,Nr 56168,Double Canyon Vineyard,USA,750 ml,"14,5 %",331:-
+0,Nr 54359,Brewer-Clifton,USA,750 ml,"14,5 %",501:-
+0,Nr 55193,Notre Vin,USA,750 ml,14 %,1 501:-
+0,Nr 55236,Notre Vin,USA,750 ml,"13,5 %",941:-
+0,Nr 55247,Santa Barbara,USA,750 ml,14 %,501:-
+0,Nr 52698,Dominus,USA,750 ml,"14,5 %",4 202:-
+0,Nr 52793,K El Jefe,USA,1500 ml,"14,5 %",1 238:-
+0,Nr 52789,Twomey Dundee Hills,USA,750 ml,"13,5 %",701:-
+0,Nr 52888,K The Deal,USA,1500 ml,15 %,998:-
+0,Nr 75076,West,USA,750 ml,13 %,560:-
+0,Nr 75159,Black Stallion,USA,750 ml,15 %,601:-
+0,Nr 76399,La Crema,USA,750 ml,"13,5 %",337:-
+0,Nr 73036,Parducci,USA,750 ml,"14,5 %",211:-
+0,Nr 6533,Louis M. Martini,USA,750 ml,"14,5 %",201:-
+0,Nr 79245,Cartlidge & Browne,USA,750 ml,"13,5 %",151:-
+0,Nr 78002,Ivory & Burt,USA,750 ml,15 %,191:-
+0,Nr 3501,Chateau Ste Michelle,USA,750 ml,"14,5 %",211:-
+0,Nr 76489,Rhys Alpine Vineyard,USA,750 ml,13 %,901:-
+0,Nr 70959,Hess,USA,750 ml,"14,5 %",191:-
+0,Nr 79985,Au Bon Climat Knox Alexander,USA,750 ml,"13,5 %",551:-
+0,Nr 74671,Birichino,USA,750 ml,"14,5 %",271:-
+0,Nr 72017,Clendenen Family Vineyards,USA,750 ml,"13,5 %",431:-
