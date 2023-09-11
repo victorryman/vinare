@@ -1,0 +1,481 @@
+name,art_nr,country,volume,alc_vol,price
+Chassagne-Montrachet,Nr 5648,Frankrike,750 ml,"13,5 % vol.",899:-
+Château Suduiraut,Nr 3004,Frankrike,750 ml,14 % vol.,799:-
+Chablis Premier Cru,Nr 96138,Frankrike,750 ml,13 % vol.,419:-
+Chablis,Nr 6307,Frankrike,1 500 ml,"12,5 % vol.",479:-
+Chablis Premier Cru Montée de Tonnerre,Nr 5587,Frankrike,750 ml,13 % vol.,439:-
+Savigny les Beaune Blanc,Nr 92176,Frankrike,750 ml,"13,5 % vol.",459:-
+Immelen,Nr 92136,Sverige,750 ml,"13,5 % vol.",489:-
+Mercurey 1er Cru Clos Marcilly,Nr 93034,Frankrike,750 ml,14 % vol.,499:-
+Pernand-Vergelesses,Nr 94621,Frankrike,750 ml,13 % vol.,439:-
+Shafer,Nr 90344,USA,750 ml,15 % vol.,599:-
+Ried Welles,Nr 90240,Österrike,750 ml,13 % vol.,491:-
+Dix-Neuvième,Nr 95258,Kanada,750 ml,12 % vol.,469:-
+Inniskillin,Nr 92019,Kanada,375 ml,"9,5 % vol.",699:-
+Calera,Nr 92261,USA,750 ml,"14,5 % vol.",559:-
+Peter Jakob Kühn Landgeflecht,Nr 94078,Tyskland,750 ml,"12,5 % vol.",1 077:-
+HIPPING,Nr 93222,Tyskland,750 ml,"12,5 % vol.",549:-
+PETTENTHAL,Nr 93180,Tyskland,750 ml,"12,5 % vol.",549:-
+Oremus,Nr 94784,Ungern,500 ml,12 % vol.,589:-
+Château de Beaucastel,Nr 92594,Frankrike,750 ml,14 % vol.,1 190:-
+Erdener Treppchen,Nr 93949,Tyskland,750 ml,"7,5 % vol.",759:-
+Silex,Nr 38632,Sverige,1 500 ml,15 % vol.,784:-
+Von Winning,Nr 93060,Tyskland,750 ml,13 % vol.,879:-
+Schäfer-Fröhlich,Nr 92029,Tyskland,750 ml,"12,5 % vol.",549:-
+K,Nr 93009,Sverige,750 ml,"14,5 % vol.",689:-
+Ürziger Würzgarten,Nr 93948,Tyskland,750 ml,"7,5 % vol.",759:-
+Penfolds Yattarna,Nr 92477,Australien,750 ml,"12,5 % vol.",1 199:-
+Zeltinger Sonnenuhr Trockenbeerenauslese,Nr 95155,Tyskland,375 ml,"6,5 % vol.",1 206:-
+Château Rieussec,Nr 92268,Frankrike,750 ml,14 % vol.,1 295:-
+Vinhas Velhas Vinho Branco,Nr 90440,Portugal,750 ml,11 % vol.,699:-
+Zeltinger Schlossberg Auslese ***,Nr 94960,Tyskland,750 ml,"7,5 % vol.",747:-
+Vinhas Velhas Vinho Branco,Nr 90440,Portugal,750 ml,11 % vol.,699:-
+Zeltinger Himmelreich Auslese***,Nr 93946,Tyskland,750 ml,"7,5 % vol.",759:-
+Cervaro della Sala,Nr 99471,Italien,750 ml,"12,5 % vol.",599:-
+Volare del Flor,Nr 91225,Argentina,375 ml,13 % vol.,699:-
+Arboreus,Nr 92243,Italien,750 ml,"12,5 % vol.",499:-
+Penfolds Reserve,Nr 90589,Australien,750 ml,"12,5 % vol.",699:-
+Savoy Andersson,Nr 92109,USA,750 ml,"13,5 % vol.",579:-
+Chateau Suduiraut,Nr 92871,Frankrike,750 ml,14 % vol.,559:-
+Santenay Blanc,Nr 90336,Frankrike,750 ml,13 % vol.,499:-
+Mount Eden Estate,Nr 93032,USA,750 ml,14 % vol.,649:-
+Joh Jos Prüm,Nr 93122,Tyskland,750 ml,8 % vol.,529:-
+Niepoort Coche,Nr 92547,Portugal,750 ml,12 % vol.,599:-
+Weingut Van Volxem,Nr 94857,Tyskland,750 ml,"12,5 % vol.",419:-
+Château de Fieuzal,Nr 91277,Frankrike,750 ml,13 % vol.,589:-
+Zeltinger Sonnenuhr,Nr 93950,Tyskland,375 ml,"6,5 % vol.",755:-
+Nierstein,Nr 94172,Tyskland,750 ml,"11,5 % vol.",599:-
+Chablis Premier Cru,Nr 91145,Frankrike,750 ml,13 % vol.,529:-
+Creation,Nr 91284,Sydafrika,750 ml,14 % vol.,649:-
+Weingut Christmann,Nr 92622,Tyskland,750 ml,"12,5 % vol.",560:-
+Richmond Grove,Nr 93261,Australien,750 ml,"12,5 % vol.",699:-
+One,Nr 37406,Sverige,750 ml,"17,5 % vol.",549:-
+Von Winning,Nr 93133,Tyskland,750 ml,13 % vol.,1 029:-
+Chateau d'Yquem,Nr 93874,Frankrike,375 ml,14 % vol.,2 696:-
+Lenswood,Nr 95244,Australien,750 ml,"13,5 % vol.",472:-
+By Farr,Nr 92227,Australien,750 ml,"13,5 % vol.",529:-
+Erdener Treppchen,Nr 93474,Tyskland,375 ml,"7,5 % vol.",2 395:-
+Willi Schaefer Domprobst Riesling Beerenauslese,Nr 95080,Tyskland,375 ml,"6,5 % vol.",1 549:-
+Ürziger Würzgarten,Nr 93423,Tyskland,375 ml,6 % vol.,2 395:-
+Midnattssol,Nr 37863,Sverige,750 ml,"14,5 % vol.",444:-
+Weingut Van Volxem,Nr 94854,Tyskland,750 ml,12 % vol.,419:-
+Ürziger Würzgarten,Nr 93423,Tyskland,375 ml,6 % vol.,2 395:-
+Erdener Treppchen,Nr 93474,Tyskland,375 ml,"7,5 % vol.",2 395:-
+Summum,Nr 94608,USA,750 ml,13 % vol.,855:-
+RBØ Riesling,Nr 93799,Frankrike,750 ml,13 % vol.,429:-
+Pavillon Blanc,Nr 91252,Frankrike,750 ml,13 % vol.,3 680:-
+Willi Schaefer Domprobst Riesling Beerenauslese,Nr 95080,Tyskland,375 ml,"6,5 % vol.",1 549:-
+Midnattssol,Nr 37863,Sverige,750 ml,"14,5 % vol.",444:-
+Weingut Van Volxem,Nr 94854,Tyskland,750 ml,12 % vol.,419:-
+Brocard,Nr 90020,Frankrike,1 500 ml,13 % vol.,1 399:-
+Wehlener Klosterberg Beerenauslese,Nr 93985,Tyskland,375 ml,7 % vol.,529:-
+Penfolds,Nr 94145,Australien,750 ml,"12,5 % vol.",1 199:-
+Mullineux,Nr 92609,Sydafrika,750 ml,"13,5 % vol.",491:-
+Catena Zapata Adrianna Vineyard,Nr 93226,Argentina,750 ml,"12,5 % vol.",845:-
+Mersault,Nr 93352,Frankrike,750 ml,13 % vol.,1 190:-
+Quinta do Ribeirinho,Nr 94085,Portugal,750 ml,"12,5 % vol.",489:-
+Bockstein Kabinett,Nr 93947,Tyskland,1 500 ml,8 % vol.,414:-
+Erdener Treppchen Auslese***,Nr 94392,Tyskland,750 ml,13 % vol.,744:-
+Pazo Señorans,Nr 94571,Spanien,750 ml,13 % vol.,419:-
+Favola,Nr 93203,Italien,750 ml,14 % vol.,785:-
+Nuits St. Georges 1er Cru,Nr 92203,Frankrike,750 ml,"13,5 % vol.",1 044:-
+Schäfer-Fröhlich,Nr 90426,Tyskland,750 ml,"12,5 % vol.",589:-
+Schloss Lieser,Nr 94770,Tyskland,750 ml,7 % vol.,525:-
+Willi Schaefer Domprobst Riesling Beerenauslese,Nr 95080,Tyskland,750 ml,"6,5 % vol.",2 867:-
+Martires,Nr 96184,Spanien,750 ml,14 % vol.,989:-
+Bodegas Zarate,Nr 90097,Spanien,750 ml,13 % vol.,438:-
+Bodegas Zarate,Nr 91819,Spanien,750 ml,13 % vol.,438:-
+By Farr,Nr 92105,Australien,750 ml,13 % vol.,499:-
+Kracher,Nr 95039,Österrike,375 ml,"8,5 % vol.",1 200:-
+Chablis Premier Cru Mont de Milieu,Nr 93367,Frankrike,750 ml,13 % vol.,469:-
+Royal Tokaji,Nr 94142,Ungern,375 ml,2 % vol.,6 499:-
+Château Smith Haut Lafitte,Nr 90143,Frankrike,750 ml,14 % vol.,1 720:-
+Ürziger Würzgarten,Nr 92171,Tyskland,750 ml,12 % vol.,759:-
+Pichler-Krutzler Riesling,Nr 90267,Österrike,750 ml,13 % vol.,499:-
+Chateau de Fargues,Nr 90314,Frankrike,750 ml,"13,5 % vol.",999:-
+Emrich-Schönleber,Nr 92482,Tyskland,750 ml,"12,5 % vol.",599:-
+Rully 1er cru,Nr 92586,Frankrike,750 ml,13 % vol.,499:-
+Chablis Premier Cru Fourchaume,Nr 91109,Frankrike,750 ml,13 % vol.,499:-
+Mev Kirsten,Nr 13036,Sydafrika,750 ml,"13,5 % vol.",1 030:-
+Trimbach,Nr 90223,Frankrike,750 ml,14 % vol.,549:-
+Weingut Christmann,Nr 94944,Tyskland,1 500 ml,"12,5 % vol.",1 250:-
+Zeltinger Sonnenuhr Auslese***,Nr 94381,Tyskland,750 ml,13 % vol.,832:-
+Zeltinger Sonnenuhr Auslese***,Nr 94961,Tyskland,750 ml,8 % vol.,831:-
+Gaja,Nr 93619,Italien,750 ml,"13,5 % vol.",1 864:-
+Bodegas Valdesil,Nr 93186,Spanien,750 ml,"13,5 % vol.",799:-
+Erdener Treppchen Riesling,Nr 92840,Tyskland,375 ml,6 % vol.,2 495:-
+Zilliken Rausch,Nr 92231,Tyskland,750 ml,"7,5 % vol.",899:-
+Dr Loosen,Nr 92253,Tyskland,750 ml,8 % vol.,619:-
+Schäfer-Fröhlich,Nr 94163,Tyskland,3 000 ml,"12,5 % vol.",2 595:-
+Schäfer-Fröhlich,Nr 94716,Tyskland,1 500 ml,"12,5 % vol.",1 325:-
+Schloss Lieser,Nr 94756,Tyskland,750 ml,7 % vol.,729:-
+Weingut Dönnhoff,Nr 94767,Tyskland,750 ml,13 % vol.,479:-
+Stromberg,Nr 93675,Tyskland,750 ml,13 % vol.,539:-
+Weingut Van Volxem,Nr 90013,Tyskland,750 ml,12 % vol.,639:-
+Château d'Yquem,Nr 92644,Frankrike,750 ml,"14,5 % vol.",4 399:-
+Château d'Yquem,Nr 92644,Frankrike,1 500 ml,"14,5 % vol.",8 799:-
+Leitz,Nr 94870,Tyskland,1 500 ml,"12,5 % vol.",819:-
+Leitz,Nr 94871,Tyskland,1 500 ml,"12,5 % vol.",799:-
+Meursault Santenots,Nr 94051,Frankrike,750 ml,"14,5 % vol.",949:-
+Mount Eden Estate,Nr 93503,USA,750 ml,"13,5 % vol.",549:-
+Sybille Kuntz,Nr 93260,Tyskland,750 ml,"13,5 % vol.",599:-
+Schloss Lieser,Nr 94756,Tyskland,750 ml,7 % vol.,729:-
+Weingut Dönnhoff,Nr 94767,Tyskland,750 ml,13 % vol.,479:-
+Mount Eden Estate,Nr 93503,USA,750 ml,"13,5 % vol.",549:-
+Sybille Kuntz,Nr 93260,Tyskland,750 ml,"13,5 % vol.",599:-
+Bodegas Zarate,Nr 90097,Spanien,750 ml,13 % vol.,438:-
+Bodegas Zarate,Nr 91819,Spanien,750 ml,13 % vol.,438:-
+By Farr,Nr 92105,Australien,750 ml,13 % vol.,499:-
+Chablis 1er Cru Vaillons,Nr 93246,Frankrike,750 ml,"12,5 % vol.",433:-
+Lietz,Nr 93900,Tyskland,1 500 ml,13 % vol.,819:-
+Leitz,Nr 93933,Tyskland,1 500 ml,13 % vol.,819:-
+Erdener Treppchen,Nr 90051,Tyskland,375 ml,7 % vol.,2 496:-
+Bockstein Kabinett,Nr 94303,Tyskland,3 000 ml,8 % vol.,985:-
+Graacher Himmelreich Auslese***,Nr 94948,Tyskland,750 ml,"11,5 % vol.",744:-
+Scharzhofberger Riesling,Nr 93095,Tyskland,750 ml,"12,5 % vol.",555:-
+Puligny-Montrachet 1er Cru Les Perrières,Nr 93265,Frankrike,750 ml,"13,5 % vol.",1 899:-
+Montrachet Grand Cru,Nr 93270,Frankrike,750 ml,"13,5 % vol.",13 999:-
+Puligny-Montrachet 1er Cru Terroirs de Blagny,Nr 93275,Frankrike,750 ml,13 % vol.,2 299:-
+Chassagne-Montrachet Les Encégnières,Nr 93276,Frankrike,750 ml,13 % vol.,929:-
+Bourgogne Blanc,Nr 93289,Frankrike,750 ml,"12,5 % vol.",449:-
+Puligny-Montrachet 1er Cru Champ-Canet,Nr 93309,Frankrike,750 ml,"13,5 % vol.",1 949:-
+Puligny-Montrachet 1er Cru Les Combettes,Nr 93321,Frankrike,750 ml,13 % vol.,2 299:-
+Chevalier-Montrachet Grand Cru,Nr 93322,Frankrike,750 ml,13 % vol.,9 499:-
+Puligny-Montrachet,Nr 93333,Frankrike,750 ml,13 % vol.,949:-
+Hautes-Côtes de Beaune Jardin du Calvaire,Nr 93335,Frankrike,750 ml,"12,5 % vol.",499:-
+Chateau de Fieuzal,Nr 90566,Frankrike,750 ml,"12,5 % vol.",587:-
+Criots-Batard Montrachet Grand Cru,Nr 92972,Frankrike,750 ml,"13,5 % vol.",2 950:-
+Chassagne Montrachet 1er Cru Morgeots,Nr 93141,Frankrike,750 ml,"13,5 % vol.",819:-
+Chassagne Montrachet 1er Cru La Maltroie,Nr 93255,Frankrike,750 ml,"13,5 % vol.",819:-
+Beaune Premier Cru Clos des Mouches Blanc,Nr 93683,Frankrike,750 ml,"13,5 % vol.",1 999:-
+Corton Charlemagne Grand Cru,Nr 90428,Frankrike,750 ml,14 % vol.,2 499:-
+Chassagne Montrachet 1er Cru,Nr 93308,Frankrike,750 ml,"13,5 % vol.",975:-
+Chassagne Montrachet Premier Cru,Nr 90690,Frankrike,750 ml,"13,5 % vol.",975:-
+Chassagne Premier Cru,Nr 90091,Frankrike,750 ml,"13,5 % vol.",995:-
+E. Guigal,Nr 93841,Frankrike,750 ml,"14,5 % vol.",2 195:-
+Scharzhofberger Kabinett,Nr 93829,Tyskland,750 ml,"7,5 % vol.",2 179:-
+Pesquera,Nr 93402,Spanien,750 ml,13 % vol.,769:-
+Erdener Treppchen,Nr 90051,Tyskland,375 ml,7 % vol.,2 496:-
+Bockstein Kabinett,Nr 94303,Tyskland,3 000 ml,8 % vol.,985:-
+Graacher Himmelreich Auslese***,Nr 94948,Tyskland,750 ml,"11,5 % vol.",744:-
+Chablis 1er Cru Vaillons,Nr 93246,Frankrike,750 ml,"12,5 % vol.",433:-
+Lietz,Nr 93900,Tyskland,1 500 ml,13 % vol.,819:-
+Leitz,Nr 93933,Tyskland,1 500 ml,13 % vol.,819:-
+Vougeot Premier Cru Le Clos Blanc de Vougeot Monop,Nr 93860,Frankrike,750 ml,13 % vol.,1 499:-
+Côte de Beaune Blanc Les Pierres Blanches,Nr 74602,Frankrike,750 ml,"13,5 % vol.",449:-
+La Soufrandiere,Nr 55681,Frankrike,750 ml,11 % vol.,589:-
+Fuchsmantel,Nr 51468,Tyskland,750 ml,13 % vol.,504:-
+Grand Cru Schlossberg,Nr 57220,Frankrike,750 ml,14 % vol.,489:-
+Eichhorn,Nr 52025,Italien,750 ml,"13,5 % vol.",419:-
+Rings,Nr 52114,Tyskland,750 ml,13 % vol.,699:-
+Sancerre Les Chailloux,Nr 58636,Frankrike,750 ml,14 % vol.,499:-
+Weingut am Stein Luwig Knoll,Nr 59857,Tyskland,750 ml,"13,5 % vol.",491:-
+Domaine Berthet-Bondet,Nr 50830,Frankrike,620 ml,"15,5 % vol.",699:-
+Condrieu,Nr 58147,Frankrike,750 ml,14 % vol.,699:-
+Binner,Nr 58424,Frankrike,750 ml,"14,5 % vol.",498:-
+Chapoutier,Nr 57735,Frankrike,750 ml,14 % vol.,599:-
+Domaine Bott-Geyl,Nr 58103,Frankrike,750 ml,13 % vol.,522:-
+Weingut Bernhard Ott,Nr 58129,Österrike,750 ml,13 % vol.,522:-
+Borgogno,Nr 73967,Italien,750 ml,14 % vol.,419:-
+Ferraton Père & Fils,Nr 74561,Frankrike,750 ml,"13,5 % vol.",630:-
+Julien Brocard,Nr 74651,Frankrike,750 ml,"13,5 % vol.",409:-
+Albert Bichot Nuits-Saint-Georges,Nr 90310,Frankrike,750 ml,14 % vol.,989:-
+Albert Bichot Meursault Premier Cru,Nr 92145,Frankrike,750 ml,13 % vol.,1 499:-
+Wachenheimer,Nr 75085,Tyskland,1 500 ml,12 % vol.,469:-
+Georges Deschamps,Nr 84330,Frankrike,750 ml,"13,5 % vol.",499:-
+Weingut Am Stein,Nr 55670,Tyskland,375 ml,7 % vol.,984:-
+Weingut Am Stein,Nr 55714,Tyskland,750 ml,"13,5 % vol.",541:-
+Weingut Am Stein,Nr 55860,Tyskland,750 ml,13 % vol.,581:-
+Weingut Am Stein,Nr 55861,Tyskland,750 ml,"12,5 % vol.",490:-
+Weingut Am Stein,Nr 55864,Tyskland,750 ml,14 % vol.,600:-
+Ott Am Berg,Nr 56234,Österrike,1 500 ml,12 % vol.,459:-
+Landauer,Nr 75027,Österrike,750 ml,12 % vol.,414:-
+M. Chapoutier,Nr 56596,Frankrike,750 ml,"13,5 % vol.",1 699:-
+Domaine Saint Préfert,Nr 56880,Frankrike,750 ml,"13,5 % vol.",773:-
+Bassermann-Jordan,Nr 56832,Tyskland,750 ml,"13,5 % vol.",429:-
+Tannenberg,Nr 53778,Italien,750 ml,"13,5 % vol.",419:-
+Marcel Deiss,Nr 72408,Frankrike,750 ml,13 % vol.,479:-
+Sybille Kuntz,Nr 75556,Tyskland,750 ml,"12,5 % vol.",419:-
+Julien Brocard,Nr 74832,Frankrike,750 ml,14 % vol.,519:-
+Vendanges Tardives,Nr 77944,Frankrike,750 ml,"12,5 % vol.",479:-
+Ossian,Nr 79504,Spanien,750 ml,14 % vol.,533:-
+De l'Orée,Nr 72959,Frankrike,750 ml,"13,5 % vol.",1 799:-
+Domaine Weinbach,Nr 56236,Frankrike,750 ml,"13,5 % vol.",639:-
+Domaine Weinbach,Nr 58281,Frankrike,750 ml,14 % vol.,419:-
+Domaine Weinbach,Nr 58557,Frankrike,750 ml,"13,5 % vol.",449:-
+Remelluri Blanco,Nr 52467,Spanien,750 ml,14 % vol.,695:-
+Belondrade y Lurton,Nr 75451,Spanien,750 ml,14 % vol.,576:-
+Châteauneuf-du-Pape,Nr 79339,Frankrike,750 ml,14 % vol.,575:-
+Joh Jos Prüm,Nr 56445,Tyskland,750 ml,"7,5 % vol.",499:-
+Klein Constantia,Nr 90487,Sydafrika,500 ml,14 % vol.,749:-
+Black Stallion,Nr 75362,USA,750 ml,"14,5 % vol.",549:-
+Joh. Jos. Prüm,Nr 57924,Tyskland,750 ml,7 % vol.,499:-
+Kelder Steen,Nr 93570,Sydafrika,750 ml,"12,5 % vol.",419:-
+Esprit Savigny,Nr 59148,Frankrike,750 ml,13 % vol.,1 200:-
+Meursault-Blagny Premier Cru,Nr 57400,Frankrike,750 ml,13 % vol.,1 095:-
+Benoit Munier Coteaux Champenois,Nr 74643,Frankrike,500 ml,11 % vol.,443:-
+Leflaive,Nr 54481,Frankrike,750 ml,"14,5 % vol.",610:-
+Gaja,Nr 54665,Italien,750 ml,"12,5 % vol.",479:-
+Joh Jos Prüm Graacher Himmelreich,Nr 94596,Tyskland,750 ml,8 % vol.,490:-
+Georg Breuer,Nr 92122,Tyskland,750 ml,12 % vol.,579:-
+Pearl Morisette,Nr 55618,Kanada,750 ml,13 % vol.,469:-
+Robert Weil,Nr 51245,Tyskland,750 ml,13 % vol.,539:-
+Chablis Grand Cru Les Clos,Nr 93304,Frankrike,750 ml,13 % vol.,849:-
+Moulin Touchais,Nr 74305,Frankrike,750 ml,"12,5 % vol.",499:-
+Klein Constantia,Nr 96022,Sydafrika,500 ml,14 % vol.,899:-
+Gustave Lorentz,Nr 78033,Frankrike,750 ml,14 % vol.,889:-
+Russian River Valley,Nr 77770,USA,750 ml,13 % vol.,899:-
+Saint-Aubin Vieilles Vignes,Nr 5569,Frankrike,750 ml,13 % vol.,409:-
+Moulin Touchais,Nr 75068,Frankrike,750 ml,"13,5 % vol.",879:-
+Gut Oggau,Nr 53235,Österrike,750 ml,12 % vol.,488:-
+Moulin Touchais,Nr 74598,Frankrike,750 ml,"13,5 % vol.",579:-
+Virginie de Valandraud,Nr 54289,Frankrike,750 ml,14 % vol.,449:-
+Timorasso,Nr 52404,Italien,750 ml,"13,5 % vol.",439:-
+Joh Jos Prüm,Nr 57206,Tyskland,750 ml,"7,5 % vol.",729:-
+The FMC,Nr 50296,Sydafrika,750 ml,13 % vol.,520:-
+Joh Jos Prüm,Nr 53171,Tyskland,750 ml,7 % vol.,499:-
+Joh Jos Prüm,Nr 53245,Tyskland,750 ml,7 % vol.,479:-
+Joh Jos Prüm,Nr 54031,Tyskland,750 ml,7 % vol.,419:-
+Château Mont-Redon,Nr 50067,Frankrike,750 ml,14 % vol.,899:-
+Chablis Grand Cru Vaudesir,Nr 52019,Frankrike,750 ml,13 % vol.,899:-
+Château d'Yquem,Nr 53147,Frankrike,375 ml,"13,5 % vol.",3 295:-
+Condrieu Clos Chanson,Nr 72338,Frankrike,750 ml,"14,5 % vol.",749:-
+Godelia,Nr 73674,Spanien,750 ml,14 % vol.,475:-
+Long Meadow Ranch,Nr 77268,USA,750 ml,"13,5 % vol.",419:-
+Chanin,Nr 71097,USA,750 ml,13 % vol.,429:-
+Châteauneuf du Pape,Nr 71532,Frankrike,750 ml,"13,5 % vol.",409:-
+Gaja Ca'Marcanda,Nr 80496,Italien,750 ml,14 % vol.,449:-
+Gaja Alteni di Brassica,Nr 80708,Italien,750 ml,"13,5 % vol.",1 149:-
+Pouilly-Fuissé,Nr 82668,Frankrike,750 ml,13 % vol.,419:-
+Aurelius,Nr 82748,Slovakien,500 ml,12 % vol.,464:-
+Château de Chamirey,Nr 88325,Frankrike,750 ml,"13,5 % vol.",589:-
+Domaine Rolet,Nr 50050,Frankrike,620 ml,"14,5 % vol.",549:-
+Burg Layer Hölle,Nr 50069,Tyskland,750 ml,"12,5 % vol.",429:-
+Pittermännchen,Nr 50083,Tyskland,750 ml,"12,5 % vol.",699:-
+Las Planas,Nr 50190,Spanien,750 ml,15 % vol.,489:-
+Pichon,Nr 50174,Frankrike,750 ml,"14,5 % vol.",532:-
+Closerie des Alisiers,Nr 50365,Frankrike,750 ml,13 % vol.,650:-
+Riesling Schlossberg Grand Cru,Nr 50410,Frankrike,750 ml,13 % vol.,649:-
+Les Choisilles,Nr 50432,Frankrike,750 ml,13 % vol.,439:-
+Baudoin,Nr 50435,Frankrike,750 ml,"14,5 % vol.",479:-
+Les Bournais,Nr 50436,Frankrike,750 ml,13 % vol.,479:-
+Meursault,Nr 50736,Frankrike,750 ml,13 % vol.,819:-
+Favia Carbone,Nr 50910,USA,750 ml,14 % vol.,499:-
+Kunst Stückpinot,Nr 51178,Italien,1 500 ml,"13,5 % vol.",1 376:-
+Pyritis,Nr 93701,Grekland,750 ml,14 % vol.,429:-
+Pedro Soler Rancio,Nr 51370,Frankrike,750 ml,"16,5 % vol.",969:-
+Quinta das Lamelas,Nr 74213,Portugal,750 ml,"13,5 % vol.",498:-
+Michel Briday,Nr 74420,Frankrike,750 ml,"13,5 % vol.",429:-
+Michel Briday,Nr 79840,Frankrike,750 ml,13 % vol.,449:-
+Michel Briday Rully,Nr 76353,Frankrike,750 ml,14 % vol.,439:-
+Schug,Nr 75656,USA,750 ml,14 % vol.,539:-
+Racines,Nr 58360,USA,750 ml,"12,5 % vol.",839:-
+Morlet,Nr 55590,USA,750 ml,"14,5 % vol.",1 659:-
+Morlet,Nr 56186,USA,750 ml,"14,5 % vol.",1 579:-
+Morlet,Nr 57369,USA,750 ml,14 % vol.,1 529:-
+Von Winning,Nr 52392,Tyskland,750 ml,13 % vol.,449:-
+Mega Spileo,Nr 50073,Grekland,750 ml,12 % vol.,449:-
+Dourakis,Nr 57033,Grekland,500 ml,"10,5 % vol.",579:-
+Quinta do Noval,Nr 50720,Portugal,750 ml,13 % vol.,499:-
+Chivite Colección,Nr 53856,Spanien,750 ml,14 % vol.,449:-
+Mai & Kenji Hodgson,Nr 51472,Frankrike,750 ml,13 % vol.,534:-
+Sybille Kuntz,Nr 51908,Tyskland,750 ml,"11,5 % vol.",489:-
+Jean-Claude Boisset,Nr 52161,Frankrike,750 ml,"13,5 % vol.",699:-
+Pooley,Nr 52559,Australien,750 ml,"13,9 % vol.",489:-
+Robert Weil,Nr 52583,Tyskland,375 ml,8 % vol.,1 829:-
+Robert Weil,Nr 52582,Tyskland,375 ml,"8,5 % vol.",2 369:-
+Schloss Johannisberg,Nr 52771,Tyskland,750 ml,"7,5 % vol.",2 999:-
+Tapanappa Tiers Chardonnay,Nr 52810,Australien,750 ml,"13,5 % vol.",449:-
+Condrieu Côte Châtillon,Nr 52943,Frankrike,750 ml,"14,5 % vol.",449:-
+Mareneve,Nr 58517,Italien,750 ml,"12,5 % vol.",619:-
+Gran Vino,Nr 50305,Spanien,750 ml,13 % vol.,419:-
+Sandahl,Nr 50726,Ungern,750 ml,"14,5 % vol.",451:-
+Baron Dauvergne,Nr 58836,Frankrike,750 ml,"12,5 % vol.",425:-
+Mount Mary,Nr 59779,Australien,750 ml,"13,5 % vol.",1 100:-
+The Hilt,Nr 59812,USA,750 ml,13 % vol.,849:-
+Châteauneuf-du-Pape,Nr 59846,Frankrike,750 ml,"14,5 % vol.",959:-
+Failla Olivet Ranch,Nr 59911,USA,750 ml,"13,5 % vol.",569:-
+Failla Fort Ross Seaview,Nr 59913,USA,750 ml,"13,5 % vol.",599:-
+Domaine D'Ardhuy,Nr 58169,Frankrike,750 ml,"13,5 % vol.",434:-
+Pouilly-Fuissé Premier Cru,Nr 58210,Frankrike,750 ml,"13,5 % vol.",499:-
+Condrieu,Nr 86406,Frankrike,750 ml,"13,5 % vol.",409:-
+Domaine D'Ardhuy,Nr 58423,Frankrike,750 ml,14 % vol.,1 081:-
+Ocean Eight,Nr 57319,Australien,750 ml,13 % vol.,449:-
+Listrão do Porto Santo,Nr 57314,Portugal,750 ml,"13,5 % vol.",775:-
+Jermann,Nr 57353,Italien,750 ml,13 % vol.,629:-
+Jermann,Nr 57365,Italien,750 ml,13 % vol.,639:-
+Tournant de Pouilly Ferret,Nr 57442,Frankrike,750 ml,"13,5 % vol.",599:-
+Melville Estate,Nr 57558,USA,750 ml,"13,5 % vol.",539:-
+Chablis,Nr 85507,Frankrike,750 ml,13 % vol.,425:-
+Jean-Claude Boisset,Nr 57724,Frankrike,750 ml,"13,5 % vol.",649:-
+Chapoutier,Nr 57772,Frankrike,750 ml,14 % vol.,449:-
+Kesseler,Nr 57788,Tyskland,750 ml,13 % vol.,699:-
+Kesseler,Nr 57791,Tyskland,750 ml,13 % vol.,699:-
+M.Chapoutier,Nr 57786,Frankrike,750 ml,"14,5 % vol.",499:-
+Red Newt,Nr 57945,USA,375 ml,7 % vol.,850:-
+DeLoach Vineyards,Nr 57946,USA,750 ml,"14,5 % vol.",419:-
+Domaine Bott-Geyl,Nr 58096,Frankrike,750 ml,13 % vol.,463:-
+Domaine Bott-Geyl Pinot Gris Grand Cru Furstentum,Nr 58100,Frankrike,750 ml,13 % vol.,444:-
+Condrieu Chéry,Nr 79790,Frankrike,750 ml,15 % vol.,725:-
+Edouard Delaunay,Nr 76844,Frankrike,750 ml,13 % vol.,459:-
+Musaiphy,Nr 79764,Georgien,750 ml,13 % vol.,606:-
+Quinta das Lamelas,Nr 74213,Portugal,750 ml,"13,5 % vol.",498:-
+Michel Briday,Nr 74420,Frankrike,750 ml,"13,5 % vol.",429:-
+Michel Briday,Nr 79840,Frankrike,750 ml,13 % vol.,449:-
+Michel Briday Rully,Nr 76353,Frankrike,750 ml,14 % vol.,439:-
+Schug,Nr 75656,USA,750 ml,14 % vol.,539:-
+Landauer,Nr 71784,Österrike,375 ml,12 % vol.,444:-
+Chablis le Clos,Nr 78881,Frankrike,750 ml,"13,5 % vol.",759:-
+Son Mayol,Nr 79754,Spanien,750 ml,"13,5 % vol.",439:-
+Dive Riesling,Nr 76769,Frankrike,500 ml,11 % vol.,429:-
+Pooley,Nr 77195,Australien,750 ml,"13,3 % vol.",489:-
+Condrieu,Nr 86406,Frankrike,750 ml,"13,5 % vol.",409:-
+Domaine D'Ardhuy,Nr 58423,Frankrike,750 ml,14 % vol.,1 081:-
+Mareneve,Nr 58517,Italien,750 ml,"12,5 % vol.",619:-
+Gran Vino,Nr 50305,Spanien,750 ml,13 % vol.,419:-
+Sandahl,Nr 50726,Ungern,750 ml,"14,5 % vol.",451:-
+Failla Haynes,Nr 54655,USA,750 ml,"13,5 % vol.",561:-
+Omnibus Lector,Nr 54698,Serbien,750 ml,14 % vol.,418:-
+Canada do Monte,Nr 54826,Portugal,750 ml,"13,5 % vol.",1 029:-
+Chablis,Nr 54939,Frankrike,750 ml,"13,5 % vol.",599:-
+Kruger-Rumpf,Nr 54963,Tyskland,750 ml,"12,5 % vol.",449:-
+Mengoba,Nr 55110,Spanien,750 ml,13 % vol.,429:-
+Domaine la Soufrandière,Nr 55388,Frankrike,750 ml,13 % vol.,434:-
+Domaine Foret,Nr 55478,Frankrike,750 ml,"12,5 % vol.",429:-
+La Soufrandiere,Nr 55465,Frankrike,750 ml,"13,5 % vol.",610:-
+D'Ardhuy,Nr 55541,Frankrike,750 ml,14 % vol.,591:-
+Rolly Gassmann,Nr 55575,Frankrike,750 ml,13 % vol.,1 472:-
+Rolly Gassmann,Nr 55566,Frankrike,750 ml,"11,5 % vol.",492:-
+Rolly Gassmann,Nr 55564,Frankrike,750 ml,"12,5 % vol.",1 439:-
+Pearl Morisette,Nr 55666,Kanada,750 ml,"11,5 % vol.",429:-
+Le Triangle Guffens,Nr 59565,Frankrike,750 ml,"13,5 % vol.",429:-
+Schloss Neuweier,Nr 59650,Tyskland,375 ml,8 % vol.,542:-
+Mount Mary,Nr 59779,Australien,750 ml,"13,5 % vol.",1 100:-
+The Hilt,Nr 59812,USA,750 ml,13 % vol.,849:-
+Châteauneuf-du-Pape,Nr 59846,Frankrike,750 ml,"14,5 % vol.",959:-
+Failla Olivet Ranch,Nr 59911,USA,750 ml,"13,5 % vol.",569:-
+Failla Fort Ross Seaview,Nr 59913,USA,750 ml,"13,5 % vol.",599:-
+Baron Dauvergne,Nr 58836,Frankrike,750 ml,"12,5 % vol.",425:-
+Nivarius,Nr 59036,Spanien,750 ml,"13,5 % vol.",499:-
+Esprit,Nr 59106,Frankrike,750 ml,13 % vol.,970:-
+Arbois Vin Jaune Cuvée Numérotée,Nr 59142,Frankrike,620 ml,14 % vol.,830:-
+Eiswein,Nr 55954,Österrike,375 ml,"11,5 % vol.",444:-
+Schloss Neuweier,Nr 56134,Tyskland,750 ml,13 % vol.,424:-
+Markus Molitor,Nr 56432,Tyskland,750 ml,"12,5 % vol.",499:-
+Oremus Toakji,Nr 81727,Ungern,500 ml,"11,5 % vol.",629:-
+Pouilly-Fuissé Premier Cru,Nr 56554,Frankrike,750 ml,"13,5 % vol.",419:-
+Bouchard Père & Fils,Nr 56613,Frankrike,750 ml,14 % vol.,899:-
+Burg Layer Hölle,Nr 50069,Tyskland,750 ml,"12,5 % vol.",429:-
+Pittermännchen,Nr 50083,Tyskland,750 ml,"12,5 % vol.",699:-
+Las Planas,Nr 50190,Spanien,750 ml,15 % vol.,489:-
+Pichon,Nr 50174,Frankrike,750 ml,"14,5 % vol.",532:-
+Closerie des Alisiers,Nr 50365,Frankrike,750 ml,13 % vol.,650:-
+Riesling Schlossberg Grand Cru,Nr 50410,Frankrike,750 ml,13 % vol.,649:-
+Les Choisilles,Nr 50432,Frankrike,750 ml,13 % vol.,439:-
+Baudoin,Nr 50435,Frankrike,750 ml,"14,5 % vol.",479:-
+Les Bournais,Nr 50436,Frankrike,750 ml,13 % vol.,479:-
+Meursault,Nr 50736,Frankrike,750 ml,13 % vol.,819:-
+Favia Carbone,Nr 50910,USA,750 ml,14 % vol.,499:-
+Kunst Stückpinot,Nr 51178,Italien,1 500 ml,"13,5 % vol.",1 376:-
+Pyritis,Nr 93701,Grekland,750 ml,14 % vol.,429:-
+Pedro Soler Rancio,Nr 51370,Frankrike,750 ml,"16,5 % vol.",969:-
+Domaine Servin,Nr 56839,Frankrike,750 ml,13 % vol.,519:-
+Pouilly-Loché,Nr 56891,Frankrike,750 ml,"12,5 % vol.",419:-
+Chablis Premier Cru Vaugiraut,Nr 93251,Frankrike,750 ml,13 % vol.,479:-
+Hugel,Nr 57057,Frankrike,750 ml,12 % vol.,499:-
+Moulin Touchais,Nr 57070,Frankrike,750 ml,14 % vol.,579:-
+Moulin Touchais,Nr 57072,Frankrike,750 ml,13 % vol.,599:-
+Moulin Touchais,Nr 57093,Frankrike,750 ml,14 % vol.,569:-
+Moulin Touchais,Nr 57085,Frankrike,750 ml,14 % vol.,589:-
+Moulin Touchais,Nr 57081,Frankrike,750 ml,"13,5 % vol.",509:-
+Moulin Touchais,Nr 57088,Frankrike,750 ml,"13,5 % vol.",585:-
+Domaine de Baronarques,Nr 53762,Frankrike,750 ml,"13,5 % vol.",459:-
+Jaffelin,Nr 53900,Frankrike,750 ml,13 % vol.,629:-
+Saint-Aubin En Vesveau,Nr 53921,Frankrike,750 ml,"13,5 % vol.",444:-
+Leeu & Passant,Nr 54272,Sydafrika,750 ml,14 % vol.,549:-
+Robert Weil,Nr 54331,Tyskland,1 500 ml,12 % vol.,479:-
+Storm Ridge,Nr 54365,Sydafrika,750 ml,13 % vol.,449:-
+Storm Vrede,Nr 54366,Sydafrika,750 ml,13 % vol.,449:-
+Wongraven,Nr 54368,Tyskland,750 ml,13 % vol.,849:-
+Per Mare,Nr 54467,Italien,750 ml,14 % vol.,450:-
+Valdemar Estates,Nr 57174,USA,750 ml,"13,5 % vol.",499:-
+Kyrie,Nr 58296,Spanien,750 ml,"13,5 % vol.",983:-
+Usatges White,Nr 58321,Spanien,750 ml,"13,5 % vol.",421:-
+William Fèvre,Nr 51986,Frankrike,750 ml,13 % vol.,1 379:-
+Domaine Weinbach,Nr 56455,Frankrike,750 ml,"13,5 % vol.",739:-
+Domaine Weinbach,Nr 59005,Frankrike,750 ml,"14,5 % vol.",429:-
+Domaine Sant'Armettu,Nr 57843,Frankrike,750 ml,13 % vol.,750:-
+Ramey,Nr 51643,USA,750 ml,"13,5 % vol.",649:-
+Ramey,Nr 51010,USA,750 ml,"13,5 % vol.",1 009:-
+Ojai,Nr 58638,USA,750 ml,13 % vol.,639:-
+Ramey,Nr 53824,USA,750 ml,"13,5 % vol.",1 009:-
+Domaine de la Rectorie,Nr 59173,Frankrike,500 ml,16 % vol.,985:-
+Domaine de la Rectorie,Nr 51381,Frankrike,750 ml,"13,5 % vol.",489:-
+El canario cojito,Nr 52368,Spanien,750 ml,14 % vol.,439:-
+François Chidaine,Nr 55100,Frankrike,750 ml,11 % vol.,1 295:-
+Moulin Touchais,Nr 75951,Frankrike,750 ml,"13,5 % vol.",609:-
+Moulin Touchais,Nr 73051,Frankrike,750 ml,"13,5 % vol.",499:-
+Rainer Sauer,Nr 78850,Tyskland,750 ml,"13,5 % vol.",599:-
+Beaune du Château Blanc,Nr 86272,Frankrike,750 ml,"13,5 % vol.",499:-
+Chablis Grand Cru Vaudésir,Nr 72850,Frankrike,750 ml,13 % vol.,719:-
+Milmanda,Nr 73778,Spanien,750 ml,"13,5 % vol.",419:-
+L'evoluto Di Paolo Rodaro,Nr 73414,Italien,750 ml,"13,5 % vol.",462:-
+Château Coutet,Nr 74893,Frankrike,750 ml,14 % vol.,649:-
+Condrieu Clos Chanson,Nr 72338,Frankrike,750 ml,"14,5 % vol.",749:-
+Godelia,Nr 73674,Spanien,750 ml,14 % vol.,475:-
+Long Meadow Ranch,Nr 77268,USA,750 ml,"13,5 % vol.",419:-
+Chanin,Nr 71097,USA,750 ml,13 % vol.,429:-
+Châteauneuf du Pape,Nr 71532,Frankrike,750 ml,"13,5 % vol.",409:-
+Jean-Claude Boisset,Nr 72416,Frankrike,750 ml,"13,5 % vol.",549:-
+Mystirio Assyrtiko,Nr 70213,Grekland,750 ml,"13,5 % vol.",499:-
+Meursault Les Hauts Bois,Nr 75909,Frankrike,750 ml,13 % vol.,649:-
+Chablis Grand Cru,Nr 96236,Frankrike,750 ml,13 % vol.,869:-
+Rings Weilberg,Nr 79903,Tyskland,750 ml,13 % vol.,629:-
+Sandahl,Nr 74150,Ungern,750 ml,"14,5 % vol.",489:-
+Castello di Brolio,Nr 79479,Italien,500 ml,16 % vol.,459:-
+Condrieu,Nr 75931,Frankrike,750 ml,14 % vol.,569:-
+Château Montus,Nr 71680,Frankrike,750 ml,"14,5 % vol.",409:-
+Verdling,Nr 72368,Spanien,750 ml,13 % vol.,418:-
+Valdemar Estates,Nr 57174,USA,750 ml,"13,5 % vol.",499:-
+Kyrie,Nr 58296,Spanien,750 ml,"13,5 % vol.",983:-
+Usatges White,Nr 58321,Spanien,750 ml,"13,5 % vol.",421:-
+William Fèvre,Nr 51986,Frankrike,750 ml,13 % vol.,1 379:-
+Domaine Weinbach,Nr 56455,Frankrike,750 ml,"13,5 % vol.",739:-
+Domaine Weinbach,Nr 59005,Frankrike,750 ml,"14,5 % vol.",429:-
+Domaine Sant'Armettu,Nr 57843,Frankrike,750 ml,13 % vol.,750:-
+Ramey,Nr 51643,USA,750 ml,"13,5 % vol.",649:-
+Ramey,Nr 51010,USA,750 ml,"13,5 % vol.",1 009:-
+Ojai,Nr 58638,USA,750 ml,13 % vol.,639:-
+Ramey,Nr 53824,USA,750 ml,"13,5 % vol.",1 009:-
+Domaine de la Rectorie,Nr 59173,Frankrike,500 ml,16 % vol.,985:-
+Domaine de la Rectorie,Nr 51381,Frankrike,750 ml,"13,5 % vol.",489:-
+Chablis Grand Cru Vaudesir,Nr 52019,Frankrike,750 ml,13 % vol.,899:-
+Château d'Yquem,Nr 53147,Frankrike,375 ml,"13,5 % vol.",3 295:-
+Domäne Wachau,Nr 74999,Österrike,750 ml,"13,5 % vol.",449:-
+Graci,Nr 50236,Italien,750 ml,"12,5 % vol.",589:-
+Tokaji Szamorodni Édes,Nr 54506,Ungern,500 ml,"11,5 % vol.",488:-
+Meursault Les Vireuils,Nr 54084,Frankrike,750 ml,13 % vol.,999:-
+Chassagne-Montrachet 1er Cru Les Vergers,Nr 54537,Frankrike,750 ml,"13,5 % vol.",1 449:-
+Attis Mar,Nr 51860,Spanien,750 ml,"13,5 % vol.",799:-
+Louis Latour,Nr 53170,Frankrike,750 ml,"13,5 % vol.",789:-
+Radikon,Nr 55106,Italien,500 ml,"11,5 % vol.",400:-
+Blanc ‘Roc de l’Abbaye,Nr 55373,Frankrike,750 ml,13 % vol.,449:-
+Liébart-Régnier,Nr 55246,Frankrike,750 ml,"12,5 % vol.",799:-
+Joh. Jos. Prüm,Nr 56387,Tyskland,750 ml,"7,5 % vol.",519:-
+Patricius,Nr 53276,Ungern,500 ml,"11,5 % vol.",600:-
+Racines,Nr 51691,USA,750 ml,"12,5 % vol.",499:-
+Racines,Nr 58140,USA,750 ml,"12,5 % vol.",839:-
+Racines Wenzlau,Nr 57344,USA,750 ml,"12,5 % vol.",735:-
+Natenadze,Nr 52384,Georgien,750 ml,11 % vol.,499:-
+Diatom,Nr 54822,USA,750 ml,"14,5 % vol.",439:-
+Racines,Nr 58360,USA,750 ml,"12,5 % vol.",839:-
+Morlet,Nr 55590,USA,750 ml,"14,5 % vol.",1 659:-
+Morlet,Nr 56186,USA,750 ml,"14,5 % vol.",1 579:-
+Morlet,Nr 57369,USA,750 ml,14 % vol.,1 529:-
+Von Winning,Nr 52392,Tyskland,750 ml,13 % vol.,449:-
+Mega Spileo,Nr 50073,Grekland,750 ml,12 % vol.,449:-
+Dourakis,Nr 57033,Grekland,500 ml,"10,5 % vol.",579:-
+Quinta do Noval,Nr 50720,Portugal,750 ml,13 % vol.,499:-
+Chivite Colección,Nr 53856,Spanien,750 ml,14 % vol.,449:-
+Mai & Kenji Hodgson,Nr 51472,Frankrike,750 ml,13 % vol.,534:-
+Moulin Touchais,Nr 74598,Frankrike,750 ml,"13,5 % vol.",579:-
